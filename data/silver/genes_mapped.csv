@@ -681,7 +681,7 @@ ENSG00000225733	100505641	FGD5-AS1	lncRNA	FGD5-AS1	lncRNA	FGD5-AS1	lncRNA
 ENSG00000233864	64595	TTTY15	lncRNA				
 ENSG00000199032		miR-425-5p	miRNA			MIR425	miRNA
 		H23	lncRNA				
-		AP2��	protein_coding				
+ENSG00000087510		AP2��	protein_coding			TFAP2C	protein_coding
 		lncRNAuc001.dgp.1	lncRNA				
 ENSG00000204832	100128098	ST8SIA6-AS1	lncRNA			ST8SIA6-AS1	lncRNA
 ENSG00000107077	23081	KDM4C	protein_coding			KDM4C	protein_coding
@@ -1125,8 +1125,8 @@ ENSG00000251604	106144542	LINC01385	lncRNA	LINC01385	lncRNA	LINC01385	lncRNA
 ENSG00000019186		lncBCAS1-4_1	lncRNA			CYP24A1	protein_coding
 		LNC000093	lncRNA				
 		Linc8087	lncRNA				
-		IFN��	protein_coding				
-		IFN��	TF				
+ENSG00000111537		IFN��	protein_coding			IFNG	protein_coding
+ENSG00000111537		IFN��	TF			IFNG	protein_coding
 ENSG00000165819	56339	METTL3	protein_coding			METTL3	protein_coding
 		THAP7-AS2	lncRNA				
 ENSG00000266289		AC012213.3	lncRNA			LINC02933	lncRNA
@@ -2578,7 +2578,7 @@ ENSG00000207976	693192	MIR607	miRNA	MIR607	miRNA	MIR607	miRNA
 ENSG00000186474	43849	KLK12	protein_coding			KLK12	protein_coding
 ENSG00000207865	407040	MIR34A	miRNA				
 ENSG00000215301	1654	DDX3X	protein_coding			DDX3X	protein_coding
-		CK1��	protein_coding				
+ENSG00000213923		CK1��	protein_coding			CSNK1E	protein_coding
 ENSG00000165269	364	AQP7	protein_coding			AQP7	protein_coding
 ENSG00000069667	6095	RORA	TF			RORA	protein_coding
 ENSG00000116473	5906	RAP1A	protein_coding			RAP1A	protein_coding
@@ -2632,7 +2632,7 @@ ENSG00000100234		TIMP-3	protein_coding			TIMP3	protein_coding
 ENSG00000202566	693122	MIR421	miRNA	MIR421	miRNA	MIR421	miRNA
 ENSG00000176046	26471	NUPR1	protein_coding	NUPR1	protein_coding	NUPR1	protein_coding
 ENSG00000207708	406933	MIR141	miRNA	MIR141	miRNA	MIR141	miRNA
-		REG��	protein_coding				
+ENSG00000131467		REG��	protein_coding			PSME3	protein_coding
 ENSG00000048052	9734	HDAC9	protein_coding			HDAC9	protein_coding
 ENSG00000260676	100505776	LINC01541	lncRNA	LINC01541	lncRNA	LINC01541	lncRNA
 ENSG00000199004	406991	MIR21	miRNA				
@@ -2726,7 +2726,7 @@ ENSG00000110693	55553	SOX6	TF			SOX6	protein_coding
 ENSG00000207948	442901	MIR328	miRNA	MIR328	miRNA	MIR328	miRNA
 ENSG00000165376		Claudin-2	protein_coding			CLDN2	protein_coding
 		Col II	protein_coding				
-		MMP�\3	protein_coding				
+ENSG00000149968		MMP�\3	protein_coding			MMP3	protein_coding
 ENSG00000169019	54951	COMMD8	protein_coding			COMMD8	protein_coding
 ENSG00000065883	8621	CDK13	protein_coding			CDK13	protein_coding
 ENSG00000119630	5228	PGF	protein_coding			PGF	protein_coding
@@ -2814,7 +2814,7 @@ ENSG00000153046	9425	CDYL	protein_coding			CDYL	protein_coding
 		Snail1/2	protein_coding				
 ENSG00000162772	467	ATF3	TF			ATF3	protein_coding
 ENSG00000049768	50943	FOXP3	TF			FOXP3	protein_coding
-		ROR��t	protein_coding				
+ENSG00000143365		ROR��t	protein_coding			RORC	protein_coding
 		P2X7R	protein_coding				
 ENSG00000146731	908	CCT6A	protein_coding			CCT6A	protein_coding
 ENSG00000164924	7534	YWHAZ	protein_coding			YWHAZ	protein_coding
@@ -2899,7 +2899,7 @@ ENSG00000120690	1997	ELF1	TF			ELF1	protein_coding
 		LAST1/2	protein_coding				
 ENSG00000115590	7850	IL1R2	protein_coding			IL1R2	protein_coding
 ENSG00000114166	8850	KAT2B	protein_coding	KAT2B	protein_coding	KAT2B	protein_coding
-		TIF1��	TF				
+ENSG00000122779		TIF1��	TF			TRIM24	protein_coding
 ENSG00000179528	85474	LBX2	TF			LBX2	protein_coding
 ENSG00000138336	80312	TET1	protein_coding	TET1	protein_coding	TET1	protein_coding
 ENSG00000183454	2903	GRIN2A	protein_coding			GRIN2A	protein_coding
@@ -2978,7 +2978,7 @@ ENSG00000197646	80380	PDCD1LG2	protein_coding	PDCD1LG2	protein_coding	PDCD1LG2	p
 		Cyclin E	protein_coding				
 ENSG00000137809	22801	ITGA11	protein_coding			ITGA11	protein_coding
 		Cyclin A	protein_coding				
-		IL-1��	protein_coding				
+ENSG00000125538		IL-1��	protein_coding			IL1B	protein_coding
 ENSG00000007168	5048	PAFAH1B1	protein_coding			PAFAH1B1	protein_coding
 ENSG00000127445	5300	PIN1	protein_coding			PIN1	protein_coding
 ENSG00000136048	55332	DRAM1	protein_coding			DRAM1	protein_coding
@@ -3159,8 +3159,8 @@ ENSG00000122565	11335	CBX3	protein_coding			CBX3	protein_coding
 ENSG00000135052	51280	GOLM1	protein_coding			GOLM1	protein_coding
 ENSG00000164683	23462	HEY1	TF			HEY1	protein_coding
 ENSG00000243989	95	ACY1	protein_coding	ACY1	protein_coding	ACY1	protein_coding
-		G��i1	protein_coding				
-		IFN-��1	protein_coding				
+ENSG00000127955		G��i1	protein_coding			GNAI1	protein_coding
+ENSG00000182393		IFN-��1	protein_coding			IFNL1	protein_coding
 ENSG00000165376	9075	CLDN2	protein_coding			CLDN2	protein_coding
 ENSG00000165304	9833	MELK	protein_coding	MELK	protein_coding	MELK	protein_coding
 ENSG00000099994	56241	SUSD2	protein_coding			SUSD2	protein_coding
@@ -3422,7 +3422,7 @@ ENSG00000137076	7094	TLN1	protein_coding			TLN1	protein_coding
 ENSG00000111052	8825	LIN7A	protein_coding	LIN7A	protein_coding	LIN7A	protein_coding
 ENSG00000177463	7182	NR2C2	TF			NR2C2	protein_coding
 ENSG00000111540	5869	RAB5B	protein_coding			RAB5B	protein_coding
-		PKC��	protein_coding				
+ENSG00000067606		PKC��	protein_coding			PRKCZ	protein_coding
 ENSG00000175175	22843	PPM1E	protein_coding	PPM1E	protein_coding	PPM1E	protein_coding
 		Wnt	protein_coding				
 ENSG00000126709	2537	IFI6	protein_coding			IFI6	protein_coding
@@ -3438,7 +3438,7 @@ ENSG00000108821		alpha-1 type I collagen	protein_coding			COL1A1	protein_coding
 ENSG00000213085	25790	CFAP45	protein_coding			CFAP45	protein_coding
 ENSG00000109906	7704	ZBTB16	TF			ZBTB16	protein_coding
 ENSG00000138764	901	CCNG2	protein_coding			CCNG2	protein_coding
-		ER��	protein_coding				
+ENSG00000140009		ER��	protein_coding			ESR2	protein_coding
 		p-JNK	protein_coding				
 ENSG00000168621	2668	GDNF	protein_coding			GDNF	protein_coding
 ENSG00000215021	11331	PHB2	protein_coding			PHB2	protein_coding
@@ -3448,7 +3448,7 @@ ENSG00000137275	8737	RIPK1	protein_coding			RIPK1	protein_coding
 ENSG00000129465	11035	RIPK3	protein_coding			RIPK3	protein_coding
 ENSG00000207870		miR�\221	miRNA			MIR221	miRNA
 ENSG00000207725		miR�\222	miRNA			MIR222	miRNA
-		CaMKII��	protein_coding				
+ENSG00000145349		CaMKII��	protein_coding			CAMK2D	protein_coding
 ENSG00000180871	3579	CXCR2	protein_coding	CXCR2	protein_coding	CXCR2	protein_coding
 		miR-133	miRNA				
 ENSG00000115353	6869	TACR1	protein_coding			TACR1	protein_coding
@@ -3458,7 +3458,7 @@ ENSG00000105327	27113	BBC3	protein_coding			BBC3	protein_coding
 		CCSlnc362	lncRNA				
 ENSG00000132688		Nestin	protein_coding			NES	protein_coding
 ENSG00000035664		DRP1	protein_coding			DAPK2	protein_coding
-		GSK3��	protein_coding				
+ENSG00000082701		GSK3��	protein_coding			GSK3B	protein_coding
 ENSG00000284536	406952	MIR17	miRNA	MIR17	miRNA	MIR17	miRNA
 ENSG00000208023		miR-185	miRNA	MIR185	miRNA	MIR185	miRNA
 ENSG00000207944		miR-547-5p	miRNA			MIR574	miRNA
