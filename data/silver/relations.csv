@@ -2762,7 +2762,7 @@ Lnc34a	epigenetic regulation	MIR34A
 SUV39H1	ceRNA or sponge	BCL2
 TUG1	interact with protein	NFE2L2
 LINC00673-v4	epigenetic regulation	DDX3X
-LINC00673-v4	epigenetic regulation	CK1¦Å
+LINC00673-v4	epigenetic regulation	CK1ï¿½ï¿½
 ERBB2	expression association	LINC00458
 XIC	ceRNA or sponge	MMP13
 XIST	ceRNA or sponge	ADAMTS5
@@ -2821,7 +2821,7 @@ NNT-AS1	ceRNA or sponge	BCL9
 LINC00313	ceRNA or sponge	MIR422A
 SP1	transcriptional regulation	LINC00313
 LINC00511	ceRNA or sponge	CCN1
-AP2¦Ã	transcriptional regulation	LINC00511
+AP2ï¿½ï¿½	transcriptional regulation	LINC00511
 lncRNAuc001.dgp.1	ceRNA or sponge	IL1R1
 ST8SIA6-AS1	expression association	AKT1
 ST8SIA6-AS1	expression association	MAPK
@@ -2884,7 +2884,7 @@ MEG3	transcriptional regulation	MIR141
 WSPAR	ceRNA or sponge	miR-200c
 HOTAIR	transcriptional regulation	NSG1
 HOTAIR	transcriptional regulation	TP53
-CDR1-AS	ceRNA or sponge	REG¦Ã
+CDR1-AS	ceRNA or sponge	REGï¿½ï¿½
 GASAL1	transcriptional regulation	TGFB1
 STAT3	transcriptional regulation	MEG3
 MEG3	ceRNA or sponge	HDAC9
@@ -2912,7 +2912,8 @@ MEG3	expression association	miR-218
 MEG3	expression association	miR-345-3p
 PART1	ceRNA or sponge	SOX4
 LINC-ROR	ceRNA or sponge	FGF2
-CASC2c	expression association	ERK1/2
+CASC2c	expression association	ERK1
+CASC2c	expression association	ERK2
 SNHG1	ceRNA or sponge	miR-101
 UCA1	ceRNA or sponge	NRF2
 PART1	ceRNA or sponge	TGFBR2
@@ -3106,7 +3107,7 @@ lncRNA SRA	expression association	PPARG
 TUG1	ceRNA or sponge	MIR328
 CDKN2B-AS1	expression association	Claudin-2
 IQANK1	expression association	Col II
-IQANK1	expression association	MMP©\3
+IQANK1	expression association	MMPï¿½\3
 IQANK1	expression association	NOTCH1
 IQANK1	expression association	HES1
 C2dat1	ceRNA or sponge	VEGFA
@@ -3319,11 +3320,12 @@ SNHG6	transcriptional regulation	CDKN1A
 SNHG6	ceRNA or sponge	HIF1A
 SNHG6	ceRNA or sponge	RSF1
 SNHG6	ceRNA or sponge	CDYL
-SNHG6	ceRNA or sponge	Snail1/2
+SNHG6	ceRNA or sponge	Snail1
+SNHG6	ceRNA or sponge	Snail2
 SNHG6	expression association	Caspase3
 SNHG6	expression association	ATF3
 RP11-340F14.6	expression association	FOXP3
-RP11-340F14.6	expression association	ROR¦Ãt
+RP11-340F14.6	expression association	RORï¿½ï¿½t
 RP11-340F14.6	expression association	P2X7R
 NEAT1	ceRNA or sponge	CCT6A
 ZNF407-AS1	ceRNA or sponge	MIR625
@@ -3389,8 +3391,8 @@ ROR1-AS1	ceRNA or sponge	STC2
 DANCR	interact with protein	SOX2
 SNHG16	ceRNA or sponge	hsa-miR-186-5p
 IGFL2-AS1	ceRNA or sponge	BPY2C
-¦¤Np63¦Á	expression association	PART1
-¦¤Np63¦Á	expression association	MIR17HG
+ï¿½ï¿½Np63ï¿½ï¿½	expression association	PART1
+ï¿½ï¿½Np63ï¿½ï¿½	expression association	MIR17HG
 GABPB1-AS1	ceRNA or sponge	NOTCH2
 LINC00973	ceRNA or sponge	Siglec-15
 DDX11-AS1	ceRNA or sponge	IRS1
@@ -3544,10 +3546,11 @@ SNHG17	ceRNA or sponge	ELF1
 RP11	ceRNA or sponge	miR-29a
 SNHG16	ceRNA or sponge	VEGFA
 LINC00662	ceRNA or sponge	HIF1A
-MACC1-AS1	expression association	LAST1/2
+MACC1-AS1	expression association	LAST1
+MACC1-AS1	expression association	LAST2
 A2M-AS1	expression association	IL1R2
 AFAP1-AS1	transcriptional regulation	KAT2B
-AFAP1-AS1	transcriptional regulation	TIF1¦Á
+AFAP1-AS1	transcriptional regulation	TIF1ï¿½ï¿½
 LBX2-AS1	ceRNA or sponge	LBX2
 H19	ceRNA or sponge	TET1
 LINC01611	transcriptional regulation	GRIN2A
@@ -3769,7 +3772,7 @@ FBXL19-AS1	expression association	CDKN1A
 HCP5	ceRNA or sponge	MET
 CASC19	ceRNA or sponge	E2F7
 MEG3	expression association	PIK3CA
-MEG3	expression association	IL-1¦Â
+MEG3	expression association	IL-1ï¿½ï¿½
 MIR99AHG	interact with protein	Cyclin D1
 AK039862	expression association	PAFAH1B1
 AK039862	expression association	FOXA1
@@ -3891,7 +3894,9 @@ LINC01939	expression association	MIR154
 LINC00667	ceRNA or sponge	IKBKB
 SNHG1	ceRNA or sponge	miR-377-3p
 CDKN2B-AS1	expression association	miR-320a
-LINC00511	expression association	MMP2/9/12
+LINC00511	expression association	MMP2
+LINC00511	expression association	MMP9
+LINC00511	expression association	MMP12
 HOTTIP	expression association	miR-490-3p
 SNHG1	expression association	miR-377-3p
 SNHG7	ceRNA or sponge	SYVN1
@@ -4011,7 +4016,7 @@ LBX2-AS1	ceRNA or sponge	IRS1
 MIR155HG	ceRNA or sponge	BRD4
 XIC	ceRNA or sponge	hsa-miR21-5p
 TCONS_00016233	ceRNA or sponge	AIFM1
-TCONS_00016233	expression association	IL-1¦Â
+TCONS_00016233	expression association	IL-1ï¿½ï¿½
 TCONS_00016233	expression association	TNF
 AL049437	ceRNA or sponge	MAPK1
 GPNCA	expression association	GSK3B
@@ -4149,7 +4154,7 @@ PTENP1	expression association	Cyclin D1
 PTENP1	expression association	N-cadherin
 PTENP1	expression association	Vimentin
 RHPN1-AS1	ceRNA or sponge	SNAI2
-ILF3-DT	ceRNA or sponge	IL-1¦Â
+ILF3-DT	ceRNA or sponge	IL-1ï¿½ï¿½
 ILF3-DT	ceRNA or sponge	IL6
 ILF3-DT	ceRNA or sponge	TNF
 ILF3-DT	ceRNA or sponge	MMP3
@@ -4234,7 +4239,7 @@ HIF1A-AS4	expression association	SOX2
 KDM7A-DT	ceRNA or sponge	PRAF2
 lncGALM	ceRNA or sponge	ZEB1
 lncGALM	ceRNA or sponge	ZEB2
-lncGALM	transcriptional regulation	IL-1¦Â
+lncGALM	transcriptional regulation	IL-1ï¿½ï¿½
 DUXAP8	ceRNA or sponge	miR-26b-5p
 SOX2-OT	transcriptional regulation	SOX2
 SOX2-OT	ceRNA or sponge	HNRNPA2B1
@@ -4299,8 +4304,8 @@ SOX2-OT	ceRNA or sponge	SOX5
 LINC01535	ceRNA or sponge	miR-761
 TRPM2-AS	ceRNA or sponge	WEE1
 MIAT	ceRNA or sponge	RAB22A
-PINK1-AS	ceRNA or sponge	G¦Ái1
-AK097647	transcriptional regulation	IFN-¦Ë1
+PINK1-AS	ceRNA or sponge	Gï¿½ï¿½i1
+AK097647	transcriptional regulation	IFN-ï¿½ï¿½1
 Mirt2	epigenetic regulation	MIR1246
 NKILA	ceRNA or sponge	CLDN2
 BBOX1-AS1	ceRNA or sponge	MELK
@@ -4758,8 +4763,8 @@ LINC00511	ceRNA or sponge	miR-126-5p
 EPIST	ceRNA or sponge	DUSP1
 MEG3	expression association	LRRK2
 DRAIC	ceRNA or sponge	ITGA6
-IFN¦Ã	transcriptional regulation	IFNG-AS1
-IFN¦Ã	transcriptional regulation	MAFTRR
+IFNï¿½ï¿½	transcriptional regulation	IFNG-AS1
+IFNï¿½ï¿½	transcriptional regulation	MAFTRR
 SP1	interact with protein	THAP7-AS1
 METTL3	interact with protein	THAP7-AS2
 THAP7-AS2	interact with protein	miR-22-3p
@@ -4973,7 +4978,7 @@ TMEM238L	expression association	BAX
 TMEM238L	expression association	GSK-3beta
 TMEM238L	expression association	CTNNB1
 GAS5	expression association	PIK3CA
-lncRNA¨CCDC6	ceRNA or sponge	CDC6
+lncRNAï¿½CCDC6	ceRNA or sponge	CDC6
 LIN28B-AS1	interact with mRNA	LIN28B
 AFAP1-AS1	ceRNA or sponge	RAB11B
 AFAP1-AS1	ceRNA or sponge	LASP1
@@ -5127,7 +5132,7 @@ UCA1	ceRNA or sponge	NR2C2
 LINC00320	interact with protein	CTNNB1
 APC1	interact with protein	RAB5B
 NORAD	ceRNA or sponge	JUNB
-CCAT1	ceRNA or sponge	PKC¦Æ
+CCAT1	ceRNA or sponge	PKCï¿½ï¿½
 OIP5-AS1	ceRNA or sponge	FN1
 CASC11	ceRNA or sponge	CDK1
 NFKB1	expression association	MIR31HG
@@ -5197,7 +5202,7 @@ LNC-LBCS	interact with protein	HNRNPK
 LNC-LBCS	interact with protein	EZH2
 LNC-LBCS	epigenetic regulation	SOX2
 ARSR	expression association	STAT3
-H19	ceRNA or sponge	ER¦Â
+H19	ceRNA or sponge	ERï¿½ï¿½
 TUG1	ceRNA or sponge	miR-196a
 TUG1	expression association	p-JNK
 TUG1	expression association	p-ERK
@@ -5216,9 +5221,9 @@ H19	ceRNA or sponge	SOX6
 APF	ceRNA or sponge	ATG7
 NKRF	ceRNA or sponge	RIPK1
 NKRF	ceRNA or sponge	RIPK3
-Ang262	ceRNA or sponge	miR©\221
-Ang262	ceRNA or sponge	miR©\222
-H19	ceRNA or sponge	CaMKII¦Ä
+Ang262	ceRNA or sponge	miRï¿½\221
+Ang262	ceRNA or sponge	miRï¿½\222
+H19	ceRNA or sponge	CaMKIIï¿½ï¿½
 MALAT1	ceRNA or sponge	CXCR2
 MALAT1	ceRNA or sponge	AKT1
 LINC-ROR	ceRNA or sponge	miR-133
@@ -5251,7 +5256,7 @@ ZNF281	expression association	POU5F1
 ZNF281	expression association	NANOG
 FALEC	expression association	DRP1
 HOTAIR	ceRNA or sponge	miR-218
-NLIPMT	expression association	GSK3¦Â
+NLIPMT	expression association	GSK3ï¿½ï¿½
 XIC	ceRNA or sponge	MIR17
 SNHG12	ceRNA or sponge	miR-181a
 CCAT1	ceRNA or sponge	let-7c
@@ -5293,7 +5298,7 @@ CASC2	ceRNA or sponge	miR-19a
 DRHC	expression association	MYBBP1A
 DRHC	expression association	MYB
 HOTAIR	ceRNA or sponge	miR-126
-HOTAIR	expression association	GSK3¦Â
+HOTAIR	expression association	GSK3ï¿½ï¿½
 lnc-ATB	ceRNA or sponge	ZEB1
 lnc-ATB	ceRNA or sponge	ZEB2
 lnc-ATB	expression association	N-cadherin
@@ -6096,7 +6101,7 @@ XIST	ceRNA or sponge	ADAM17
 ZEB2-AS1	ceRNA or sponge	CRKL
 RHPN1-AS1	ceRNA or sponge	IGF2BP2
 LINC00857	ceRNA or sponge	SPAG5
-TGFB1	interact with protein	lncRNA©\ATB
+TGFB1	interact with protein	lncRNAï¿½\ATB
 MALAT1	ceRNA or sponge	miR-200a
 ZNF407-AS1	ceRNA or sponge	MUC1-C
 HMMR-AS1	ceRNA or sponge	SIRT6
@@ -6606,14 +6611,18 @@ HCP5	ceRNA or sponge	miR-203
 SMAD3	transcriptional regulation	HCP5
 H19	expression association	VGF
 lncAPP	ceRNA or sponge	miR-218
-lncAPP	ceRNA or sponge	ZEB2/CDH2
-H19	epigenetic regulation	MED12/HMGA2
+lncAPP	ceRNA or sponge	ZEB2
+lncAPP	ceRNA or sponge	CDH2
+H19	epigenetic regulation	MED12
+H19	epigenetic regulation	HMGA2
 BLACAT1	expression association	Wnt/beta-catenin
 miR-140	interact with protein	SNHG20
 MSTO2P	interact with protein	EZH2
 ZFAS1	ceRNA or sponge	MIR646
 ZFAS1	ceRNA or sponge	NOB1
-RPSAP52	ceRNA or sponge	miR-15a/15b/16
+RPSAP52	ceRNA or sponge	miR-15a
+RPSAP52	ceRNA or sponge	miR-15b
+RPSAP52	ceRNA or sponge	miR-16
 RPSAP52	ceRNA or sponge	HMGA2
 LINC00460	interact with protein	miR-206
 LINC00460	expression association	STC2
@@ -6801,7 +6810,7 @@ LINC00974	transcriptional regulation	CDK6
 LINC00243	ceRNA or sponge	PDK4
 RPL34-DT	ceRNA or sponge	RGS4
 MEG3	ceRNA or sponge	ATP4B
-GAS5	ceRNA or sponge	GSK3¦Â
+GAS5	ceRNA or sponge	GSK3ï¿½ï¿½
 FOXO1	transcriptional regulation	GAS5
 MIR4435-2HG	expression association	EZH2
 MIR4435-2HG	epigenetic regulation	CDKN1A
@@ -7220,7 +7229,7 @@ NRSN2-AS1	ceRNA or sponge	PRKX
 ZFAS1	epigenetic regulation	TXNIP
 ZFAS2	ceRNA or sponge	MIB1
 E7	transcriptional regulation	MALAT1
-E7¦¤N	transcriptional regulation	MALAT1
+E7ï¿½ï¿½N	transcriptional regulation	MALAT1
 E2F4	transcriptional regulation	AGAP2-AS1
 AGAP2-AS1	ceRNA or sponge	CFL1
 ENST00000609697	ceRNA or sponge	RASL12
@@ -7325,10 +7334,10 @@ HAGLR	ceRNA or sponge	FOXM1
 Gm44593	ceRNA or sponge	WNK1
 TINCR	ceRNA or sponge	TNF
 GABARAPL2	expression association	TNF
-GABARAPL2	expression association	IL-1¦Â
+GABARAPL2	expression association	IL-1ï¿½ï¿½
 GABARAPL2	expression association	IL6
 CHRNB2	expression association	TNF
-CHRNB2	expression association	IL-1¦Â
+CHRNB2	expression association	IL-1ï¿½ï¿½
 CHRNB2	expression association	IL6
 LINC00958	ceRNA or sponge	PHF6
 GAS5	ceRNA or sponge	APOBEC3C

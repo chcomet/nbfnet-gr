@@ -1803,7 +1803,7 @@ ENSG00000135074	1	True	ADAM19	ADAM19	protein_coding	protein_coding
 ENSG00000005812	1	True	FBXL3	FBXL3	protein_coding	protein_coding
 ENSG00000162298	1	True	SYVN1	SYVN1	protein_coding	protein_coding
 ENSG00000207961	1	True	MIR496	MIR496	miRNA	miRNA
-	1	True	MMP2/9/12		protein_coding	
+ENSG00000262406	1	True	MMP12	MMP12	protein_coding	protein_coding
 ENSG00000163599	1	True	CTLA4	CTLA4	protein_coding	protein_coding
 ENSG00000010810	1	True	FYN	FYN	protein_coding	protein_coding
 ENSG00000064393	1	True	HIPK2	HIPK2	protein_coding	protein_coding
@@ -1877,7 +1877,8 @@ ENSG00000088247	1	True	KHSRP	KHSRP	protein_coding	protein_coding
 ENSG00000090889	1	True	KIF4A	KIF4A	protein_coding	protein_coding
 ENSG00000149257	1	True	SERPINH1	SERPINH1	protein_coding	protein_coding
 ENSG00000153046	1	True	CDYL	CDYL	protein_coding	protein_coding
-	1	True	Snail1/2		protein_coding	
+ENSG00000124216	1	True	Snail1	SNAI1	protein_coding	protein_coding
+ENSG00000019549	1	True	Snail2	SNAI2	protein_coding	protein_coding
 ENSG00000162772	1	True	ATF3	ATF3	transcription_factor	transcription_factor
 ENSG00000207980	1	True	miR-23a-3p	MIR23A	miRNA	miRNA
 ENSG00000146731	1	True	CCT6A	CCT6A	protein_coding	protein_coding
@@ -1920,7 +1921,8 @@ ENSG00000265258	1	True	MIR4686	MIR4686	miRNA	miRNA
 ENSG00000211997	1	True	MIR708	MIR708	miRNA	miRNA
 ENSG00000138448	1	True	ITGAV	ITGAV	protein_coding	protein_coding
 ENSG00000130826	1	True	DKC1	DKC1	protein_coding	protein_coding
-	1	True	LAST1/2		protein_coding	
+ENSG00000131023	1	True	LAST1	LATS1	protein_coding	protein_coding
+ENSG00000150457	1	True	LAST2	LATS2	protein_coding	protein_coding
 ENSG00000164400	1	True	CSF2	CSF2	protein_coding	protein_coding
 ENSG00000172156	1	True	CCL11	CCL11	protein_coding	protein_coding
 ENSG00000207721	1	True	hsa-miR-186-5p	MIR186	miRNA	miRNA
@@ -2032,7 +2034,6 @@ ENSG00000146592	1	True	CREB5	CREB5	transcription_factor	transcription_factor
 ENSG00000181847	1	True	TIGIT	TIGIT	protein_coding	protein_coding
 	1	True	QKI-5		protein_coding	
 ENSG00000115353	1	True	TACR1	TACR1	protein_coding	protein_coding
-	1	True	ZEB2/CDH2		protein_coding	
 	1	True	miR-133		miRNA	
 ENSG00000265483	1	True	MIR4443	MIR4443	miRNA	miRNA
 ENSG00000108821	1	True	alpha-1 type I collagen	COL1A1	protein_coding	protein_coding
@@ -2059,7 +2060,7 @@ ENSG00000207691	1	True	miR-183-5p	MIR183	miRNA	miRNA
 ENSG00000105855	1	True	ITGB8	ITGB8	protein_coding	protein_coding
 ENSG00000186575	1	True	NF2	NF2	protein_coding	protein_coding
 ENSG00000125249	1	True	RAP2A	RAP2A	protein_coding	protein_coding
-	1	True	MED12/HMGA2		protein_coding	
+ENSG00000184634	1	True	MED12	MED12	protein_coding	protein_coding
 ENSG00000013297	1	True	CLDN11	CLDN11	protein_coding	protein_coding
 ENSG00000134057	1	True	Cyclin B1	CCNB1	protein_coding	protein_coding
 ENSG00000211514	1	True	MIR454	MIR454	miRNA	miRNA
@@ -2073,7 +2074,8 @@ ENSG00000144891	1	True	AT1R	AGTR1	protein_coding	protein_coding
 ENSG00000284043	1	True	miR-20b-3p	MIR20B	miRNA	miRNA
 ENSG00000188064	1	True	Wnt-7b	WNT7B	protein_coding	protein_coding
 ENSG00000261706	1	True	LINC00165	LINC00165	lncRNA	lncRNA
-	1	True	miR-15a/15b/16		miRNA	
+ENSG00000283785	1	True	miR-15a	MIR15A	miRNA	miRNA
+ENSG00000207779	1	True	miR-15b	MIR15B	miRNA	miRNA
 	1	True	Wnt/beta-catenin		protein_coding	
 ENSG00000207990	1	True	MIR182	MIR182	miRNA	miRNA
 ENSG00000140538	1	True	NTRK3	NTRK3	protein_coding	protein_coding
@@ -3038,7 +3040,8 @@ ENSG00000264201	1	True	miR-4701-5p	MIR4701	miRNA	miRNA
 ENSG00000124920	1	True	MYRF	MYRF	transcription_factor	transcription_factor
 	1	True	MRPL23-AS0		lncRNA	
 ENSG00000198984	1	True	miR-345-3p	MIR345	miRNA	miRNA
-	1	True	ERK1/2		protein_coding	
+ENSG00000102882	1	True	ERK1	MAPK3	protein_coding	protein_coding
+ENSG00000100030	1	True	ERK2	MAPK1	protein_coding	protein_coding
 ENSG00000166263	1	True	STXBP4	STXBP4	protein_coding	protein_coding
 ENSG00000103479	1	True	RBL2	RBL2	protein_coding	protein_coding
 ENSG00000207585	1	True	miR-181d-5p	MIR181D	miRNA	miRNA
