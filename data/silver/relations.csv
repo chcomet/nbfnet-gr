@@ -1,3 +1,4 @@
+Regulator	SearchregulatoryMechanism	Target
 LINC00313	ceRNA or sponge	miR-4429
 FAM83H-AS1	epigenetic regulation	CDKN1A
 NEAT1	ceRNA or sponge	TGFB1
@@ -1768,7 +1769,7 @@ MINCR	expression association	AURKA
 MINCR	expression association	AURKB
 MINCR	expression association	CDT1
 UCA1	epigenetic regulation	HULC
-UCA1	chromatin looping	CTNNB1
+UCA1	transcriptional regulation	CTNNB1
 PCGEM1	ceRNA or sponge	miR-770-5p
 MALINC1	expression association	PURA
 PRDM16-DT	expression association	CDKN2B
@@ -2159,7 +2160,7 @@ MYC	transcriptional regulation	CCAT1
 FENDRR	expression association	FN1
 GAS5	expression association	E2F1
 PI3K	expression association	GAS5
-CCAT1	chromatin looping	MYC
+CCAT1	transcriptional regulation	MYC
 GHET1	interact with mRNA	MYC
 GAS5	interact with mRNA	CDK6
 CCAT2	expression association	MYC
@@ -4135,11 +4136,11 @@ HCP5	interact with protein	YBX1
 HCP5	transcriptional regulation	MSH5
 GNAS	expression association	TPTEP1
 TPTEP1	interact with protein	STAT3
-ORF50	chromatin looping	PAN RNA
+ORF50	transcriptional regulation	PAN RNA
 MALAT1	expression association	SIRT1
 MALAT1	ceRNA or sponge	ET-1
 RAPIA	ceRNA or sponge	ITGB1
-FOXO1	chromatin looping	RAPIA
+FOXO1	transcriptional regulation	RAPIA
 LINC00963	ceRNA or sponge	miR-128-3p
 LCTS5	interact with protein	INO80
 PANTR1	expression association	MDR
@@ -4731,7 +4732,7 @@ TUG1	ceRNA or sponge	IGFBP5
 NONHSAT069381	ceRNA or sponge	mCASP3
 NONHSAT140844	ceRNA or sponge	mXIAP
 CASC15	ceRNA or sponge	WNT7A
-BCYRN1	chromatin looping	WNT5A
+BCYRN1	transcriptional regulation	WNT5A
 LINC00667	ceRNA or sponge	SLC2A3
 HHIP<U+2011>AS1	ceRNA or sponge	PCDHGA9
 KCNQ1OT1	ceRNA or sponge	miR-24-3p
@@ -5099,8 +5100,8 @@ GAS5	expression association	Caspase3
 GAS5	expression association	Caspase9
 CRNDE	ceRNA or sponge	BCAT1
 TP53COR1	epigenetic regulation	E-cadherin
-TUG1	chromatin looping	TIMP2
-NEXN-AS1	chromatin looping	NEXN
+TUG1	transcriptional regulation	TIMP2
+NEXN-AS1	transcriptional regulation	NEXN
 DDN-AS1	ceRNA or sponge	TCF3
 TUG1	ceRNA or sponge	miR-384
 CRCMSL	interact with protein	HMGB2
@@ -5117,7 +5118,7 @@ DLX6-AS1	ceRNA or sponge	PRR11
 TUG1	epigenetic regulation	miR-34a
 KTN1-AS1	ceRNA or sponge	ERBIN
 AZIN2-sv	epigenetic regulation	TLN1
-MRPL36	chromatin looping	AZIN2-sv
+MRPL36	transcriptional regulation	AZIN2-sv
 AZIN2-sv	epigenetic regulation	PTEN
 H19	ceRNA or sponge	CDC42
 CASC9	ceRNA or sponge	LIN7A
@@ -5681,7 +5682,7 @@ miR-21	expression association	SNHG1
 MIR205HG	ceRNA or sponge	FOXP2
 DSCAM-AS1	ceRNA or sponge	miR-136
 PCAT1	expression association	AKT1
-FALEC	chromatin looping	ECM1
+FALEC	transcriptional regulation	ECM1
 SNHG12	ceRNA or sponge	SOX4
 HOXA-AS3	expression association	miR-29c
 HOXA-AS3	ceRNA or sponge	BMP1
@@ -6371,7 +6372,7 @@ NFKB1	expression association	NKILA
 LINC01354	interact with protein	CTNNB1
 BLACAT1	ceRNA or sponge	MIR361
 GSTP1P1	interact with protein	HSP90AA1
-FOXA1	chromatin looping	PCSEAT
+FOXA1	transcriptional regulation	PCSEAT
 TFAP2A	transcriptional regulation	LINC00511
 LINC00511	interact with protein	CDKN1B
 MALAT1	interact with protein	TCF7L2
@@ -6510,7 +6511,7 @@ SNHG6	expression association	WIPF1
 SNHG6	expression association	MMP2
 SNHG6	expression association	MMP9
 EREG	expression association	MRPL23-AS1
-MRPL23-AS0	chromatin looping	EZH2
+MRPL23-AS0	transcriptional regulation	EZH2
 MRPL23-AS1	interact with protein	E-cadherin
 TMPO-AS1	ceRNA or sponge	EBF1
 ASB16-AS1	ceRNA or sponge	WNT2
@@ -6706,7 +6707,7 @@ FER1L4	expression association	AKT1
 FER1L4	expression association	PIK3CA
 LINC00963	ceRNA or sponge	FN1
 ST7-AS1	interact with protein	CARM1
-FRMD6-AS2	chromatin looping	FRMD6
+FRMD6-AS2	transcriptional regulation	FRMD6
 PCNAP1	ceRNA or sponge	PCNA
 MALAT1	ceRNA or sponge	BIRC5
 MALAT1	interact with protein	YY1AP1
