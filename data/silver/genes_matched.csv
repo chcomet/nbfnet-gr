@@ -684,7 +684,7 @@ ENSG00000101057	4	True	MYBL2	MYBL2	transcription_factor	transcription_factor
 ENSG00000026508	4	True	CD44	CD44	protein_coding	protein_coding
 ENSG00000272610	4	True	MAGI1-IT1	MAGI1-IT1	lncRNA	lncRNA
 	4	True	LNC-HZ01		lncRNA	
-ENSG00000233280	4	True	CRYBG3		lncRNA	
+ENSG00000080200	4	True	CRYBG3	CRYBG3	lncRNA	protein_coding
 ENSG00000149554	4	True	CHEK1	CHEK1	protein_coding	protein_coding
 	4	True	lncRNA2448-11		lncRNA	
 ENSG00000075426	4	True	FOSL2	FOSL2	transcription_factor	transcription_factor
@@ -756,7 +756,7 @@ ENSG00000118922	3	True	KLF12	KLF12	transcription_factor	transcription_factor
 ENSG00000151012	3	True	SLC7A11	SLC7A11	protein_coding	protein_coding
 ENSG00000246985	3	True	SOCS2-AS1	SOCS2-AS1	lncRNA	lncRNA
 ENSG00000153944	3	True	MSI2	MSI2	protein_coding	protein_coding
-ENST00000518880	3	True	LNMICC		lncRNA	
+ENSG00000254027	3	True	LNMICC	LNMICC	lncRNA	lncRNA
 ENSG00000224265	3	True	XLOC_008466	LINC02633	lncRNA	lncRNA
 ENSG00000243197	3	True	loc285194	TUSC7	lncRNA	lncRNA
 ENSG00000243197	3	True	loc285194	TUSC7	lncRNA	lncRNA
@@ -864,7 +864,7 @@ NCBI100302740	3	True	FAS-AS1	FAS-AS1	lncRNA	lncRNA
 ENSG00000231768	3	True	LINC01354	LINC01354	lncRNA	lncRNA
 ENSG00000169016	3	True	E2F6	E2F6	transcription_factor	transcription_factor
 ENSG00000074800	3	True	ENO1	ENO1	protein_coding	protein_coding
-ENSG00000261891	3	True	SEMA3B-AS1		lncRNA	
+ENSG00000232352	3	True	SEMA3B-AS1	SEMA3B-AS1	lncRNA	lncRNA
 ENSG00000176170	3	True	SPHK1	SPHK1	protein_coding	protein_coding
 ENSG00000249945	3	True	RP11-598D14.1	ENSG00000249945	lncRNA	lncRNA
 ENSG00000240280	3	True	TCAM1P-004	TCAM1P	lncRNA	transcribed_unitary_pseudogene
@@ -988,7 +988,7 @@ ENSG00000207654	3	True	miR-128-3p	MIR128-1	miRNA	miRNA
 ENSG00000284027	3	True	miR-497-5p	MIR497	miRNA	miRNA
 ENSG00000183018	3	True	SPNS2	SPNS2	protein_coding	protein_coding
 ENSG00000176697	3	True	BDNF	BDNF	protein_coding	protein_coding
-ENSG00000265923	3	True	PGM5-AS1		lncRNA	
+ENSG00000224958	3	True	PGM5-AS1	PGM5-AS1	lncRNA	lncRNA
 ENSG00000283170	3	True	miR-382-5p	MIR382	miRNA	miRNA
 ENSG00000160211	3	True	G6PD	G6PD	protein_coding	protein_coding
 ENSG00000169019	3	True	COMMD8	COMMD8	protein_coding	protein_coding
@@ -1080,7 +1080,7 @@ ENSG00000068903	2	True	SIRT2	SIRT2	protein_coding	protein_coding
 ENSG00000284565	2	True	miR-451a	MIR451A	miRNA	miRNA
 ENSG00000087095	2	True	NLK	NLK	protein_coding	protein_coding
 ENSG00000164692	2	True	COL1A2	COL1A2	protein_coding	protein_coding
-ENSG00000172660	2	True	TAF15		protein_coding	
+ENSG00000270647	2	True	TAF15	TAF15	protein_coding	protein_coding
 ENSG00000208008	2	True	miR-125a-5p	MIR125A	miRNA	miRNA
 ENSG00000207994	2	True	miR-100	MIR100	miRNA	miRNA
 ENSG00000182979	2	True	MTA1	MTA1	transcription_factor	transcription_factor
@@ -1126,7 +1126,7 @@ ENSG00000198799	2	True	LRIG2	LRIG2	protein_coding	protein_coding
 ENSG00000033327	2	True	GAB2	GAB2	protein_coding	protein_coding
 ENSG00000135423	2	True	GLS2	GLS2	protein_coding	protein_coding
 ENSG00000140285	2	True	FGF7	FGF7	protein_coding	protein_coding
-ENSG00000207875	2	True	let-7b		miRNA	
+ENSG00000284520	2	True	let-7b	MIRLET7B	miRNA	miRNA
 ENSG00000244300	2	True	GATA2-AS1	GATA2-AS1	lncRNA	lncRNA
 ENSG00000280832	2	True	GSEC	GSEC	lncRNA	lncRNA
 ENSG00000103241	2	True	FOXF1	FOXF1	transcription_factor	transcription_factor
@@ -1144,7 +1144,7 @@ ENSG00000245954	2	True	LINC02273	LINC02273	lncRNA	lncRNA
 	2	True	lncAPP		lncRNA	
 ENSG00000250451	2	True	HOXC-AS1	HOXC-AS1	lncRNA	lncRNA
 ENSG00000122779	2	True	TRIM24	TRIM24	protein_coding	protein_coding
-ENSG00000270132	2	True	CCN4		protein_coding	
+ENSG00000104415	2	True	CCN4	CCN4	protein_coding	protein_coding
 ENSG00000237523	2	True	LINC00857	LINC00857	lncRNA	lncRNA
 ENSG00000182568	2	True	SATB1	SATB1	transcription_factor	transcription_factor
 ENSG00000224137	2	True	LINC01857	LINC01857	lncRNA	lncRNA
@@ -1288,10 +1288,10 @@ ENSG00000101349	2	True	PAK5	PAK5	protein_coding	protein_coding
 ENSG00000166888	2	True	STAT6	STAT6	transcription_factor	transcription_factor
 ENSG00000203499	2	True	FAM83H-AS1	IQANK1	lncRNA	protein_coding
 ENSG00000078399	2	True	HOXA9	HOXA9	transcription_factor	transcription_factor
-ENST00000641263	2	True	MYCNOS-01		lncRNA	
+ENST00000641263	2	True	MYCNOS-01	MYCNOS	lncRNA	
 ENSG00000211520	2	True	miR-216b-5p	MIR216B	miRNA	miRNA
 ENSG00000207814	2	True	miR-147a	MIR147A	miRNA	miRNA
-ENSG00000207709	2	True	MIR197		miRNA	
+ENSG00000284443	2	True	MIR197	MIR197	miRNA	miRNA
 ENSG00000118785	2	True	SPP1	SPP1	protein_coding	protein_coding
 ENSG00000117450	2	True	PRDX1	PRDX1	protein_coding	protein_coding
 ENSG00000170961	2	True	HAS2	HAS2	protein_coding	protein_coding
@@ -1390,7 +1390,7 @@ ENSG00000204588	2	True	LINC01123	LINC01123	lncRNA	lncRNA
 ENSG00000169967	2	True	MAP3K2	MAP3K2	protein_coding	protein_coding
 ENSG00000107864	2	True	CPEB3	CPEB3	protein_coding	protein_coding
 ENSG00000265140	2	True	miR-4301	MIR4301	miRNA	miRNA
-ENSG00000262472	2	True	KPNA2		protein_coding	
+ENSG00000182481	2	True	KPNA2	KPNA2	protein_coding	protein_coding
 ENSG00000146666	2	True	LINC00525	LINC00525	lncRNA	lncRNA
 ENSG00000234608	2	True	MAPKAPK5-AS1	MAPKAPK5-AS1	lncRNA	lncRNA
 ENSG00000133110	2	True	POSTN	POSTN	protein_coding	protein_coding
@@ -1540,12 +1540,12 @@ ENSG00000125968	2	True	ID1	ID1	transcription_factor	transcription_factor
 	2	True	FAFASA-AS1		lncRNA	
 ENSG00000125753	2	True	VASP	VASP	protein_coding	protein_coding
 ENSG00000138778	2	True	CENPE	CENPE	protein_coding	protein_coding
-ENSG00000165659	2	True	DACH1		protein_coding	
+ENSG00000276644	2	True	DACH1	DACH1	protein_coding	protein_coding
 	2	True	lncRNA 00312		lncRNA	
 ENSG00000118263	2	True	KLF7	KLF7	transcription_factor	transcription_factor
 ENSG00000233006	2	True	MIR3936HG	MIR3936HG	lncRNA	lncRNA
 ENSG00000072682	2	True	P4HA2	P4HA2	protein_coding	protein_coding
-ENSG00000165659	2	True	DACH1		lncRNA	
+ENSG00000276644	2	True	DACH1	DACH1	lncRNA	protein_coding
 ENSG00000165140	2	True	FBP1	FBP1	protein_coding	protein_coding
 ENSG00000231817	2	True	LINC01198	LINC01198	lncRNA	lncRNA
 	2	True	SCAMP1-TV2		lncRNA	
@@ -1624,7 +1624,7 @@ ENSG00000074266	2	True	EED	EED	protein_coding	protein_coding
 	2	True	let-7		miRNA	
 ENSG00000084207	2	True	GSTP1	GSTP1	protein_coding	protein_coding
 ENSG00000265148	2	True	TSPOAP1-AS1	TSPOAP1-AS1	lncRNA	lncRNA
-ENST00000481169	2	True	NRCP		lncRNA	
+ENST00000481169	2	True	NRCP	CP	lncRNA	
 ENSG00000115904	2	True	SOS1	SOS1	protein_coding	protein_coding
 ENSG00000155850	2	True	SLC26A2	SLC26A2	protein_coding	protein_coding
 ENSG00000199121	2	True	miR-26b-5p	MIR26B	miRNA	miRNA
