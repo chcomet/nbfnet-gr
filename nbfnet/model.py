@@ -70,13 +70,11 @@ class NeuralBellmanFordNetwork(nn.Module, core.Configurable):
     def negative_sample_to_tail(self, h_index, t_index, r_index):
         # convert p(h | t, r) to p(t' | h', r')
         # h' = t, r' = r^{-1}, t' = h
-        
         # in case of classical KG setting, new_h_index consists of half h (half batch_size, num_neg +1 ) and half t
         # bcs of how the data is ordered in predict (task.py)
         # new_t_index: half neg_t, half neg_h
         # new_r_index: half r, half r + num_relation (for inverse relation)
         # constructing basically (pos_h, r, neg_t) and (pos_t, r-1, neg_h)
-        
         is_t_neg = (h_index == h_index[:, [0]]).all(dim=-1, keepdim=True)
 
         # if True (h_index = pos_h_index), get the h_index, else t_index
@@ -103,7 +101,7 @@ class NeuralBellmanFordNetwork(nn.Module, core.Configurable):
                             num_relation=1, meta_dict=graph.meta_dict, **graph.data_dict)
         return graph
 
-    #@utils.cached
+    # @utils.cached
     def bellmanford(self, graph, h_index, r_index, separate_grad=False):
         query = self.query(r_index)
         index = h_index.unsqueeze(-1).expand_as(query)
@@ -141,7 +139,7 @@ class NeuralBellmanFordNetwork(nn.Module, core.Configurable):
             "step_graphs": step_graphs,
         }
 
-    def forward(self, graph, h_index, t_index, r_index=None, all_loss=None, metric=None, conditional_probability=False):
+    def forward(self, graph, h_index, t_index, r_index=None, all_loss=None, metric=None, conditional_probability=True):
         if all_loss is not None:
             # train
             # remove both r and r-1 edges if conditional_probability=False
@@ -149,16 +147,17 @@ class NeuralBellmanFordNetwork(nn.Module, core.Configurable):
                 assert graph.num_relation == self.num_relation
                 graph = self.remove_easy_edges(graph, h_index, t_index, r_index)
             else:
-                assert graph.num_relation == self.num_relation * 2 
-                graph = self.remove_easy_edges(graph, h_index, t_index, r_index) # remove r
-                graph = self.remove_easy_edges(graph, t_index, h_index, (r_index + self.num_relation) % (self.num_relation * 2)) # remove r-1
+                assert graph.num_relation == self.num_relation * 2
+                graph = self.remove_easy_edges(graph, h_index, t_index, r_index)  # remove r
+                graph = self.remove_easy_edges(graph, t_index, h_index,
+                                               (r_index + self.num_relation) % (self.num_relation * 2))  # remove r-1
 
         shape = h_index.shape
         if graph.num_relation:
             # if num_relation > 0 and not conditional probability
             if conditional_probability:
                 graph = graph.undirected(add_inverse=True)
-                h_index, t_index, r_index = self.negative_sample_to_tail(h_index, t_index, r_index)  
+                h_index, t_index, r_index = self.negative_sample_to_tail(h_index, t_index, r_index)
                 assert (h_index[:, [0]] == h_index).all()
             else:
                 h_index = h_index.view(-1, 1)
@@ -177,7 +176,6 @@ class NeuralBellmanFordNetwork(nn.Module, core.Configurable):
         feature = output["node_feature"].transpose(0, 1)
         index = t_index.unsqueeze(-1).expand(-1, -1, feature.shape[-1])
         feature = feature.gather(1, index)
-        
 
         if self.symmetric and not conditional_probability:
             assert (t_index[:, [0]] == t_index).all()
