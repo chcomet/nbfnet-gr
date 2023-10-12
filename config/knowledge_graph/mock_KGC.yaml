@@ -1,12 +1,12 @@
-output_dir: ~/scratch/experiments/
+output_dir: /home/nbfnet-gr/experiments
 
 dataset:
-  class: biomedical
-  path: ~/nbfnet_hy/data/PC_KEGG_0928
-  include_factgraph: True
+  class: LncTarD
+  path: /home/nbfnet-gr/data/gold/mock
+  include_factgraph: False
   
 task:
-  class: KnowledgeGraphCompletionBiomed
+  class: KnowledgeGraphCompletion
   model:
     class: NBFNet
     input_dim: 32
@@ -15,16 +15,13 @@ task:
     aggregate_func: pna
     short_cut: yes
     layer_norm: yes
-    dependent: no
+    dependent: yes
+    symmetric: yes
   criterion: bce
   num_negative: 32
   strict_negative: yes
-  heterogeneous_negative: yes
-  heterogeneous_evaluation: yes
-  adversarial_temperature: 1
+  adversarial_temperature: 0.5
   sample_weight: no
-
-
 
 optimizer:
   class: Adam
@@ -32,11 +29,10 @@ optimizer:
 
 engine:
   gpus: {{ gpus }}
-  batch_size: 64
-  
+  batch_size: 32
 
 train:
-  num_epoch: 2
-  batch_per_epoch: 1000
+  num_epoch: 20
+  batch_per_epoch: 100
 
-metric: mrr
+metric: "mrr"
