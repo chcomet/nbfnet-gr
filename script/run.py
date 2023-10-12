@@ -27,7 +27,6 @@ def solver_load(checkpoint, load_optimizer=True):
     # load without
     solver.model.load_state_dict(state["model"], strict=False)
 
-
     if load_optimizer:
         solver.optimizer.load_state_dict(state["optimizer"])
         for state in solver.optimizer.state.values():
