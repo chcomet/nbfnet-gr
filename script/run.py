@@ -4,6 +4,7 @@ import math
 import pprint
 
 import torch
+from torch.profiler import profile, record_function, ProfilerActivity
 
 from torchdrug import core, models
 from torchdrug.utils import comm
@@ -21,7 +22,8 @@ def solver_load(checkpoint, load_optimizer=True):
     # remove
     state["model"].pop("fact_graph")
     state["model"].pop("graph")
-    state["model"].pop("undirected_fact_graph")
+    if "undirected_fact_graph" in state["model"]:
+        state["model"].pop("undirected_fact_graph")
     # load without
     solver.model.load_state_dict(state["model"], strict=False)
 
@@ -70,6 +72,8 @@ def test(cfg, solver):
 
 if __name__ == "__main__":
     args, vars = util.parse_args()
+    print(f"{args=}")
+    print(f"{vars=}")
     cfg = util.load_config(args.config, context=vars)
     working_dir = util.create_working_directory(cfg)
 
@@ -83,5 +87,16 @@ if __name__ == "__main__":
     dataset = core.Configurable.load_config_dict(cfg.dataset)
     solver = util.build_solver(cfg, dataset)
 
-    train_and_validate(cfg, solver)
+    if args.profile:
+        print("running train/val with profiler")
+        
+        with profile(activities=[ProfilerActivity.CUDA],
+                     profile_memory=True, record_shapes=True) as prof:
+            train_and_validate(cfg, solver)
+        
+        print("profiler output")
+        print(prof.key_averages().table(sort_by="self_cuda_memory_usage", row_limit=50))
+    else:
+        train_and_validate(cfg, solver)
+    
     test(cfg, solver)
