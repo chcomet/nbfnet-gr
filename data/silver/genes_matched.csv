@@ -109,7 +109,7 @@ ENSG00000150907	20	True	FOXO1	FOXO1	transcription_factor	transcription_factor
 ENSG00000237298	20	True	TTN-AS1	TTN-AS1	lncRNA	lncRNA
 NCBI100642175	20	True	SPRY4-IT1	SPRY4-IT1	lncRNA	lncRNA
 ENSG00000242808	20	True	SOX2-OT	SOX2-OT	lncRNA	lncRNA
-ENSG00000112541	20	True	LINC00473	PDE10A	lncRNA	protein_coding
+ENSG00000112541	20	True	LINC00473	LINC00473	lncRNA	lncRNA
 ENSG00000189403	20	True	HMGB1	HMGB1	transcription_factor	transcription_factor
 ENSG00000067900	20	True	ROCK1	ROCK1	protein_coding	protein_coding
 ENSG00000230316	19	True	FEZF1-AS1	FEZF1-AS1	lncRNA	lncRNA
@@ -140,7 +140,7 @@ ENSG00000065978	16	True	YBX1	YBX1	transcription_factor	transcription_factor
 ENSG00000175387	16	True	SMAD2	SMAD2	transcription_factor	transcription_factor
 ENSG00000111276	16	True	CDKN1B	CDKN1B	protein_coding	protein_coding
 ENSG00000267100	16	True	ILF3-DT	ILF3-DT	lncRNA	lncRNA
-ENSG00000237517	15	True	DGCR5	CELSR1P1	lncRNA	transcribed_unprocessed_pseudogene
+ENSG00000237517	15	True	DGCR5	DGCR5	lncRNA	lncRNA
 ENSG00000243479	15	True	MNX1-AS1	MNX1-AS1	lncRNA	lncRNA
 ENSG00000166949	15	True	SMAD3	SMAD3	transcription_factor	transcription_factor
 ENSG00000261824	15	True	LINC00662	LINC00662	lncRNA	lncRNA
@@ -217,7 +217,7 @@ ENSG00000230798	11	True	FOXD3-AS1	FOXD3-AS1	lncRNA	lncRNA
 ENSG00000102554	11	True	KLF5	KLF5	transcription_factor	transcription_factor
 ENSG00000246273	11	True	SBF2-AS1	SBF2-AS1	lncRNA	lncRNA
 ENSG00000137309	10	True	HMGA1	HMGA1	transcription_factor	transcription_factor
-ENSG00000236824	10	True	BCYRN1	BCYRN1	lncRNA	scRNA
+ENSG00000236824	10	True	BCYRN1	BCYRN1	lncRNA	lncRNA
 ENSG00000255986	10	True	MT1JP	MT1JP	lncRNA	transcribed_unprocessed_pseudogene
 ENSG00000282977	10	True	PCBP2-OT1	PCBP2-OT1	lncRNA	lncRNA
 ENSG00000238057	10	True	ZEB2-AS1	ZEB2-AS1	lncRNA	lncRNA
@@ -570,7 +570,7 @@ ENSG00000187772	5	True	LIN28B	LIN28B	transcription_factor	transcription_factor
 ENSG00000143190	5	True	POU2F1	POU2F1	transcription_factor	transcription_factor
 ENSG00000230630	5	True	DNM3OS	DNM3OS	lncRNA	lncRNA
 ENSG00000171848	5	True	RRM2	RRM2	protein_coding	protein_coding
-ENSG00000154727	5	True	NRF2	GABPA	transcription_factor	transcription_factor
+ENSG00000154727	5	True	NRF2	NFE2L2	transcription_factor	protein_coding
 	5	True	LOC90784		lncRNA	
 ENSG00000162409	4	True	PRKAA2	PRKAA2	protein_coding	protein_coding
 	4	True	E7		TF	

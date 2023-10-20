@@ -1271,7 +1271,7 @@ MALAT1	ceRNA or sponge	ADAMTS5
 MALAT1	ceRNA or sponge	RUNX2
 MALAT1	ceRNA or sponge	MET
 MALAT1	ceRNA or sponge	SOX4
-MALAT1	interact with protein	GABPA
+MALAT1	interact with protein	NFE2L2
 MALAT1	expression association	ERBB3
 MALAT1	ceRNA or sponge	MIR203A
 MALAT1	expression association	MIR144
@@ -2190,7 +2190,7 @@ UCA1	ceRNA or sponge	IL6R
 UCA1	expression association	BMP2
 UCA1	ceRNA or sponge	CCND2
 UCA1	interact with protein	HNRNPA2B1
-UCA1	ceRNA or sponge	GABPA
+UCA1	ceRNA or sponge	NFE2L2
 UCA1	ceRNA or sponge	HGF
 UCA1	ceRNA or sponge	MIR206
 UCA1	expression association	IGF2BP2
@@ -2689,20 +2689,20 @@ EGFR-AS1	expression association	STAT1
 EGFR-AS1	ceRNA or sponge	RACK1
 MIR223	transcriptional regulation	TP73-AS1
 MIR124-1	expression association	MALAT1
-CELSR1P1	expression association	CTNNB1
-CELSR1P1	expression association	CCND1
-CELSR1P1	expression association	GSK3B
-CELSR1P1	ceRNA or sponge	MIR195
-CELSR1P1	epigenetic regulation	CDKN1A
-CELSR1P1	interact with protein	EGFR
-CELSR1P1	ceRNA or sponge	KLF14
-CELSR1P1	ceRNA or sponge	SMAD7
-CELSR1P1	ceRNA or sponge	PTEN
-CELSR1P1	expression association	WNT3A
-CELSR1P1	expression association	MYC
-CELSR1P1	expression association	BIRC5
-CELSR1P1	expression association	MTOR
-CELSR1P1	ceRNA or sponge	MIR506
+DGCR5	expression association	CTNNB1
+DGCR5	expression association	CCND1
+DGCR5	expression association	GSK3B
+DGCR5	ceRNA or sponge	MIR195
+DGCR5	epigenetic regulation	CDKN1A
+DGCR5	interact with protein	EGFR
+DGCR5	ceRNA or sponge	KLF14
+DGCR5	ceRNA or sponge	SMAD7
+DGCR5	ceRNA or sponge	PTEN
+DGCR5	expression association	WNT3A
+DGCR5	expression association	MYC
+DGCR5	expression association	BIRC5
+DGCR5	expression association	MTOR
+DGCR5	ceRNA or sponge	MIR506
 HIF1A-AS3	transcriptional regulation	TP53
 HIF1A-AS3	ceRNA or sponge	HIF1A
 HIF1A-AS3	expression association	HMGA1
@@ -3136,7 +3136,7 @@ LUCAT1	ceRNA or sponge	YWHAZ
 LUCAT1	expression association	TP53
 LUCAT1	expression association	BAX
 LUCAT1	expression association	HDAC1
-LUCAT1	expression association	GABPA
+LUCAT1	expression association	NFE2L2
 CXCR4	transcriptional regulation	XIST
 CERNA2	ceRNA or sponge	CDK6
 CERNA2	expression association	BCL2
@@ -3277,25 +3277,25 @@ DBH-AS1	expression association	PIK3CA
 DBH-AS1	expression association	AKT1
 DBH-AS1	interact with protein	FN1
 KCNA3	expression association	YAP1
-PDE10A	expression association	MMP2
-PDE10A	expression association	MMP9
-PDE10A	ceRNA or sponge	CHUK
-PDE10A	interact with mRNA	ILF2
-PDE10A	expression association	USP9X
-PDE10A	transcriptional regulation	IL24
-PDE10A	expression association	STK11
-PDE10A	interact with protein	NONO
-PDE10A	ceRNA or sponge	HMGA2
-PDE10A	ceRNA or sponge	MIR497
-PDE10A	ceRNA or sponge	MAPK1
-PDE10A	ceRNA or sponge	SPIN1
-PDE10A	ceRNA or sponge	ROBO1
-PDE10A	ceRNA or sponge	SEPTIN6
-PDE10A	ceRNA or sponge	BASP1
-PDE10A	ceRNA or sponge	CD274
-PDE10A	ceRNA or sponge	CDK6
-PDE10A	ceRNA or sponge	YAP1
-PDE10A	ceRNA or sponge	TEAD1
+LINC00473	expression association	MMP2
+LINC00473	expression association	MMP9
+LINC00473	ceRNA or sponge	CHUK
+LINC00473	interact with mRNA	ILF2
+LINC00473	expression association	USP9X
+LINC00473	transcriptional regulation	IL24
+LINC00473	expression association	STK11
+LINC00473	interact with protein	NONO
+LINC00473	ceRNA or sponge	HMGA2
+LINC00473	ceRNA or sponge	MIR497
+LINC00473	ceRNA or sponge	MAPK1
+LINC00473	ceRNA or sponge	SPIN1
+LINC00473	ceRNA or sponge	ROBO1
+LINC00473	ceRNA or sponge	SEPTIN6
+LINC00473	ceRNA or sponge	BASP1
+LINC00473	ceRNA or sponge	CD274
+LINC00473	ceRNA or sponge	CDK6
+LINC00473	ceRNA or sponge	YAP1
+LINC00473	ceRNA or sponge	TEAD1
 HOXA5	transcriptional regulation	LINC00312
 NIFK-AS1	ceRNA or sponge	MIR146A
 NIFK-AS1	ceRNA or sponge	MIR3142HG
@@ -4612,7 +4612,7 @@ CREB1	transcriptional regulation	FOXD2-AS1
 CREB1	transcriptional regulation	HAS2-AS1
 CREB1	transcriptional regulation	LEF1-AS1
 SPP1	expression association	HOTAIR
-ZBTB7A	transcriptional regulation	PDE10A
+ZBTB7A	transcriptional regulation	LINC00473
 PURPL	transcriptional regulation	TP53
 MIR155HG	transcriptional regulation	MIR155
 MIR155HG	ceRNA or sponge	ANXA2
@@ -6080,6 +6080,6 @@ IL21-AS1	expression association	IL2
 LINC01615	ceRNA or sponge	ZEB2
 KDM4A-AS1	ceRNA or sponge	KPNA2
 LINC00491	ceRNA or sponge	ROCK1
-LAMTOR5-AS1	interact with protein	GABPA
+LAMTOR5-AS1	interact with protein	NFE2L2
 HSPA7	ceRNA or sponge	MIR223
 MTCO2P12	ceRNA or sponge	MIR508
