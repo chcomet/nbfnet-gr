@@ -287,7 +287,6 @@ TMEM238L	protein_coding
 MIR145	miRNA
 MIR129-1	miRNA
 MIR124-1	miRNA
-MIR124-1	
 EWSAT1	lncRNA
 IGF1	protein_coding
 COMETT	lncRNA
@@ -323,9 +322,8 @@ SRSF1	protein_coding
 CP	protein_coding
 TMPOP2	pseudogene
 CREB1	transcription_factor
-GAS8-AS1	lncRNA
+GAS8-AS1	lncRNA  
 DKK1	protein_coding
-MIR135A1	
 MIR135A1	miRNA
 EPIC1	lncRNA
 TGFB2	protein_coding
