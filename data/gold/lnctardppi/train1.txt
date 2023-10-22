@@ -381,7 +381,6 @@ DUXAP8	ceRNA or sponge	RAB14
 DUXAP8	ceRNA or sponge	SAPCD2
 DUXAP8	ceRNA or sponge	ZNF277
 DUXAP8	epigenetic regulation	RHOB
-DUXAP8	expression association	SIX4
 DUXAP9	ceRNA or sponge	MIR26A1
 DUXAP9	ceRNA or sponge	MIR760
 DUXAP9	expression association	MUC1

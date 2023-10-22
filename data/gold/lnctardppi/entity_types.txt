@@ -107,7 +107,6 @@ ROCK1	protein_coding
 FEZF1-AS1	lncRNA
 MDM2	protein_coding
 DUXAP8	pseudogene
-DUXAP8	lncRNA
 LNCRNA-ATB	lncRNA
 CASP3	protein_coding
 CDK4	protein_coding
