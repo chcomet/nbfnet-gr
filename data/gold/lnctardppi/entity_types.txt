@@ -2630,7 +2630,6 @@ MIR208A	miRNA
 PLA2G2A	protein_coding
 UBE2I	protein_coding
 SOX18	transcription_factor
-SIX4	transcription_factor
 LINC02245	lncRNA
 CDK6-AS1	lncRNA
 TMEM18-DT	lncRNA
