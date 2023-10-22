@@ -1,10 +1,10 @@
-output_dir: /lustre/groups/crna01/projects/genefunction/NBFNet/experiments
+output_dir: /home/nbfnet-gr/experiments
 
 dataset:
   class: biomedical
-  path: /home/icb/yue.hu/proj_genefun/NBFNet/data/primekg/disease_split/cell_proliferation_42/
+  path: /home/nbfnet-gr/data/gold/mock
   include_factgraph: True
-  
+
 task:
   class: KnowledgeGraphCompletionBiomed
   model:
@@ -18,18 +18,14 @@ task:
     dependent: yes
     symmetric: yes
   criterion: bce
-  num_negative: {{neg_samp}}
+  num_negative: 32
   strict_negative: yes
-  adversarial_temperature: {{adv_tmp}}
+  adversarial_temperature: 0.5
   sample_weight: no
   heterogeneous_negative: yes
   heterogeneous_evaluation: yes
-  gene_annotation_predict: no
-  conditional_probability: {{cond_prob}}
-  full_batch_eval: True
-
-
-
+  conditional_probability: yes
+  full_batch_eval: False
 
 optimizer:
   class: Adam
@@ -37,11 +33,10 @@ optimizer:
 
 engine:
   gpus: {{ gpus }}
-  batch_size: 8
-  
+  batch_size: 32
 
 train:
-  num_epoch: 1
-  batch_per_epoch: 1000
-  
-metric: mrr
+  num_epoch: 10
+  batch_per_epoch: 100
+
+metric: "mrr"
