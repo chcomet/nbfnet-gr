@@ -224,7 +224,7 @@ NORAD	ceRNA or sponge	MTDH
 SNHG12	ceRNA or sponge	E2F7
 UNC5B-AS1	expression association	VIM
 PVT1	expression association	FOXM1
-CELSR1P1	expression association	WNT3A
+DGCR5	expression association	WNT3A
 SNHG6	ceRNA or sponge	NUAK1
 MIR493HG	ceRNA or sponge	PPARA
 MEG3	expression association	PIK3CD
@@ -252,7 +252,7 @@ CYTOR	ceRNA or sponge	MCL1
 MIR425	interact with protein	TUG1
 UCA1	transcriptional regulation	PKM
 ILF3-DT	ceRNA or sponge	PTEN
-CELSR1P1	ceRNA or sponge	PTEN
+DGCR5	ceRNA or sponge	PTEN
 CYTOR	ceRNA or sponge	MIR497
 PART1	ceRNA or sponge	SOX4
 PVT1	ceRNA or sponge	IRS1
@@ -274,7 +274,7 @@ BANCR	expression association	NFKB1
 XIST	ceRNA or sponge	WNT1
 XIST	ceRNA or sponge	MIR152
 LINC01419	epigenetic regulation	RECK
-CELSR1P1	expression association	MYC
+DGCR5	expression association	MYC
 HAND2-AS1	ceRNA or sponge	SOCS5
 MYOSLID	expression association	SNAI2
 GHET1	transcriptional regulation	CTNNB1
@@ -395,7 +395,7 @@ UCA1	interact with protein	HNRNPA2B1
 USP9Y	interact with protein	DNMT3A
 SNHG12	ceRNA or sponge	MIR16-1
 XIST	ceRNA or sponge	MIR149
-CELSR1P1	expression association	MTOR
+DGCR5	expression association	MTOR
 GAS5	ceRNA or sponge	TIMP2
 NEAT1	expression association	MUC5AC
 MALAT1	ceRNA or sponge	MAP3K3
