@@ -21,10 +21,10 @@ def solver_load(checkpoint, load_optimizer=True):
     # remove
     state["model"].pop("fact_graph")
     state["model"].pop("graph")
-    state["model"].pop("undirected_fact_graph")
+    if "undirected_fact_graph" in state["model"]:
+        state["model"].pop("undirected_fact_graph")
     # load without
     solver.model.load_state_dict(state["model"], strict=False)
-
 
     if load_optimizer:
         solver.optimizer.load_state_dict(state["optimizer"])
@@ -70,6 +70,8 @@ def test(cfg, solver):
 
 if __name__ == "__main__":
     args, vars = util.parse_args()
+    print(f"{args=}")
+    print(f"{vars=}")
     cfg = util.load_config(args.config, context=vars)
     working_dir = util.create_working_directory(cfg)
 
@@ -84,4 +86,5 @@ if __name__ == "__main__":
     solver = util.build_solver(cfg, dataset)
 
     train_and_validate(cfg, solver)
+    
     test(cfg, solver)
