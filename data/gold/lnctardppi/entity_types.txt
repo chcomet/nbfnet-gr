@@ -102,7 +102,6 @@ FOXO1	transcription_factor
 TTN-AS1	lncRNA
 SPRY4-IT1	lncRNA
 SOX2-OT	lncRNA
-LINC00473	lncRNA
 HMGB1	transcription_factor
 ROCK1	protein_coding
 FEZF1-AS1	lncRNA
@@ -133,7 +132,6 @@ YBX1	transcription_factor
 SMAD2	transcription_factor
 CDKN1B	protein_coding
 ILF3-DT	lncRNA
-DGCR5	lncRNA
 MNX1-AS1	lncRNA
 SMAD3	transcription_factor
 LINC00662	lncRNA
