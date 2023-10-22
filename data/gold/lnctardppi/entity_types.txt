@@ -321,7 +321,6 @@ FN1	protein_coding
 MIR15A	miRNA
 SRSF1	protein_coding
 CP	protein_coding
-CP	
 TMPOP2	pseudogene
 CREB1	transcription_factor
 GAS8-AS1	lncRNA
@@ -647,7 +646,7 @@ EPB41L4A-AS1	lncRNA
 C1orf74	protein_coding
 LINC01139	lncRNA
 FOXP4-AS1	lncRNA
-NRON	misc_RNA
+NRON	lncRNA
 LINC01138	lncRNA
 RGMB-AS1	lncRNA
 HOXA5	transcription_factor
@@ -897,7 +896,6 @@ MIR216B	miRNA
 ZNF609	protein_coding
 PSMA3-AS1	lncRNA
 MIR506	miRNA
-MIR506	 miRNA
 BIRC5	protein_coding
 SOCS6	protein_coding
 MIR205	miRNA
@@ -966,7 +964,6 @@ RAB11B	protein_coding
 CASP8	protein_coding
 RAD18	protein_coding
 BNIP3	protein_coding
-MIR149	 miRNA
 MIR149	miRNA
 MMP16	protein_coding
 LINC00997	lncRNA
@@ -1109,7 +1106,6 @@ E2F5	transcription_factor
 PAK5	protein_coding
 STAT6	transcription_factor
 HOXA9	transcription_factor
-MYCNOS	
 MYCNOS	lncRNA
 MIR147A	miRNA
 MIR197	miRNA
@@ -1286,7 +1282,7 @@ BMP1	protein_coding
 ABCA3	protein_coding
 MANCR	lncRNA
 SOX13	transcription_factor
-MIR363	MIR363
+MIR363	miRNA
 PHLDA1	protein_coding
 KDR	protein_coding
 VDR	transcription_factor
@@ -1585,7 +1581,6 @@ NUSAP1	protein_coding
 MIR15B	miRNA
 SKA2	protein_coding
 MIR202	miRNA
-MIR202	 miRNA
 ELF1	transcription_factor
 YWHAH	protein_coding
 SMURF1	protein_coding
@@ -2047,7 +2042,7 @@ GRIK1-AS1	lncRNA
 ESR2	transcription_factor
 LINC01385	lncRNA
 CYP24A1	protein_coding
-RN7SKP4	misc_RNA
+RN7SKP4	pseudogene
 MKLN1-AS	lncRNA
 ADIPOQ	protein_coding
 E2F3-IT1	lncRNA
@@ -2152,7 +2147,7 @@ PGK1P2	pseudogene
 HK2P1	pseudogene
 TSLP	protein_coding
 SLC7A11-AS1	lncRNA
-PRAL	TEC
+PRAL	lncRNA
 LASP1NB	protein_coding
 MIR376C	miRNA
 RBM24	protein_coding
@@ -2163,7 +2158,7 @@ RAB4B-EGLN2	protein_coding
 PSMD6-AS1	lncRNA
 LINC01013	lncRNA
 LOC100129148	lncRNA
-GPC3-AS1	TEC
+GPC3-AS1	lncRNA
 KRT7-AS	lncRNA
 MIR223HG	lncRNA
 FAF1	protein_coding
@@ -2195,7 +2190,7 @@ LINC01537	lncRNA
 JMJD6	transcription_factor
 GATA6	transcription_factor
 MIR215	miRNA
-PWAR5	TEC
+PWAR5	lncRNA
 LINC02605	lncRNA
 ETS1-AS1	lncRNA
 ZNF496-DT	lncRNA
@@ -2402,7 +2397,7 @@ GARS1	protein_coding
 MIR421	miRNA
 BMAL1	transcription_factor
 TNFRSF11A	protein_coding
-TRGJP2	TR_J_gene
+TRGJP2	protein_coding
 RYR2	protein_coding
 FUT6	protein_coding
 OSMR	protein_coding
