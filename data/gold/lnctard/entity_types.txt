@@ -1,3 +1,4 @@
+DGCR5	lncRNA
 MALAT1	lncRNA
 HOTAIR	lncRNA
 H19	lncRNA
@@ -34,9 +35,7 @@ AFAP1-AS1	lncRNA
 MMP9	protein_coding
 CASC2	lncRNA
 SP1	transcription_factor
-SP1	protein_coding
 NORAD	lncRNA
-YAP1	protein_coding
 YAP1	transcription_factor
 CYTOR	lncRNA
 MIAT	lncRNA
@@ -49,7 +48,6 @@ MMP2	protein_coding
 HOXA11-AS	lncRNA
 HIF1A	transcription_factor
 SNAI1	transcription_factor
-SNAI1	protein_coding
 VEGFA	protein_coding
 LUCAT1	lncRNA
 KCNQ1OT1	lncRNA
@@ -77,7 +75,6 @@ TP53COR1	lncRNA
 HAGLR	lncRNA
 SNHG15	lncRNA
 TWIST1	transcription_factor
-TWIST1	protein_coding
 PIK3CA	protein_coding
 DLX6-AS1	lncRNA
 SOX2	transcription_factor
@@ -106,13 +103,11 @@ FOXO1	transcription_factor
 TTN-AS1	lncRNA
 SPRY4-IT1	lncRNA
 SOX2-OT	lncRNA
-LINC00473	lncRNA
 HMGB1	transcription_factor
 ROCK1	protein_coding
 FEZF1-AS1	lncRNA
 MDM2	protein_coding
 DUXAP8	pseudogene
-DUXAP8	lncRNA
 LNCRNA-ATB	lncRNA
 CASP3	protein_coding
 CDK4	protein_coding
@@ -127,7 +122,6 @@ RMRP	lncRNA
 LINC00261	lncRNA
 CASC9	lncRNA
 SOX9	transcription_factor
-SOX9	protein_coding
 ABCB1	protein_coding
 PART1	lncRNA
 NNT-AS1	lncRNA
@@ -138,7 +132,6 @@ YBX1	transcription_factor
 SMAD2	transcription_factor
 CDKN1B	protein_coding
 ILF3-DT	lncRNA
-DGCR5	lncRNA
 MNX1-AS1	lncRNA
 SMAD3	transcription_factor
 LINC00662	lncRNA
@@ -161,7 +154,6 @@ CDK1	protein_coding
 PKM	protein_coding
 IGF1R	protein_coding
 SNAI2	transcription_factor
-SNAI2	protein_coding
 LINC00467	lncRNA
 POU5F1	transcription_factor
 DBH-AS1	lncRNA
@@ -261,11 +253,9 @@ MIR195	miRNA
 HES1	transcription_factor
 LINC-PINT	lncRNA
 STAT1	transcription_factor
-STAT1	protein_coding
 LINC00520	lncRNA
 CBR3-AS1	lncRNA
 RELA	transcription_factor
-RELA	protein_coding
 KLF4	transcription_factor
 TFDP1	protein_coding
 DRAIC	lncRNA
@@ -297,7 +287,6 @@ TMEM238L	protein_coding
 MIR145	miRNA
 MIR129-1	miRNA
 MIR124-1	miRNA
-MIR124-1	
 EWSAT1	lncRNA
 IGF1	protein_coding
 COMETT	lncRNA
@@ -313,7 +302,6 @@ E2F2	transcription_factor
 ENSG00000259321	lncRNA
 FOXO3	transcription_factor
 NANOG	transcription_factor
-HOXA13	protein_coding
 HOXA13	transcription_factor
 MIR206	miRNA
 FSCN1	protein_coding
@@ -332,13 +320,10 @@ FN1	protein_coding
 MIR15A	miRNA
 SRSF1	protein_coding
 CP	protein_coding
-CP	
 TMPOP2	pseudogene
 CREB1	transcription_factor
-CREB1	protein_coding
-GAS8-AS1	lncRNA
+GAS8-AS1	lncRNA  
 DKK1	protein_coding
-MIR135A1	
 MIR135A1	miRNA
 EPIC1	lncRNA
 TGFB2	protein_coding
@@ -378,7 +363,6 @@ OR3A4P	pseudogene
 HOXA-AS3	lncRNA
 ZBTB40-IT1	lncRNA
 LBX2-AS1	lncRNA
-PPARG	protein_coding
 PPARG	transcription_factor
 LINC00173	lncRNA
 LINC00342	lncRNA
@@ -491,7 +475,6 @@ AGR2	protein_coding
 COL1A1	protein_coding
 TPTEP1	pseudogene
 NFE2L2	transcription_factor
-NFE2L2	protein_coding
 NCK1-DT	lncRNA
 LNCNEF	lncRNA
 ADAM10	protein_coding
@@ -530,15 +513,12 @@ MACC1-AS1	lncRNA
 FOXP1	transcription_factor
 JUN	transcription_factor
 LINC01419	lncRNA
-POU3F3	protein_coding
 POU3F3	transcription_factor
-LIN28B	protein_coding
 LIN28B	transcription_factor
 CDK9	protein_coding
 POU2F1	transcription_factor
 DNM3OS	lncRNA
 RRM2	protein_coding
-NFE2L2	protein_coding
 PRKAA2	protein_coding
 RECK	protein_coding
 SOX5	transcription_factor
@@ -664,7 +644,7 @@ EPB41L4A-AS1	lncRNA
 C1orf74	protein_coding
 LINC01139	lncRNA
 FOXP4-AS1	lncRNA
-NRON	misc_RNA
+NRON	lncRNA
 LINC01138	lncRNA
 RGMB-AS1	lncRNA
 HOXA5	transcription_factor
@@ -806,7 +786,6 @@ DUSP6	protein_coding
 DDX11	protein_coding
 PAX5	transcription_factor
 HNF1A	transcription_factor
-HNF1A	protein_coding
 LERFS	lncRNA
 TARID	lncRNA
 HOXC8	transcription_factor
@@ -915,7 +894,6 @@ MIR216B	miRNA
 ZNF609	protein_coding
 PSMA3-AS1	lncRNA
 MIR506	miRNA
-MIR506	 miRNA
 BIRC5	protein_coding
 SOCS6	protein_coding
 MIR205	miRNA
@@ -984,7 +962,6 @@ RAB11B	protein_coding
 CASP8	protein_coding
 RAD18	protein_coding
 BNIP3	protein_coding
-MIR149	 miRNA
 MIR149	miRNA
 MMP16	protein_coding
 LINC00997	lncRNA
@@ -1090,7 +1067,6 @@ MECP2	transcription_factor
 ELL2	protein_coding
 MIR326	miRNA
 GLI2	transcription_factor
-GLI2	protein_coding
 MIR26B	miRNA
 MIR148B	miRNA
 PIK3R1	protein_coding
@@ -1099,7 +1075,6 @@ MIR340	miRNA
 FZD7	protein_coding
 SALL4	transcription_factor
 TERF2	transcription_factor
-TERF2	protein_coding
 TPM1	protein_coding
 MTA2	transcription_factor
 FAIM2	protein_coding
@@ -1129,7 +1104,6 @@ E2F5	transcription_factor
 PAK5	protein_coding
 STAT6	transcription_factor
 HOXA9	transcription_factor
-MYCNOS	
 MYCNOS	lncRNA
 MIR147A	miRNA
 MIR197	miRNA
@@ -1259,7 +1233,6 @@ LINC01118	lncRNA
 WNK1	protein_coding
 PRSS8	protein_coding
 LINC01303	lncRNA
-MRTFA	protein_coding
 MRTFA	transcription_factor
 LINC01705	lncRNA
 SLC2A1-DT	lncRNA
@@ -1307,7 +1280,7 @@ BMP1	protein_coding
 ABCA3	protein_coding
 MANCR	lncRNA
 SOX13	transcription_factor
-MIR363	MIR363
+MIR363	miRNA
 PHLDA1	protein_coding
 KDR	protein_coding
 VDR	transcription_factor
@@ -1340,7 +1313,6 @@ DKK3	protein_coding
 CUEDC2	protein_coding
 IL11	protein_coding
 TP73	transcription_factor
-TP73	protein_coding
 MYLK-AS1	lncRNA
 ELDR	lncRNA
 MIR542	miRNA
@@ -1607,7 +1579,6 @@ NUSAP1	protein_coding
 MIR15B	miRNA
 SKA2	protein_coding
 MIR202	miRNA
-MIR202	 miRNA
 ELF1	transcription_factor
 YWHAH	protein_coding
 SMURF1	protein_coding
@@ -2069,7 +2040,7 @@ GRIK1-AS1	lncRNA
 ESR2	transcription_factor
 LINC01385	lncRNA
 CYP24A1	protein_coding
-RN7SKP4	misc_RNA
+RN7SKP4	pseudogene
 MKLN1-AS	lncRNA
 ADIPOQ	protein_coding
 E2F3-IT1	lncRNA
@@ -2174,7 +2145,7 @@ PGK1P2	pseudogene
 HK2P1	pseudogene
 TSLP	protein_coding
 SLC7A11-AS1	lncRNA
-PRAL	TEC
+PRAL	lncRNA
 LASP1NB	protein_coding
 MIR376C	miRNA
 RBM24	protein_coding
@@ -2185,7 +2156,7 @@ RAB4B-EGLN2	protein_coding
 PSMD6-AS1	lncRNA
 LINC01013	lncRNA
 LOC100129148	lncRNA
-GPC3-AS1	TEC
+GPC3-AS1	lncRNA
 KRT7-AS	lncRNA
 MIR223HG	lncRNA
 FAF1	protein_coding
@@ -2217,7 +2188,7 @@ LINC01537	lncRNA
 JMJD6	transcription_factor
 GATA6	transcription_factor
 MIR215	miRNA
-PWAR5	TEC
+PWAR5	lncRNA
 LINC02605	lncRNA
 ETS1-AS1	lncRNA
 ZNF496-DT	lncRNA
@@ -2424,7 +2395,7 @@ GARS1	protein_coding
 MIR421	miRNA
 BMAL1	transcription_factor
 TNFRSF11A	protein_coding
-TRGJP2	TR_J_gene
+TRGJP2	protein_coding
 RYR2	protein_coding
 FUT6	protein_coding
 OSMR	protein_coding
@@ -2660,7 +2631,6 @@ MIR208A	miRNA
 PLA2G2A	protein_coding
 UBE2I	protein_coding
 SOX18	transcription_factor
-SIX4	transcription_factor
 LINC02245	lncRNA
 CDK6-AS1	lncRNA
 TMEM18-DT	lncRNA
@@ -2672,3 +2642,5 @@ RING1	protein_coding
 ESRP2	protein_coding
 CAMTA1	transcription_factor
 HLA-DRB1	protein_coding
+GABPA	protein_coding
+PDE10A	protein_coding
