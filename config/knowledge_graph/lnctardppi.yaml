@@ -1,4 +1,4 @@
-output_dir: /home/nbfnet-gr/experiments
+output_dir: /root/nbfnet-gr/experiments
 
 dataset:
   class: biomedical
