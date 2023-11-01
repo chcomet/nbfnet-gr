@@ -61,15 +61,15 @@ plot_degree(G_sub)
 # save largest connected component
 edges = [(u, G_sub[u][v]['relation'], v) for u, v in G_sub.edges()]
 result_df = pd.DataFrame(edges, columns=['h', 'r', 't'])
-result_df.to_csv("../gold/lnctardppi/train2.txt", header=False, sep="\t", index=False)
+result_df.to_csv("../gold/lnctardppi/train1.txt", header=False, sep="\t", index=False)
 
 # generate entity type
-ppi = pd.read_csv("../gold/lnctardppi/train2.txt", header=None, sep="\t", names=["h", "r", "t"])
+ppi = pd.read_csv("../gold/lnctardppi/train1.txt", header=None, sep="\t", names=["h", "r", "t"])
 ppi_genes = pd.concat([ppi["h"], ppi["t"]], axis=0).drop_duplicates()
 ppi_genes = pd.DataFrame({'gene': ppi_genes})
 types = pd.read_csv("../gold/lnctard/entity_types.txt", header=None, sep="\t", names=["gene", "type"])
 ppi_genes = ppi_genes[~ppi_genes["gene"].isin(types["gene"])]
-ppi_genes["type"] = "protein_coding"
+ppi_genes["type"] = "protein_coding_ppi"
 types = pd.concat([types, ppi_genes], axis=0).drop_duplicates()
 types.to_csv("../gold/lnctardppi/entity_types.txt", header=False, sep="\t", index=False)
 
