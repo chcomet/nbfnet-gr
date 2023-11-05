@@ -1596,20 +1596,20 @@ EGFR-AS1	expression association	STAT1
 EGFR-AS1	ceRNA or sponge	RACK1
 MIR223	transcriptional regulation	TP73-AS1
 MIR124-1	expression association	MALAT1
-CELSR1P1	expression association	CTNNB1
-CELSR1P1	expression association	CCND1
-CELSR1P1	expression association	GSK3B
-CELSR1P1	ceRNA or sponge	MIR195
-CELSR1P1	epigenetic regulation	CDKN1A
-CELSR1P1	interact with protein	EGFR
-CELSR1P1	ceRNA or sponge	KLF14
-CELSR1P1	ceRNA or sponge	SMAD7
-CELSR1P1	ceRNA or sponge	PTEN
-CELSR1P1	expression association	WNT3A
-CELSR1P1	expression association	MYC
-CELSR1P1	expression association	BIRC5
-CELSR1P1	expression association	MTOR
-CELSR1P1	ceRNA or sponge	MIR506
+DGCR5	expression association	CTNNB1
+DGCR5	expression association	CCND1
+DGCR5	expression association	GSK3B
+DGCR5	ceRNA or sponge	MIR195
+DGCR5	epigenetic regulation	CDKN1A
+DGCR5	interact with protein	EGFR
+DGCR5	ceRNA or sponge	KLF14
+DGCR5	ceRNA or sponge	SMAD7
+DGCR5	ceRNA or sponge	PTEN
+DGCR5	expression association	WNT3A
+DGCR5	expression association	MYC
+DGCR5	expression association	BIRC5
+DGCR5	expression association	MTOR
+DGCR5	ceRNA or sponge	MIR506
 HIF1A-AS3	interact with protein	PHLDA1
 HIF1A-AS3	expression association	ATF2
 HIF1A-AS3	ceRNA or sponge	TRIM44
