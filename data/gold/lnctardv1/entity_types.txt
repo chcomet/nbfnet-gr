@@ -67,7 +67,7 @@ HNF1A-AS1	lncRNA
 PCAT1	lncRNA
 CDK6	protein_coding
 SNHG5	lncRNA
-TP73-AS1	pseudogene
+TP73-AS1	transcribed_unitary_pseudogene
 CCAT2	lncRNA
 SIRT1	protein_coding
 HCP5	lncRNA
@@ -111,7 +111,7 @@ HMGB1	transcription_factor
 ROCK1	protein_coding
 FEZF1-AS1	lncRNA
 MDM2	protein_coding
-DUXAP8	pseudogene
+DUXAP8	transcribed_processed_pseudogene
 LNCRNA-ATB	lncRNA
 CASP3	protein_coding
 CDK4	protein_coding
@@ -146,7 +146,7 @@ MIR4435-2HG	lncRNA
 DLEU2	lncRNA
 PCAT6	lncRNA
 PANDAR	lncRNA
-DUXAP9	pseudogene
+DUXAP9	transcribed_processed_pseudogene
 MIR22HG	lncRNA
 PEG10	protein_coding
 MIR100HG	lncRNA
@@ -212,10 +212,10 @@ KLF5	transcription_factor
 SBF2-AS1	lncRNA
 HMGA1	transcription_factor
 BCYRN1	lncRNA
-MT1JP	pseudogene
+MT1JP	transcribed_unprocessed_pseudogene
 PCBP2-OT1	lncRNA
 ZEB2-AS1	lncRNA
-PTENP1	pseudogene
+PTENP1	transcribed_processed_pseudogene
 CDKN2A	protein_coding
 LINC00461	lncRNA
 MIR31HG	lncRNA
@@ -247,7 +247,7 @@ ERBB2	protein_coding
 LINC00472	lncRNA
 CDKN1C	protein_coding
 UPF1	protein_coding
-DUXAP10	pseudogene
+DUXAP10	transcribed_processed_pseudogene
 BDNF-AS	lncRNA
 MMP14	protein_coding
 SNHG8	lncRNA
@@ -331,7 +331,7 @@ MIR15A	miRNA
 SRSF1	protein_coding
 CP	protein_coding
 CP	lncRNA protein_coding
-TMPOP2	pseudogene
+TMPOP2	processed_pseudogene
 CREB1	transcription_factor
 CREB1	protein_coding
 GAS8-AS1	lncRNA
@@ -349,17 +349,17 @@ ACTA2-AS1	lncRNA
 LDHA	protein_coding
 LINC00052	lncRNA
 ITGB1	protein_coding
-RPSAP52	pseudogene
-AOC4P	pseudogene
+RPSAP52	transcribed_processed_pseudogene
+AOC4P	transcribed_unprocessed_pseudogene
 LOC112543491	lncRNA
 MIR140	miRNA
 PDK1	protein_coding
 WT1-AS	lncRNA
 WNT3A	protein_coding
 LINC00312	lncRNA
-BICDL3P	pseudogene
+BICDL3P	transcribed_unitary_pseudogene
 BRD4	protein_coding
-FER1L4	pseudogene
+FER1L4	transcribed_unitary_pseudogene
 HAS2-AS1	lncRNA
 TRERNA1	lncRNA
 DSCAM-AS1	lncRNA
@@ -371,7 +371,7 @@ GIHCG	lncRNA
 DHX9	protein_coding
 MIR497	miRNA
 DDX11-AS1	lncRNA
-OR3A4P	pseudogene
+OR3A4P	transcribed_unprocessed_pseudogene
 HOXA-AS3	lncRNA
 ZBTB40-IT1	lncRNA
 LBX2-AS1	lncRNA
@@ -453,7 +453,7 @@ IL1B	protein_coding
 HCG18	lncRNA
 YWHAZ	protein_coding
 LUADT1	lncRNA
-PTTG3P	pseudogene
+PTTG3P	processed_pseudogene
 MIR17HG	lncRNA
 LMCD1-AS1	lncRNA
 LINC02555	lncRNA
@@ -462,7 +462,7 @@ MIR210HG	lncRNA
 WT1	transcription_factor
 MIR338	miRNA
 BCL9	protein_coding
-MT1DP	pseudogene
+MT1DP	transcribed_unprocessed_pseudogene
 TCF7L2	transcription_factor
 CDK8	protein_coding
 PDK4	protein_coding
@@ -478,7 +478,7 @@ MIR3142HG	lncRNA
 MMP7	protein_coding
 RAB14	protein_coding
 ATG3	protein_coding
-FTH1P3	pseudogene
+FTH1P3	processed_pseudogene
 MSH3	protein_coding
 FOXD1	protein_coding
 SYNE3	protein_coding
@@ -486,7 +486,7 @@ APTR	lncRNA
 RHPN1-AS1	lncRNA
 AGR2	protein_coding
 COL1A1	protein_coding
-TPTEP1	pseudogene
+TPTEP1	transcribed_unprocessed_pseudogene
 NFE2L2	transcription_factor
 NFE2L2	protein_coding
 NCK1-DT	lncRNA
@@ -500,7 +500,7 @@ SREBF1	transcription_factor
 MIR148A	miRNA
 SNHG22	lncRNA
 VEGFC	protein_coding
-NMRAL2P	pseudogene
+NMRAL2P	transcribed_unprocessed_pseudogene
 MILIP	lncRNA
 LINC00504	lncRNA
 LINC00324	lncRNA
@@ -587,7 +587,7 @@ ADAMTS5	protein_coding
 IRF1-AS1	lncRNA
 AKT2	protein_coding
 SOD2	lncRNA
-WFDC21P	pseudogene
+WFDC21P	transcribed_unitary_pseudogene
 MIR107	miRNA
 BCL2L2	protein_coding
 PGK1	protein_coding
@@ -644,7 +644,7 @@ FOXP4	transcription_factor
 MIR133B	miRNA
 ZNF281	protein_coding
 STAU1	protein_coding
-TPTE2P1	pseudogene
+TPTE2P1	transcribed_unprocessed_pseudogene
 LNC-LBCS	lncRNA
 LOC105374325	lncRNA
 LNCTSI	lncRNA
@@ -652,7 +652,7 @@ RPS6KB1	protein_coding
 MIR328	miRNA
 BCAT1	protein_coding
 LIFR-AS1	lncRNA
-SUMO1P3	pseudogene
+SUMO1P3	processed_pseudogene
 MIR99AHG	lncRNA
 EMSLR	lncRNA
 VPS9D1-AS1	lncRNA
@@ -783,8 +783,8 @@ ENO1	protein_coding
 SEMA3B-AS1	lncRNA
 SPHK1	protein_coding
 ENSG00000249945	lncRNA
-TCAM1P	pseudogene
-ARHGAP27P1	pseudogene
+TCAM1P	transcribed_unitary_pseudogene
+ARHGAP27P1	processed_pseudogene
 FGF13-AS1	lncRNA
 GRHL2-DT	lncRNA
 SOX6	transcription_factor
@@ -846,7 +846,7 @@ BBOX1-AS1	lncRNA
 MIR146B	miRNA
 PDGFRA	protein_coding
 PHLPP2	protein_coding
-PDIA3P1	pseudogene
+PDIA3P1	transcribed_processed_pseudogene
 LINC00839	lncRNA
 NKD2	protein_coding
 HEY1	transcription_factor
@@ -857,7 +857,7 @@ LINC01410	lncRNA
 PRMT5	protein_coding
 CDK5	protein_coding
 HAND2	transcription_factor
-RPL13AP20	pseudogene
+RPL13AP20	processed_pseudogene
 MIR144	miRNA
 KIT	protein_coding
 HNRNPA2B1	protein_coding
@@ -967,13 +967,13 @@ WIF1	protein_coding
 SERPINE1	protein_coding
 IRF1	transcription_factor
 ERBB3	protein_coding
-LDC1P	pseudogene
+LDC1P	transcribed_unitary_pseudogene
 UHRF1	protein_coding
 BAD	protein_coding
 TESC	protein_coding
 TGFA	protein_coding
 MIR106A	miRNA
-OLA1P2	pseudogene
+OLA1P2	processed_pseudogene
 MIR217	miRNA
 RAB11B	protein_coding
 CASP8	protein_coding
@@ -993,7 +993,7 @@ GATA2-AS1	lncRNA
 GSEC	lncRNA
 FOXF1	transcription_factor
 PTCH1	protein_coding
-ENSG00000271127	pseudogene
+ENSG00000271127	transcribed_unprocessed_pseudogene
 SRSF2	protein_coding
 HSP90AA1	protein_coding
 LINC02566	lncRNA
@@ -1016,7 +1016,7 @@ DCST1-AS1	lncRNA
 PRC1	protein_coding
 CYCS	protein_coding
 TLR3	protein_coding
-GSTP1P1	pseudogene
+GSTP1P1	processed_pseudogene
 LINC01605	lncRNA
 RAB5IF	protein_coding
 MRPL23-AS1	lncRNA
@@ -1064,7 +1064,7 @@ CPEB2	protein_coding
 XBP1	transcription_factor
 ADAM17	protein_coding
 SGK1	protein_coding
-MSTO2P	unpseudogene
+MSTO2P	unprocessed_pseudogene
 RB1-DT	lncRNA
 MIR185	miRNA
 MIR34AHG	lncRNA
@@ -1139,7 +1139,7 @@ SAPCD2	protein_coding
 DUSP5	protein_coding
 PRPS1	protein_coding
 CADM1	protein_coding
-ENSG00000237894	pseudogene
+ENSG00000237894	transcribed_unprocessed_pseudogene
 LAMTOR5	protein_coding
 ENSG00000260583	lncRNA
 NFIA-AS1	lncRNA
@@ -1166,7 +1166,7 @@ BRI3	protein_coding
 MIR942	miRNA
 CDC25A	protein_coding
 MIR330	miRNA
-HNRNPKP2	pseudogene
+HNRNPKP2	processed_pseudogene
 MIR125B2	miRNA
 TP63	transcription_factor
 CDCA4	protein_coding
@@ -1212,13 +1212,13 @@ MAPKAPK5-AS1	lncRNA
 POSTN	protein_coding
 HNF4A	transcription_factor
 PCSEAT	lncRNA
-FKBP9P1	pseudogene
-TMEM183AP2	pseudogene
+FKBP9P1	transcribed_unprocessed_pseudogene
+TMEM183AP2	processed_pseudogene
 TNFSF11	protein_coding
 SFPQ	protein_coding
 NFATC3	transcription_factor
 SPAG5-AS1	lncRNA
-PCNAP1	pseudogene
+PCNAP1	transcribed_processed_pseudogene
 CARMN	lncRNA
 MIR924HG	lncRNA
 CCDC144NL-AS1	lncRNA
@@ -1236,7 +1236,7 @@ NSUN2	protein_coding
 KISS1	protein_coding
 GRASLND	lncRNA
 JAK1	protein_coding
-PCDHB17P	pseudogene
+PCDHB17P	transcribed_unprocessed_pseudogene
 TFAP2A-AS1	lncRNA
 ARPP19	protein_coding
 HIF3A	protein_coding
@@ -1266,7 +1266,7 @@ THBS1	protein_coding
 TFRC	protein_coding
 METTL14	protein_coding
 CEMIP	protein_coding
-CYCSP5	pseudogene
+CYCSP5	processed_pseudogene
 LINC00163	lncRNA
 FAM230B	lncRNA
 IP6K2	protein_coding
@@ -1355,7 +1355,7 @@ SOX12	transcription_factor
 CCNA1	protein_coding
 RAD51-AS1	lncRNA
 EWSR1	protein_coding
-RPL13AP23	pseudogene
+RPL13AP23	processed_pseudogene
 HELLS	protein_coding
 NDUFA4	protein_coding
 TUBA4B	protein_coding
@@ -1393,7 +1393,7 @@ LINC01088	lncRNA
 TPD52	protein_coding
 NACC1	protein_coding
 TCF21	transcription_factor
-ACTG1P25	pseudogene
+ACTG1P25	transcribed_processed_pseudogene
 PABPC1	protein_coding
 TRAF3	protein_coding
 MIR646	miRNA
@@ -2038,7 +2038,7 @@ SNX16	protein_coding
 LYPD3	protein_coding
 CUL4A	protein_coding
 MCTP1-AS1	lncRNA
-LPAL2	pseudogene
+LPAL2	transcribed_unprocessed_pseudogene
 ENSG00000227706	lncRNA
 ARID1B	transcription_factor
 SUB1	transcription_factor
@@ -2086,8 +2086,8 @@ NCOA1	protein_coding
 NFIA-AS2	lncRNA
 GNAS	protein_coding
 G3BP1	protein_coding
-SUMO1P4	pseudogene
-SUMO1P5	pseudogene
+SUMO1P4	processed_pseudogene
+SUMO1P5	processed_pseudogene
 LINC00987	lncRNA
 TANAR	lncRNA
 FAM225B	lncRNA
@@ -2129,7 +2129,7 @@ CA3-AS1	lncRNA
 A1BG-AS1	lncRNA
 MIR570HG	lncRNA
 AIMP2	protein_coding
-ENSG00000224722	pseudogene
+ENSG00000224722	processed_pseudogene
 B3GALT5-AS1	lncRNA
 LINC00320	lncRNA
 MAILR	lncRNA
@@ -2144,7 +2144,7 @@ LINC00114	lncRNA
 LINC01352	lncRNA
 TNFRSF10A-DT	lncRNA
 LINC00160	lncRNA
-MST1P2	unpseudogene
+MST1P2	unprocessed_pseudogene
 ITCH	protein_coding
 ENSG00000224079	lncRNA
 CSNK1E	protein_coding
@@ -2163,8 +2163,8 @@ EGILA	lncRNA
 RAB11B-AS1	lncRNA
 LCT-AS1	lncRNA
 GALNT7-DT	lncRNA
-PGK1P2	pseudogene
-HK2P1	pseudogene
+PGK1P2	processed_pseudogene
+HK2P1	processed_pseudogene
 TSLP	protein_coding
 SLC7A11-AS1	lncRNA
 PRAL	lncRNA
@@ -2193,7 +2193,7 @@ NIFK-AS1	lncRNA
 CDH13-AS1	lncRNA
 KCNA3	protein_coding
 LINC00222	lncRNA
-FUNDC2P4	pseudogene
+FUNDC2P4	processed_pseudogene
 DICER1-AS1	lncRNA
 BTG3-AS1	lncRNA
 CASC8	lncRNA
@@ -2205,7 +2205,7 @@ UICLM	lncRNA
 ACAA1	protein_coding
 XIAP-AS1	lncRNA
 SMIM10L2A	protein_coding
-RSU1P2	pseudogene
+RSU1P2	transcribed_unprocessed_pseudogene
 LINC01537	lncRNA
 JMJD6	transcription_factor
 GATA6	transcription_factor
@@ -2222,7 +2222,7 @@ LINC03046	lncRNA
 FAM99A	lncRNA
 LINC01189	lncRNA
 ETS2	transcription_factor
-PEBP1P2	pseudogene
+PEBP1P2	processed_pseudogene
 DMTF1	protein_coding
 LINC00242	lncRNA
 MIR497HG	lncRNA
@@ -2472,7 +2472,7 @@ MAGI2	protein_coding
 MIR607	miRNA
 KLK12	protein_coding
 AQP7	protein_coding
-BTF3P11	pseudogene
+BTF3P11	processed_pseudogene
 TM9SF2	protein_coding
 TNFSF14	protein_coding
 CPT1A	protein_coding
@@ -2505,7 +2505,7 @@ LINC01615	lncRNA
 KDM4A-AS1	lncRNA
 LINC00491	lncRNA
 LAMTOR5-AS1	lncRNA
-HSPA7	unpseudogene
+HSPA7	unprocessed_pseudogene
 HOXA3	transcription_factor
 EPHA2	protein_coding
 ACVR2B	protein_coding
@@ -2539,7 +2539,7 @@ LINC02582	lncRNA
 HMGA2-AS1	lncRNA
 HLA-F-AS1	lncRNA
 ENSG00000224814	lncRNA
-PDPK2P	pseudogene
+PDPK2P	transcribed_unprocessed_pseudogene
 FOXO4	transcription_factor
 LINC01980	lncRNA
 LCAL1	lncRNA
@@ -2665,18 +2665,18 @@ LINC02245	lncRNA
 WDR77	protein_coding
 ITGB2-AS1	lncRNA
 MPPED2-AS1	lncRNA
-PHB1P1	pseudogene
+PHB1P1	processed_pseudogene
 DLG1-AS1	lncRNA
 LINC01260	lncRNA
 SPINT1-AS1	lncRNA
-MSX2P1	pseudogene
+MSX2P1	processed_pseudogene
 ENSG00000280416	lncRNA
 PTCSC2	lncRNA
 LINC00092	lncRNA
 WWOX-AS1	lncRNA
 LRP2BP-AS1	lncRNA
 LINC02912	lncRNA
-PSG10P	pseudogene
+PSG10P	transcribed_unprocessed_pseudogene
 TBILA	lncRNA
 GFRA1	protein_coding
 LINC01446	lncRNA
@@ -2699,7 +2699,7 @@ ENSG00000284930	lncRNA
 PURA	protein_coding
 MDC1	protein_coding
 MUC2	protein_coding
-MTCO2P12	unpseudogene
+MTCO2P12	unprocessed_pseudogene
 FAT4	protein_coding
 SIM2	protein_coding
 GCSAM	protein_coding
