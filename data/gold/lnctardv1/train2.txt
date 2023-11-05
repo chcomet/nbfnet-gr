@@ -1,0 +1,2120 @@
+AATBC	expression association	CASP3
+AATBC	expression association	CASP9
+AATBC	expression association	CDK4
+AATBC	expression association	CDKN2C
+AATBC	expression association	MAPK8
+ABALON	expression association	BCL2L1
+ABL1	expression association	HOTAIR
+ACAA1	epigenetic regulation	MYD88
+ACTA2-AS1	expression association	ACTA2
+ADAM12	interact with protein	YBX1
+ADAMTS9-AS2	ceRNA or sponge	ITGA6
+AFAP1-AS1	ceRNA or sponge	RAP1B
+AFAP1-AS1	ceRNA or sponge	TCF4
+AFAP1-AS1	expression association	AFAP1
+AFAP1-AS1	expression association	IRF7
+AFAP1-AS1	expression association	RAC2
+AFAP1-AS1	expression association	RHOA
+AFAP1-AS1	expression association	VIM
+AGAP2-AS1	epigenetic regulation	CDH1
+AGAP2-AS1	epigenetic regulation	LATS2
+AGAP2-AS1	interact with protein	KDM1A
+ANKRD40CL	ceRNA or sponge	SPAG9
+AOC4P	interact with protein	UHRF1
+APTR	ceRNA or sponge	YAP1
+APTR	interact with protein	SUZ12
+AR	expression association	PCAT18
+AR	transcriptional regulation	DRAIC
+AR	transcriptional regulation	TMPO-AS1
+BABAM2-AS1	transcriptional regulation	NR4A3
+BACE1-AS	expression association	BACE1
+BALR6	expression association	SP1
+BANCR	ceRNA or sponge	NOTCH2
+BANCR	epigenetic regulation	TSHR
+BANCR	expression association	MAP1LC3A
+BANCR	expression association	MAP1LC3B
+BANCR	expression association	MAPK14
+BANCR	expression association	MAPK3
+BANCR	expression association	MMP1
+BCAR4	epigenetic regulation	GLI2
+BCAR4	expression association	ERBB3
+BCAR4	interact with protein	PPP1R10
+BCAR4	interact with protein	SNIP1
+BCAT1	expression association	CCND1
+BCYRN1	interact with mRNA	BCL2L1
+BDNF-AS	expression association	BDNF
+BDNF-AS	expression association	CCNE1
+BGLT3	ceRNA or sponge	PTEN
+BICDL3P	interact with protein	CCND1
+BISPR	expression association	MIR21
+BLACAT1	ceRNA or sponge	ABCB1
+BLACAT1	ceRNA or sponge	MIR144
+BLACAT1	epigenetic regulation	MRPL28
+BOK-AS1	expression association	BOK
+BOK-AS1	expression association	CCN4
+BRCA1	transcriptional regulation	NEAT1
+BRD4	transcriptional regulation	HOTAIR
+BTG3-AS1	expression association	MIR21
+C1orf74	expression association	ABCC1
+C1orf74	expression association	CASP8
+C20orf204	ceRNA or sponge	MIR185
+CAMTA1-DT	ceRNA or sponge	MIR20B
+CAMTA1-DT	epigenetic regulation	CAMTA1
+CANT1	epigenetic regulation	FTX
+CARMN	ceRNA or sponge	AXIN2
+CASC11	transcriptional regulation	HNRNPK
+CASC15	ceRNA or sponge	LGR5
+CASC15	ceRNA or sponge	TLR4
+CASC15	expression association	MIR33A
+CASC15	transcriptional regulation	SOX4
+CASC2	ceRNA or sponge	CPEB1
+CASC2	ceRNA or sponge	MIR181A1
+CASC2	ceRNA or sponge	MIR362
+CASC2	ceRNA or sponge	PIAS3
+CASC2	ceRNA or sponge	PLXNC1
+CASC2	expression association	F10
+CASC2	expression association	MIR24-1
+CASC2	expression association	RASSF6
+CASC2	interact with protein	EIF4A3
+CASC8	interact with protein	FGFR1
+CASC9	epigenetic regulation	LAMC2
+CAV1	expression association	HOTAIR
+CBR3-AS1	ceRNA or sponge	AR
+CBR3-AS1	expression association	PHGDH
+CBR3-AS1	expression association	TJP1
+CCAT1	ceRNA or sponge	ADAM17
+CCAT1	ceRNA or sponge	FGFR3
+CCAT1	ceRNA or sponge	HMGA2
+CCAT1	ceRNA or sponge	HNRNPA1
+CCAT1	ceRNA or sponge	HOXA1
+CCAT1	ceRNA or sponge	ITPKB
+CCAT1	ceRNA or sponge	MIR152
+CCAT1	ceRNA or sponge	PDGFRA
+CCAT1	ceRNA or sponge	WNT1
+CCAT1	ceRNA or sponge	ZFX
+CCAT1	chromatin looping	MYC
+CCAT1	epigenetic regulation	MIR218-1
+CCAT1	epigenetic regulation	SPRY4
+CCAT1	expression association	MIRLET7C
+CCAT1	interact with protein	BIRC7
+CCAT1	interact with protein	SUV39H1
+CCAT2	ceRNA or sponge	MIR216B
+CCAT2	ceRNA or sponge	MIR424
+CCAT2	expression association	MIR145
+CCAT2	expression association	MIR17
+CCAT2	expression association	MIR20A
+CCAT2	expression association	SMAD2
+CCAT2	expression association	SMN1
+CCDC144NL-AS1	expression association	MMP9
+CCDC26	ceRNA or sponge	MIR203A
+CCDC26	expression association	KIT
+CCDST	interact with protein	DHX9
+CCEPR	expression association	PCNA
+CCND2-AS1	expression association	CDH2
+CDH13-AS1	ceRNA or sponge	MIR324
+CDK6-AS1	ceRNA or sponge	MIR574
+CDKN2B-AS1	ceRNA or sponge	ARHGAP18
+CDKN2B-AS1	ceRNA or sponge	BRI3
+CDKN2B-AS1	ceRNA or sponge	MIR125A
+CDKN2B-AS1	ceRNA or sponge	MIR199A1
+CDKN2B-AS1	ceRNA or sponge	MIRLET7A1
+CDKN2B-AS1	ceRNA or sponge	NAP1L1
+CDKN2B-AS1	epigenetic regulation	MIR449A
+CDKN2B-AS1	epigenetic regulation	MIR99A
+CDKN2B-AS1	expression association	ATM
+CDKN2B-AS1	expression association	BAX
+CDKN2B-AS1	expression association	CARD8
+CDKN2B-AS1	expression association	CYCS
+CDKN2B-AS1	expression association	ENSG00000284934
+CDKN2B-AS1	expression association	KLF13
+CDKN2B-AS1	expression association	MET
+CDKN2B-AS1	expression association	MIR191
+CDKN2B-AS1	expression association	MIR323B
+CDKN2B-AS1	expression association	MMP3
+CDKN2B-AS1	expression association	MTA1
+CDKN2B-AS1	expression association	PARP1
+CDKN2B-AS1	expression association	RELA
+CDKN2B-AS1	expression association	SLC2A1
+CDKN2B-AS1	expression association	SMAD7
+CDKN2B-AS1	expression association	TIMP2
+CDKN2B-AS1	interact with protein	CBX7
+CDR1-AS	ceRNA or sponge	MIR135A1
+CEBPB	transcriptional regulation	NEAT1
+CERNA2	ceRNA or sponge	CDK6
+CERNA2	ceRNA or sponge	MIRLET7B
+CERNA2	expression association	DICER1
+CERNA2	expression association	IMP3
+CLMAT3	expression association	CDH1
+COL1A1	expression association	HOTAIR
+COL1A2-AS1	ceRNA or sponge	MIR21
+COMETT	ceRNA or sponge	CDK14
+CP	expression association	AKT1
+CP	expression association	GPI
+CP	expression association	SOX7
+CPS1-IT1	expression association	CASP3
+CPS1-IT1	expression association	CPS1
+CREBBP	transcriptional regulation	HOTAIR
+CRNDE	ceRNA or sponge	CTNNB1
+CRNDE	ceRNA or sponge	IRS1
+CRNDE	ceRNA or sponge	IRX5
+CRNDE	ceRNA or sponge	MIR136
+CRNDE	ceRNA or sponge	MIR451A
+CRNDE	ceRNA or sponge	PAK5
+CRNDE	ceRNA or sponge	PIWIL4
+CRNDE	ceRNA or sponge	TCF7L2
+CRNDE	epigenetic regulation	DUSP5
+CRNDE	expression association	MIR384
+CRNDE	interact with protein	HNRNPUL2
+CTBP1-AS	epigenetic regulation	CTBP1
+CTNNB1	transcriptional regulation	HOTAIR
+CYTOR	ceRNA or sponge	BMI1
+CYTOR	ceRNA or sponge	ERBB4
+CYTOR	ceRNA or sponge	FEZF1
+CYTOR	ceRNA or sponge	MIR107
+CYTOR	ceRNA or sponge	MIR497
+CYTOR	ceRNA or sponge	NRP1
+CYTOR	epigenetic regulation	IL24
+DACOR1	epigenetic regulation	CBS
+DALIR	interact with protein	DNMT1
+DANCR	ceRNA or sponge	AXL
+DANCR	ceRNA or sponge	RAB1A
+DANCR	ceRNA or sponge	ROCK1
+DANCR	ceRNA or sponge	SPHK2
+DANCR	expression association	MIR758
+DANCR	interact with protein	HDAC3
+DBH-AS1	ceRNA or sponge	MIR138-1
+DGCR5	ceRNA or sponge	KLF14
+DGCR5	ceRNA or sponge	MIR195
+DICER1-AS1	ceRNA or sponge	ATG5
+DKK3	ceRNA or sponge	HOPX
+DLEU1	ceRNA or sponge	CDK1
+DLEU1	epigenetic regulation	KPNA3
+DLEU2	ceRNA or sponge	ZEB2
+DLEU2	expression association	MIR15A
+DLEU2	expression association	MIR16-1
+DLEU2	expression association	MYB
+DLG1-AS1	ceRNA or sponge	ZHX1
+DLX6-AS1	ceRNA or sponge	E2F1
+DLX6-AS1	ceRNA or sponge	GADD45A
+DLX6-AS1	expression association	DLX6
+DNMT1	epigenetic regulation	MEG3
+DPP10-AS1	expression association	TIMP3
+DRAIC	expression association	MIR221
+DRAIC	expression association	RASAL1
+DUXAP10	epigenetic regulation	CDKN1A
+DUXAP8	epigenetic regulation	CDKN1A
+DUXAP8	epigenetic regulation	RHOB
+DUXAP9	ceRNA or sponge	MMP9
+E2F1	transcriptional regulation	ERICD
+E2F3	transcriptional regulation	ERICD
+EGF	epigenetic regulation	LINC01089
+EGFR	expression association	HOTAIR
+EGFR-AS1	ceRNA or sponge	MIR223
+EGILA	expression association	EGFR
+EGR1	transcriptional regulation	HNF1A-AS1
+ELL2	epigenetic regulation	NPR3
+ENSG00000236452	expression association	JAG2
+ENSG00000243960	interact with mRNA	BRCA2
+ENSG00000257241	ceRNA or sponge	MIR31
+ENSG00000260583	ceRNA or sponge	ATG14
+ENSG00000261347	expression association	CCND1
+ENSG00000271127	epigenetic regulation	KLF2
+ENSG00000280416	ceRNA or sponge	MUC2
+EP300	transcriptional regulation	HOTAIR
+EPIC1	interact with protein	MYC
+EPIST	ceRNA or sponge	RING1
+ERLNC1	expression association	CCND1
+ESR1	expression association	H19
+ETS1	epigenetic regulation	BANCR
+ETS1-AS1	interact with protein	HNRNPK
+ETS2	transcriptional regulation	UCA1
+EWSAT1	ceRNA or sponge	CCND1
+EWSR1	expression association	EWSAT1
+EZH2	epigenetic regulation	NPTN-IT1
+EZR-AS1	epigenetic regulation	EZR
+EZR-AS1	interact with protein	SMYD3
+FAF1	expression association	MAPK1
+FALEC	ceRNA or sponge	AKT1
+FALEC	interact with protein	PDK1
+FAM30A	expression association	CTNNB1
+FAS-AS1	interact with mRNA	FAS
+FBXL19-AS1	ceRNA or sponge	MIR203A
+FENDRR	ceRNA or sponge	FOXF1
+FENDRR	ceRNA or sponge	MIR761
+FENDRR	expression association	FN1
+FER1L4	ceRNA or sponge	MIR106A
+FEZF1-AS1	ceRNA or sponge	AKT3
+FEZF1-AS1	interact with protein	PKM
+FILNC1	expression association	MYC
+FLVCR1-DT	ceRNA or sponge	E2F3
+FOXA1	transcriptional regulation	DRAIC
+FOXC1	transcriptional regulation	HOTAIR
+FOXC2-AS1	ceRNA or sponge	MMP2
+FOXC2-AS1	interact with mRNA	FOXC2
+FOXCUT	expression association	FOXC1
+FOXD2-AS1	ceRNA or sponge	ABCC3
+FOXD2-AS1	ceRNA or sponge	S100A1
+FOXD3	transcriptional regulation	OLA1P2
+FOXD3-AS1	ceRNA or sponge	MIR150
+FOXM1	expression association	FRGCA
+FOXO1	epigenetic regulation	GAPLINC
+FOXP4-AS1	epigenetic regulation	LATS1
+FTH1P3	ceRNA or sponge	MIR224
+FTX	ceRNA or sponge	BCL2L2
+FTX	ceRNA or sponge	MTDH
+FTX	expression association	PPARG
+FTX	expression association	RIGI
+FTX	interact with protein	MCM2
+FUNDC2P4	expression association	CDH1
+GACAT3	ceRNA or sponge	CCND2
+GACAT3	ceRNA or sponge	NAMPT
+GALNT7-DT	ceRNA or sponge	SHH
+GAPLINC	ceRNA or sponge	CD44
+GAPLINC	ceRNA or sponge	EEF2K
+GAPLINC	ceRNA or sponge	MIR575
+GAS1RR	expression association	POU5F1
+GAS1RR	transcriptional regulation	GAS1
+GAS5	ceRNA or sponge	ATG3
+GAS5	ceRNA or sponge	DIRAS3
+GAS5	ceRNA or sponge	FOXO3
+GAS5	ceRNA or sponge	MIR135B
+GAS5	ceRNA or sponge	MIR18A
+GAS5	ceRNA or sponge	MIR222
+GAS5	ceRNA or sponge	MIR23A
+GAS5	ceRNA or sponge	MIR301A
+GAS5	ceRNA or sponge	SPRY2
+GAS5	expression association	BAK1
+GAS5	expression association	IL10
+GAS5	expression association	SNORD50A
+GAS5	interact with protein	ANXA2
+GAS6-AS1	expression association	GAS6
+GAS8-AS1	expression association	ATG5
+GASAL1	expression association	E2F1
+GATA6	transcriptional regulation	MIR100HG
+GFRA1	ceRNA or sponge	GFRA1
+GHET1	expression association	CDH1
+GHET1	interact with protein	ATF1
+GHR	expression association	EGFR-AS1
+GIHCG	epigenetic regulation	MIR200A
+GIHCG	epigenetic regulation	MIR200B
+GIHCG	epigenetic regulation	MIR429
+GLI2	ceRNA or sponge	MIR125B1
+GPC3-AS1	epigenetic regulation	GPC3
+GPLD1	expression association	CDKN2B-AS1
+GRHL2-DT	expression association	HSPB1
+GSC-DT	ceRNA or sponge	BMI1
+GSEC	interact with protein	DHX36
+H19	ceRNA or sponge	COL1A1
+H19	ceRNA or sponge	CYTH3
+H19	ceRNA or sponge	DNMT3B
+H19	ceRNA or sponge	DSG1
+H19	ceRNA or sponge	FADD
+H19	ceRNA or sponge	GIT2
+H19	ceRNA or sponge	GRN
+H19	ceRNA or sponge	HMGA1
+H19	ceRNA or sponge	ID2
+H19	ceRNA or sponge	MIR130B
+H19	ceRNA or sponge	MIR484
+H19	ceRNA or sponge	PPP1R13L
+H19	ceRNA or sponge	SOX8
+H19	ceRNA or sponge	VASH2
+H19	ceRNA or sponge	VDR
+H19	ceRNA or sponge	YES1
+H19	epigenetic regulation	NKD1
+H19	epigenetic regulation	PMAIP1
+H19	expression association	CBL
+H19	expression association	CDK8
+H19	expression association	CUL4A
+H19	expression association	FUT4
+H19	expression association	GCLC
+H19	expression association	GCLM
+H19	expression association	GSR
+H19	expression association	GSTP1
+H19	expression association	IGF2BP3
+H19	expression association	MACC1
+H19	expression association	NANOG
+H19	expression association	NQO1
+H19	expression association	RUNX2
+H19	expression association	SNAI2
+H19	expression association	TGFBI
+H19	interact with protein	CALN1
+H19	interact with protein	ISM1
+H19	interact with protein	PTBP1
+H19	interact with protein	SREBF1
+HAGLR	ceRNA or sponge	ARHGAP11A
+HAGLR	ceRNA or sponge	E2F8
+HAGLR	ceRNA or sponge	FZD4
+HAGLR	ceRNA or sponge	MIR147A
+HAGLR	expression association	RGS3
+HAGLROS	ceRNA or sponge	MTOR
+HAGLROS	expression association	MIR100
+HAGLROS	interact with protein	RHEB
+HAND2-AS1	expression association	HAND2
+HAND2-AS1	expression association	NMU
+HAS2-AS1	expression association	HAS2
+HCG11	interact with protein	IGF2BP1
+HEIH	ceRNA or sponge	MIR939
+HGF	transcriptional regulation	H19
+HIC1	expression association	ENSG00000284930
+HIF1A	transcriptional regulation	UCA1
+HIF1A-AS1	expression association	BCL2
+HIF1A-AS3	ceRNA or sponge	HIF1A
+HK2P1	ceRNA or sponge	HK2
+HNF1A	transcriptional regulation	HNF1A-AS1
+HNF1A-AS1	ceRNA or sponge	ATG5
+HNF1A-AS1	ceRNA or sponge	CDC34
+HNF1A-AS1	expression association	CEACAM5
+HNF1A-AS1	expression association	RRM1
+HNF1A-AS1	interact with protein	PTPN6
+HNRNPKP2	expression association	CXCR4
+HOTAIR	ceRNA or sponge	BCL2L2
+HOTAIR	ceRNA or sponge	DNMT3A
+HOTAIR	ceRNA or sponge	ELAVL1
+HOTAIR	ceRNA or sponge	FGF1
+HOTAIR	ceRNA or sponge	HLA-G
+HOTAIR	ceRNA or sponge	MIR126
+HOTAIR	ceRNA or sponge	MIR130A
+HOTAIR	ceRNA or sponge	MIR22
+HOTAIR	ceRNA or sponge	MIR330
+HOTAIR	ceRNA or sponge	MIR613
+HOTAIR	ceRNA or sponge	NOTCH3
+HOTAIR	ceRNA or sponge	NPM1
+HOTAIR	ceRNA or sponge	RAB22A
+HOTAIR	ceRNA or sponge	ST8SIA4
+HOTAIR	epigenetic regulation	ABL2
+HOTAIR	epigenetic regulation	CCNA1
+HOTAIR	epigenetic regulation	CCNA2
+HOTAIR	epigenetic regulation	EIF4E
+HOTAIR	epigenetic regulation	EPHA1
+HOTAIR	epigenetic regulation	HOXD10
+HOTAIR	epigenetic regulation	IKBKB
+HOTAIR	epigenetic regulation	IKBKG
+HOTAIR	epigenetic regulation	JAM2
+HOTAIR	epigenetic regulation	LAMB3
+HOTAIR	epigenetic regulation	MIR205
+HOTAIR	epigenetic regulation	MIR454
+HOTAIR	epigenetic regulation	PCDHB5
+HOTAIR	epigenetic regulation	PGR
+HOTAIR	epigenetic regulation	PRG1
+HOTAIR	epigenetic regulation	TNFRSF10B
+HOTAIR	expression association	ABCB4
+HOTAIR	expression association	ADAMTS5
+HOTAIR	expression association	ANGPT2
+HOTAIR	expression association	ASTN1
+HOTAIR	expression association	BECN1
+HOTAIR	expression association	CASP2
+HOTAIR	expression association	CCNJ
+HOTAIR	expression association	FASN
+HOTAIR	expression association	FOXA2
+HOTAIR	expression association	KDM6B
+HOTAIR	expression association	LRRK2
+HOTAIR	expression association	MIR206
+HOTAIR	expression association	MIR326
+HOTAIR	expression association	MIR545
+HOTAIR	expression association	MIR7-1
+HOTAIR	expression association	MUC5AC
+HOTAIR	expression association	NTM
+HOTAIR	expression association	OGFR
+HOTAIR	expression association	PCDHA1
+HOTAIR	expression association	PHOX2A
+HOTAIR	expression association	PIK3R2
+HOTAIR	expression association	PIK3R3
+HOTAIR	expression association	PTK2B
+HOTAIR	expression association	RBM38
+HOTAIR	expression association	RPS6KB1
+HOTAIR	expression association	VOPP1
+HOTAIR	interact with protein	EED
+HOTAIR	interact with protein	HELLS
+HOTAIR	interact with protein	LAMTOR5
+HOTAIR	transcriptional regulation	IGF2BP2
+HOTAIR	transcriptional regulation	SETD2
+HOTAIRM1	ceRNA or sponge	DLGAP1
+HOTAIRM1	expression association	ITGA4
+HOTAIRM1	expression association	ITGAX
+HOTTIP	ceRNA or sponge	MIR216A
+HOTTIP	ceRNA or sponge	TGFBR1
+HOTTIP	ceRNA or sponge	TGFBR2
+HOTTIP	expression association	BAD
+HOTTIP	expression association	CDC25C
+HOTTIP	expression association	CDK2
+HOTTIP	interact with mRNA	BABAM2
+HOTTIP	interact with protein	WDR5
+HOTTIP	transcriptional regulation	SGK1
+HOXA-AS2	ceRNA or sponge	EGFR
+HOXA-AS2	ceRNA or sponge	HOXA3
+HOXA-AS2	ceRNA or sponge	MIR520C
+HOXA-AS2	ceRNA or sponge	S100A4
+HOXA-AS2	epigenetic regulation	DDIT3
+HOXA-AS2	epigenetic regulation	PLK3
+HOXA10-AS	expression association	HOXA10
+HOXA11-AS	ceRNA or sponge	EZH2
+HOXA11-AS	ceRNA or sponge	HOXA7
+HOXA11-AS	ceRNA or sponge	MIR124-1
+HOXA11-AS	ceRNA or sponge	MIR1297
+HOXA11-AS	ceRNA or sponge	MIR140
+HOXA11-AS	epigenetic regulation	RND3
+HOXA11-AS	interact with protein	STAU1
+HOXA13	epigenetic regulation	HOTTIP
+HOXA13	expression association	KMT5A
+HOXA5	transcriptional regulation	LINC00312
+HOXA9	transcriptional regulation	HOTAIR
+HOXC-AS3	interact with protein	YBX1
+HULC	ceRNA or sponge	CXCR4
+HULC	ceRNA or sponge	RTKN
+HULC	ceRNA or sponge	SQSTM1
+HULC	epigenetic regulation	NKD2
+HULC	expression association	CLOCK
+HULC	expression association	ESM1
+HULC	expression association	ITGB1
+HULC	expression association	PPARA
+HULC	expression association	SPHK1
+HULC	expression association	USP22
+HULC	expression association	ZIC2
+HULC	interact with protein	MT-CO2
+HULC	transcriptional regulation	ACSL1
+HULC	transcriptional regulation	TERF2
+IATPR	expression association	CTNNB1
+IFNG-AS1	expression association	HLA-DRB1
+IFNG-AS1	interact with protein	ESRP2
+IGF1	expression association	CRNDE
+IGF2-AS	expression association	IGF2
+ILF3-DT	epigenetic regulation	MIR200A
+IQANK1	epigenetic regulation	CDKN1A
+IRAIN	epigenetic regulation	CDKN2B
+ITGB2-AS1	expression association	ITGB2
+JMJD6	transcriptional regulation	HOTAIR
+JPX	expression association	XIST
+KCNA3	expression association	YAP1
+KCNK15-AS1	ceRNA or sponge	CXCR4
+KCNQ1OT1	ceRNA or sponge	CCNE2
+KLF3-AS1	ceRNA or sponge	GIT1
+KMT2A	transcriptional regulation	HOTAIR
+KMT2C	transcriptional regulation	HOTAIR
+KRAS	transcriptional regulation	CCAT2
+KRT7-AS	interact with mRNA	KRT7
+LASP1NB	expression association	LASP1
+LCT-AS1	ceRNA or sponge	BMI1
+LDC1P	interact with protein	EGFR
+LIFR-AS1	ceRNA or sponge	TNFAIP3
+LIN28A	interact with mRNA	MALAT1
+LINC-PINT	expression association	HMOX1
+LINC-ROR	ceRNA or sponge	ARF6
+LINC-ROR	ceRNA or sponge	MUC1
+LINC-ROR	ceRNA or sponge	RAD18
+LINC-ROR	epigenetic regulation	TESC
+LINC-ROR	expression association	DUSP7
+LINC-ROR	expression association	KLF4
+LINC-ROR	expression association	PROM1
+LINC-ROR	interact with protein	HNRNPD
+LINC00052	ceRNA or sponge	SOX9
+LINC00092	interact with protein	PFKFB2
+LINC00161	ceRNA or sponge	IFIT2
+LINC00174	ceRNA or sponge	TAFAZZIN
+LINC00222	expression association	GSK3B
+LINC00261	ceRNA or sponge	FOXO1
+LINC00312	ceRNA or sponge	MIR197
+LINC00313	ceRNA or sponge	MIR4429
+LINC00319	ceRNA or sponge	KLF12
+LINC00339	ceRNA or sponge	FOXM1
+LINC00460	ceRNA or sponge	FOXA1
+LINC00460	ceRNA or sponge	KDM2A
+LINC00461	ceRNA or sponge	TOP2A
+LINC00462	expression association	AKT1
+LINC00472	ceRNA or sponge	DEDD
+LINC00473	ceRNA or sponge	CHUK
+LINC00473	expression association	STK11
+LINC00473	expression association	USP9X
+LINC00473	interact with mRNA	ILF2
+LINC00473	interact with protein	NONO
+LINC00511	ceRNA or sponge	MIR150
+LINC00511	epigenetic regulation	NCALD
+LINC00511	interact with protein	POU4F1
+LINC00518	ceRNA or sponge	ABCC1
+LINC00554	transcriptional regulation	MARCKS
+LINC00554	transcriptional regulation	MARCKSL1
+LINC00589	interact with protein	STAT3
+LINC00630	interact with protein	DDX23
+LINC00630	interact with protein	HDAC1
+LINC00662	interact with mRNA	LIN28A
+LINC00668	ceRNA or sponge	VEGFA
+LINC00707	expression association	CDC42
+LINC00844	transcriptional regulation	NDRG1
+LINC00858	ceRNA or sponge	CDK14
+LINC00941	ceRNA or sponge	SNAI1
+LINC00958	epigenetic regulation	VEGFC
+LINC00963	interact with protein	PGK1
+LINC00974	ceRNA or sponge	KRT19
+LINC01013	expression association	SNAI1
+LINC01116	expression association	GAPDH
+LINC01116	expression association	MACROH2A1
+LINC01116	expression association	MAP1LC3B2
+LINC01118	ceRNA or sponge	MIR134
+LINC01121	transcriptional regulation	GLP1R
+LINC01133	epigenetic regulation	CDH1
+LINC01133	interact with protein	SRSF6
+LINC01138	interact with protein	PRMT5
+LINC01139	expression association	LDHA
+LINC01260	transcriptional regulation	CARD11
+LINC01426	interact with mRNA	RUNX1
+LINC01446	ceRNA or sponge	TPT1
+LINC01503	ceRNA or sponge	FOXK1
+LINC01503	interact with protein	PA2G4
+LINC01537	expression association	CDH1
+LINC01567	ceRNA or sponge	MIR93
+LINC01605	expression association	MMP9
+LINC01606	expression association	MIR423
+LINC01612	ceRNA or sponge	CDH1
+LINC01619	ceRNA or sponge	FOXO1
+LINC01672	expression association	MMP10
+LINC01672	interact with protein	BPtranscription_factor
+LINC02566	expression association	IDO1
+LINC02604	ceRNA or sponge	MIR940
+LINC02605	ceRNA or sponge	PTEN
+LINC02633	ceRNA or sponge	MIR216B
+LINC02912	expression association	SIM2
+LINC02963	expression association	AKT2
+LNCARSR	ceRNA or sponge	AXL
+LNCOC1	ceRNA or sponge	MIR34A
+LNCRNA-ATB	ceRNA or sponge	FERMT2
+LNCRNA-ATB	ceRNA or sponge	ZNF217
+LNCSRLR	expression association	IL6
+LNMICC	expression association	FABP5
+LOC100129148	ceRNA or sponge	KLF12
+LOC112543491	ceRNA or sponge	LIN28B
+LOXL1-AS1	expression association	AKT1
+LRP2BP-AS1	transcriptional regulation	LRP2BP
+LSINCT5	ceRNA or sponge	BCL2L1
+LSINCT5	expression association	IL1B
+LSINCT5	expression association	PSPC1
+LUADT1	epigenetic regulation	CDKN1B
+LUCAT1	ceRNA or sponge	ABCB1
+LUNAR1	transcriptional regulation	IGF1R
+MAGI2-AS3	expression association	FAS
+MAGI2-AS3	expression association	FASLG
+MALAT1	ceRNA or sponge	ACVR2B
+MALAT1	ceRNA or sponge	AKAP12
+MALAT1	ceRNA or sponge	ATG12
+MALAT1	ceRNA or sponge	ATG4D
+MALAT1	ceRNA or sponge	CAPNS1
+MALAT1	ceRNA or sponge	CDK9
+MALAT1	ceRNA or sponge	FBXW8
+MALAT1	ceRNA or sponge	FOXQ1
+MALAT1	ceRNA or sponge	GRB2
+MALAT1	ceRNA or sponge	JAG1
+MALAT1	ceRNA or sponge	MCL1
+MALAT1	ceRNA or sponge	MIR127
+MALAT1	ceRNA or sponge	MIR142
+MALAT1	ceRNA or sponge	MIR199B
+MALAT1	ceRNA or sponge	MIR200C
+MALAT1	ceRNA or sponge	MIR375
+MALAT1	ceRNA or sponge	MMP13
+MALAT1	ceRNA or sponge	MMP14
+MALAT1	ceRNA or sponge	PIK3R1
+MALAT1	ceRNA or sponge	RAB5A
+MALAT1	ceRNA or sponge	RET
+MALAT1	ceRNA or sponge	ROCK2
+MALAT1	ceRNA or sponge	SOCS1
+MALAT1	ceRNA or sponge	STMN1
+MALAT1	ceRNA or sponge	TGFA
+MALAT1	ceRNA or sponge	TRAF6
+MALAT1	ceRNA or sponge	TYMS
+MALAT1	epigenetic regulation	EGFL7
+MALAT1	epigenetic regulation	MIR29A
+MALAT1	expression association	ABCA1
+MALAT1	expression association	ADAMTS1
+MALAT1	expression association	ADGRL2
+MALAT1	expression association	AKAP9
+MALAT1	expression association	AURKB
+MALAT1	expression association	CCL5
+MALAT1	expression association	CCT4
+MALAT1	expression association	CDC6
+MALAT1	expression association	CDCP1
+MALAT1	expression association	CDH5
+MALAT1	expression association	CKS1B
+MALAT1	expression association	COL6A1
+MALAT1	expression association	CTHRC1
+MALAT1	expression association	CXCL5
+MALAT1	expression association	DCTN6
+MALAT1	expression association	DRD1
+MALAT1	expression association	FGF2
+MALAT1	expression association	FHL1
+MALAT1	expression association	GPC6
+MALAT1	expression association	HMMR
+MALAT1	expression association	HNF4G
+MALAT1	expression association	IQGAP1
+MALAT1	expression association	ITGB4
+MALAT1	expression association	KDM5B
+MALAT1	expression association	LAYN
+MALAT1	expression association	MAP2K1
+MALAT1	expression association	MCAM
+MALAT1	expression association	MIA2
+MALAT1	expression association	MIR3142HG
+MALAT1	expression association	MIR448
+MALAT1	expression association	MMP19
+MALAT1	expression association	MYBL2
+MALAT1	expression association	NFE2L1
+MALAT1	expression association	PRKCE
+MALAT1	expression association	PTBP3
+MALAT1	expression association	PTK2
+MALAT1	expression association	PXN
+MALAT1	expression association	ROBO1
+MALAT1	expression association	SLC26A2
+MALAT1	expression association	STC1
+MALAT1	expression association	TIA1
+MALAT1	interact with protein	CCAR2
+MALAT1	interact with protein	PTBP2
+MALAT1	interact with protein	TEAD1
+MALAT1	transcriptional regulation	EPAS1
+MALAT1	transcriptional regulation	LTBP3
+MALINC1	expression association	PURA
+MAP3K20-AS1	ceRNA or sponge	YAP1
+MDC1-AS1	expression association	MDC1
+MEG3	ceRNA or sponge	ADH4
+MEG3	ceRNA or sponge	AIFM2
+MEG3	ceRNA or sponge	HDAC7
+MEG3	ceRNA or sponge	HOXA11
+MEG3	ceRNA or sponge	MIR184
+MEG3	ceRNA or sponge	MIR494
+MEG3	ceRNA or sponge	SKP2
+MEG3	expression association	GDF15
+MEG3	expression association	HSPA5
+MEG3	expression association	MIR770
+MEG3	expression association	MIR96
+MEG3	expression association	PHLPP1
+MEG3	expression association	SRGAP1
+MEG3	interact with mRNA	RAC1
+MEG3	interact with protein	ILF3
+MEG3	interact with protein	JARID2
+MEG3	interact with protein	JUN
+MEG3	interact with protein	SMO
+MEG3	transcriptional regulation	BMP4
+MELTF	expression association	FOXP4
+MIAT	ceRNA or sponge	EPHA2
+MIAT	ceRNA or sponge	HDAC4
+MIAT	ceRNA or sponge	LOXL2
+MIAT	ceRNA or sponge	MIR133A1
+MINCR	expression association	AURKA
+MINCR	expression association	CDT1
+MIR1-1	ceRNA or sponge	MALAT1
+MIR100HG	ceRNA or sponge	CDK6
+MIR100HG	ceRNA or sponge	KDM6A
+MIR100HG	ceRNA or sponge	SNCAIP
+MIR101-1	ceRNA or sponge	MALAT1
+MIR122	expression association	HOTTIP
+MIR124-1HG	ceRNA or sponge	KLF16
+MIR125B1	ceRNA or sponge	HOTTIP
+MIR129-1	ceRNA or sponge	GACAT3
+MIR141	ceRNA or sponge	HOTAIR
+MIR148A	epigenetic regulation	MEG3
+MIR148B	ceRNA or sponge	HOTAIR
+MIR155HG	expression association	MIR155
+MIR182	expression association	MALAT1
+MIR190A	ceRNA or sponge	TRERNA1
+MIR192	ceRNA or sponge	HOTTIP
+MIR193A	ceRNA or sponge	HOTAIR
+MIR196A1	ceRNA or sponge	GAS5
+MIR19A	ceRNA or sponge	NBR2
+MIR200A	ceRNA or sponge	H19
+MIR203A	ceRNA or sponge	HULC
+MIR204	ceRNA or sponge	HOTTIP
+MIR21	ceRNA or sponge	CASC2
+MIR210HG	ceRNA or sponge	MIR503
+MIR212	ceRNA or sponge	MEG3
+MIR215	ceRNA or sponge	PCAT1
+MIR216A	ceRNA or sponge	MALAT1
+MIR217	ceRNA or sponge	MALAT1
+MIR223HG	ceRNA or sponge	IRF4
+MIR22HG	ceRNA or sponge	DAPK1
+MIR23B	ceRNA or sponge	TUSC7
+MIR26A1	epigenetic regulation	MEG3
+MIR29B1	expression association	MEG3
+MIR31HG	ceRNA or sponge	MIR193B
+MIR31HG	ceRNA or sponge	RNF144B
+MIR31HG	ceRNA or sponge	ST7L
+MIR34A	ceRNA or sponge	HOTAIR
+MIR34AHG	epigenetic regulation	MIR34A
+MIR34C	ceRNA or sponge	CBR3-AS1
+MIR376C	ceRNA or sponge	CYTOR
+MIR4435-2HG	ceRNA or sponge	MIR6754
+MIR4435-2HG	expression association	FZD7
+MIR548K	ceRNA or sponge	NPTN-IT1
+MIR675	epigenetic regulation	H19
+MIR9-1	expression association	MALAT1
+MIR99AHG	expression association	MIR125B1
+MNX1-AS1	interact with protein	MAPK1
+MPPED2-AS1	expression association	MPPED2
+MRTFA	transcriptional regulation	HOTAIR
+MSX2P1	ceRNA or sponge	S100A7
+MT1DP	expression association	FOXA1
+MT1DP	expression association	MT1F
+MT1JP	ceRNA or sponge	RUNX3
+MT1JP	expression association	BCL2L11
+MTOR	expression association	GAS5
+MYCN	expression association	SNHG1
+MYCNOS	expression association	MYCN
+NALT1	interact with protein	NOTCH1
+NBAT1	epigenetic regulation	DKK1
+NBAT1	expression association	REST
+NBR2	interact with protein	PRKAA1
+NBR2	interact with protein	PRKAA2
+NBR2	interact with protein	PRKAB1
+NBR2	interact with protein	PRKAG1
+NCK1-DT	ceRNA or sponge	CDK1
+NEAT1	ceRNA or sponge	BCL2
+NEAT1	ceRNA or sponge	CTBP2
+NEAT1	ceRNA or sponge	KLF6
+NEAT1	ceRNA or sponge	LEF1
+NEAT1	ceRNA or sponge	MAPK6
+NEAT1	ceRNA or sponge	MIR128-1
+NEAT1	ceRNA or sponge	MIR506
+NEAT1	ceRNA or sponge	NRAS
+NEAT1	ceRNA or sponge	PNPLA2
+NEAT1	ceRNA or sponge	USF1
+NEAT1	expression association	CDK5R1
+NEAT1	expression association	EIF4G1
+NEAT1	expression association	MMP7
+NEAT1	expression association	WNT4
+NEAT1	interact with protein	DDX5
+NEAT1	interact with protein	SIN3A
+NEAT1	transcriptional regulation	GATA3
+NEAT1	transcriptional regulation	MIR342
+NFE2L2	transcriptional regulation	LUCAT1
+NFIA-AS1	expression association	MIR382
+NFIA-AS1	expression association	NFIA
+NIFK-AS1	ceRNA or sponge	MIR146A
+NKILA	expression association	NFKB1
+NKILA	expression association	NFKBIA
+NKILA	interact with protein	NFKBIB
+NKX2-1-AS1	transcriptional regulation	CD274
+NMRAL2P	expression association	CDH1
+NNT-AS1	ceRNA or sponge	CDK6
+NORAD	ceRNA or sponge	FOXO6
+NORAD	ceRNA or sponge	MIR202
+NORAD	expression association	PUM2
+NOTCH1	expression association	C1orf74
+NPTN-IT1	expression association	NOTCH1
+NSUN2	epigenetic regulation	LINC01672
+OIP5-AS1	ceRNA or sponge	AGPAT2
+OIP5-AS1	ceRNA or sponge	DYRK1A
+OIP5-AS1	ceRNA or sponge	KLF10
+OIP5-AS1	ceRNA or sponge	MIR378A
+OIP5-AS1	expression association	OIP5
+OLA1P2	interact with protein	STAT3
+P4HA2	expression association	ZEB1
+PACERR	expression association	PTGS2
+PANDAR	expression association	BCL2
+PANTR1	epigenetic regulation	POU3F3
+PART1	ceRNA or sponge	BCL2
+PARTICL	expression association	WWOX
+PAUPAR	epigenetic regulation	HES1
+PAUPAR	epigenetic regulation	PAX6
+PAX5	expression association	DLEU2
+PCA3	ceRNA or sponge	MIR106B
+PCA3	ceRNA or sponge	PRKD3
+PCA3	interact with mRNA	PRUNE2
+PCAT1	ceRNA or sponge	FSCN1
+PCAT1	expression association	CRKL
+PCAT6	expression association	MYC
+PCAT7	ceRNA or sponge	ELF2
+PCBP2-OT1	expression association	CCNB1
+PCDH10	expression association	MALAT1
+PCSEAT	ceRNA or sponge	EZH2
+PDCD4-AS1	interact with mRNA	PDCD4
+PDIA3P1	transcriptional regulation	G6PD
+PEG10	expression association	MIR3200
+PGK1P2	ceRNA or sponge	PGK1
+PHB1P1	interact with mRNA	PHB1
+PICSAR	expression association	DUSP6
+PIK3CD	expression association	GAS5
+POU3F3	transcriptional regulation	DALIR
+POU5F1	transcriptional regulation	MALAT1
+POU6F2-AS2	interact with protein	YBX1
+PRAC2	epigenetic regulation	HOXB13
+PRAL	expression association	TP53
+PRAM1	expression association	NEAT1
+PRDM16-DT	expression association	CDKN2A
+PRECSIT	expression association	JAK2
+PRPF31	ceRNA or sponge	BCL2L2
+PSG10P	ceRNA or sponge	IL1RAP
+PSMD6-AS1	transcriptional regulation	MDM2
+PTCSC1	interact with protein	DHX9
+PTCSC2	interact with protein	FOXE1
+PTCSC3	ceRNA or sponge	SCAI
+PTCSC3	expression association	LRP6
+PTEN	expression association	MALAT1
+PTENP1	ceRNA or sponge	ATG7
+PTENP1	ceRNA or sponge	ULK1
+PURPL	expression association	TP53
+PVT1	ceRNA or sponge	ATG7
+PVT1	ceRNA or sponge	GREM1
+PVT1	ceRNA or sponge	HILPDA
+PVT1	ceRNA or sponge	INCENP
+PVT1	ceRNA or sponge	MIR26B
+PVT1	ceRNA or sponge	MIR488
+PVT1	ceRNA or sponge	MIR519D
+PVT1	epigenetic regulation	ANGPTL4
+PVT1	expression association	SMAD3
+PWAR5	interact with protein	EZH2
+RAB11B-AS1	interact with mRNA	RAB11B
+RAB4B-EGLN2	expression association	EGLN2
+RAD51-AS1	interact with mRNA	RAD51
+RASSF1-AS1	epigenetic regulation	RASSF1
+RB1	epigenetic regulation	MEG3
+RB1-DT	epigenetic regulation	RB1
+RBM24	expression association	MALAT1
+RCC2-AS1	interact with protein	RCC2
+RGMB-AS1	expression association	RGMB
+RHOC	transcriptional regulation	HOTAIR
+RMRP	ceRNA or sponge	CCND2
+RMRP	expression association	FMNL2
+RPL13AP20	interact with protein	GSK3B
+RPL13AP23	expression association	HIF1A
+RPL13AP23	transcriptional regulation	OS9
+RSU1P2	ceRNA or sponge	MYC
+RUNX1	transcriptional regulation	MT1DP
+RXRA	transcriptional regulation	HULC
+SALL4	transcriptional regulation	DANCR
+SAMMSON	interact with protein	C1QBP
+SATB1	epigenetic regulation	UCA1
+SBF2-AS1	epigenetic regulation	CDKN1A
+SCHLAP1	ceRNA or sponge	MAPK1
+SH3PXD2A-AS1	epigenetic regulation	CDKN1C
+SIRLNT	ceRNA or sponge	SIRT1
+SIRT1-AS	interact with mRNA	SIRT1
+SLC7A11-AS1	expression association	SLC7A11
+SLCO4A1-AS1	interact with protein	CTNNB1
+SMAD4	transcriptional regulation	LINP1
+SMILR	expression association	HAS2
+SMIM10L2A	ceRNA or sponge	MIR214
+SNAI1	transcriptional regulation	PCA3
+SNHG1	ceRNA or sponge	CCND2
+SNHG1	ceRNA or sponge	CDK7
+SNHG1	ceRNA or sponge	CST3
+SNHG1	ceRNA or sponge	NOB1
+SNHG1	ceRNA or sponge	RAB11A
+SNHG1	ceRNA or sponge	SIAH1
+SNHG1	ceRNA or sponge	WNT2B
+SNHG1	expression association	HES2
+SNHG1	expression association	MIR137
+SNHG1	expression association	TCF7
+SNHG12	ceRNA or sponge	FOXP1
+SNHG12	ceRNA or sponge	MAP3K11
+SNHG12	expression association	AMOT
+SNHG14	epigenetic regulation	PABPC1
+SNHG15	ceRNA or sponge	CDC42
+SNHG15	ceRNA or sponge	MIR211
+SNHG16	ceRNA or sponge	E2F1
+SNHG16	ceRNA or sponge	E2F5
+SNHG17	epigenetic regulation	CDKN1C
+SNHG18	expression association	SEMA5A
+SNHG20	ceRNA or sponge	ADAM10
+SNHG3	ceRNA or sponge	MYC
+SNHG4	ceRNA or sponge	MIR224
+SNHG5	ceRNA or sponge	CASP1
+SNHG5	epigenetic regulation	MTA2
+SNHG6	ceRNA or sponge	E2F7
+SNHG6	ceRNA or sponge	MAP3K7
+SNHG6	ceRNA or sponge	NUAK1
+SNHG7	ceRNA or sponge	CCND1
+SNHG7	ceRNA or sponge	FAIM2
+SNHG7	ceRNA or sponge	GALNT7
+SNHG8	ceRNA or sponge	CCND1
+SOCS2-AS1	epigenetic regulation	TNFSF10
+SOX2	transcriptional regulation	PVT1
+SOX2-OT	ceRNA or sponge	MIR194-1
+SOX21-AS1	ceRNA or sponge	MYO6
+SOX9	transcriptional regulation	NBAT1
+SP1	expression association	MALAT1
+SP3	transcriptional regulation	MALAT1
+SPAAR	expression association	CDH2
+SPINT1-AS1	expression association	SPINT1
+SPP1	expression association	HOTAIR
+SPRY4-IT1	ceRNA or sponge	EZH2
+SPRY4-IT1	expression association	CDC20
+SPRY4-IT1	expression association	DPP4
+SPRY4-IT1	expression association	WNT3
+SPRY4-IT1	expression association	WNT5B
+SPRY4-IT1	expression association	ZNF703
+SRF	transcriptional regulation	HOTAIR
+SRSF1	transcriptional regulation	MALAT1
+STAT1	transcriptional regulation	LINC00174
+STAT3	expression association	IGF2-AS
+STAT3	expression association	RN7SK
+STAT5A	expression association	HNRNPKP2
+SUMO1P3	ceRNA or sponge	MIR320A
+SYK	transcriptional regulation	MALAT1
+TARDBP	interact with protein	MALAT1
+TARID	epigenetic regulation	TCF21
+TARID	interact with protein	TDG
+TATDN1	expression association	CDH1
+TATDN2	expression association	ERBB2
+TATDN3	expression association	CTNNB1
+TBILA	interact with protein	GCSAM
+TDRG1	expression association	RHOC
+TERLR1	ceRNA or sponge	TERT
+TET3	expression association	HIF1A-AS1
+TFAP4	transcriptional regulation	TRERNA1
+TFDP1	expression association	STAT3
+TGFB1	expression association	HOTAIR
+TGFB2	expression association	LNCRNA-ATB
+THORLNC	expression association	CTNNB1
+THRIL	ceRNA or sponge	CCL2
+TILRLS	expression association	MDM2
+TILRLS	interact with protein	TCL1A
+TINCR	ceRNA or sponge	FBXW7
+TINCR	expression association	TRIP13
+TLR3	expression association	IL7R
+TLX3	interact with protein	MIR99AHG
+TMEM18	ceRNA or sponge	MIR143
+TMEM238L	expression association	MIR942
+TMPOP2	epigenetic regulation	CDH1
+TNF	expression association	HIF1A-AS1
+TP53	expression association	DBH-AS1
+TP53COR1	ceRNA or sponge	PTEN
+TP53COR1	expression association	OLR1
+TP53TG1	interact with protein	YBX1
+TP63	transcriptional regulation	LINC01503
+TP73-AS1	ceRNA or sponge	EZH2
+TP73-AS1	ceRNA or sponge	SDAD1
+TP73-AS1	ceRNA or sponge	TFAM
+TP73-AS1	expression association	AGER
+TP73-AS1	expression association	BDH2
+TPM1-AS	interact with mRNA	TPM1
+TRERNA1	epigenetic regulation	CDH1
+TRPM2-AS	expression association	SHC1
+TSLP	transcriptional regulation	HOTAIR
+TTN-AS1	ceRNA or sponge	FSCN1
+TUG1	ceRNA or sponge	CPEB2
+TUG1	ceRNA or sponge	HSF2
+TUG1	ceRNA or sponge	MIR219A1
+TUG1	ceRNA or sponge	MIR29C
+TUG1	ceRNA or sponge	SIRT3
+TUG1	epigenetic regulation	CELF1
+TUG1	epigenetic regulation	HOXB7
+TUG1	epigenetic regulation	LIMK2
+TUG1	expression association	BNIP3
+TUG1	expression association	GLUD1
+TUG1	expression association	MIR300
+TUG1	expression association	MIR455
+TUG1	expression association	MKI67
+TUG1	expression association	POU2F1
+TUSC7	ceRNA or sponge	CDK6
+TUSC7	ceRNA or sponge	EPHA4
+TUSC7	ceRNA or sponge	MIR10A
+TUSC7	ceRNA or sponge	TMPRSS11E
+TUSC7	expression association	FLT1
+TUSC8	interact with mRNA	MYC
+TWIST1	transcriptional regulation	DUXAP9
+UC.134	expression association	LATS1
+UCA1	ceRNA or sponge	ABCB1
+UCA1	ceRNA or sponge	ARL2
+UCA1	ceRNA or sponge	CREB1
+UCA1	ceRNA or sponge	GLS2
+UCA1	ceRNA or sponge	MIR495
+UCA1	ceRNA or sponge	SF1
+UCA1	epigenetic regulation	PIM1
+UCA1	expression association	MIR27B
+UCA1	expression association	WNT6
+UCA1	interact with protein	GRK2
+UCA1	interact with protein	SMARCA4
+UHRF1	epigenetic regulation	MEG3
+UICLM	ceRNA or sponge	ZEB2
+UPF1	interact with protein	MALAT1
+VLDLR-AS1	expression association	ABCG2
+VPS9D1-AS1	ceRNA or sponge	MYC
+WDFY3-AS2	expression association	CDH2
+WDR77	expression association	GPER1
+WDR86-AS1	ceRNA or sponge	LITAF
+WIF1	expression association	MALAT1
+WSPAR	ceRNA or sponge	EPCAM
+WSPAR	expression association	TIMMDC1
+WT1	transcriptional regulation	MEG3
+WT1-AS	expression association	MAPK1
+WWOX-AS1	expression association	WWOX
+XIAP-AS1	transcriptional regulation	XIAP
+XIST	ceRNA or sponge	AR
+XIST	ceRNA or sponge	BAG1
+XIST	ceRNA or sponge	LARP1
+XIST	ceRNA or sponge	MIR186
+XIST	ceRNA or sponge	NOD2
+XIST	ceRNA or sponge	PDE4D
+XIST	ceRNA or sponge	RSF1
+XIST	expression association	MGMT
+YAP1	expression association	H19
+YAP1	expression association	LATS2-AS1
+YY1	transcriptional regulation	HOTAIR
+ZBTB7A	transcriptional regulation	LINC00473
+ZEB1	expression association	HOTAIR
+ZEB1	transcriptional regulation	ENSG00000263080
+ZEB1-AS1	ceRNA or sponge	MIR335
+ZEB2-AS1	ceRNA or sponge	HMGB1
+ZFAS1	ceRNA or sponge	CDK1
+ZFAS1	ceRNA or sponge	CRP
+ZFAS1	ceRNA or sponge	MIR27A
+ZFAS1	ceRNA or sponge	MMP16
+ZFAS1	expression association	WNT3A
+ZFHX4-AS1	transcriptional regulation	FAT4
+ZFPM2-AS1	interact with protein	MIF
+ZNF496-DT	transcriptional regulation	NLRP3
+UCA1	expression association	HK2
+PTENP1	ceRNA or sponge	PTEN
+MIR100HG	expression association	BCL2
+GAS5	interact with mRNA	CDK6
+NEAT1	interact with protein	EZH2
+LINC-ROR	ceRNA or sponge	MIR145
+HOTAIR	expression association	CDKN1A
+CPS1-IT1	expression association	HIF1A
+HULC	interact with protein	YBX1
+MALAT1	expression association	RHOA
+STAT3	interact with protein	MEG3
+MEG3	interact with mRNA	ATG3
+AGAP2-AS1	interact with protein	EZH2
+MALAT1	ceRNA or sponge	STAT3
+LNCRNA-ATB	expression association	CDH1
+GAS5	expression association	TP53
+MEG3	expression association	TGFB1
+TUG1	expression association	MIR145
+GRHL2-DT	expression association	TGFB1
+MALAT1	transcriptional regulation	PROM1
+LINC02633	ceRNA or sponge	MMP2
+H19	expression association	EGFR
+LINC01503	expression association	PIK3CD
+CASC2	ceRNA or sponge	FBXW7
+MIAT	ceRNA or sponge	ZEB1
+CASC2	expression association	MAPK3
+MEG3	expression association	NLRP3
+H19	expression association	ABCG2
+PCBP2-OT1	expression association	SNAI1
+MALAT1	expression association	CDKN1A
+PCAT6	expression association	TP53
+BANCR	interact with protein	EZH2
+HULC	expression association	BCL2
+ZFAS1	expression association	NKD2
+CDKN2B-AS1	expression association	CDKN2B
+PVT1	ceRNA or sponge	ULK1
+LOXL1-AS1	expression association	PIK3CD
+PVT1	ceRNA or sponge	HIF1A
+PVT1	epigenetic regulation	STAT1
+TP73-AS1	expression association	CDH1
+SNHG1	epigenetic regulation	KLF2
+KCNQ1OT1	expression association	MIR214
+DANCR	epigenetic regulation	CDKN1B
+ZEB1-AS1	expression association	MAPK1
+SNHG1	ceRNA or sponge	TGFBR2
+CCAT1	ceRNA or sponge	MYC
+H19	expression association	TP53
+SP1	transcriptional regulation	AGAP2-AS1
+ZEB1-AS1	ceRNA or sponge	ZEB1
+EZH2	expression association	HOTAIR
+YAP1	expression association	HOTAIR
+DUXAP9	ceRNA or sponge	SNAI1
+CASC2	ceRNA or sponge	MTOR
+SOX21-AS1	interact with protein	EZH2
+FER1L4	ceRNA or sponge	PTEN
+HIF1A-AS1	expression association	CASP8
+SNHG3	expression association	GSK3B
+IATPR	expression association	ZEB1
+SNHG6	interact with protein	SNAI1
+CDKN2B-AS1	expression association	SMAD2
+HOTAIR	expression association	MIR34A
+LINC01133	epigenetic regulation	CDKN1A
+SNHG5	ceRNA or sponge	KLF4
+FEZF1-AS1	epigenetic regulation	CDKN1A
+MEG3	ceRNA or sponge	NFE2L2
+GAS5	expression association	CASP3
+HOTAIR	ceRNA or sponge	MIR1-1
+TUG1	ceRNA or sponge	SOX4
+XIST	ceRNA or sponge	PDK1
+HOTAIR	expression association	BCL2
+BCAR4	expression association	CDH2
+H19	ceRNA or sponge	MIR194-1
+HULC	expression association	SIRT1
+GAS5	expression association	E2F1
+P4HA2	transcriptional regulation	MIR200B
+SNHG12	ceRNA or sponge	MCL1
+MALAT1	expression association	MAPK1
+MYC	transcriptional regulation	TINCR
+CDKN2B-AS1	expression association	CASP9
+HEIH	epigenetic regulation	MIR429
+CCAT1	expression association	BMI1
+RMRP	expression association	MIR206
+HOXA-AS2	interact with protein	EZH2
+HOTAIR	epigenetic regulation	CHUK
+MALAT1	expression association	YAP1
+MALAT1	expression association	PCNA
+H19	ceRNA or sponge	ZEB2
+LUCAT1	ceRNA or sponge	STAT3
+H19	ceRNA or sponge	DNMT1
+GIHCG	interact with protein	EZH2
+LINC00941	interact with protein	ANXA2
+PVT1	expression association	ABCC1
+LINC00312	expression association	MIR197
+DUXAP8	epigenetic regulation	EGR1
+BCAR4	transcriptional regulation	GLI2
+HULC	expression association	PIK3CD
+CRNDE	expression association	CASP3
+SOX2-OT	expression association	CCNB1
+LINC00261	expression association	NOTCH1
+LOC112543491	expression association	CDK4
+XIST	ceRNA or sponge	MACC1
+MALAT1	interact with protein	SUZ12
+HOTAIR	ceRNA or sponge	CCND1
+SNHG1	expression association	TP53
+NEAT1	ceRNA or sponge	MIR101-1
+XIST	ceRNA or sponge	MIR29C
+CDKN2B-AS1	interact with protein	CDKN1A
+RASSF1-AS1	interact with protein	SUZ12
+NEAT1	ceRNA or sponge	CCND1
+PCBP2-OT1	interact with mRNA	RASAL1
+TUG1	epigenetic regulation	KLF2
+OIP5-AS1	ceRNA or sponge	ELAVL1
+HULC	interact with protein	ATG7
+HOTTIP	expression association	BCL2
+NEAT1	ceRNA or sponge	ROCK1
+UCA1	expression association	TERT
+HULC	expression association	MTOR
+HOTAIR	interact with protein	RUNX3
+HOTAIR	expression association	CCND1
+H19	expression association	VIM
+YAP1	transcriptional regulation	BCAR4
+DLX6-AS1	ceRNA or sponge	MMP2
+HNF1A-AS1	expression association	MYC
+LINC00473	transcriptional regulation	IL24
+PANTR1	expression association	RB1
+HOTAIR	expression association	CTNNB1
+MYC	transcriptional regulation	C20orf204
+NEAT1	expression association	IL6
+SNHG5	ceRNA or sponge	GSK3B
+H19	expression association	AKT1
+HNF1A-AS1	epigenetic regulation	NKD1
+H19	transcriptional regulation	NOTCH1
+LINC-ROR	ceRNA or sponge	FSCN1
+AFAP1-AS1	expression association	MMP2
+UCA1	ceRNA or sponge	ZEB1
+SNHG15	ceRNA or sponge	YAP1
+H19	transcriptional regulation	CDH1
+SOX2-OT	expression association	CDK1
+PCBP2-OT1	interact with protein	BMI1
+UCA1	expression association	MAPK1
+GAS5	expression association	AKT1
+IQANK1	interact with protein	EZH2
+FER1L4	expression association	MIR106A
+MALAT1	expression association	MAPK8
+CPS1-IT1	expression association	CASP9
+HOXA-AS2	ceRNA or sponge	GPC3
+PVT1	epigenetic regulation	MIR146A
+HIF1A-AS3	transcriptional regulation	TP53
+CYTOR	ceRNA or sponge	HIF1A
+NEAT1	ceRNA or sponge	MIR613
+LNCARSR	interact with mRNA	PTEN
+SNHG1	interact with protein	EZH2
+PTENP1	ceRNA or sponge	PHLPP1
+HNF1A-AS1	ceRNA or sponge	MIR17
+LINC01503	expression association	MAPK3
+IRAIN	epigenetic regulation	KLF2
+AATBC	expression association	NFE2L2
+UCA1	ceRNA or sponge	BRD4
+HAGLR	ceRNA or sponge	MMP9
+CDKN2B-AS1	expression association	MIRLET7A1
+LUCAT1	interact with protein	EZH2
+MYC	transcriptional regulation	CCAT1
+HULC	epigenetic regulation	MIR9-1
+SNHG6	expression association	CDKN1A
+MALAT1	expression association	MIR145
+TGFB1	expression association	MALAT1
+YAP1	transcriptional regulation	MALAT1
+MALAT1	epigenetic regulation	CDKN1A
+GAS5	transcriptional regulation	CDKN1B
+DANCR	expression association	TGFB1
+DANCR	ceRNA or sponge	MMP9
+GAS5	expression association	BRCA1
+FENDRR	expression association	ABCB1
+AATBC	expression association	RB1
+DANCR	ceRNA or sponge	MIR216A
+HNF1A-AS1	ceRNA or sponge	SIRT1
+PVT1	expression association	BCL2
+CRNDE	expression association	CCND1
+CCDST	interact with protein	MDM2
+GAS5	expression association	PTEN
+MEG3	interact with protein	DNMT1
+LINC00052	expression association	ERBB3
+MALAT1	ceRNA or sponge	SNAI2
+MALAT1	ceRNA or sponge	SIRT1
+LINC00707	interact with protein	ELAVL1
+PTENP1	ceRNA or sponge	SQSTM1
+FOXM1	transcriptional regulation	TUG1
+UCA1	epigenetic regulation	CDKN1B
+UCA1	transcriptional regulation	PKM
+BCAR4	expression association	VIM
+THORLNC	transcriptional regulation	YAP1
+HOTAIR	ceRNA or sponge	SOX2
+HULC	ceRNA or sponge	HMGA2
+MEG3	expression association	HES1
+HOTAIR	transcriptional regulation	NFKB1
+MEG3	interact with protein	PIK3CD
+HOTAIR	ceRNA or sponge	HIF1A
+MIR31HG	epigenetic regulation	MIR31
+PVT1	epigenetic regulation	MIR214
+PVT1	ceRNA or sponge	IGF1R
+PVT1	ceRNA or sponge	FGF2
+C1orf74	expression association	CASP3
+HOTTIP	expression association	CTNNB1
+TUG1	expression association	HK2
+PRAC2	interact with protein	EZH2
+CCDC26	expression association	PCNA
+LSINCT5	ceRNA or sponge	STAT3
+GAS5	expression association	MMP2
+CRNDE	interact with protein	EZH2
+H19	expression association	MIR675
+PCAT1	ceRNA or sponge	WNT1
+TUG1	expression association	BCL2
+MALAT1	expression association	MCL1
+UC.134	expression association	YAP1
+HOXA11-AS	expression association	VIM
+LINC00261	expression association	CASP3
+MALAT1	epigenetic regulation	CDH1
+PVT1	epigenetic regulation	MIR200B
+H19	expression association	MIRLET7A1
+FENDRR	expression association	MMP9
+LUCAT1	epigenetic regulation	CDKN1C
+HOTAIR	expression association	EZH2
+LOC112543491	expression association	CCND1
+TUG1	expression association	MIR223
+LNCRNA-ATB	ceRNA or sponge	PTEN
+MEG3	ceRNA or sponge	MIR93
+HOXA11-AS	expression association	MMP9
+THORLNC	expression association	MYC
+HOTAIR	expression association	ATG3
+HOTAIR	interact with protein	SUZ12
+MALAT1	interact with protein	EZH2
+NEAT1	expression association	MYC
+TP53COR1	expression association	CDKN1A
+LINC00460	ceRNA or sponge	IL6
+DGCR5	expression association	CCND1
+HOTTIP	expression association	TP53
+MALAT1	epigenetic regulation	MIR29B1
+TWIST1	transcriptional regulation	GAS1RR
+LINC00462	expression association	PIK3CD
+ESR1	interact with protein	HOTAIR
+HOTAIR	expression association	MAP1LC3B
+HOTAIR	expression association	WIF1
+SNHG1	expression association	CDH1
+LINC00668	interact with protein	SUZ12
+FEZF1-AS1	interact with protein	EZH2
+H19	ceRNA or sponge	ZEB1
+CASC2	ceRNA or sponge	MIR21
+SBF2-AS1	expression association	CDKN1A
+STAT3	transcriptional regulation	HAGLROS
+TP53	transcriptional regulation	TUG1
+TP53COR1	expression association	MIR130B
+MALAT1	interact with mRNA	VEGFA
+DBH-AS1	expression association	CDK6
+MALAT1	epigenetic regulation	NFE2L2
+CDKN2B-AS1	interact with protein	KLF2
+CASC2	expression association	CTNNB1
+UCA1	expression association	KRAS
+LINC00261	expression association	CASP9
+HAGLR	ceRNA or sponge	ZEB1
+CYTOR	epigenetic regulation	PTEN
+CDKN2B-AS1	expression association	TLR4
+PVT1	expression association	CDKN2B
+DANCR	interact with mRNA	CTNNB1
+HOXA11-AS	expression association	VEGFA
+BICDL3P	interact with protein	RHOC
+LINC-ROR	interact with mRNA	MYC
+MIR100HG	expression association	MIR100
+HOTAIR	expression association	FOXA1
+DUXAP9	ceRNA or sponge	VIM
+LINC00511	epigenetic regulation	CDKN1C
+MALAT1	expression association	AXL
+CDKN2B-AS1	expression association	BCL2
+HOTTIP	expression association	HOXA9
+HOXA11-AS	interact with protein	EZH2
+BCAR4	expression association	ERBB2
+HNF1A-AS1	expression association	TP53
+LNCRNA-ATB	ceRNA or sponge	MIR141
+MALAT1	transcriptional regulation	TERF2
+LINC00511	expression association	MMP9
+NOTCH1	transcriptional regulation	TUG1
+TUSC7	expression association	BCL2
+NORAD	ceRNA or sponge	PTEN
+WSPAR	transcriptional regulation	SNAI2
+UCA1	epigenetic regulation	CDKN1A
+CASC9	interact with protein	EZH2
+C20orf204	ceRNA or sponge	MIR9-1
+CCAT1	ceRNA or sponge	MIR143
+FER1L4	expression association	PTEN
+UCA1	expression association	ZEB2
+LINC-ROR	interact with protein	PTBP1
+P4HA2	transcriptional regulation	MIR200A
+OIP5-AS1	ceRNA or sponge	BCL2
+TP53COR1	interact with protein	HNRNPK
+MEG3	epigenetic regulation	CDH1
+ZFAS1	ceRNA or sponge	ZEB1
+ZEB1-AS1	expression association	CDK2
+FALEC	interact with protein	EZH2
+FTH1P3	expression association	SP1
+TUG1	expression association	MYC
+HOTTIP	expression association	CCNB1
+MALAT1	ceRNA or sponge	SNAI1
+XIST	ceRNA or sponge	RAC1
+MEG3	expression association	TPM1
+PVT1	expression association	CDKN1A
+MALAT1	expression association	CTNNB1
+PANTR1	expression association	ROCK1
+UCA1	ceRNA or sponge	ZEB2
+CRNDE	ceRNA or sponge	TCF4
+LINC00460	ceRNA or sponge	MMP9
+TP53COR1	expression association	CCND1
+TP53COR1	expression association	CDK4
+GHET1	expression association	YAP1
+HAGLR	ceRNA or sponge	MIR217
+PICSAR	expression association	MAPK3
+BANCR	expression association	NFKB1
+H19	transcriptional regulation	EPCAM
+MALAT1	ceRNA or sponge	SMAD4
+MIR22HG	expression association	MET
+H19	ceRNA or sponge	CTNNB1
+SNHG1	epigenetic regulation	CDKN1A
+ERLNC1	expression association	CDK6
+CDKN2B-AS1	expression association	TGFB1
+UCA1	epigenetic regulation	HULC
+SPRY4-IT1	expression association	CDH1
+MALAT1	epigenetic regulation	TP53
+SPRY4-IT1	expression association	VIM
+MEG3	ceRNA or sponge	FOXO1
+GAS5	expression association	EGFR
+UCA1	expression association	TJP1
+SNHG12	expression association	MMP13
+LINC01133	interact with protein	EZH2
+MEG3	expression association	NOTCH1
+LINC-ROR	expression association	MIR205
+HOTAIR	epigenetic regulation	LAMC2
+MALAT1	expression association	MIR122
+H19	expression association	PIK3CD
+HOTAIR	ceRNA or sponge	PTEN
+HOTTIP	interact with protein	KDM1A
+ZFAS1	expression association	ZEB2
+SNHG1	expression association	CDH2
+UCA1	ceRNA or sponge	MIR18A
+H19	expression association	CDH1
+DBH-AS1	expression association	CCND1
+MEG3	ceRNA or sponge	BRI3
+MALAT1	expression association	BCL2
+H19	ceRNA or sponge	FOXM1
+DANCR	expression association	IL6
+LINC00312	expression association	PIK3CD
+MYC	epigenetic regulation	CASC11
+SNHG16	ceRNA or sponge	ZEB1
+DRAIC	expression association	TGFB1
+HOTAIR	expression association	CASP3
+TUSC7	ceRNA or sponge	MIR211
+MALAT1	expression association	BAX
+LINC-ROR	transcriptional regulation	ZEB1
+HOTAIR	ceRNA or sponge	HK2
+CASC2	expression association	MAPK8
+PANTR1	expression association	CDKN2C
+AFAP1-AS1	expression association	TWIST1
+H19	expression association	MAPK3
+CRNDE	expression association	FOXM1
+DGCR5	interact with protein	EGFR
+HOTAIR	expression association	EGFR
+HOTAIR	ceRNA or sponge	MIR148B
+HOTAIR	expression association	DNMT1
+TP73-AS1	expression association	CASP3
+SNHG7	expression association	CDKN2A
+TGFB1	expression association	ZEB2-AS1
+CCAT1	expression association	MIR218-1
+UCA1	expression association	MIR204
+MIAT	ceRNA or sponge	MIR29B1
+TINCR	interact with protein	EPCAM
+MALAT1	epigenetic regulation	PCDH10
+H19	expression association	TWIST1
+HOXA-AS2	expression association	TNFSF10
+PCBP2-OT1	expression association	CDC25C
+BANCR	expression association	CDH1
+PVT1	expression association	TGFB1
+UCA1	expression association	PARP1
+MEG3	interact with protein	EZH2
+UCA1	interact with protein	EZH2
+HOXA-AS2	epigenetic regulation	CDKN1A
+HULC	ceRNA or sponge	MIR122
+MYC	transcriptional regulation	HOTAIR
+MIR148A	expression association	HOTAIR
+CERNA2	expression association	BCL2
+FLVCR1-DT	ceRNA or sponge	MET
+HOTAIR	epigenetic regulation	PTEN
+LINC01672	expression association	MMP3
+MIR4435-2HG	interact with protein	YBX1
+CP	expression association	MAPK3
+LUCAT1	expression association	AKT1
+UCA1	transcriptional regulation	CCND1
+NORAD	expression association	TGFB1
+GHET1	expression association	LATS1
+SNHG15	ceRNA or sponge	MIR141
+NEAT1	ceRNA or sponge	E2F3
+NIFK-AS1	ceRNA or sponge	MIR3142HG
+TUG1	ceRNA or sponge	EZH2
+SPRY4-IT1	expression association	TGFB1
+GAS5	expression association	BAX
+H19	expression association	MTOR
+LINC00313	transcriptional regulation	SOX2
+WT1-AS	transcriptional regulation	WT1
+LNCRNA-ATB	ceRNA or sponge	TGFB2
+ESR1	transcriptional regulation	NEAT1
+CCAT1	ceRNA or sponge	HOXB13
+CANT1	expression association	XIST
+PVT1	expression association	SMAD4
+DRAIC	expression association	MAPK1
+CDKN2B-AS1	expression association	MYD88
+TUG1	interact with protein	SUZ12
+CDKN2B-AS1	expression association	PIK3CD
+MIR31HG	interact with protein	EZH2
+SNHG12	ceRNA or sponge	NOTCH2
+SNHG20	expression association	CTNNB1
+BDNF-AS	expression association	CASP3
+MALAT1	expression association	POU5F1
+LSINCT5	interact with protein	MYCNOS
+LINC00511	epigenetic regulation	KLF2
+MALAT1	ceRNA or sponge	MIR145
+TUG1	ceRNA or sponge	FOXA1
+PVT1	ceRNA or sponge	LASP1
+MEG3	expression association	HIF1A
+MALAT1	ceRNA or sponge	ROCK1
+MEG3	epigenetic regulation	MIR200C
+CYTOR	interact with protein	EZH2
+EWSAT1	expression association	MEG3
+HOTAIR	expression association	MTOR
+ZEB1-AS1	expression association	CCND1
+HOXA11-AS	expression association	SNAI1
+LINC-ROR	expression association	SOX2
+CRNDE	expression association	PCNA
+GAS5	expression association	CDKN1A
+LINC00161	ceRNA or sponge	PTEN
+CCAT1	ceRNA or sponge	BCL2L1
+UCA1	expression association	CASP3
+NEAT1	ceRNA or sponge	EZH2
+MIR125B1	ceRNA or sponge	MALAT1
+MIAT	expression association	POU5F1
+MEG3	interact with protein	TP53
+LINC-ROR	expression association	NANOG
+TUG1	expression association	CTNNB1
+CYTOR	epigenetic regulation	CDKN2B
+LINC00511	epigenetic regulation	LATS2
+MALAT1	ceRNA or sponge	ELAVL1
+TUG1	interact with protein	EED
+MIR22HG	expression association	YBX1
+MT1JP	expression association	TP53
+PRDM16-DT	expression association	CDKN2B
+BANCR	expression association	MMP2
+UCA1	chromatin looping	CTNNB1
+BCAR4	expression association	CDH1
+TDRG1	interact with protein	VEGFA
+FOXP4-AS1	interact with protein	KDM1A
+CRNDE	expression association	MTOR
+NEAT1	expression association	ROCK1
+LUCAT1	epigenetic regulation	CDKN1A
+DANCR	expression association	CDKN1A
+NORAD	ceRNA or sponge	RHOA
+TRERNA1	expression association	SNAI1
+TATDN1	expression association	EZR
+LINC02566	interact with protein	ELAVL1
+HOTAIR	ceRNA or sponge	CCND2
+DANCR	interact with protein	EZH2
+MALAT1	expression association	SOX2
+H19	epigenetic regulation	ABCB1
+E2F1	transcriptional regulation	H19
+MALAT1	interact with protein	HMGB1
+HOTAIR	epigenetic regulation	PDCD4
+UCA1	expression association	CDH1
+PANTR1	interact with protein	EZH2
+H19	expression association	POU5F1
+MNX1-AS1	interact with protein	MAPK3
+PVT1	expression association	ABCB1
+HOXA11-AS	epigenetic regulation	CDKN1A
+HULC	expression association	CDKN1A
+MALAT1	expression association	NOTCH1
+TUG1	ceRNA or sponge	ROCK1
+HOTAIR	ceRNA or sponge	MIR203A
+STAT3	transcriptional regulation	LUCAT1
+UCA1	expression association	CDKN1B
+CP	expression association	STAT3
+HOXA11-AS	epigenetic regulation	LATS1
+HOXA11-AS	interact with protein	WDR5
+PCBP2-OT1	expression association	VIM
+XIST	epigenetic regulation	KLF2
+STAT3	transcriptional regulation	WSPAR
+GAPLINC	ceRNA or sponge	MAPK1
+LUADT1	interact with protein	SUZ12
+NEAT1	ceRNA or sponge	STAT3
+PVT1	expression association	SMAD2
+XIST	ceRNA or sponge	ZEB2
+MT1JP	expression association	CDKN1A
+UCA1	ceRNA or sponge	MMP14
+NOTCH1	transcriptional regulation	LUNAR1
+HOTTIP	epigenetic regulation	LATS2
+MALAT1	expression association	ATG7
+UCA1	expression association	MIR143
+H19	ceRNA or sponge	MIR152
+H19	ceRNA or sponge	TWIST1
+MEG3	expression association	CTNNB1
+MEG3	expression association	RB1
+NKILA	interact with protein	NFKB1
+HULC	expression association	TP53
+ZEB1-AS1	expression association	STAT3
+ZEB1-AS1	expression association	ITGB1
+H19	ceRNA or sponge	MIRLET7B
+MEG3	epigenetic regulation	MIR429
+BANCR	expression association	CDKN1A
+DUXAP10	interact with protein	EZH2
+MIAT	expression association	CDH2
+FEZF1-AS1	epigenetic regulation	CDH1
+BLACAT1	interact with protein	EZH2
+LINC01133	epigenetic regulation	KLF2
+HOTAIR	epigenetic regulation	SNAI1
+FENDRR	expression association	ABCC1
+NORAD	expression association	E2F3
+LSINCT5	expression association	CASP1
+NEAT1	ceRNA or sponge	MCL1
+UCA1	ceRNA or sponge	YAP1
+XIST	ceRNA or sponge	MIR155
+MEG3	ceRNA or sponge	MIR21
+FOXD2-AS1	ceRNA or sponge	CCND1
+PCBP2-OT1	expression association	CDKN1A
+H19	expression association	NFE2L2
+MYC	transcriptional regulation	MALAT1
+MALAT1	expression association	EZH2
+LSINCT5	expression association	NEAT1
+HOTAIR	epigenetic regulation	CDH1
+MEG3	ceRNA or sponge	ZEB1
+LINC00668	epigenetic regulation	CDKN1A
+ILF3-DT	interact with protein	EZH2
+CDKN2B-AS1	expression association	CASP3
+LNMICC	interact with protein	NPM1
+ZEB1-AS1	expression association	CDH1
+XIST	interact with protein	EZH2
+MALAT1	expression association	CHUK
+DGCR5	epigenetic regulation	CDKN1A
+FOXCUT	transcriptional regulation	MMP9
+MEG3	expression association	TP53
+MIR4435-2HG	expression association	TP53
+PVT1	ceRNA or sponge	CCND1
+H19	expression association	MIR107
+HOTAIR	expression association	ATG7
+H19	ceRNA or sponge	HMGA2
+CDKN2B-AS1	expression association	MIR203A
+BANCR	expression association	CDH2
+HNF1A-AS1	expression association	MMP9
+PVT1	ceRNA or sponge	HK2
+CCAT2	expression association	TGFB1
+MIR4435-2HG	interact with protein	EZH2
+MALAT1	expression association	SNAI2
+ZEB1-AS1	expression association	MMP2
+HEIH	epigenetic regulation	MIR200A
+CASC2	ceRNA or sponge	MIR101-1
+CASC2	expression association	MIR181A1
+MALAT1	expression association	MMP9
+HAGLR	ceRNA or sponge	SOX4
+NBAT1	interact with protein	EZH2
+MALAT1	expression association	MAPK3
+SNHG15	ceRNA or sponge	VEGFA
+PRECSIT	expression association	STAT3
+CCAT1	ceRNA or sponge	STAT3
+UCA1	expression association	CDKN1A
+HOTAIR	interact with protein	MAPK1
+UCA1	ceRNA or sponge	PPP1R13L
+NEAT1	epigenetic regulation	MIR129-1
+MEG3	interact with protein	JAK2
+MIR141	expression association	H19
+TUG1	ceRNA or sponge	VEGFA
+AATBC	expression association	CCND1
+HOTAIR	expression association	BMI1
+HOTAIR	expression association	SNAI1
+AGAP2-AS1	epigenetic regulation	MYD88
+MALAT1	expression association	MMP2
+MALAT1	expression association	MIR146A
+TP73-AS1	ceRNA or sponge	HMGB1
+GHET1	expression association	VIM
+BANCR	expression association	MAPK8
+TTN-AS1	ceRNA or sponge	SNAI1
+HOTAIR	expression association	VIM
+NEAT1	ceRNA or sponge	CXCR4
+TP73-AS1	ceRNA or sponge	PPP1R13L
+CBR3-AS1	expression association	CDH2
+CDKN2B-AS1	ceRNA or sponge	BMI1
+HIF1A-AS1	expression association	CASP3
+MYC	transcriptional regulation	H19
+SNHG20	interact with protein	EZH2
+HOTAIR	expression association	VEGFA
+MIR217	expression association	MALAT1
+CYTOR	ceRNA or sponge	EGFR
+SP1	transcriptional regulation	LINC00511
+PVT1	epigenetic regulation	LATS2
+GAS5	interact with protein	YBX1
+MYC	transcriptional regulation	MINCR
+GHET1	interact with mRNA	MYC
+H19	expression association	MYC
+CASC9	interact with protein	CREBBP
+DBH-AS1	expression association	CCNE1
+MIAT	ceRNA or sponge	MIR150
+H19	ceRNA or sponge	IL6
+LNCARSR	ceRNA or sponge	MET
+THRIL	transcriptional regulation	TNF
+TUG1	expression association	CCND1
+MALAT1	ceRNA or sponge	ANXA2
+NEAT1	ceRNA or sponge	IGF2
+NKILA	expression association	RELA
+WSPAR	epigenetic regulation	TCF7
+GRHL2-DT	expression association	MAPK14
+TP53	transcriptional regulation	HOTAIR
+EGFR-AS1	expression association	EGFR
+HULC	interact with protein	EZH2
+HOTAIRM1	ceRNA or sponge	MIR106B
+HOTAIR	expression association	CYCS
+MIR4435-2HG	epigenetic regulation	SMAD4
+LNCRNA-ATB	ceRNA or sponge	MIR126
+HOTAIR	ceRNA or sponge	MIR34A
+H19	expression association	HMGA2
+PANDAR	expression association	CDKN2C
+SP1	transcriptional regulation	MALAT1
+HOTAIR	ceRNA or sponge	MIR17
+HOTAIR	interact with protein	DNMT1
+IATPR	expression association	SNAI2
+MALAT1	expression association	HIF1A
+UCA1	ceRNA or sponge	MIR185
+SNHG16	ceRNA or sponge	MIR124-1
+MIR100HG	expression association	MIR125B1
+HNF1A-AS1	expression association	HES1
+SNHG1	expression association	MYC
+SNHG6	epigenetic regulation	CDKN1B
+NMRAL2P	expression association	VIM
+APTR	epigenetic regulation	CDKN1A
+TP53	transcriptional regulation	TUSC7
+HOTAIR	expression association	MRTFA
+MALAT1	expression association	IGF1R
+MEG3	ceRNA or sponge	MIR125A
+HOTAIR	expression association	KDM1A
+PVT1	interact with protein	FOXM1
+PVT1	expression association	MTOR
+CDKN2B-AS1	interact with protein	EZH2
+LINC-ROR	expression association	ZEB1
+MALAT1	expression association	MTOR
+NEAT1	expression association	CTNNB1
+HOTAIR	expression association	TP53
+SNHG1	ceRNA or sponge	YAP1
+H19	expression association	VEGFA
+H19	expression association	MIR143
+MALAT1	ceRNA or sponge	MIR129-1
+BCYRN1	ceRNA or sponge	MIR138-1
+H19	ceRNA or sponge	SOX4
+CCAT1	ceRNA or sponge	CDK1
+UCA1	ceRNA or sponge	FSCN1
+EGILA	interact with protein	EGFR
+FENDRR	ceRNA or sponge	RUNX1
+MEG3	ceRNA or sponge	E2F3
+H19	expression association	RUNX1
+MALAT1	expression association	SRSF1
+XIST	ceRNA or sponge	SMAD7
+MEG3	expression association	CDH2
+IATPR	expression association	VIM
+LNCOC1	ceRNA or sponge	MIR34C
+MEG3	ceRNA or sponge	CDH1
+DANCR	epigenetic regulation	TIMP3
+LINC00668	epigenetic regulation	CDKN2B
+CRNDE	expression association	NOTCH1
+LOC112543491	expression association	MAPK1
+YAP1	transcriptional regulation	RMRP
+AFAP1-AS1	expression association	PTEN
+UCA1	ceRNA or sponge	MIR122
+GAS5	ceRNA or sponge	FOXO1
+MALAT1	ceRNA or sponge	CXCR4
+NEAT1	ceRNA or sponge	ZEB1
+HOTAIR	epigenetic regulation	HOXA1
+PVT1	ceRNA or sponge	RUNX2
+HOTAIR	expression association	ABCB1
+HOTAIR	ceRNA or sponge	SNAI2
+HOTAIR	expression association	MMP2
+HOTAIR	epigenetic regulation	MIR17
+LINC00668	epigenetic regulation	CDKN1C
+GAS5	ceRNA or sponge	CDKN1B
+MALAT1	expression association	EPCAM
+AFAP1-AS1	epigenetic regulation	CDKN1A
+PVT1	epigenetic regulation	MRPL28
+H19	expression association	MAPK1
+ILF3-DT	epigenetic regulation	MIR200B
+PVT1	ceRNA or sponge	BECN1
+MIAT	ceRNA or sponge	MIR330
+SPRY4-IT1	epigenetic regulation	CDH1
+FEZF1-AS1	interact with protein	KDM1A
+LINC-ROR	ceRNA or sponge	MIR124-1
+H19	expression association	RB1
+CCAT1	ceRNA or sponge	CPEB2
+XIST	ceRNA or sponge	WNT1
+GAS5	expression association	CASP9
+CCDC26	interact with protein	KIT
+FALEC	epigenetic regulation	CDKN1A
+MALAT1	expression association	AKT1
+MALAT1	expression association	VIM
+LINC02633	ceRNA or sponge	XIAP
+MALAT1	ceRNA or sponge	KRAS
+STAT3	transcriptional regulation	HNF1A-AS1
+DBH-AS1	expression association	CDKN1B
+LINC00511	interact with protein	KDM1A
+MALAT1	expression association	MMP13
+SNHG1	expression association	VIM
+XIST	expression association	XIAP
+UCA1	epigenetic regulation	CDH1
+LOC112543491	expression association	RB1
+MALAT1	epigenetic regulation	BMI1
+HOTAIR	ceRNA or sponge	MET
+MEG3	ceRNA or sponge	PTEN
+HOTAIR	interact with protein	EZH2
+HOTAIR	ceRNA or sponge	MAPK1
+ZEB1-AS1	expression association	ZEB1
+PCBP2-OT1	expression association	CCND1
+CASC2	expression association	STAT3
+RMRP	expression association	SOX9
+SNHG6	ceRNA or sponge	ZEB1
+PCAT1	ceRNA or sponge	HMGB1
+PCBP2-OT1	expression association	CDH2
+MIR4435-2HG	expression association	MDM2
+HOTAIR	expression association	CCNE1
+HAGLR	interact with protein	EZH2
+HOTAIR	epigenetic regulation	LDHA
+ERLNC1	expression association	CDK4
+HOTTIP	expression association	CCNA2
+CP	interact with protein	STAT1
+HNF1A-AS1	epigenetic regulation	CDKN1A
+MALAT1	interact with protein	CDH1
+PRAL	interact with protein	TP53
+TUG1	ceRNA or sponge	ZEB1
+MYC	expression association	H19
+RMRP	expression association	KRAS
+CTNNB1	transcriptional regulation	RMRP
+NEAT1	ceRNA or sponge	TGFB1
+DANCR	expression association	IGF2
+H19	interact with protein	EZH2
+BCAR4	epigenetic regulation	MTOR
+XIST	ceRNA or sponge	EZH2
+IATPR	expression association	ROCK1
+MYC	transcriptional regulation	DANCR
+GAS5	expression association	VEGFA
+HOTAIR	ceRNA or sponge	ERBB2
+NBAT1	interact with protein	SOX9
+CASC9	expression association	ABCB1
+CLMAT3	expression association	CDKN1B
+MEG3	expression association	PIK3CD
+GACAT3	ceRNA or sponge	MIR497
+DRAIC	expression association	MAPK3
+NEAT1	ceRNA or sponge	HMGA2
+SOX21-AS1	epigenetic regulation	CDKN1A
+SNHG16	ceRNA or sponge	MUC5AC
+HOTAIR	expression association	ABCC1
+HOXA11-AS	expression association	CDH1
+SNHG1	ceRNA or sponge	IDO1
+HOTAIR	epigenetic regulation	MIR34A
+IRAIN	interact with protein	KDM1A
+BCAT1	expression association	CTNNB1
+MALAT1	expression association	CDH1
+LINC00472	ceRNA or sponge	PDCD4
+TP73-AS1	expression association	TWIST1
+WSPAR	transcriptional regulation	TCF7
+SNHG1	ceRNA or sponge	GSK3B
+H19	ceRNA or sponge	ERBB2
+CYTOR	expression association	MMP9
+PVT1	expression association	MYC
+PVT1	expression association	EZH2
+TFDP1	transcriptional regulation	IL6
+APTR	interact with protein	EZH2
+CYTOR	expression association	BCL2
+LNCSRLR	expression association	STAT3
+CASC2	expression association	SOX4
+SNHG12	ceRNA or sponge	MIR138-1
+HOXA11-AS	expression association	TWIST1
+PVT1	transcriptional regulation	TSHR
+CASC9	interact with protein	HIF1A
+CANT1	epigenetic regulation	JPX
+CRNDE	ceRNA or sponge	E2F3
+MALAT1	expression association	MIR155
+MEG3	expression association	ABCG2
+HOTAIR	interact with protein	SNAI1
+CCAT2	interact with protein	EZH2
+TP53COR1	expression association	PKM
+HOTAIR	ceRNA or sponge	KIT
+ZEB1-AS1	expression association	MMP9
+H19	ceRNA or sponge	E2F3
+PVT1	ceRNA or sponge	FASN
+HOTAIR	epigenetic regulation	MIR218-1
+XIST	ceRNA or sponge	PTEN
+HNF1A-AS1	interact with protein	EZH2
+UCA1	expression association	MIR196A1
+TUG1	expression association	AURKA
+AGAP2-AS1	epigenetic regulation	KLF2
+TUSC7	ceRNA or sponge	MIR23B
+CCEPR	interact with mRNA	PCNA
+SPRY4-IT1	expression association	MMP9
+HNF1A-AS1	expression association	VEGFA
+E2F1	transcriptional regulation	RGMB-AS1
+LNCRNA-ATB	ceRNA or sponge	YAP1
+PVT1	expression association	CCND1
+HIF1A-AS3	expression association	HMGA1
+XIST	epigenetic regulation	CDKN1A
+MAP3K20-AS1	transcriptional regulation	CDKN1A
+XIST	ceRNA or sponge	TGFB1
+NKILA	expression association	SNAI1
+MALAT1	expression association	CDH2
+HOXA11-AS	interact with protein	KDM1A
+DUXAP9	ceRNA or sponge	MYCN
+CERNA2	expression association	BAX
+RMRP	ceRNA or sponge	MYC
+LNCARSR	interact with protein	YAP1
+UCA1	expression association	MTOR
+NEAT1	epigenetic regulation	CDH1
+LNCRNA-ATB	ceRNA or sponge	ZEB1
+HOTAIR	expression association	BAX
+UCA1	epigenetic regulation	CDK2
+GAS5	ceRNA or sponge	PTEN
+H19	ceRNA or sponge	WNT1
+CDKN2B-AS1	expression association	TERT
+PVT1	ceRNA or sponge	MIR497
+HOXA11-AS	ceRNA or sponge	SP1
+MALAT1	interact with protein	BIRC7
+H19	ceRNA or sponge	E2F1
+UCA1	interact with protein	CDKN1B
+MALAT1	expression association	CDK6
+TINCR	expression association	KLF2
+SNHG20	ceRNA or sponge	RUNX2
+FEZF1-AS1	expression association	FEZF1
+H19	expression association	MMP9
+PTCSC3	expression association	S100A4
+NEAT1	expression association	CDH1
+CCAT2	expression association	CDKN1A
+IRAIN	interact with protein	EZH2
+DBH-AS1	expression association	CDKN2A
+HOTAIR	expression association	SP1
+SBF2-AS1	interact with protein	SUZ12
+KCNQ1OT1	expression association	CASP1
+KCNQ1OT1	ceRNA or sponge	EZR
+UCA1	ceRNA or sponge	FGFR1
+MINCR	expression association	AURKB
+PVT1	ceRNA or sponge	YAP1
+PVT1	interact with protein	EZH2
+SNHG1	ceRNA or sponge	MTDH
+YY1	transcriptional regulation	PVT1
+CBR3-AS1	expression association	CDH1
+LINC00958	interact with protein	WDR5
+PVT1	ceRNA or sponge	MIR190A
+MIR22HG	expression association	CDKN1A
+TUG1	expression association	MIR29B1
+H19	ceRNA or sponge	LIN28A
+MALAT1	expression association	NANOG
+UCA1	expression association	CCND1
+MALAT1	ceRNA or sponge	RAP1B
+LINC00511	interact with protein	AR
+MIR31HG	expression association	HIF1A
+LINC01118	expression association	ABCC1
+PVT1	ceRNA or sponge	MIR133A1
+UCA1	expression association	CDK2
+CDKN2B-AS1	epigenetic regulation	KLF2
+CERNA2	expression association	HMGA2
+MALAT1	expression association	MAPK14
+YAP1	expression association	MALAT1
+MEG3	epigenetic regulation	MIR141
+FOXC2-AS1	expression association	ABCB1
+HEIH	interact with protein	EZH2
+MEG3	expression association	NFKB1
+HOTAIR	expression association	SUZ12
+NEAT1	expression association	MMP2
+POU5F1	transcriptional regulation	NEAT1
+GAS5	ceRNA or sponge	MIR26A1
+CDKN2B-AS1	ceRNA or sponge	SIRT1
+HOTAIR	expression association	PCDHB5
+PART1	ceRNA or sponge	DNMT3A
+CEBPB	transcriptional regulation	UCA1
+LINC00668	interact with protein	EZH2
+HOXA-AS2	interact with protein	KDM1A
+UCA1	expression association	STAT3
+LINC00668	epigenetic regulation	CDKN1B
+AFAP1-AS1	expression association	AKT1
+DANCR	expression association	TNF
+TUG1	ceRNA or sponge	YAP1
+E2F1	transcriptional regulation	LINC00668
+SPRY4-IT1	expression association	TWIST1
+TP73-AS1	ceRNA or sponge	ZEB1
+HOTTIP	expression association	CCND1
+TMEM238L	interact with protein	VIM
+XIST	ceRNA or sponge	SGK1
+TUG1	ceRNA or sponge	PTEN
+SNHG12	ceRNA or sponge	MIR424
+SNHG7	expression association	FAIM2
+UCA1	ceRNA or sponge	MIR143
+HNF1A-AS1	expression association	NOTCH1
+TRERNA1	interact with protein	EZH2
+FEZF1-AS1	ceRNA or sponge	FEZF1
+HOTAIR	ceRNA or sponge	ZEB1
+MALAT1	ceRNA or sponge	ITGB1
+SPRY4-IT1	expression association	AKT1
+MEG3	expression association	BCL2
+UCA1	ceRNA or sponge	FOXM1
+PVT1	ceRNA or sponge	BCL2
+H19	ceRNA or sponge	VIM
+ZEB1-AS1	epigenetic regulation	ZEB1
+LINC-ROR	ceRNA or sponge	ZEB2
+FTH1P3	expression association	RELA
+PCAT1	expression association	CDKN1A
+CDKN2B-AS1	epigenetic regulation	CDKN1A
+MALAT1	expression association	GSK3B
+HOXA11-AS	interact with protein	DNMT1
+H19	expression association	ABCB1
+ZEB1-AS1	expression association	BCL2
+CRNDE	expression association	CTNNB1
+DANCR	epigenetic regulation	NPTN-IT1
+MEG3	transcriptional regulation	MET
+PANTR1	expression association	CDK4
+TUG1	ceRNA or sponge	ZEB2
+ZEB2-AS1	ceRNA or sponge	MIR27B
+MALAT1	ceRNA or sponge	PPP1R13L
+HNF1A-AS1	ceRNA or sponge	SOX4
+H19	expression association	FOXM1
+MALAT1	expression association	MMP14
+CDKN2B-AS1	expression association	CDKN2A
+MALAT1	expression association	FAS
+PCAT7	ceRNA or sponge	MIR134
+MEG3	ceRNA or sponge	MIR214
+MALAT1	expression association	ZEB1
+ERLNC1	expression association	MMP2
+PANTR1	expression association	CCND1
+E2F1	transcriptional regulation	LSINCT5
+CERNA2	expression association	MYC
+SNHG6	interact with protein	EZH2
+TUG1	ceRNA or sponge	RUNX2
+CCAT1	ceRNA or sponge	MIR148B
+DUXAP8	interact with protein	KDM1A
+CCAT2	expression association	MYC
+NEAT1	ceRNA or sponge	CDK6
+BCAT1	expression association	MYC
+GHET1	expression association	CDH2
+BDNF-AS	expression association	CDC42
+TUG1	expression association	SOX4
+SNHG5	ceRNA or sponge	SOX2
+DUXAP9	ceRNA or sponge	TWIST1
+MEG3	transcriptional regulation	GDF15
+MIR21	ceRNA or sponge	GAS5
+CBR3-AS1	expression association	CCND1
+HOTAIR	expression association	MMP1
+HOTAIR	epigenetic regulation	MEG3
+CCAT1	ceRNA or sponge	ZEB1
+XIST	ceRNA or sponge	ZEB1
+HOXA11-AS	epigenetic regulation	CTNNB1
+PVT1	expression association	SOX2
+PVT1	ceRNA or sponge	TWIST1
+FOXD2-AS1	expression association	AKT1
+YAP1	transcriptional regulation	MT1DP
+MIAT	ceRNA or sponge	VEGFA
+BANCR	expression association	VIM
+CTNNB1	transcriptional regulation	KCNQ1OT1
+RB1-DT	interact with protein	DNMT3A
+NMRAL2P	expression association	CDH2
+HOTAIR	epigenetic regulation	CDKN2A
+HOTTIP	expression association	BCL2L1
+PICSAR	expression association	MAPK1
+LUCAT1	expression association	GSK3B
+MALAT1	expression association	TJP1
+MEG3	epigenetic regulation	MIR200B
+TUG1	expression association	HMGB1
+CDKN2B-AS1	ceRNA or sponge	MIR122
+MALAT1	expression association	MIR140
+SNHG7	expression association	CDKN2B
+UCA1	expression association	VIM
+MNX1-AS1	interact with protein	MAPK8
+HOTAIR	expression association	IL6
+CCAT1	ceRNA or sponge	SOX4
+HOTAIR	expression association	SMAD7
+GAS5	ceRNA or sponge	MIR196A1
+NEAT1	ceRNA or sponge	MET
+LINC00511	epigenetic regulation	HOXA5
+HOTAIR	expression association	MMP3
+CYTOR	epigenetic regulation	CDKN2A
+CYTOR	epigenetic regulation	BRCA1
+HOTAIR	expression association	RB1
+PCBP2-OT1	transcriptional regulation	CDKN1A
+LINC00473	expression association	MMP2
+PVT1	expression association	MCL1
+HNF1A-AS1	expression association	CTNNB1
+H19	expression association	PKM
+YY1	transcriptional regulation	SOX2-OT
+HOTTIP	ceRNA or sponge	ZEB1
+CP	expression association	MAPK1
+XIST	ceRNA or sponge	ATG7
+NEAT1	expression association	MIR335
+LINC01139	expression association	TGFB1
+HOTAIR	expression association	FOXM1
+CCAT2	expression association	ZBTB7A
+LINC-ROR	expression association	PKM
+XIST	ceRNA or sponge	MAPK1
+SNHG1	expression association	ZEB1
+LINC01503	interact with protein	DUSP6
+TUG1	ceRNA or sponge	MIR145
+HOTAIR	expression association	BRCA1
+COL1A2-AS1	ceRNA or sponge	SMAD7
+LINC-ROR	ceRNA or sponge	SOX9
+PVT1	epigenetic regulation	MIR200C
+CCAT1	ceRNA or sponge	MIR33A
+SH3PXD2A-AS1	interact with protein	EZH2
+EZH2	epigenetic regulation	SPRY4-IT1
+CASC2	expression association	MAPK1
+SOX2-OT	expression association	SOX2
+SNHG8	expression association	CASP3
+NEAT1	ceRNA or sponge	HMGA1
+OIP5-AS1	ceRNA or sponge	ZEB1
+UCA1	expression association	ZEB1
+CDKN2B-AS1	expression association	CDH1
+HOTAIR	expression association	CDH1
+CDKN2B-AS1	interact with protein	SUZ12
+MIR124-1HG	ceRNA or sponge	MIR185
+HULC	expression association	SNAI1
+TUG1	expression association	CASP3
+HOXA-AS2	epigenetic regulation	KLF2
+GAS5	expression association	IGF1R
+SNHG3	expression association	CTNNB1
+SPRY4-IT1	expression association	MMP2
+HOTAIR	expression association	MMP9
+HOTAIR	epigenetic regulation	WIF1
+GAS5	ceRNA or sponge	PDCD4
+HAGLR	expression association	CDKN1A
+LINC-ROR	expression association	POU5F1
+H19	expression association	CTNNB1
+MALAT1	ceRNA or sponge	HMGB1
+TUG1	interact with protein	EZH2
+STAT3	transcriptional regulation	HOTAIR
+CBR3-AS1	expression association	TGFB1
+HOTAIR	expression association	CASP9
+SOX2-OT	interact with protein	EZH2
+LINC02963	expression association	PIK3CD
+MEG3	expression association	ABCB1
+TTN-AS1	expression association	ELAVL1
+HOXA11-AS	expression association	CTNNB1
+HOTTIP	expression association	PCNA
+HOTAIR	interact with protein	SLC2A1
+MALAT1	ceRNA or sponge	ZEB2
+TINCR	ceRNA or sponge	PDK1
+SNHG6	interact with protein	SNAI2
+TP73-AS1	expression association	CASP9
+SNHG1	expression association	NOTCH1
+HOTAIRM1	ceRNA or sponge	MIR125B1
+HOTTIP	expression association	HOXA13
+CASC2	ceRNA or sponge	PTEN
+TARID	interact with protein	GADD45A
+SH3PXD2A-AS1	epigenetic regulation	KLF2
+MALAT1	ceRNA or sponge	ZEB1
+GAS5	expression association	KLF2
+OIP5-AS1	ceRNA or sponge	CDK14
+MEG3	ceRNA or sponge	PDCD4
+SP1	transcriptional regulation	PANDAR
+SNHG1	ceRNA or sponge	MIR195
+MEG3	transcriptional regulation	TP53
+MALAT1	interact with protein	SP1
+GAS5	ceRNA or sponge	MIR21
+SNHG1	transcriptional regulation	MIR448
+MALAT1	ceRNA or sponge	EGFR
+DUXAP9	ceRNA or sponge	TJP1
