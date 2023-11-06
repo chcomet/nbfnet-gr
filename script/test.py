@@ -12,6 +12,29 @@ sys.path.append(os.path.dirname(os.path.dirname(__file__)))
 from nbfnet import dataset, layer, model, task, util
 
 
+def solver_load(checkpoint, load_optimizer=True):
+    if comm.get_rank() == 0:
+        logger.warning("Load checkpoint from %s" % checkpoint)
+    checkpoint = os.path.expanduser(checkpoint)
+    state = torch.load(checkpoint, map_location=solver.device)
+    # some issues with loading back the fact_graph and graph
+    # remove
+    state["model"].pop("fact_graph")
+    state["model"].pop("graph")
+    state["model"].pop("undirected_fact_graph")
+    # load without
+    solver.model.load_state_dict(state["model"], strict=False)
+
+    if load_optimizer:
+        solver.optimizer.load_state_dict(state["optimizer"])
+        for state in solver.optimizer.state.values():
+            for k, v in state.items():
+                if isinstance(v, torch.Tensor):
+                    state[k] = v.to(solver.device)
+
+    comm.synchronize()
+
+
 def test(cfg, solver):
     solver.model.split = "valid"
     solver.evaluate("valid")
@@ -35,6 +58,6 @@ if __name__ == "__main__":
 
     dataset = core.Configurable.load_config_dict(cfg.dataset)
     solver = util.build_solver(cfg, dataset)
-    solver.load("/root/nbfnet-gr/experiments/KnowledgeGraphCompletionBiomed/biomedical/NBFNet/2023-11-06-00-10-27-809338/model_epoch_7.pth", strict=False)
+    solver_load("/root/nbfnet-gr/experiments/KnowledgeGraphCompletionBiomed/biomedical/NBFNet/2023-11-06-00-10-27-809338/model_epoch_7.pth")
 
     test(cfg, solver)
