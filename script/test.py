@@ -46,6 +46,6 @@ if __name__ == "__main__":
     metric = solver.evaluate("valid")
     result = metric[cfg.metric]
 
-    util.solver_load(solver, "/root/model_epoch_7.pth")
+    util.solver_load(solver, "/root/nbfnet-gr/experiments/KnowledgeGraphCompletionBiomed/biomedical/NBFNet/2023-11-06-00-10-27-809338/model_epoch_7.pth")
 
     test(cfg, solver)
