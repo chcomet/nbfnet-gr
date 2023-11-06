@@ -35,17 +35,6 @@ if __name__ == "__main__":
 
     dataset = core.Configurable.load_config_dict(cfg.dataset)
     solver = util.build_solver(cfg, dataset)
-
-    step = math.ceil(cfg.train.num_epoch / 10)
-    kwargs = cfg.train.copy()
-    kwargs["num_epoch"] = min(step, cfg.train.num_epoch)
-    solver.model.split = "train"
-    solver.train(**kwargs)
-    solver.save("model_epoch_%d.pth" % solver.epoch)
-    solver.model.split = "valid"
-    metric = solver.evaluate("valid")
-    result = metric[cfg.metric]
-
     util.solver_load(solver, "/root/nbfnet-gr/experiments/KnowledgeGraphCompletionBiomed/biomedical/NBFNet/2023-11-06-00-10-27-809338/model_epoch_7.pth")
 
     test(cfg, solver)
