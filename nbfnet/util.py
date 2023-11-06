@@ -135,9 +135,10 @@ def solver_load(solver, checkpoint, load_optimizer=True):
     # remove
     state["model"].pop("fact_graph")
     state["model"].pop("graph")
+    if "undirected_fact_graph" in state["model"]:
+        state["model"].pop("undirected_fact_graph")
     # load without
     solver.model.load_state_dict(state["model"], strict=False)
-
 
     if load_optimizer:
         solver.optimizer.load_state_dict(state["optimizer"])
