@@ -13,9 +13,13 @@ from matplotlib import pyplot as plt
 
 print(pykeen.env())
 
-training = TriplesFactory.from_csv(file_path="../data/gold/lnctardv1/train2.txt", delimiter='\t')
-valid = TriplesFactory.from_csv(file_path="../data/gold/lnctardv1/valid.txt", delimiter='\t')
-testing = TriplesFactory.from_csv(file_path="../data/gold/lnctardv1/test.txt", delimiter='\t')
+train_df = pd.read_csv("../data/gold/lnctardv1/train2.txt", delimiter='\t', header=None)
+valid_df = pd.read_csv("../data/gold/lnctardv1/valid.txt", delimiter='\t', header=None)
+test_df = pd.read_csv("../data/gold/lnctardv1/test.txt", delimiter='\t', header=None)
+
+training = TriplesFactory.from_labeled_triples(train_df.to_numpy())
+valid = TriplesFactory.from_labeled_triples(valid_df.to_numpy())
+testing = TriplesFactory.from_labeled_triples(test_df.to_numpy())
 
 res = pd.DataFrame(
     columns=[
