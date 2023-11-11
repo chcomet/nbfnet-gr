@@ -1,25 +1,17 @@
-import os
-
-import numpy as np
 import pandas as pd
 import pykeen
 from pykeen.pipeline import pipeline
-from pykeen.triples.leakage import Sealant
 from pykeen.triples import TriplesFactory
-from pykeen.hpo import hpo_pipeline
-from optuna.samplers import GridSampler
-
-from matplotlib import pyplot as plt
 
 print(pykeen.env())
 
-train_df = pd.read_csv("../data/gold/lnctardv1/train2.txt", delimiter='\t', header=None)
-valid_df = pd.read_csv("../data/gold/lnctardv1/valid.txt", delimiter='\t', header=None)
-test_df = pd.read_csv("../data/gold/lnctardv1/test.txt", delimiter='\t', header=None)
+train_df = pd.read_csv("../data/gold/lnctardv1/train2.txt", delimiter='\t', header=None, names=["h", "r", "t"])
+valid_df = pd.read_csv("../data/gold/lnctardv1/valid.txt", delimiter='\t', header=None, names=["h", "r", "t"])
+test_df = pd.read_csv("../data/gold/lnctardv1/test.txt", delimiter='\t', header=None, names=["h", "r", "t"])
 
-training = TriplesFactory.from_labeled_triples(train_df.to_numpy())
-valid = TriplesFactory.from_labeled_triples(valid_df.to_numpy())
-testing = TriplesFactory.from_labeled_triples(test_df.to_numpy())
+training = TriplesFactory.from_labeled_triples(train_df.to_numpy(), create_inverse_triples=True)
+valid = TriplesFactory.from_labeled_triples(valid_df.to_numpy(), create_inverse_triples=False)
+testing = TriplesFactory.from_labeled_triples(test_df.to_numpy(), create_inverse_triples=False)
 
 res = pd.DataFrame(
     columns=[
