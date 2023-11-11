@@ -13,7 +13,7 @@ task:
     embedding_dim: 128
     max_score: 6
   criterion: bce
-  num_negative: 512
+  num_negative: 32
   strict_negative: yes
   heterogeneous_negative: yes
   heterogeneous_evaluation: yes

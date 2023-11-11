@@ -4,6 +4,7 @@ import math
 import pprint
 
 import torch
+os.environ['CUDA_LAUNCH_BLOCKING'] = "1"
 
 from torchdrug import core, models
 from torchdrug.utils import comm
