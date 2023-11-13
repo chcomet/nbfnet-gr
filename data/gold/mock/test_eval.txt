@@ -1,0 +1,2 @@
+pathway14	GO:annotation	gene4
+pathway14	new	gene4
