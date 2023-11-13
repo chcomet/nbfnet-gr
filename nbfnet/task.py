@@ -5,6 +5,7 @@ from torch.nn import functional as F
 from torch.utils import data as torch_data
 
 from ogb import linkproppred
+import numpy as np
 
 from torchdrug import core, tasks, metrics
 from torchdrug.layers import functional
