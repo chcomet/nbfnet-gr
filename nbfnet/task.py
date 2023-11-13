@@ -500,7 +500,7 @@ class KnowledgeGraphCompletionBiomed(tasks.KnowledgeGraphCompletion, core.Config
                                                              num_negative=num_negative, margin=margin,
                                                              adversarial_temperature=adversarial_temperature, 
                                                              strict_negative=strict_negative,
-                                                             filtered_ranking=filtered_ranking,fact_ratio=fact_ratio,
+                                                             filtered_ranking=filtered_ranking, fact_ratio=fact_ratio,
                                                              sample_weight=sample_weight, full_batch_eval=full_batch_eval)
         self.heterogeneous_negative = heterogeneous_negative
         self.heterogeneous_evaluation = heterogeneous_evaluation
