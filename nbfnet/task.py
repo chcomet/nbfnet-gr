@@ -897,5 +897,148 @@ class KnowledgeGraphCompletionBiomed(tasks.KnowledgeGraphCompletion, core.Config
             assert torch.all(node_type_neg_t_bool)
             
             return neg_h_index, neg_t_index
-    
-    
+
+
+@R.register("tasks.KnowledgeGraphCompletionBiomedEval")
+class KnowledgeGraphCompletionBiomedEval(KnowledgeGraphCompletionBiomed, core.Configurable):
+    def __init__(self, model, criterion="bce",
+                 metric=("mr", "mrr", "hits@1", "hits@3", "hits@10", "hits@100", "auroc", "ap"),
+                 num_negative=128, margin=6, adversarial_temperature=0, strict_negative=True,
+                 heterogeneous_negative=False, heterogeneous_evaluation=False, filtered_ranking=True,
+                 fact_ratio=None, sample_weight=True, gene_annotation_predict=False, conditional_probability=False,
+                 full_batch_eval=False):
+        super(KnowledgeGraphCompletionBiomedEval, self).__init__(model=model, criterion=criterion, metric=metric,
+                                                                 num_negative=num_negative, margin=margin,
+                                                                 adversarial_temperature=adversarial_temperature,
+                                                                 strict_negative=strict_negative,
+                                                                 heterogeneous_negative=heterogeneous_negative,
+                                                                 heterogeneous_evaluation=heterogeneous_evaluation,
+                                                                 gene_annotation_predict=gene_annotation_predict,
+                                                                 conditional_probability=conditional_probability,
+                                                                 filtered_ranking=filtered_ranking,
+                                                                 fact_ratio=fact_ratio,
+                                                                 sample_weight=sample_weight,
+                                                                 full_batch_eval=full_batch_eval)
+
+    def evaluate(self, pred, target):
+        mask, target = target
+
+        pos_pred = pred.gather(-1, target.unsqueeze(-1))
+        ranking = torch.sum((pos_pred <= pred) & mask, dim=-1) + 1
+        # get ranking per source node
+
+        ranking_filt = ranking.new_zeros(mask.shape[1], mask.shape[2]).float()
+        ranking_filt = torch_scatter.scatter_mean(torch.transpose(ranking, 0, 1).float(),
+                                                  torch.flip(torch.transpose(target, 0, 1), [0]), out=ranking_filt)
+        valid_ranking = np.ma.masked_where(ranking_filt == 0, ranking_filt)
+
+        MRR_per_node = (1 / valid_ranking)
+        import pdb;
+        pdb.set_trace()
+
+        # get neg_pred
+        mask_inv_target = torch.ones_like(pred, dtype=torch.bool)
+        mask_inv_target.scatter_(-1, target.unsqueeze(-1), False)  # filtered setting: add testing mask
+        mask_inv_target = mask_inv_target & mask  # add mask from previous
+
+        # nodes t
+        trans_target = torch.transpose(torch.flip(torch.transpose(target, 0, 1), [0]), 0, 1)
+        nodes_t = trans_target[:, 0].unique()
+        pred_t_auprc = []
+        pred_t_auroc = []
+        for i in nodes_t:
+            # pos pred per h node
+            idx1 = (trans_target[:, 0] == i).nonzero().squeeze(-1)
+            idx3 = target[idx1][:, 0]
+            # print(idx1, 0, idx3)
+            pos_pred_node = pred[idx1, 0, idx3]
+            # neg pred per h node
+            neg_pred_node = pred[idx1[0], 0, :].masked_select(mask_inv_target[idx1[0], 0, :])
+            # assemble
+            pred_node = torch.concat([pos_pred_node, neg_pred_node])
+            gt = torch.cat([torch.ones_like(pos_pred_node), torch.zeros_like(neg_pred_node)])
+            # calculate
+            pred_t_auprc.append(metrics.area_under_prc(pred_node, gt))
+            pred_t_auroc.append(metrics.area_under_roc(pred_node, gt))
+
+        pred_t_auprc_mean = np.array(pred_t_auprc).mean()
+        pred_t_auroc_mean = np.array(pred_t_auroc).mean()
+
+        # nodes h
+        nodes_h = trans_target[:, 1].unique()
+        pred_h_auprc = []
+        pred_h_auroc = []
+        for i in nodes_h:
+            idx1 = (trans_target[:, 1] == i).nonzero().squeeze(-1)
+            idx3 = target[idx1][:, 1]
+            pos_pred_node = pred[idx1, 1, idx3]
+            neg_pred_node = pred[idx1[0], 1, :].masked_select(mask_inv_target[idx1[0], 1, :])
+            pred_node = torch.concat([pos_pred_node, neg_pred_node])
+            gt = torch.cat([torch.ones_like(pos_pred_node), torch.zeros_like(neg_pred_node)])
+            pred_h_auprc.append(metrics.area_under_prc(pred_node, gt))
+            pred_h_auroc.append(metrics.area_under_roc(pred_node, gt))
+
+        pred_h_auprc_mean = np.array(pred_h_auprc).mean()
+        pred_h_auroc_mean = np.array(pred_h_auroc).mean()
+
+        metric = {}
+        for _metric in self.metric:
+            if _metric == "mr":
+                score = valid_ranking.mean(1).data
+            elif _metric == "mrr":
+                score = (1 / valid_ranking).mean(1).data
+            elif _metric.startswith("hits@"):
+                threshold = int(_metric[5:])
+                score = ((1 - np.ma.masked_where(valid_ranking >= threshold,
+                                                 valid_ranking).mask).sum(1)) / ((1 - valid_ranking.mask).sum(1))
+            elif _metric == "auroc":
+                score = np.array([pred_t_auroc_mean, pred_h_auroc_mean])
+            elif _metric == "ap":
+                score = np.array([pred_t_auprc_mean, pred_h_auprc_mean])
+            else:
+                raise ValueError("Unknown metric `%s`" % _metric)
+            name = tasks._get_metric_name(_metric)
+            name_t = name + '_t'
+            name_h = name + '_h'
+            metric[name_t] = score[0]
+            metric[name_h] = score[1]
+
+        return metric
+
+    def target(self, batch):
+        ####
+        # for evaluation of TxGNN, heterogeneous evaluation should be switched on
+        # filtered ranking is not important to be on yes,
+        # as there should be no drugs in training data at all
+        ####
+        # test target
+        batch_size = len(batch)
+        pos_h_index, pos_t_index, pos_r_index = batch.t()
+        any = -torch.ones_like(pos_h_index)
+        node_type = self.fact_graph.node_type
+
+        t_mask = torch.ones(batch_size, self.num_entity, dtype=torch.bool, device=self.device)
+        if self.filtered_ranking:
+            pattern = torch.stack([pos_h_index, any, pos_r_index], dim=-1)
+            edge_index, num_t_truth = self.graph.match(pattern)
+            t_truth_index = self.graph.edge_list[edge_index, 1]
+            pos_index = torch.repeat_interleave(num_t_truth)
+            t_mask[pos_index, t_truth_index] = 0
+        if self.heterogeneous_evaluation:
+            t_mask[node_type.unsqueeze(0) != node_type[pos_t_index].unsqueeze(-1)] = 0
+
+        h_mask = torch.ones(batch_size, self.num_entity, dtype=torch.bool, device=self.device)
+        if self.filtered_ranking:
+            pattern = torch.stack([any, pos_t_index, pos_r_index], dim=-1)
+            edge_index, num_h_truth = self.graph.match(pattern)
+            h_truth_index = self.graph.edge_list[edge_index, 0]
+            pos_index = torch.repeat_interleave(num_h_truth)
+            h_mask[pos_index, h_truth_index] = 0
+        if self.heterogeneous_evaluation:
+            h_mask[node_type.unsqueeze(0) != node_type[pos_h_index].unsqueeze(-1)] = 0
+
+        mask = torch.stack([t_mask, h_mask], dim=1)
+        target = torch.stack([pos_t_index, pos_h_index], dim=1)
+
+        # in case of GPU OOM
+        return mask.cpu(), target.cpu()
