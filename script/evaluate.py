@@ -95,6 +95,6 @@ if __name__ == "__main__":
     if "checkpoint" in cfg:
         solver_load(cfg.checkpoint)
     entity_vocab, relation_vocab = load_vocab(vocab_file, _dataset)
-    import pdb;pdb.set_trace()
+    # import pdb;pdb.set_trace()
 
     evaluate_per_node(cfg, solver)
