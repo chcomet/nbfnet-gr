@@ -934,8 +934,7 @@ class KnowledgeGraphCompletionBiomedEval(KnowledgeGraphCompletionBiomed, core.Co
         valid_ranking = np.ma.masked_where(ranking_filt == 0, ranking_filt)
 
         MRR_per_node = (1 / valid_ranking)
-        import pdb;
-        pdb.set_trace()
+        import pdb;pdb.set_trace()
 
         # get neg_pred
         mask_inv_target = torch.ones_like(pred, dtype=torch.bool)

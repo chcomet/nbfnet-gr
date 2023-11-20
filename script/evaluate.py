@@ -51,7 +51,7 @@ def build_solver(cfg):
     return core.Engine(_task, train_set, valid_set, test_set, optimizer, scheduler, **cfg.engine)
 
 
-def load_vocab(dataset):
+def load_vocab(vocab_file, dataset):
     entity_mapping = {}
     with open(vocab_file, "r") as fin:
         for line in fin:
@@ -94,6 +94,7 @@ if __name__ == "__main__":
 
     if "checkpoint" in cfg:
         solver_load(cfg.checkpoint)
-    entity_vocab, relation_vocab = load_vocab(_dataset)
+    entity_vocab, relation_vocab = load_vocab(vocab_file, _dataset)
+    import pdb;pdb.set_trace()
 
     evaluate_per_node(cfg, solver)
