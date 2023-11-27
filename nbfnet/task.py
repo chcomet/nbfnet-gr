@@ -935,7 +935,7 @@ class KnowledgeGraphCompletionBiomedEval(KnowledgeGraphCompletionBiomed, core.Co
         valid_ranking = np.ma.masked_where(ranking_filt == 0, ranking_filt)
 
         MRR_per_node = (1 / valid_ranking)
-        df = pd.createDataFrame(MRR_per_node, columns=["tail_pred_mrr", "head_pred_mrr"])
+        df = pd.DataFrame(MRR_per_node, columns=["tail_pred_mrr", "head_pred_mrr"])
         df.to_csv("/home/nbfnet-gr/data/gold/mock/mrr.csv", index=True)
         # import pdb;pdb.set_trace()
 
