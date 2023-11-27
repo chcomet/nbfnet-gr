@@ -98,7 +98,7 @@ if __name__ == "__main__":
     vocab_path = os.path.join(os.path.dirname(__file__), cfg.dataset.path, "entity_vocab.csv")
     with open(vocab_path, 'w') as csv_file:
         csv_writer = csv.writer(csv_file)
-        csv_writer.writerow(['Index', 'Entity'])
+        csv_writer.writerow(['id', 'gene'])
         for index, content in enumerate(entity_vocab):
             csv_writer.writerow([index, content])
     # import pdb;pdb.set_trace()
