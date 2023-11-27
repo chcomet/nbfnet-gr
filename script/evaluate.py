@@ -1,7 +1,7 @@
 import os
 import sys
 import pprint
-
+import csv
 import torch
 
 from torchdrug import core
@@ -95,6 +95,12 @@ if __name__ == "__main__":
     if "checkpoint" in cfg:
         solver_load(cfg.checkpoint)
     entity_vocab, relation_vocab = load_vocab(vocab_file, _dataset)
+    vocab_path = os.path.join(os.path.dirname(__file__), cfg.dataset.path, "entity_vocab.csv")
+    with open(vocab_path, 'w', newline='\t') as csv_file:
+        csv_writer = csv.writer(csv_file)
+        csv_writer.writerow(['Index', 'Entity'])
+        for index, content in enumerate(entity_vocab):
+            csv_writer.writerow([index, content])
     # import pdb;pdb.set_trace()
 
     evaluate_per_node(cfg, solver)

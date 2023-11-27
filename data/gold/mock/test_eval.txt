@@ -1,2 +1,10 @@
-pathway14	GO:annotation	gene4
-pathway14	new	gene4
+gene1	up	gene1
+gene1	down	gene1
+gene1	phos	gene1
+gene1	GO:annotation	gene1
+gene1	new	gene1
+pathway14	up	pathway14
+pathway14	down	pathway14
+pathway14	phos	pathway14
+pathway14	GO:annotation	pathway14
+pathway14	new	pathway14
