@@ -14,8 +14,6 @@ sys.path.append(os.path.dirname(os.path.dirname(__file__)))
 from nbfnet import dataset, layer, model, task, util#, reasoning_mod
 import numpy as np
 
-vocab_file = os.path.join(os.path.dirname(__file__), "../data/gold/mock/entity_names.txt")
-vocab_file = os.path.abspath(vocab_file)
 
 def solver_load(checkpoint, load_optimizer=True):
 
@@ -30,7 +28,6 @@ def solver_load(checkpoint, load_optimizer=True):
     state["model"].pop("undirected_fact_graph")
     # load without
     solver.model.load_state_dict(state["model"], strict=False)
-
 
     if load_optimizer:
         solver.optimizer.load_state_dict(state["optimizer"])
@@ -54,7 +51,8 @@ def build_solver(cfg):
         scheduler = None
     return core.Engine(_task, train_set, valid_set, test_set, optimizer, scheduler, **cfg.engine)
 
-def load_vocab(dataset):
+
+def load_vocab(vocab_file, dataset):
     entity_mapping = {}
     with open(vocab_file, "r") as fin:
         for line in fin:
@@ -65,6 +63,7 @@ def load_vocab(dataset):
                       for i, t in enumerate(dataset.relation_vocab)]
     
     return entity_vocab, relation_vocab
+
 
 @torch.no_grad()
 def get_prediction(cfg, solver, relation_vocab):
@@ -93,8 +92,8 @@ def get_prediction(cfg, solver, relation_vocab):
     target = utils.cat(targets)
     mask = utils.cat(masks)
 
-    
     return pred, target, mask
+
 
 def pred_to_dataframe(pred, dataset, entity_vocab, relation_vocab):
     # get head nodes
@@ -149,7 +148,10 @@ if __name__ == "__main__":
 
     if "checkpoint" in cfg:
         solver_load(cfg.checkpoint)
-    entity_vocab, relation_vocab = load_vocab(_dataset)
+
+    vocab_file = os.path.join(os.path.dirname(__file__), cfg.dataset.path, "entity_names.txt")
+    vocab_file = os.path.abspath(vocab_file)
+    entity_vocab, relation_vocab = load_vocab(vocab_file, _dataset)
 
     logger.warning("Starting link prediction")
     
