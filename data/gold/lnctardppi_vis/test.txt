@@ -1,0 +1,4 @@
+MALAT1	interact with mRNA	MYC
+MALAT1	interact with protein	ELAVL1
+MALAT1	interact with mRNA	PTEN
+MALAT1	interact with mRNA	FOXM1
