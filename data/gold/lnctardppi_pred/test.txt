@@ -1,0 +1,6 @@
+MALAT1	transcriptional regulation	MALAT1
+MALAT1	ceRNA or sponge	MALAT1
+MALAT1	expression association	MALAT1
+MALAT1	interact with mRNA	MALAT1
+MALAT1	interact with protein	MALAT1
+MALAT1	epigenetic regulation	MALAT1

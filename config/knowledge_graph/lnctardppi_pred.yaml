@@ -2,11 +2,11 @@ output_dir: /root/nbfnet-gr/experiments
 
 dataset:
   class: biomedical
-  path: /home/nbfnet-gr/data/gold/lnctardppi
+  path: /home/nbfnet-gr/data/gold/lnctardppi_pred
   include_factgraph: True
 
 task:
-  class: KnowledgeGraphCompletionBiomedEval
+  class: KnowledgeGraphCompletionBiomed
   model:
     class: NBFNet
     input_dim: 32
@@ -28,9 +28,6 @@ task:
   conditional_probability: yes
   full_batch_eval: False
 
-
-
-
 optimizer:
   class: Adam
   lr: 5.0e-3
@@ -39,10 +36,6 @@ engine:
   gpus: {{ gpus }}
   batch_size: 4
 
+checkpoint: {{ checkpoint }}
 
-train:
-  num_epoch: 5
-
-metric: mrr
-
-checkpoint: {{checkpoint}}
+metric: "mrr"
