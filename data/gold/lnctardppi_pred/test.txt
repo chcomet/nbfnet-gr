@@ -16,30 +16,12 @@ SNHG16	expression association	MALAT1
 SNHG16	interact with mRNA	MALAT1
 SNHG16	interact with protein	MALAT1
 SNHG16	epigenetic regulation	MALAT1
-SNHG29	transcriptional regulation	MALAT1
-SNHG29	ceRNA or sponge	MALAT1
-SNHG29	expression association	MALAT1
-SNHG29	interact with mRNA	MALAT1
-SNHG29	interact with protein	MALAT1
-SNHG29	epigenetic regulation	MALAT1
-SNHG32	transcriptional regulation	MALAT1
-SNHG32	ceRNA or sponge	MALAT1
-SNHG32	expression association	MALAT1
-SNHG32	interact with mRNA	MALAT1
-SNHG32	interact with protein	MALAT1
-SNHG32	epigenetic regulation	MALAT1
 ZFAS1	transcriptional regulation	MALAT1
 ZFAS1	ceRNA or sponge	MALAT1
 ZFAS1	expression association	MALAT1
 ZFAS1	interact with mRNA	MALAT1
 ZFAS1	interact with protein	MALAT1
 ZFAS1	epigenetic regulation	MALAT1
-MIR3648-2	transcriptional regulation	MALAT1
-MIR3648-2	ceRNA or sponge	MALAT1
-MIR3648-2	expression association	MALAT1
-MIR3648-2	interact with mRNA	MALAT1
-MIR3648-2	interact with protein	MALAT1
-MIR3648-2	epigenetic regulation	MALAT1
 MIR22HG	transcriptional regulation	MALAT1
 MIR22HG	ceRNA or sponge	MALAT1
 MIR22HG	expression association	MALAT1
@@ -58,18 +40,6 @@ MIR4435-2HG	expression association	MALAT1
 MIR4435-2HG	interact with mRNA	MALAT1
 MIR4435-2HG	interact with protein	MALAT1
 MIR4435-2HG	epigenetic regulation	MALAT1
-MIR30DHG	transcriptional regulation	MALAT1
-MIR30DHG	ceRNA or sponge	MALAT1
-MIR30DHG	expression association	MALAT1
-MIR30DHG	interact with mRNA	MALAT1
-MIR30DHG	interact with protein	MALAT1
-MIR30DHG	epigenetic regulation	MALAT1
-lnc-BLID-5	transcriptional regulation	MALAT1
-lnc-BLID-5	ceRNA or sponge	MALAT1
-lnc-BLID-5	expression association	MALAT1
-lnc-BLID-5	interact with mRNA	MALAT1
-lnc-BLID-5	interact with protein	MALAT1
-lnc-BLID-5	epigenetic regulation	MALAT1
 FGD5-AS1	transcriptional regulation	MALAT1
 FGD5-AS1	ceRNA or sponge	MALAT1
 FGD5-AS1	expression association	MALAT1
@@ -94,36 +64,17 @@ FTX	expression association	MALAT1
 FTX	interact with mRNA	MALAT1
 FTX	interact with protein	MALAT1
 FTX	epigenetic regulation	MALAT1
-LINC01004	transcriptional regulation	MALAT1
-LINC01004	ceRNA or sponge	MALAT1
-LINC01004	expression association	MALAT1
-LINC01004	interact with mRNA	MALAT1
-LINC01004	interact with protein	MALAT1
-LINC01004	epigenetic regulation	MALAT1
-FOXCUT	transcriptional regulation	MALAT1
 FOXCUT	ceRNA or sponge	MALAT1
 FOXCUT	expression association	MALAT1
 FOXCUT	interact with mRNA	MALAT1
 FOXCUT	interact with protein	MALAT1
 FOXCUT	epigenetic regulation	MALAT1
-SNHG7/5	transcriptional regulation	MALAT1
-SNHG7/5	ceRNA or sponge	MALAT1
-SNHG7/5	expression association	MALAT1
-SNHG7/5	interact with mRNA	MALAT1
-SNHG7/5	interact with protein	MALAT1
-SNHG7/5	epigenetic regulation	MALAT1
 FENDRR	transcriptional regulation	MALAT1
 FENDRR	ceRNA or sponge	MALAT1
 FENDRR	expression association	MALAT1
 FENDRR	interact with mRNA	MALAT1
 FENDRR	interact with protein	MALAT1
 FENDRR	epigenetic regulation	MALAT1
-ZNF649-AS1	transcriptional regulation	MALAT1
-ZNF649-AS1	ceRNA or sponge	MALAT1
-ZNF649-AS1	expression association	MALAT1
-ZNF649-AS1	interact with mRNA	MALAT1
-ZNF649-AS1	interact with protein	MALAT1
-ZNF649-AS1	epigenetic regulation	MALAT1
 LINC00461	transcriptional regulation	MALAT1
 LINC00461	ceRNA or sponge	MALAT1
 LINC00461	expression association	MALAT1
@@ -148,24 +99,6 @@ LINC00511	expression association	MALAT1
 LINC00511	interact with mRNA	MALAT1
 LINC00511	interact with protein	MALAT1
 LINC00511	epigenetic regulation	MALAT1
-RNF157-AS1	transcriptional regulation	MALAT1
-RNF157-AS1	ceRNA or sponge	MALAT1
-RNF157-AS1	expression association	MALAT1
-RNF157-AS1	interact with mRNA	MALAT1
-RNF157-AS1	interact with protein	MALAT1
-RNF157-AS1	epigenetic regulation	MALAT1
-EBP41L4A-AS2	transcriptional regulation	MALAT1
-EBP41L4A-AS2	ceRNA or sponge	MALAT1
-EBP41L4A-AS2	expression association	MALAT1
-EBP41L4A-AS2	interact with mRNA	MALAT1
-EBP41L4A-AS2	interact with protein	MALAT1
-EBP41L4A-AS2	epigenetic regulation	MALAT1
-LncCDH5-3	transcriptional regulation	MALAT1
-LncCDH5-3	ceRNA or sponge	MALAT1
-LncCDH5-3	expression association	MALAT1
-LncCDH5-3	interact with mRNA	MALAT1
-LncCDH5-3	interact with protein	MALAT1
-LncCDH5-3	epigenetic regulation	MALAT1
 LINC02582	transcriptional regulation	MALAT1
 LINC02582	ceRNA or sponge	MALAT1
 LINC02582	expression association	MALAT1
@@ -178,42 +111,12 @@ LINC00472	expression association	MALAT1
 LINC00472	interact with mRNA	MALAT1
 LINC00472	interact with protein	MALAT1
 LINC00472	epigenetic regulation	MALAT1
-LINC00397	transcriptional regulation	MALAT1
-LINC00397	ceRNA or sponge	MALAT1
-LINC00397	expression association	MALAT1
-LINC00397	interact with mRNA	MALAT1
-LINC00397	interact with protein	MALAT1
-LINC00397	epigenetic regulation	MALAT1
-lncRNA-ZNF281	transcriptional regulation	MALAT1
-lncRNA-ZNF281	ceRNA or sponge	MALAT1
-lncRNA-ZNF281	expression association	MALAT1
-lncRNA-ZNF281	interact with mRNA	MALAT1
-lncRNA-ZNF281	interact with protein	MALAT1
-lncRNA-ZNF281	epigenetic regulation	MALAT1
-LINC01106	transcriptional regulation	MALAT1
-LINC01106	ceRNA or sponge	MALAT1
-LINC01106	expression association	MALAT1
-LINC01106	interact with mRNA	MALAT1
-LINC01106	interact with protein	MALAT1
-LINC01106	epigenetic regulation	MALAT1
 DLGAP1-AS1	transcriptional regulation	MALAT1
 DLGAP1-AS1	ceRNA or sponge	MALAT1
 DLGAP1-AS1	expression association	MALAT1
 DLGAP1-AS1	interact with mRNA	MALAT1
 DLGAP1-AS1	interact with protein	MALAT1
 DLGAP1-AS1	epigenetic regulation	MALAT1
-LINC02154	transcriptional regulation	MALAT1
-LINC02154	ceRNA or sponge	MALAT1
-LINC02154	expression association	MALAT1
-LINC02154	interact with mRNA	MALAT1
-LINC02154	interact with protein	MALAT1
-LINC02154	epigenetic regulation	MALAT1
-TLR8-AS1	transcriptional regulation	MALAT1
-TLR8-AS1	ceRNA or sponge	MALAT1
-TLR8-AS1	expression association	MALAT1
-TLR8-AS1	interact with mRNA	MALAT1
-TLR8-AS1	interact with protein	MALAT1
-TLR8-AS1	epigenetic regulation	MALAT1
 THORLNC	transcriptional regulation	MALAT1
 THORLNC	ceRNA or sponge	MALAT1
 THORLNC	expression association	MALAT1
