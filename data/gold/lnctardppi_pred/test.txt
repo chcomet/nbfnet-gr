@@ -64,6 +64,7 @@ FTX	expression association	MALAT1
 FTX	interact with mRNA	MALAT1
 FTX	interact with protein	MALAT1
 FTX	epigenetic regulation	MALAT1
+FOXCUT	transcriptional regulation	MALAT1
 FOXCUT	ceRNA or sponge	MALAT1
 FOXCUT	expression association	MALAT1
 FOXCUT	interact with mRNA	MALAT1

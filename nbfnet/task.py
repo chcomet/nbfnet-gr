@@ -1052,7 +1052,7 @@ class KnowledgeGraphCompletionBiomedEval(KnowledgeGraphCompletionBiomed, core.Co
 
         MRR_per_node = (1 / valid_ranking)
         df = pd.DataFrame(MRR_per_node.T, columns=["tail_pred_mrr", "head_pred_mrr"])
-        df.to_csv("/home/nbfnet-gr/data/gold/mock/mrr.csv", index=True)
+        df.to_csv("/root/nbfnet-gr/experiments/mrr_per_node.csv", index=True)
         # import pdb;pdb.set_trace()
 
         # get neg_pred
