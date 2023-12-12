@@ -435,7 +435,7 @@ class BiomedicalEvaluation(data.KnowledgeGraphDataset):
         "train1.txt",  # such as biogrid
         "train2.txt",  # such as KEGG train
         "valid.txt",  # such as KEGG valid
-        "test_eval.txt", ]  # such as KEGG test
+        "test.txt", ]  # such as KEGG test
 
     entity_vocab_file = "entity_types.txt"
 
