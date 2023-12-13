@@ -1,4 +1,5 @@
 import os
+import re
 import sys
 import pprint
 
@@ -167,7 +168,7 @@ def get_prediction(solver):
 
 def get_tail_pred(pred, dataset, relation_vocab):
     # get head nodes
-    testset_relation = [relation_vocab[i] for i in [x.numpy()[2] for x in solver.test_set]]
+    testset_relation = [re.sub(r'\(\d+\)', '', relation_vocab[i]) for i in [x.numpy()[2] for x in solver.test_set]]
     nodes = dataset.entity_vocab
 
     # predictions only for relation
