@@ -164,7 +164,8 @@ def get_prediction(solver):
 #     df = pd.merge(df, lookup, how="left", left_on="pred_node", right_on="short", sort=False)
 #     return df
 
-def get_tail_pred(pred, dataset, entity_vocab, relation_vocab):
+
+def get_tail_pred(pred, dataset, relation_vocab):
     # get head nodes
     testset_relation = [relation_vocab[i] for i in [x.numpy()[2] for x in solver.test_set]]
     nodes = dataset.entity_vocab
@@ -175,24 +176,31 @@ def get_tail_pred(pred, dataset, entity_vocab, relation_vocab):
     prob = prob.flatten().cpu().numpy()
 
     df_dict = {
-        'query_node': np.repeat([dataset.entity_vocab[i] for i in [x.numpy()[j] for x in solver.test_set]], len(nodes)),
+        'query_node': np.repeat([dataset.entity_vocab[i] for i in [x.numpy()[0] for x in solver.test_set]], len(nodes)),
         'query_relation': np.repeat(testset_relation, len(nodes)),
         'prediction_node': np.tile(nodes, len(testset_relation)),
         'probability': prob.tolist()
     }
-
     df = pd.DataFrame(df_dict)
-    lookup = pd.DataFrame(list(zip(dataset.entity_vocab, entity_vocab)), columns=['short', 'long'])
-    import pdb;pdb.set_trace()
 
-    df = pd.merge(df, lookup, how="left", left_on="query_node", right_on="short", sort=False)
-    df = pd.merge(df, lookup, how="left", left_on="prediction_node", right_on="short", sort=False)
-    import pdb;pdb.set_trace()
-
+    # load dataframes
+    folder = "/home/nbfnet-gr/data/gold/lnctardppi/"
+    entity_types = pd.read_csv(f"{folder}/entity_types.txt", header=None, sep="\t", names=["prediction_node", "prediction_node_type"])
+    train_df = pd.read_csv(f"{folder}/train2.txt", header=None, sep="\t", names=["query_node", "query_relation", "prediction_node"])
+    train_df["source"] = "train"
+    test_df = pd.read_csv(f"{folder}/test.txt", header=None, sep="\t", names=["query_node", "query_relation", "prediction_node"])
+    test_df["source"] = "test"
+    valid_df = pd.read_csv(f"{folder}/valid.txt", header=None, sep="\t", names=["query_node", "query_relation", "prediction_node"])
+    valid_df["source"] = "valid"
+    df = pd.merge(df, entity_types, on="prediction_node", how="left")
+    df = df[df["prediction_node_type"] != "protein_coding_ppi"]
+    df = pd.merge(df, train_df, on=["query_node", "query_relation", "prediction_node"], how="left")
+    df = pd.merge(df, test_df, on=["query_node", "query_relation", "prediction_node"], how="left")
+    df = pd.merge(df, valid_df, on=["query_node", "query_relation", "prediction_node"], how="left")
     return df
 
 
-def pred_to_dataframe(cfg, pred, dataset, entity_vocab, relation_vocab):
+def pred_to_dataframe(pred, dataset, entity_vocab, relation_vocab):
     # get head nodes
     testset_relation = [relation_vocab[i] for i in [x.numpy()[2] for x in solver.test_set]]
     nodes = dataset.entity_vocab
@@ -250,9 +258,9 @@ if __name__ == "__main__":
 
     logger.warning("Starting link prediction")
 
-    pred, target, mask = get_prediction(cfg, solver, relation_vocab, _dataset)
+    pred, target, mask = get_prediction(solver)
     print("Predictions done")
-    df = get_tail_pred(cfg, pred, _dataset, entity_vocab, relation_vocab)
+    df = get_tail_pred(pred, _dataset, relation_vocab)
     logger.warning("Link prediction done")
     logger.warning("Saving to file")
     print(os.path.join(working_dir, "predictions.csv"))
