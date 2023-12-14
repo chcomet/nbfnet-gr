@@ -267,7 +267,7 @@ if __name__ == "__main__":
 
     pred, target, mask = get_prediction(solver)
     print("Predictions done")
-    df = get_tail_pred(pred, _dataset, relation_vocab)
+    df = get_tail_pred(pred, mask, _dataset, relation_vocab)
     logger.warning("Link prediction done")
     logger.warning("Saving to file")
     print(os.path.join(working_dir, "predictions.csv"))
