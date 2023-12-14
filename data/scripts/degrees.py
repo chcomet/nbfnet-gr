@@ -9,8 +9,8 @@ lnctard = pd.concat([df2, df3, df4], axis=0).drop_duplicates()
 lnctard_ppi = pd.concat([df1, df2, df3, df4], axis=0).drop_duplicates()
 
 
-h_degrees = pd.read_csv("degrees.csv", header=None, names=["h","h_type", "h_degree", "h_degree_ppi"])
-t_degrees = pd.read_csv("degrees.csv", header=None, names=["t", "t_type", "t_degree", "t_degree_ppi"])
+h_degrees = pd.read_csv("../gold/lnctardppi_pred/degrees.csv", header=None, names=["h", "h_type", "h_degree", "h_degree_ppi"])
+t_degrees = pd.read_csv("../gold/lnctardppi_pred/degrees.csv", header=None, names=["t", "t_type", "t_degree", "t_degree_ppi"])
 
 # entity_types = pd.read_csv("../gold/lnctardppi/entity_types.txt", header=None, sep="\t",
 #                            names=["gene", "gene_type"])

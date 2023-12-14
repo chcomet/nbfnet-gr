@@ -166,9 +166,9 @@ def get_prediction(solver):
 #     return df
 
 
-def get_tail_pred(pred, dataset, relation_vocab):
+def get_tail_pred(pred, mask, dataset, relation_vocab):
     # get head nodes
-    testset_relation = [re.sub(r'\(\d+\)', '', relation_vocab[i]) for i in [x.numpy()[2] for x in solver.test_set]]
+    testset_relation = [re.sub(r'\(\d+\)', '', relation_vocab[i]).strip() for i in [x.numpy()[2] for x in solver.test_set]]
     nodes = dataset.entity_vocab
 
     # predictions only for relation
@@ -180,9 +180,13 @@ def get_tail_pred(pred, dataset, relation_vocab):
         'query_node': np.repeat([dataset.entity_vocab[i] for i in [x.numpy()[0] for x in solver.test_set]], len(nodes)),
         'query_relation': np.repeat(testset_relation, len(nodes)),
         'prediction_node': np.tile(nodes, len(testset_relation)),
-        'probability': prob.tolist()
+        'probability': prob.tolist(),
+        'mask': mask[:, 0, :].tolist()
     }
     df = pd.DataFrame(df_dict)
+
+    # threshold on probability
+    df = df[df["probability"] > 0.5]
 
     # load dataframes
     folder = "/home/nbfnet-gr/data/gold/lnctardppi/"
@@ -198,6 +202,8 @@ def get_tail_pred(pred, dataset, relation_vocab):
     df = pd.merge(df, train_df, on=["query_node", "query_relation", "prediction_node"], how="left")
     df = pd.merge(df, test_df, on=["query_node", "query_relation", "prediction_node"], how="left")
     df = pd.merge(df, valid_df, on=["query_node", "query_relation", "prediction_node"], how="left")
+    df["source"] = df["source_x"].combine_first(df["source_y"]).combine_first(df["source"])
+    df = df[["query_node", "query_relation", "mask", "prediction_node", "probability", "prediction_node_type", "source"]]
     return df
 
 
