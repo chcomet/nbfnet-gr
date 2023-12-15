@@ -181,7 +181,7 @@ def get_tail_pred(pred, mask, dataset, relation_vocab):
         'query_relation': np.repeat(testset_relation, len(nodes)),
         'prediction_node': np.tile(nodes, len(testset_relation)),
         'probability': prob.tolist(),
-        'mask': mask[:, 0, :].tolist()
+        'mask': mask[:, 0, :].flatten().tolist()
     }
     df = pd.DataFrame(df_dict)
 
