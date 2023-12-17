@@ -1,4 +1,3 @@
+PVT1	epigenetic regulation	MIR200A
+MALAT1	interact with protein	EZH2
 MALAT1	interact with mRNA	MYC
-MALAT1	interact with protein	ELAVL1
-MALAT1	interact with mRNA	PTEN
-MALAT1	interact with mRNA	FOXM1
