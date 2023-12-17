@@ -159,10 +159,7 @@ torch.manual_seed(1024 + comm.get_rank())
 logger = logging.getLogger(__name__)
 
 
-vocab_file = os.path.join(os.path.dirname(__file__), "../data/gold/mock/entity_names.txt")
-vocab_file = os.path.abspath(vocab_file)
-
-def load_vocab(dataset):
+def load_vocab(vocab_file, dataset):
     entity_mapping = {}
     with open(vocab_file, "r") as fin:
         for line in fin:
@@ -200,11 +197,13 @@ if __name__ == "__main__":
     if "checkpoint" in cfg:
         solver_load(cfg.checkpoint)
 
+    vocab_file = os.path.join(os.path.dirname(__file__), cfg.dataset.path, "entity_names.txt")
+    vocab_file = os.path.abspath(vocab_file)
 
     if "FB15k237" in cfg.dataset["class"]:
         entity_vocab, relation_vocab = 0(_dataset)
     else:
-        entity_vocab, relation_vocab = load_vocab(_dataset)
+        entity_vocab, relation_vocab = load_vocab(vocab_file, _dataset)
 
 
     task = solver.model
