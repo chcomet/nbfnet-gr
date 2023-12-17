@@ -59,9 +59,6 @@ def build_solver(cfg):
     return core.Engine(_task, train_set, valid_set, test_set, optimizer, scheduler, **cfg.engine)
 
 
-path = os.path.join(os.path.dirname(__file__), "template")
-
-
 def echarts(template_path, graph, title=None, node_colors=None, edge_colors=None, node_labels=None, relation_labels=None,
             node_types=None, type_labels=None, dynamic_size=False, dynamic_width=False, save_file=None):
     """
@@ -316,7 +313,7 @@ if __name__ == "__main__":
             if ranking[j, 0] <= 10 and not os.path.exists(save_file):
                 paths, weights = task.visualize(sample)
                 if paths:
-                    visualize_echarts(task.fact_graph, sample, paths, weights, entity_vocab, relation_vocab,
+                    visualize_echarts(template_path, task.fact_graph, sample, paths, weights, entity_vocab, relation_vocab,
                                       ranking[j, 0], save_file, node_colors_dict=node_colors_dict)
 
             #            entity = re.search(r"(.+) \(Q\d+\)", entity_vocab[t]).groups()[0]
