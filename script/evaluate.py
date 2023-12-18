@@ -95,7 +95,7 @@ if __name__ == "__main__":
     if "checkpoint" in cfg:
         solver_load(cfg.checkpoint)
     entity_vocab, relation_vocab = load_vocab(vocab_file, _dataset)
-    vocab_path = os.path.join(os.path.dirname(__file__), cfg.dataset.path, "entity_vocab.csv")
+    vocab_path = os.path.join("/root/nbfnet-gr/experiments/entity_vocab.csv")
     with open(vocab_path, 'w') as csv_file:
         csv_writer = csv.writer(csv_file)
         csv_writer.writerow(['id', 'gene'])
