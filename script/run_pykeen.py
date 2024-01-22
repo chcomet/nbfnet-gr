@@ -13,12 +13,18 @@ training = TriplesFactory.from_labeled_triples(train_df.to_numpy(), create_inver
 valid = TriplesFactory.from_labeled_triples(valid_df.to_numpy(), create_inverse_triples=False)
 testing = TriplesFactory.from_labeled_triples(test_df.to_numpy(), create_inverse_triples=False)
 
-res = pd.DataFrame(
-    columns=[
-        'model', 'num_negs', 'batch_size', 'learning_rate', 'num_epochs',
-        "hits@1", "hits@3", "hits@10", "mr", "mrr"
-    ]
-)
+res = pd.DataFrame({
+    'model': pd.Series(dtype='str'),
+    'num_negs': pd.Series(dtype='int'),
+    'batch_size': pd.Series(dtype='int'),
+    'learning_rate': pd.Series(dtype='float'),
+    'num_epochs': pd.Series(dtype='int'),
+    "hits@1": pd.Series(dtype='float'),
+    "hits@3": pd.Series(dtype='float'),
+    "hits@10": pd.Series(dtype='float'),
+    "mr": pd.Series(dtype='float'),
+    "mrr": pd.Series(dtype='float')
+})
 
 for num_negs_per_pos in [16, 32, 128]:
     for batch_size in [128, 256]:
@@ -50,9 +56,7 @@ for num_negs_per_pos in [16, 32, 128]:
                 "mrr": metric.loc[(metric.Side == "both") & (metric.Type == "realistic") & (metric.Metric == "inverse_harmonic_mean_rank"), "Value"].values[0]
             }
             print(new_record)
-            res = res.append(new_record, ignore_index=True)
+            res = pd.concat([res, pd.DataFrame(new_record, index=[0])], ignore_index=True)
             rotate.model.save_model(f'/root/nbfnet-gr/experiments/rotate/neg{num_negs_per_pos}_bs{batch_size}_lr{str(lr).split(".")[1]}_e{num_epochs}')
-
-
 
 res.to_csv("/root/nbfnet-gr/experiments/pykeen_res.csv", sep="\t", index=False)
