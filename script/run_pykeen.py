@@ -57,6 +57,6 @@ for num_negs_per_pos in [16, 32, 128]:
             }
             print(new_record)
             res = pd.concat([res, pd.DataFrame(new_record, index=[0])], ignore_index=True)
-            rotate.model.save_model(f'/root/nbfnet-gr/experiments/rotate/neg{num_negs_per_pos}_bs{batch_size}_lr{str(lr).split(".")[1]}_e{num_epochs}')
+            rotate.save_to_directory(f'/root/nbfnet-gr/experiments/rotate/neg{num_negs_per_pos}_bs{batch_size}_lr{str(lr).split(".")[1]}_e{num_epochs}')
 
 res.to_csv("/root/nbfnet-gr/experiments/pykeen_res.csv", sep="\t", index=False)
