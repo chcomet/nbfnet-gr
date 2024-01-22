@@ -5,9 +5,9 @@ from pykeen.triples import TriplesFactory
 
 print(pykeen.env())
 
-train_df = pd.read_csv("../data/gold/lnctardppi/train2.txt", delimiter='\t', header=None, names=["h", "r", "t"])
-valid_df = pd.read_csv("../data/gold/lnctardppi/valid.txt", delimiter='\t', header=None, names=["h", "r", "t"])
-test_df = pd.read_csv("../data/gold/lnctardppi/test.txt", delimiter='\t', header=None, names=["h", "r", "t"])
+train_df = pd.read_csv("/home/nbfnet-gr/data/gold/lnctardppi/train2.txt", delimiter='\t', header=None, names=["h", "r", "t"])
+valid_df = pd.read_csv("/home/nbfnet-gr/data/gold/lnctardppi/valid.txt", delimiter='\t', header=None, names=["h", "r", "t"])
+test_df = pd.read_csv("/home/nbfnet-gr/data/gold/lnctardppi/test.txt", delimiter='\t', header=None, names=["h", "r", "t"])
 
 training = TriplesFactory.from_labeled_triples(train_df.to_numpy(), create_inverse_triples=True)
 valid = TriplesFactory.from_labeled_triples(valid_df.to_numpy(), create_inverse_triples=False)
