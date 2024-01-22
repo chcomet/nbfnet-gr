@@ -16,14 +16,14 @@ testing = TriplesFactory.from_labeled_triples(test_df.to_numpy(), create_inverse
 res = pd.DataFrame(
     columns=[
         'model', 'num_negs', 'batch_size', 'learning_rate', 'num_epochs',
-        "hits_at_1", "hits_at_3", "hits_at_10", "arithmetic_mean_rank", "inverse_harmonic_mean_rank"
+        "hits@1", "hits@3", "hits@10", "mr", "mrr"
     ]
 )
 
 for num_negs_per_pos in [16, 32, 128]:
     for batch_size in [128, 256]:
         for lr, num_epochs in [(0.001, 200), (0.0001, 300)]:
-            transe = pipeline(
+            rotate = pipeline(
                 training=training,
                 validation=valid,
                 testing=testing,
@@ -36,7 +36,7 @@ for num_negs_per_pos in [16, 32, 128]:
                 random_seed=1,
                 device="cuda",
             )
-            metric = transe.metric_results.to_df()
+            metric = rotate.metric_results.to_df()
             new_record = {
                 'model': "RotatE",
                 'num_negs': num_negs_per_pos,
@@ -51,5 +51,8 @@ for num_negs_per_pos in [16, 32, 128]:
             }
             print(new_record)
             res = res.append(new_record, ignore_index=True)
+            rotate.model.save_model(f'/root/nbfnet-gr/experiments/rotate/neg{num_negs_per_pos}_bs{batch_size}_lr{str(lr).split(".")[1]}_e{num_epochs}')
+
+
 
 res.to_csv("/root/nbfnet-gr/experiments/pykeen_res.csv", sep="\t", index=False)
