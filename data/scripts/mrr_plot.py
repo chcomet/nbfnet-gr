@@ -1,40 +1,37 @@
-import networkx as nx
 import pandas as pd
+from matplotlib import pyplot as plt
 
 
 # get degree for each node
-from matplotlib import pyplot as plt
 
-dataset_dir = "../gold/lnctardppi"
-df1 = pd.read_csv(f"{dataset_dir}/train1.txt", header=None, sep="\t", names=["h", "r", "t"])
-df2 = pd.read_csv(f"{dataset_dir}/train2.txt", header=None, sep="\t", names=["h", "r", "t"])
-df3 = pd.read_csv(f"{dataset_dir}/test.txt", header=None, sep="\t", names=["h", "r", "t"])
-df4 = pd.read_csv(f"{dataset_dir}/valid.txt", header=None, sep="\t", names=["h", "r", "t"])
-df = pd.concat([df1, df2, df3, df4], axis=0)
-
-G = nx.DiGraph()
-edges = [(row['h'], row['t'], {'relation': row['r']}) for _, row in df.iterrows()]
-G.add_edges_from(edges)
-degrees = dict(G.degree())
-degrees_df = pd.DataFrame(list(degrees.items()), columns=['gene', 'degree'])
+path = "../gold/lnctardppi_pred"
+degrees_df = pd.read_csv(f"{path}/degrees.csv", header=None, names=["gene", "gene_type", "degree", "degree_ppi"])
 
 # mrr per node
-mrr = pd.read_csv(f"{dataset_dir}_pred/mrr.csv", header=0)
-entity_vocab = pd.read_csv(f"{dataset_dir}_pred/entity_vocab.csv", header=0)
+mrr = pd.read_csv(f"{path}/mrr_per_node.csv", header=0)
+entity_vocab = pd.read_csv(f"{path}/entity_vocab.csv", header=0)
 mrr = pd.merge(mrr, entity_vocab, on="id", how="left")
 mrr = pd.merge(mrr, degrees_df, on="gene", how="left")
+mrr.to_csv(f"{path}/mrrs.csv", index=False)
 
 # test nodes
-test = pd.read_csv(f"{dataset_dir}_pred/test.txt", header=None, sep="\t", names=["h", "r", "t"])
-test_genes = pd.concat([test["h"], test["t"]], axis=0).drop_duplicates()
-test_genes = pd.DataFrame({'gene': test_genes})
-df = pd.merge(mrr, test_genes, on="gene")
+test_genes = [
+    "NEAT1", "MALAT1", "SNHG16", "ZFAS1", "MIR22HG", "LINC-PINT", "MIR4435-2HG",
+    "FGD5-AS1", "CYTOR", "PVT1", "FTX", "FOXCUT", "FENDRR", "LINC00461", "DLEU2",
+    "MIR34AHG", "LINC00511", "LINC02582", "DLGAP1-AS1", "THORLNC"
+]
+mrr_target = mrr[mrr["gene"].isin(test_genes)]
+
+# mrr_tail = mrr_target[~mrr_target["tail_pred_mrr"].isnull()].reset_index()
+# mrr_head = mrr_target[~mrr_target["head_pred_mrr"].isnull()].reset_index()
+mrr_tail = mrr[~mrr["tail_pred_mrr"].isnull()].reset_index()
+mrr_head = mrr[~mrr["head_pred_mrr"].isnull()].reset_index()
 
 # scatter
-plt.scatter(df['degree'], df['head_pred_mrr'], label='Head Pred MRR')
-plt.scatter(df['degree'], df['tail_pred_mrr'], label='Tail Pred MRR')
-for i in range(len(df)):
-    plt.text(df['degree'][i], df['tail_pred_mrr'][i], df['gene'][i], fontsize=12, ha='right')
+plt.scatter(mrr_head['degree'], mrr_head['head_pred_mrr'], label='Head Pred MRR')
+plt.scatter(mrr_tail['degree'], mrr_tail['tail_pred_mrr'], label='Tail Pred MRR')
+# for i in range(len(mrr_tail)):
+#     plt.text(mrr_tail['degree'][i], mrr_tail['tail_pred_mrr'][i], mrr_tail['gene'][i], fontsize=12, ha='right')
 
 plt.xlabel('Degree')
 plt.ylabel('MRR')

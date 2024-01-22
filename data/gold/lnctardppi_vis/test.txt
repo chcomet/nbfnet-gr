@@ -1,3 +1,10 @@
+PVT1	epigenetic regulation	MIR429
 PVT1	epigenetic regulation	MIR200A
-MALAT1	interact with protein	EZH2
-MALAT1	interact with mRNA	MYC
+PVT1	epigenetic regulation	CDH1
+PVT1	epigenetic regulation	KLF2
+NEAT1	epigenetic regulation	TP53
+LINC00511	epigenetic regulation	CCND1
+LINC00511	interact with mRNA	CCND1
+LINC00511	ceRNA or sponge	CCND1
+LINC00511	interact with protein	CCND1
+LINC00511	transcriptional regulation	CCND1
