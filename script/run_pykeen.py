@@ -5,9 +5,9 @@ from pykeen.triples import TriplesFactory
 
 print(pykeen.env())
 
-train_df = pd.read_csv("../data/gold/lnctardv1/train2.txt", delimiter='\t', header=None, names=["h", "r", "t"])
-valid_df = pd.read_csv("../data/gold/lnctardv1/valid.txt", delimiter='\t', header=None, names=["h", "r", "t"])
-test_df = pd.read_csv("../data/gold/lnctardv1/test.txt", delimiter='\t', header=None, names=["h", "r", "t"])
+train_df = pd.read_csv("../data/gold/lnctardppi/train2.txt", delimiter='\t', header=None, names=["h", "r", "t"])
+valid_df = pd.read_csv("../data/gold/lnctardppi/valid.txt", delimiter='\t', header=None, names=["h", "r", "t"])
+test_df = pd.read_csv("../data/gold/lnctardppi/test.txt", delimiter='\t', header=None, names=["h", "r", "t"])
 
 training = TriplesFactory.from_labeled_triples(train_df.to_numpy(), create_inverse_triples=True)
 valid = TriplesFactory.from_labeled_triples(valid_df.to_numpy(), create_inverse_triples=False)
@@ -43,11 +43,11 @@ for num_negs_per_pos in [16, 32, 128]:
                 'batch_size': batch_size,
                 'learning_rate': lr,
                 'num_epochs': num_epochs,
-                "hits_at_1": metric.loc[(metric.Side == "both") & (metric.Type == "realistic") & (metric.Metric == "hits_at_1"), "Value"].values[0],
-                "hits_at_3": metric.loc[(metric.Side == "both") & (metric.Type == "realistic") & (metric.Metric == "hits_at_3"), "Value"].values[0],
-                "hits_at_10": metric.loc[(metric.Side == "both") & (metric.Type == "realistic") & (metric.Metric == "hits_at_10"), "Value"].values[0],
-                "arithmetic_mean_rank": metric.loc[(metric.Side == "both") & (metric.Type == "realistic") & (metric.Metric == "arithmetic_mean_rank"), "Value"].values[0],
-                "inverse_harmonic_mean_rank": metric.loc[(metric.Side == "both") & (metric.Type == "realistic") & (metric.Metric == "inverse_harmonic_mean_rank"), "Value"].values[0]
+                "hits@1": metric.loc[(metric.Side == "both") & (metric.Type == "realistic") & (metric.Metric == "hits_at_1"), "Value"].values[0],
+                "hits@3": metric.loc[(metric.Side == "both") & (metric.Type == "realistic") & (metric.Metric == "hits_at_3"), "Value"].values[0],
+                "hits@10": metric.loc[(metric.Side == "both") & (metric.Type == "realistic") & (metric.Metric == "hits_at_10"), "Value"].values[0],
+                "mr": metric.loc[(metric.Side == "both") & (metric.Type == "realistic") & (metric.Metric == "arithmetic_mean_rank"), "Value"].values[0],
+                "mrr": metric.loc[(metric.Side == "both") & (metric.Type == "realistic") & (metric.Metric == "inverse_harmonic_mean_rank"), "Value"].values[0]
             }
             print(new_record)
             res = res.append(new_record, ignore_index=True)
