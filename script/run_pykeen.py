@@ -6,8 +6,8 @@ from pykeen.triples import TriplesFactory
 print(pykeen.env())
 
 train_df = pd.read_csv("/home/nbfnet-gr/data/gold/lnctardppi/train2.txt", delimiter='\t', header=None, names=["h", "r", "t"])
-ppi_df = pd.read_csv("/home/nbfnet-gr/data/gold/lnctardppi/train1.txt", delimiter='\t', header=None, names=["h", "r", "t"])
-train_df = pd.concat([train_df, ppi_df], axis=0).drop_duplicates()
+# ppi_df = pd.read_csv("/home/nbfnet-gr/data/gold/lnctardppi/train1.txt", delimiter='\t', header=None, names=["h", "r", "t"])
+# train_df = pd.concat([train_df, ppi_df], axis=0).drop_duplicates()
 valid_df = pd.read_csv("/home/nbfnet-gr/data/gold/lnctardppi/valid.txt", delimiter='\t', header=None, names=["h", "r", "t"])
 test_df = pd.read_csv("/home/nbfnet-gr/data/gold/lnctardppi/test.txt", delimiter='\t', header=None, names=["h", "r", "t"])
 
@@ -61,4 +61,4 @@ for num_negs_per_pos in [16, 32, 64, 128]:
             res = pd.concat([res, pd.DataFrame(new_record, index=[0])], ignore_index=True)
             rotate.save_to_directory(f'/root/nbfnet-gr/experiments/rotate/1024/neg{num_negs_per_pos}_bs{batch_size}_lr{str(lr).split(".")[1]}_e{num_epochs}')
 
-res.to_csv("/root/nbfnet-gr/experiments/rotate_ppi_512.csv", sep="\t", index=False)
+res.to_csv("/root/nbfnet-gr/experiments/rotate_512.csv", sep="\t", index=False)
