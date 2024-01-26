@@ -5,22 +5,21 @@ from pykeen.triples import TriplesFactory
 
 print(pykeen.env())
 
-# train_df = pd.read_csv("/home/nbfnet-gr/data/gold/lnctardppi/train2.txt", delimiter='\t', header=None, names=["h", "r", "t"])
-# # ppi_df = pd.read_csv("/home/nbfnet-gr/data/gold/lnctardppi/train1.txt", delimiter='\t', header=None, names=["h", "r", "t"])
-# # train_df = pd.concat([train_df, ppi_df], axis=0).drop_duplicates()
-# valid_df = pd.read_csv("/home/nbfnet-gr/data/gold/lnctardppi/valid.txt", delimiter='\t', header=None, names=["h", "r", "t"])
-# test_df = pd.read_csv("/home/nbfnet-gr/data/gold/lnctardppi/test.txt", delimiter='\t', header=None, names=["h", "r", "t"])
-#
-# training = TriplesFactory.from_labeled_triples(train_df.to_numpy(), create_inverse_triples=True)
-# valid = TriplesFactory.from_labeled_triples(valid_df.to_numpy(), create_inverse_triples=False)
-# testing = TriplesFactory.from_labeled_triples(test_df.to_numpy(), create_inverse_triples=False)
+train_df = pd.read_csv("/home/nbfnet-gr/data/gold/lnctardppi/train2.txt", delimiter='\t', header=None, names=["h", "r", "t"])
+# ppi_df = pd.read_csv("/home/nbfnet-gr/data/gold/lnctardppi/train1.txt", delimiter='\t', header=None, names=["h", "r", "t"])
+# train_df = pd.concat([train_df, ppi_df], axis=0).drop_duplicates()
+valid_df = pd.read_csv("/home/nbfnet-gr/data/gold/lnctardppi/valid.txt", delimiter='\t', header=None, names=["h", "r", "t"])
+test_df = pd.read_csv("/home/nbfnet-gr/data/gold/lnctardppi/test.txt", delimiter='\t', header=None, names=["h", "r", "t"])
 
-print(pykeen.env())
-df = pd.read_csv("/home/nbfnet-gt/data/bronze/lncTarD2.txt", sep="\t", encoding="latin-1", dtype="string")
-df = df[["Regulator", "SearchregulatoryMechanism", "Target"]]
-df = df[df["Regulator"].isin(df["Regulator"].value_counts().loc[lambda x: x > 1].index)].drop_duplicates().reset_index(drop=True).to_numpy()
-tf = TriplesFactory.from_labeled_triples(df)
-training, valid, testing = tf.split([0.8, 0.1, 0.1], random_state=1234)
+training = TriplesFactory.from_labeled_triples(train_df.to_numpy(), create_inverse_triples=True)
+valid = TriplesFactory.from_labeled_triples(valid_df.to_numpy(), create_inverse_triples=False)
+testing = TriplesFactory.from_labeled_triples(test_df.to_numpy(), create_inverse_triples=False)
+
+# df = pd.read_csv("/home/nbfnet-gt/data/bronze/lncTarD2.txt", sep="\t", encoding="latin-1", dtype="string")
+# df = df[["Regulator", "SearchregulatoryMechanism", "Target"]]
+# df = df[df["Regulator"].isin(df["Regulator"].value_counts().loc[lambda x: x > 1].index)].drop_duplicates().reset_index(drop=True).to_numpy()
+# tf = TriplesFactory.from_labeled_triples(df)
+# training, valid, testing = tf.split([0.8, 0.1, 0.1], random_state=1234)
 
 
 res = pd.DataFrame({
@@ -38,7 +37,7 @@ res = pd.DataFrame({
 
 for num_negs_per_pos in [16, 32, 64, 128]:
     for batch_size in [64, 128, 256]:
-        for lr, num_epochs in [(0.001, 200), (0.0001, 300)]:
+        for lr, num_epochs in [(0.0001, 400), (0.00001, 800)]:
             rotate = pipeline(
                 training=training,
                 validation=valid,
