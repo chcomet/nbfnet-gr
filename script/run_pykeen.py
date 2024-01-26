@@ -37,13 +37,13 @@ res = pd.DataFrame({
 
 for num_negs_per_pos in [16, 32, 64, 128]:
     for batch_size in [64, 128, 256]:
-        for lr, num_epochs in [(0.0001, 400), (0.00001, 800)]:
+        for lr, num_epochs in [(1e-02, 200), (1e-03, 300), (1e-04, 400)]:
             rotate = pipeline(
                 training=training,
                 validation=valid,
                 testing=testing,
                 model="RotatE",
-                model_kwargs=dict(embedding_dim=512),
+                model_kwargs=dict(embedding_dim=256),
                 training_kwargs=dict(use_tqdm_batch=False, num_epochs=num_epochs, batch_size=batch_size),
                 evaluation_kwargs=dict(use_tqdm=False),
                 optimizer_kwargs=dict(lr=lr),
@@ -66,6 +66,6 @@ for num_negs_per_pos in [16, 32, 64, 128]:
             }
             print(new_record)
             res = pd.concat([res, pd.DataFrame(new_record, index=[0])], ignore_index=True)
-            rotate.save_to_directory(f'/root/nbfnet-gr/experiments/rotate/1024/neg{num_negs_per_pos}_bs{batch_size}_lr{str(lr).split(".")[1]}_e{num_epochs}')
+            # rotate.save_to_directory(f'/root/nbfnet-gr/experiments/rotate/1024/neg{num_negs_per_pos}_bs{batch_size}_lr{lr}_e{num_epochs}')
 
-res.to_csv("/root/nbfnet-gr/experiments/rotate_512.csv", sep="\t", index=False)
+res.to_csv("/root/nbfnet-gr/experiments/rotate_256.csv", sep="\t", index=False)
