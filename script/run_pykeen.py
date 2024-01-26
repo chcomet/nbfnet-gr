@@ -35,15 +35,15 @@ res = pd.DataFrame({
     "mrr": pd.Series(dtype='float')
 })
 
-for num_negs_per_pos in [16, 32, 64, 128]:
-    for batch_size in [64, 128, 256]:
-        for lr, num_epochs in [(1e-02, 200), (1e-03, 300), (1e-04, 400)]:
+for num_negs_per_pos in [8, 16, 32]:
+    for batch_size in [128]:
+        for lr, num_epochs in [(1e-01, 200), (1e-02, 400)]:
             rotate = pipeline(
                 training=training,
                 validation=valid,
                 testing=testing,
                 model="RotatE",
-                model_kwargs=dict(embedding_dim=256),
+                model_kwargs=dict(embedding_dim=512),
                 training_kwargs=dict(use_tqdm_batch=False, num_epochs=num_epochs, batch_size=batch_size),
                 evaluation_kwargs=dict(use_tqdm=False),
                 optimizer_kwargs=dict(lr=lr),
