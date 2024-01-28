@@ -270,5 +270,5 @@ if __name__ == "__main__":
     df = get_tail_pred(pred, mask, _dataset, relation_vocab)
     logger.warning("Link prediction done")
     logger.warning("Saving to file")
-    print(os.path.join(working_dir, "predictions.csv"))
+    print("Save results to ", os.path.join(working_dir, "predictions.csv"))
     df.to_csv(os.path.join(working_dir, "predictions.csv"), index=False, sep="\t")
