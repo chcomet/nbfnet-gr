@@ -186,7 +186,8 @@ def get_tail_pred(pred, mask, dataset, relation_vocab):
     df = pd.DataFrame(df_dict)
 
     # threshold on probability
-    df = df[df["probability"] > 0.5]
+    # df = df[df["probability"] > 0.5]
+    df = df[df["mask"]]
 
     # load dataframes
     folder = "/home/nbfnet-gr/data/gold/lnctardppi/"
@@ -203,7 +204,8 @@ def get_tail_pred(pred, mask, dataset, relation_vocab):
     df = pd.merge(df, test_df, on=["query_node", "query_relation", "prediction_node"], how="left")
     df = pd.merge(df, valid_df, on=["query_node", "query_relation", "prediction_node"], how="left")
     df["source"] = df["source_x"].combine_first(df["source_y"]).combine_first(df["source"])
-    df = df[["query_node", "query_relation", "mask", "prediction_node", "probability", "prediction_node_type", "source"]]
+    df = df[["query_node", "query_relation", "prediction_node", "probability", "prediction_node_type", "source"]]
+    df = df.sort_values(by=['query_node', 'prediction_node', "probability"], ascending=[True, True, False])
     return df
 
 
