@@ -1,114 +1,54 @@
-ABALON	interact with mRNA	TPX2
-ABALON	transcriptional regulation	TPX2
-ABALON	interact with protein	TPX2
-ABALON	ceRNA or sponge	TPX2
-ABALON	expression association	TPX2
-ABALON	epigenetic regulation	TPX2
-ABALON	interact with mRNA	ID1
-ABALON	transcriptional regulation	ID1
-ABALON	interact with protein	ID1
-ABALON	ceRNA or sponge	ID1
-ABALON	expression association	ID1
-ABALON	epigenetic regulation	ID1
-MALAT1	interact with mRNA	MAP3K11
-MALAT1	transcriptional regulation	MAP3K11
-MALAT1	interact with protein	MAP3K11
-MALAT1	ceRNA or sponge	MAP3K11
-MALAT1	expression association	MAP3K11
-MALAT1	epigenetic regulation	MAP3K11
-MALAT1	interact with mRNA	NEAT1
-MALAT1	transcriptional regulation	NEAT1
-MALAT1	interact with protein	NEAT1
-MALAT1	ceRNA or sponge	NEAT1
-MALAT1	expression association	NEAT1
-MALAT1	epigenetic regulation	NEAT1
-ASB16-AS1	interact with mRNA	GRN
-ASB16-AS1	transcriptional regulation	GRN
-ASB16-AS1	interact with protein	GRN
-ASB16-AS1	ceRNA or sponge	GRN
-ASB16-AS1	expression association	GRN
-ASB16-AS1	epigenetic regulation	GRN
-TNK2-AS1	interact with mRNA	TFRC
-TNK2-AS1	transcriptional regulation	TFRC
-TNK2-AS1	interact with protein	TFRC
-TNK2-AS1	ceRNA or sponge	TFRC
-TNK2-AS1	expression association	TFRC
-TNK2-AS1	epigenetic regulation	TFRC
-FBXL19-AS1	interact with mRNA	SETD1A
-FBXL19-AS1	transcriptional regulation	SETD1A
-FBXL19-AS1	interact with protein	SETD1A
-FBXL19-AS1	ceRNA or sponge	SETD1A
-FBXL19-AS1	expression association	SETD1A
-FBXL19-AS1	epigenetic regulation	SETD1A
-ERICD	interact with mRNA	CHRAC1
-ERICD	transcriptional regulation	CHRAC1
-ERICD	interact with protein	CHRAC1
-ERICD	ceRNA or sponge	CHRAC1
-ERICD	expression association	CHRAC1
-ERICD	epigenetic regulation	CHRAC1
-ILF3-DT	interact with mRNA	ATG4D
-ILF3-DT	transcriptional regulation	ATG4D
-ILF3-DT	interact with protein	ATG4D
-ILF3-DT	ceRNA or sponge	ATG4D
-ILF3-DT	expression association	ATG4D
-ILF3-DT	epigenetic regulation	ATG4D
-AGAP2-AS1	interact with mRNA	OS9
-AGAP2-AS1	transcriptional regulation	OS9
-AGAP2-AS1	interact with protein	OS9
-AGAP2-AS1	ceRNA or sponge	OS9
-AGAP2-AS1	expression association	OS9
-AGAP2-AS1	epigenetic regulation	OS9
-SNHG8	interact with mRNA	METTL14
-SNHG8	transcriptional regulation	METTL14
-SNHG8	interact with protein	METTL14
-SNHG8	ceRNA or sponge	METTL14
-SNHG8	expression association	METTL14
-SNHG8	epigenetic regulation	METTL14
-SOD2-OT1	interact with mRNA	WTAP
-SOD2-OT1	transcriptional regulation	WTAP
-SOD2-OT1	interact with protein	WTAP
-SOD2-OT1	ceRNA or sponge	WTAP
-SOD2-OT1	expression association	WTAP
-SOD2-OT1	epigenetic regulation	WTAP
-SNHG20	interact with mRNA	SRSF2
-SNHG20	transcriptional regulation	SRSF2
-SNHG20	interact with protein	SRSF2
-SNHG20	ceRNA or sponge	SRSF2
-SNHG20	expression association	SRSF2
-SNHG20	epigenetic regulation	SRSF2
-MELTF-AS1	interact with mRNA	MELTF
-MELTF-AS1	transcriptional regulation	MELTF
-MELTF-AS1	interact with protein	MELTF
-MELTF-AS1	ceRNA or sponge	MELTF
-MELTF-AS1	expression association	MELTF
-MELTF-AS1	epigenetic regulation	MELTF
-RAB11B-AS1	interact with mRNA	ANGPTL4
-RAB11B-AS1	transcriptional regulation	ANGPTL4
-RAB11B-AS1	interact with protein	ANGPTL4
-RAB11B-AS1	ceRNA or sponge	ANGPTL4
-RAB11B-AS1	expression association	ANGPTL4
-RAB11B-AS1	epigenetic regulation	ANGPTL4
-SNHG9	interact with mRNA	E4F1
-SNHG9	transcriptional regulation	E4F1
-SNHG9	interact with protein	E4F1
-SNHG9	ceRNA or sponge	E4F1
-SNHG9	expression association	E4F1
-SNHG9	epigenetic regulation	E4F1
-NEAT1	interact with mRNA	LTBP3
-NEAT1	transcriptional regulation	LTBP3
-NEAT1	interact with protein	LTBP3
-NEAT1	ceRNA or sponge	LTBP3
-NEAT1	expression association	LTBP3
-NEAT1	epigenetic regulation	LTBP3
-NEAT1	interact with mRNA	MAP3K11
-NEAT1	transcriptional regulation	MAP3K11
-NEAT1	interact with protein	MAP3K11
-NEAT1	ceRNA or sponge	MAP3K11
-NEAT1	expression association	MAP3K11
-NEAT1	epigenetic regulation	MAP3K11
-NEAT1	interact with mRNA	MALAT1
-NEAT1	transcriptional regulation	MALAT1
-NEAT1	interact with protein	MALAT1
-NEAT1	ceRNA or sponge	MALAT1
-NEAT1	expression association	MALAT1
-NEAT1	epigenetic regulation	MALAT1
+CCAT1	interact with mRNA	CCAT1
+CCAT1	transcriptional regulation	CCAT1
+CCAT1	interact with protein	CCAT1
+CCAT1	ceRNA or sponge	CCAT1
+CCAT1	expression association	CCAT1
+CCAT1	epigenetic regulation	CCAT1
+EPB41L4A-AS1	interact with mRNA	EPB41L4A-AS1
+EPB41L4A-AS1	transcriptional regulation	EPB41L4A-AS1
+EPB41L4A-AS1	interact with protein	EPB41L4A-AS1
+EPB41L4A-AS1	ceRNA or sponge	EPB41L4A-AS1
+EPB41L4A-AS1	expression association	EPB41L4A-AS1
+EPB41L4A-AS1	epigenetic regulation	EPB41L4A-AS1
+LAMTOR5-AS1	interact with mRNA	LAMTOR5-AS1
+LAMTOR5-AS1	transcriptional regulation	LAMTOR5-AS1
+LAMTOR5-AS1	interact with protein	LAMTOR5-AS1
+LAMTOR5-AS1	ceRNA or sponge	LAMTOR5-AS1
+LAMTOR5-AS1	expression association	LAMTOR5-AS1
+LAMTOR5-AS1	epigenetic regulation	LAMTOR5-AS1
+MIR17HG	interact with mRNA	MIR17HG
+MIR17HG	transcriptional regulation	MIR17HG
+MIR17HG	interact with protein	MIR17HG
+MIR17HG	ceRNA or sponge	MIR17HG
+MIR17HG	expression association	MIR17HG
+MIR17HG	epigenetic regulation	MIR17HG
+MIR210HG	interact with mRNA	MIR210HG
+MIR210HG	transcriptional regulation	MIR210HG
+MIR210HG	interact with protein	MIR210HG
+MIR210HG	ceRNA or sponge	MIR210HG
+MIR210HG	expression association	MIR210HG
+MIR210HG	epigenetic regulation	MIR210HG
+PVT1	interact with mRNA	PVT1
+PVT1	transcriptional regulation	PVT1
+PVT1	interact with protein	PVT1
+PVT1	ceRNA or sponge	PVT1
+PVT1	expression association	PVT1
+PVT1	epigenetic regulation	PVT1
+SNHG1	interact with mRNA	SNHG1
+SNHG1	transcriptional regulation	SNHG1
+SNHG1	interact with protein	SNHG1
+SNHG1	ceRNA or sponge	SNHG1
+SNHG1	expression association	SNHG1
+SNHG1	epigenetic regulation	SNHG1
+SNHG12	interact with mRNA	SNHG12
+SNHG12	transcriptional regulation	SNHG12
+SNHG12	interact with protein	SNHG12
+SNHG12	ceRNA or sponge	SNHG12
+SNHG12	expression association	SNHG12
+SNHG12	epigenetic regulation	SNHG12
+ZNF407-AS1	interact with mRNA	ZNF407-AS1
+ZNF407-AS1	transcriptional regulation	ZNF407-AS1
+ZNF407-AS1	interact with protein	ZNF407-AS1
+ZNF407-AS1	ceRNA or sponge	ZNF407-AS1
+ZNF407-AS1	expression association	ZNF407-AS1
+ZNF407-AS1	epigenetic regulation	ZNF407-AS1
