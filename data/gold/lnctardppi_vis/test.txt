@@ -1,10 +1,24 @@
 PVT1	epigenetic regulation	MIR429
+PVT1	interact with mRNA	MIR429
+PVT1	ceRNA or sponge	MIR429
+PVT1	interact with protein	MIR429
+PVT1	transcriptional regulation	MIR429
+PVT1	expression association	MIR429
 PVT1	epigenetic regulation	MIR200A
-PVT1	epigenetic regulation	CDH1
-PVT1	epigenetic regulation	KLF2
-NEAT1	epigenetic regulation	TP53
-LINC00511	epigenetic regulation	CCND1
-LINC00511	interact with mRNA	CCND1
-LINC00511	ceRNA or sponge	CCND1
-LINC00511	interact with protein	CCND1
-LINC00511	transcriptional regulation	CCND1
+PVT1	interact with mRNA	MIR200A
+PVT1	ceRNA or sponge	MIR200A
+PVT1	interact with protein	MIR200A
+PVT1	transcriptional regulation	MIR200A
+PVT1	expression association	MIR200A
+PVT1	epigenetic regulation	ANKRD1
+PVT1	interact with mRNA	ANKRD1
+PVT1	ceRNA or sponge	ANKRD1
+PVT1	interact with protein	ANKRD1
+PVT1	transcriptional regulation	ANKRD1
+PVT1	expression association	ANKRD1
+PVT1	epigenetic regulation	RUNX1
+PVT1	interact with mRNA	RUNX1
+PVT1	ceRNA or sponge	RUNX1
+PVT1	interact with protein	RUNX1
+PVT1	transcriptional regulation	RUNX1
+PVT1	expression association	RUNX1
