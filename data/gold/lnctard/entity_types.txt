@@ -2306,7 +2306,7 @@ PRKAB1	protein_coding
 STK11	protein_coding
 FABP5	protein_coding
 SIRT3	protein_coding
-BPtranscription_factor	protein_coding
+BPTF	protein_coding
 MMP10	protein_coding
 TMPRSS11E	protein_coding
 PA2G4	protein_coding

@@ -32,6 +32,6 @@ engine:
   batch_size: 32
 
 train:
-  num_epoch: 20
+  num_epoch: 30
 
 metric: "mrr"
