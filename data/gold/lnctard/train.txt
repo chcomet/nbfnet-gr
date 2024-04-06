@@ -1198,7 +1198,7 @@ LINC01615	ceRNA or sponge	ZEB2
 LINC01619	ceRNA or sponge	FOXO1
 LINC01638	ceRNA or sponge	BATF3
 LINC01672	expression association	MMP10
-LINC01672	interact with protein	BPtranscription_factor
+LINC01672	interact with protein	BPTF
 LINC01705	interact with protein	MYH9
 LINC01714	epigenetic regulation	FOXO3
 LINC01857	ceRNA or sponge	TRIM65
