@@ -1,3 +1,7 @@
+# big original files
+/data/bronze/*.gtf
+/checkpoints
+
 # PyCharm
 /.idea
 

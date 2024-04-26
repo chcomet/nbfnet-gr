@@ -1,0 +1,227 @@
+{
+    "edges": [
+        {
+            "lineStyle": {
+                "width": 1.5578491687774658
+            },
+            "source": 2,
+            "target": 4,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.5582987070083618
+            },
+            "source": 6,
+            "target": 4,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.5607826709747314
+            },
+            "source": 4,
+            "target": 0,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.5578875541687012
+            },
+            "source": 4,
+            "target": 3,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.5598132610321045
+            },
+            "source": 4,
+            "target": 7,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.558103084564209
+            },
+            "source": 4,
+            "target": 9,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.5630007982254028
+            },
+            "source": 4,
+            "target": 8,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.5583362579345703
+            },
+            "source": 4,
+            "target": 10,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.558212161064148
+            },
+            "source": 5,
+            "target": 4,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 1.5677158832550049
+            },
+            "source": 12,
+            "target": 4,
+            "value": "epigenetic regulation (9)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 7.799999713897705
+            },
+            "source": 13,
+            "target": 4,
+            "value": "epigenetic regulation (9)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 7.799999713897705
+            },
+            "source": 11,
+            "target": 1,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 7.799999713897705
+            },
+            "source": 11,
+            "target": 4,
+            "value": "epigenetic regulation (9)"
+        }
+    ],
+    "nodes": [
+        {
+            "id": 0,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "PTCD3",
+            "symbolSize": 8.596637725830078
+        },
+        {
+            "id": 1,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "SUZ12",
+            "symbolSize": 11.229129791259766
+        },
+        {
+            "id": 2,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "HNF1A",
+            "symbolSize": 8.595243453979492
+        },
+        {
+            "id": 3,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "MRPL37",
+            "symbolSize": 8.595260620117188
+        },
+        {
+            "id": 4,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "MRPL28",
+            "symbolSize": 17.740337371826172
+        },
+        {
+            "id": 5,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "APMAP",
+            "symbolSize": 8.595416069030762
+        },
+        {
+            "id": 6,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "LACTB",
+            "symbolSize": 8.595458030700684
+        },
+        {
+            "id": 7,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "MRPL54",
+            "symbolSize": 8.59617805480957
+        },
+        {
+            "id": 8,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "TRAF4",
+            "symbolSize": 8.59769058227539
+        },
+        {
+            "id": 9,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "MRPL51",
+            "symbolSize": 8.59536361694336
+        },
+        {
+            "id": 10,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "MSLN",
+            "symbolSize": 8.595475196838379
+        },
+        {
+            "id": 11,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "HOTAIR",
+            "symbolSize": 13.838738441467285
+        },
+        {
+            "id": 12,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "BLACAT1",
+            "symbolSize": 8.599930763244629
+        },
+        {
+            "id": 13,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "PVT1",
+            "symbolSize": 11.229129791259766
+        }
+    ],
+    "title": "p(PVT1 | SUZ12, interact with protein (10)^(-1))\nranking = 11"
+}

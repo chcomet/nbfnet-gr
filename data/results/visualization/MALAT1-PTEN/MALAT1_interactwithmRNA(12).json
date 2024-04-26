@@ -1,0 +1,246 @@
+{
+    "edges": [
+        {
+            "lineStyle": {
+                "width": 2.013390064239502
+            },
+            "source": 1,
+            "target": 5,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9586007595062256
+            },
+            "source": 7,
+            "target": 8,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.013390064239502
+            },
+            "source": 7,
+            "target": 5,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.0370094776153564
+            },
+            "source": 9,
+            "target": 7,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 3.323625087738037
+            },
+            "source": 12,
+            "target": 1,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.1022164821624756
+            },
+            "source": 11,
+            "target": 6,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9644851684570312
+            },
+            "source": 7,
+            "target": 4,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.3116354942321777
+            },
+            "source": 11,
+            "target": 10,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 3.323625087738037
+            },
+            "source": 12,
+            "target": 6,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9644851684570312
+            },
+            "source": 11,
+            "target": 4,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.3116354942321777
+            },
+            "source": 7,
+            "target": 10,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9997903108596802
+            },
+            "source": 11,
+            "target": 3,
+            "value": "interact with protein (10)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9795796871185303
+            },
+            "source": 7,
+            "target": 2,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9997903108596802
+            },
+            "source": 3,
+            "target": 7,
+            "value": "interact with protein (10)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.0370094776153564
+            },
+            "source": 9,
+            "target": 11,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9807980060577393
+            },
+            "source": 11,
+            "target": 0,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9807980060577393
+            },
+            "source": 7,
+            "target": 0,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 5.425841331481934
+            },
+            "source": 7,
+            "target": 6,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9795796871185303
+            },
+            "source": 11,
+            "target": 2,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9586007595062256
+            },
+            "source": 11,
+            "target": 8,
+            "value": "transcriptional regulation (11)"
+        },
+        {
+            "lineStyle": {
+                "width": 16.33411407470703
+            },
+            "source": 11,
+            "target": 1,
+            "value": "transcriptional regulation (11)"
+        }
+    ],
+    "nodes": [
+        {
+            "id": 0,
+            "name": "BCL2",
+            "symbolSize": 9.153158187866211
+        },
+        {
+            "id": 1,
+            "itemStyle": {
+                "color": "#3ba272"
+            },
+            "name": "PTEN",
+            "symbolSize": 11.800402641296387
+        },
+        {
+            "id": 2,
+            "name": "VIM",
+            "symbolSize": 9.152751922607422
+        },
+        {
+            "id": 3,
+            "name": "TP53",
+            "symbolSize": 9.159496307373047
+        },
+        {
+            "id": 4,
+            "name": "TGFBR2",
+            "symbolSize": 9.147710800170898
+        },
+        {
+            "id": 5,
+            "name": "PXN",
+            "symbolSize": 9.164031982421875
+        },
+        {
+            "id": 6,
+            "name": "CDH2",
+            "symbolSize": 10.252201080322266
+        },
+        {
+            "id": 7,
+            "itemStyle": {
+                "color": "#ee6666"
+            },
+            "name": "MALAT1",
+            "symbolSize": 11.800402641296387
+        },
+        {
+            "id": 8,
+            "name": "MIR448",
+            "symbolSize": 9.145747184753418
+        },
+        {
+            "id": 9,
+            "name": "MIR101-1",
+            "symbolSize": 9.171907424926758
+        },
+        {
+            "id": 10,
+            "name": "MIR140",
+            "symbolSize": 9.263096809387207
+        },
+        {
+            "id": 11,
+            "name": "SNHG1",
+            "symbolSize": 13.195707321166992
+        },
+        {
+            "id": 12,
+            "name": "WDFY3-AS2",
+            "symbolSize": 9.59337329864502
+        }
+    ],
+    "title": "p(PTEN | MALAT1, interact with mRNA (12))\nranking = 2"
+}

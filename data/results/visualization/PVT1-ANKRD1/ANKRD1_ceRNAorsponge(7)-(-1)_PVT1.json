@@ -1,0 +1,297 @@
+{
+    "edges": [
+        {
+            "lineStyle": {
+                "width": 3.145183563232422
+            },
+            "source": 1,
+            "target": 11,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.7285739183425903
+            },
+            "source": 1,
+            "target": 7,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.453657627105713
+            },
+            "source": 2,
+            "target": 11,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.453657627105713
+            },
+            "source": 2,
+            "target": 4,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 4.468440532684326
+            },
+            "source": 6,
+            "target": 11,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.941335678100586
+            },
+            "source": 8,
+            "target": 11,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 3.410066604614258
+            },
+            "source": 8,
+            "target": 12,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.7019565105438232
+            },
+            "source": 3,
+            "target": 10,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.2233366966247559
+            },
+            "source": 9,
+            "target": 10,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.230320930480957
+            },
+            "source": 4,
+            "target": 3,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.2233366966247559
+            },
+            "source": 4,
+            "target": 9,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.4593892097473145
+            },
+            "source": 12,
+            "target": 0,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.416609525680542
+            },
+            "source": 12,
+            "target": 1,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.4716356992721558
+            },
+            "source": 12,
+            "target": 3,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 6.911919593811035
+            },
+            "source": 12,
+            "target": 5,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.4593892097473145
+            },
+            "source": 10,
+            "target": 0,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.4687306880950928
+            },
+            "source": 10,
+            "target": 8,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 6.911919593811035
+            },
+            "source": 11,
+            "target": 5,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 5.870109558105469
+            },
+            "source": 13,
+            "target": 12,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.7285739183425903
+            },
+            "source": 13,
+            "target": 7,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 6.853413105010986
+            },
+            "source": 13,
+            "target": 10,
+            "value": "transcriptional regulation (11)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 4.468440532684326
+            },
+            "source": 13,
+            "target": 6,
+            "value": "expression association (8)"
+        }
+    ],
+    "nodes": [
+        {
+            "id": 0,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "ESR1",
+            "symbolSize": 9.660378456115723
+        },
+        {
+            "id": 1,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "ESR2",
+            "symbolSize": 9.839317321777344
+        },
+        {
+            "id": 2,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "POU2F1",
+            "symbolSize": 9.766197204589844
+        },
+        {
+            "id": 3,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "TP53",
+            "symbolSize": 9.792497634887695
+        },
+        {
+            "id": 4,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "FOXO3",
+            "symbolSize": 9.766197204589844
+        },
+        {
+            "id": 5,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "TULP3",
+            "symbolSize": 10.2308931350708
+        },
+        {
+            "id": 6,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "TGFB1",
+            "symbolSize": 9.978155136108398
+        },
+        {
+            "id": 7,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "KIF23",
+            "symbolSize": 9.689109802246094
+        },
+        {
+            "id": 8,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "CARM1",
+            "symbolSize": 9.86722183227539
+        },
+        {
+            "id": 9,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "BRAF",
+            "symbolSize": 9.635135650634766
+        },
+        {
+            "id": 10,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "TSHR",
+            "symbolSize": 10.224895477294922
+        },
+        {
+            "id": 11,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "ANKRD1",
+            "symbolSize": 10.489605903625488
+        },
+        {
+            "id": 12,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "DROSHA",
+            "symbolSize": 10.570784568786621
+        },
+        {
+            "id": 13,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "PVT1",
+            "symbolSize": 10.489605903625488
+        }
+    ],
+    "title": "p(PVT1 | ANKRD1, ceRNA or sponge (7)^(-1))\nranking = 9"
+}

@@ -1,0 +1,267 @@
+{
+    "edges": [
+        {
+            "lineStyle": {
+                "width": 1.4983675479888916
+            },
+            "source": 0,
+            "target": 7,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.4959818124771118
+            },
+            "source": 1,
+            "target": 7,
+            "value": "controls-phosphorylation-of (6)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.4965686798095703
+            },
+            "source": 5,
+            "target": 7,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.4967994689941406
+            },
+            "source": 8,
+            "target": 7,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.4977916479110718
+            },
+            "source": 7,
+            "target": 2,
+            "value": "controls-phosphorylation-of (6)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.4971215724945068
+            },
+            "source": 7,
+            "target": 6,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 3.001060724258423
+            },
+            "source": 7,
+            "target": 3,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.507867455482483
+            },
+            "source": 7,
+            "target": 4,
+            "value": "controls-phosphorylation-of (6)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 1.5084407329559326
+            },
+            "source": 7,
+            "target": 8,
+            "value": "controls-phosphorylation-of (6)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 15.0
+            },
+            "source": 10,
+            "target": 7,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 15.0
+            },
+            "source": 10,
+            "target": 9,
+            "value": "epigenetic regulation (9)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 3.005239963531494
+            },
+            "source": 8,
+            "target": 11,
+            "value": "transcriptional regulation (11)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.4973224401474
+            },
+            "source": 3,
+            "target": 11,
+            "value": "transcriptional regulation (11)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.507867455482483
+            },
+            "source": 11,
+            "target": 4,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.4971215724945068
+            },
+            "source": 11,
+            "target": 6,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.5037381649017334
+            },
+            "source": 11,
+            "target": 3,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.4983675479888916
+            },
+            "source": 11,
+            "target": 0,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.4977916479110718
+            },
+            "source": 11,
+            "target": 2,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.4965686798095703
+            },
+            "source": 11,
+            "target": 5,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.4959818124771118
+            },
+            "source": 11,
+            "target": 1,
+            "value": "ceRNA or sponge (7)"
+        }
+    ],
+    "nodes": [
+        {
+            "id": 0,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "GRB2",
+            "symbolSize": 8.260193824768066
+        },
+        {
+            "id": 1,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "CDK1",
+            "symbolSize": 8.25867748260498
+        },
+        {
+            "id": 2,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "STAT3",
+            "symbolSize": 8.259828567504883
+        },
+        {
+            "id": 3,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "TP53",
+            "symbolSize": 9.174325942993164
+        },
+        {
+            "id": 4,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "CDKN1A",
+            "symbolSize": 8.266230583190918
+        },
+        {
+            "id": 5,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "TGFB1",
+            "symbolSize": 8.259050369262695
+        },
+        {
+            "id": 6,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "MDM2",
+            "symbolSize": 8.25940227508545
+        },
+        {
+            "id": 7,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "AKT3",
+            "symbolSize": 14.529314994812012
+        },
+        {
+            "id": 8,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "FOXO4",
+            "symbolSize": 9.176759719848633
+        },
+        {
+            "id": 9,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "ANKRD1",
+            "symbolSize": 11.513447761535645
+        },
+        {
+            "id": 10,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "AGAP2-AS1",
+            "symbolSize": 14.529314994812012
+        },
+        {
+            "id": 11,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "PVT1",
+            "symbolSize": 11.513447761535645
+        }
+    ],
+    "title": "p(ANKRD1 | PVT1, interact with mRNA (12))\nranking = 360"
+}

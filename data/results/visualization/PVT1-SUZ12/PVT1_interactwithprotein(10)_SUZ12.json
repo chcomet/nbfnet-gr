@@ -1,0 +1,210 @@
+{
+    "edges": [
+        {
+            "lineStyle": {
+                "width": 4.488971710205078
+            },
+            "source": 6,
+            "target": 2,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 6.492701053619385
+            },
+            "source": 6,
+            "target": 4,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 0.8469632863998413
+            },
+            "source": 4,
+            "target": 1,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 0.8603272438049316
+            },
+            "source": 4,
+            "target": 0,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 0.8505691289901733
+            },
+            "source": 3,
+            "target": 4,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 0.8494983315467834
+            },
+            "source": 5,
+            "target": 4,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 3.7610387802124023
+            },
+            "source": 7,
+            "target": 8,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 0.8505691289901733
+            },
+            "source": 9,
+            "target": 3,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "color": "#60A88D",
+                "width": 6.605715751647949
+            },
+            "source": 9,
+            "target": 4,
+            "value": "interact with protein (10)"
+        },
+        {
+            "lineStyle": {
+                "color": "#60A88D",
+                "width": 7.259026050567627
+            },
+            "source": 7,
+            "target": 4,
+            "value": "interact with protein (10)"
+        },
+        {
+            "lineStyle": {
+                "width": 0.8494983315467834
+            },
+            "source": 9,
+            "target": 5,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "color": "#60A88D",
+                "width": 7.550966262817383
+            },
+            "source": 7,
+            "target": 2,
+            "value": "interact with protein (10)"
+        },
+        {
+            "lineStyle": {
+                "width": 0.8469632863998413
+            },
+            "source": 9,
+            "target": 1,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.0268638134002686
+            },
+            "source": 9,
+            "target": 8,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 0.8603272438049316
+            },
+            "source": 9,
+            "target": 0,
+            "value": "epigenetic regulation (9)"
+        }
+    ],
+    "nodes": [
+        {
+            "id": 0,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "MYC",
+            "symbolSize": 7.963796138763428
+        },
+        {
+            "id": 1,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "STAT3",
+            "symbolSize": 7.954699516296387
+        },
+        {
+            "id": 2,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "SUZ12",
+            "symbolSize": 10.997140884399414
+        },
+        {
+            "id": 3,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "SLC2A1",
+            "symbolSize": 7.957153797149658
+        },
+        {
+            "id": 4,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "EZH2",
+            "symbolSize": 13.637880325317383
+        },
+        {
+            "id": 5,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "E2F2",
+            "symbolSize": 7.956425666809082
+        },
+        {
+            "id": 6,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "AEBP2",
+            "symbolSize": 10.723037719726562
+        },
+        {
+            "id": 7,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "APTR",
+            "symbolSize": 12.54815673828125
+        },
+        {
+            "id": 8,
+            "itemStyle": {
+                "color": "#679ED2"
+            },
+            "name": "MIR126",
+            "symbolSize": 9.264565467834473
+        },
+        {
+            "id": 9,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "PVT1",
+            "symbolSize": 10.997138977050781
+        }
+    ],
+    "title": "p(SUZ12 | PVT1, interact with protein (10))\nranking = 1"
+}

@@ -1,0 +1,202 @@
+{
+    "edges": [
+        {
+            "lineStyle": {
+                "width": 1.1559312343597412
+            },
+            "source": 1,
+            "target": 0,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.0736513137817383
+            },
+            "source": 0,
+            "target": 1,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 3.467526435852051
+            },
+            "source": 8,
+            "target": 5,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.7340177297592163
+            },
+            "source": 8,
+            "target": 9,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.011122226715088
+            },
+            "source": 3,
+            "target": 1,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.6331439018249512
+            },
+            "source": 8,
+            "target": 2,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.6808912754058838
+            },
+            "source": 7,
+            "target": 4,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 9.188955307006836
+            },
+            "source": 8,
+            "target": 1,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.011122226715088
+            },
+            "source": 3,
+            "target": 2,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.2295827865600586
+            },
+            "source": 0,
+            "target": 7,
+            "value": "transcriptional regulation (11)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.644266366958618
+            },
+            "source": 7,
+            "target": 2,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 5.874919891357422
+            },
+            "source": 7,
+            "target": 6,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 5.874919891357422
+            },
+            "source": 8,
+            "target": 6,
+            "value": "transcriptional regulation (11)"
+        },
+        {
+            "lineStyle": {
+                "width": 3.419949531555176
+            },
+            "source": 8,
+            "target": 4,
+            "value": "ceRNA or sponge (7)"
+        }
+    ],
+    "nodes": [
+        {
+            "id": 0,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "YY1",
+            "symbolSize": 9.303780555725098
+        },
+        {
+            "id": 1,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "CCND1",
+            "symbolSize": 10.79426383972168
+        },
+        {
+            "id": 2,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "MMP2",
+            "symbolSize": 9.467717170715332
+        },
+        {
+            "id": 3,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "PEG10",
+            "symbolSize": 8.808807373046875
+        },
+        {
+            "id": 4,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "JAK2",
+            "symbolSize": 9.430811882019043
+        },
+        {
+            "id": 5,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "CD47",
+            "symbolSize": 9.104803085327148
+        },
+        {
+            "id": 6,
+            "itemStyle": {
+                "color": "#679ED2"
+            },
+            "name": "MIR150",
+            "symbolSize": 10.674065589904785
+        },
+        {
+            "id": 7,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "LINC00511",
+            "symbolSize": 10.79426383972168
+        },
+        {
+            "id": 8,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "MIAT",
+            "symbolSize": 12.87258529663086
+        },
+        {
+            "id": 9,
+            "itemStyle": {
+                "color": "#679ED2"
+            },
+            "name": "MIR495",
+            "symbolSize": 8.748902320861816
+        }
+    ],
+    "title": "p(CCND1 | LINC00511, ceRNA or sponge (7))\nranking = 2"
+}

@@ -1,0 +1,217 @@
+{
+    "edges": [
+        {
+            "lineStyle": {
+                "width": 4.881320476531982
+            },
+            "source": 0,
+            "target": 1,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.6132123470306396
+            },
+            "source": 0,
+            "target": 3,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.6550090312957764
+            },
+            "source": 0,
+            "target": 7,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.7274084091186523
+            },
+            "source": 1,
+            "target": 2,
+            "value": "controls-phosphorylation-of (6)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.5228642225265503
+            },
+            "source": 1,
+            "target": 4,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 6.224111080169678
+            },
+            "source": 1,
+            "target": 5,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.7274084091186523
+            },
+            "source": 2,
+            "target": 7,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.1810526847839355
+            },
+            "source": 5,
+            "target": 3,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.5040175914764404
+            },
+            "source": 5,
+            "target": 6,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 5.077304840087891
+            },
+            "source": 4,
+            "target": 1,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.6130988597869873
+            },
+            "source": 3,
+            "target": 0,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.8401859998703003
+            },
+            "source": 3,
+            "target": 4,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 3.3824172019958496
+            },
+            "source": 8,
+            "target": 7,
+            "value": "interact with protein (10)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 4.759983062744141
+            },
+            "source": 8,
+            "target": 4,
+            "value": "interact with protein (10)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.53904128074646
+            },
+            "source": 5,
+            "target": 8,
+            "value": "transcriptional regulation (11)"
+        },
+        {
+            "lineStyle": {
+                "width": 7.247550010681152
+            },
+            "source": 8,
+            "target": 3,
+            "value": "interact with protein (10)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.5040175914764404
+            },
+            "source": 8,
+            "target": 6,
+            "value": "expression association (8)"
+        }
+    ],
+    "nodes": [
+        {
+            "id": 0,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "ESR1",
+            "symbolSize": 9.87597370147705
+        },
+        {
+            "id": 1,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "CCND1",
+            "symbolSize": 10.675116539001465
+        },
+        {
+            "id": 2,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "RB1",
+            "symbolSize": 9.326932907104492
+        },
+        {
+            "id": 3,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "TP53",
+            "symbolSize": 10.273191452026367
+        },
+        {
+            "id": 4,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "CDKN1B",
+            "symbolSize": 10.165718078613281
+        },
+        {
+            "id": 5,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "SP1",
+            "symbolSize": 10.102873802185059
+        },
+        {
+            "id": 6,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "EZH2",
+            "symbolSize": 9.287151336669922
+        },
+        {
+            "id": 7,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "POU4F1",
+            "symbolSize": 9.617928504943848
+        },
+        {
+            "id": 8,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "LINC00511",
+            "symbolSize": 10.675116539001465
+        }
+    ],
+    "title": "p(LINC00511 | CCND1, interact with protein (10)^(-1))\nranking = 10"
+}

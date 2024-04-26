@@ -1,0 +1,259 @@
+{
+    "edges": [
+        {
+            "lineStyle": {
+                "width": 1.354849934577942
+            },
+            "source": 6,
+            "target": 8,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.3952034711837769
+            },
+            "source": 1,
+            "target": 4,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 4.136466979980469
+            },
+            "source": 1,
+            "target": 8,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 3.809119701385498
+            },
+            "source": 9,
+            "target": 5,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 3.809119701385498
+            },
+            "source": 9,
+            "target": 11,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.8717617988586426
+            },
+            "source": 8,
+            "target": 0,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.7556030750274658
+            },
+            "source": 8,
+            "target": 7,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.354849934577942
+            },
+            "source": 4,
+            "target": 6,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.3951096534729004
+            },
+            "source": 4,
+            "target": 1,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.3499151468276978
+            },
+            "source": 4,
+            "target": 0,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 5.4950785636901855
+            },
+            "source": 4,
+            "target": 11,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9046733379364014
+            },
+            "source": 3,
+            "target": 5,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9046733379364014
+            },
+            "source": 3,
+            "target": 11,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.346153736114502
+            },
+            "source": 2,
+            "target": 1,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.346153736114502
+            },
+            "source": 2,
+            "target": 11,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 5.7137932777404785
+            },
+            "source": 10,
+            "target": 8,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 5.7137932777404785
+            },
+            "source": 10,
+            "target": 11,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.7556030750274658
+            },
+            "source": 12,
+            "target": 7,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.7556030750274658
+            },
+            "source": 12,
+            "target": 11,
+            "value": "interact with protein (10)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.5218465328216553
+            },
+            "source": 13,
+            "target": 0,
+            "value": "interact with protein (10)"
+        },
+        {
+            "lineStyle": {
+                "width": 8.596834182739258
+            },
+            "source": 13,
+            "target": 11,
+            "value": "interact with protein (10)"
+        },
+        {
+            "lineStyle": {
+                "width": 5.7137932777404785
+            },
+            "source": 13,
+            "target": 5,
+            "value": "epigenetic regulation (9)"
+        }
+    ],
+    "nodes": [
+        {
+            "id": 0,
+            "name": "NFKB1",
+            "symbolSize": 9.671486854553223
+        },
+        {
+            "id": 1,
+            "name": "SIRT1",
+            "symbolSize": 9.908101081848145
+        },
+        {
+            "id": 2,
+            "name": "SP1",
+            "symbolSize": 9.380281448364258
+        },
+        {
+            "id": 3,
+            "name": "TFDP1",
+            "symbolSize": 9.487640380859375
+        },
+        {
+            "id": 4,
+            "name": "ESRRA",
+            "symbolSize": 10.157628059387207
+        },
+        {
+            "id": 5,
+            "name": "CDKN1A",
+            "symbolSize": 10.197358131408691
+        },
+        {
+            "id": 6,
+            "name": "JUN",
+            "symbolSize": 9.381959915161133
+        },
+        {
+            "id": 7,
+            "name": "FOXA1",
+            "symbolSize": 9.459071159362793
+        },
+        {
+            "id": 8,
+            "itemStyle": {
+                "color": "#ee6666"
+            },
+            "name": "ELAVL1",
+            "symbolSize": 10.590900421142578
+        },
+        {
+            "id": 9,
+            "name": "MAPK14",
+            "symbolSize": 9.84726333618164
+        },
+        {
+            "id": 10,
+            "name": "ATXN1",
+            "symbolSize": 10.197358131408691
+        },
+        {
+            "id": 11,
+            "name": "YY1AP1",
+            "symbolSize": 11.67097282409668
+        },
+        {
+            "id": 12,
+            "name": "B4GALT1-AS1",
+            "symbolSize": 9.459071159362793
+        },
+        {
+            "id": 13,
+            "itemStyle": {
+                "color": "#3ba272"
+            },
+            "name": "MALAT1",
+            "symbolSize": 10.590900421142578
+        }
+    ],
+    "title": "p(MALAT1 | ELAVL1, interact with protein (10)^(-1))\nranking = 1"
+}

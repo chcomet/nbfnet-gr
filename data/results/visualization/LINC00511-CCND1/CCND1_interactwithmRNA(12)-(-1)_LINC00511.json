@@ -1,0 +1,281 @@
+{
+    "edges": [
+        {
+            "lineStyle": {
+                "width": 1.7130100727081299
+            },
+            "source": 2,
+            "target": 0,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.719604253768921
+            },
+            "source": 5,
+            "target": 1,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.6315395832061768
+            },
+            "source": 0,
+            "target": 4,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 8.885076522827148
+            },
+            "source": 0,
+            "target": 1,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.7130100727081299
+            },
+            "source": 3,
+            "target": 2,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.5712063312530518
+            },
+            "source": 3,
+            "target": 1,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.7195866107940674
+            },
+            "source": 1,
+            "target": 5,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.6315395832061768
+            },
+            "source": 4,
+            "target": 3,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.546905994415283
+            },
+            "source": 9,
+            "target": 0,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 5.9157562255859375
+            },
+            "source": 11,
+            "target": 3,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.546905994415283
+            },
+            "source": 9,
+            "target": 7,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 3.439190626144409
+            },
+            "source": 11,
+            "target": 5,
+            "value": "interact with protein (10)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 2.8746790885925293
+            },
+            "source": 1,
+            "target": 11,
+            "value": "transcriptional regulation (11)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.7004307508468628
+            },
+            "source": 12,
+            "target": 0,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.7004307508468628
+            },
+            "source": 11,
+            "target": 8,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.758286237716675
+            },
+            "source": 10,
+            "target": 0,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.758286237716675
+            },
+            "source": 10,
+            "target": 7,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.7229769229888916
+            },
+            "source": 6,
+            "target": 7,
+            "value": "transcriptional regulation (11)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.7004307508468628
+            },
+            "source": 12,
+            "target": 8,
+            "value": "transcriptional regulation (11)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.7229769229888916
+            },
+            "source": 6,
+            "target": 0,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 8.028169631958008
+            },
+            "source": 11,
+            "target": 7,
+            "value": "ceRNA or sponge (7)"
+        }
+    ],
+    "nodes": [
+        {
+            "id": 0,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "CCND1",
+            "symbolSize": 11.511763572692871
+        },
+        {
+            "id": 1,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "SP1",
+            "symbolSize": 11.02548599243164
+        },
+        {
+            "id": 2,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "JUN",
+            "symbolSize": 9.201361656188965
+        },
+        {
+            "id": 3,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "DNMT1",
+            "symbolSize": 10.302056312561035
+        },
+        {
+            "id": 4,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "CDC14B",
+            "symbolSize": 9.17904281616211
+        },
+        {
+            "id": 5,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "AR",
+            "symbolSize": 9.665153503417969
+        },
+        {
+            "id": 6,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "HOTAIR",
+            "symbolSize": 9.474790573120117
+        },
+        {
+            "id": 7,
+            "itemStyle": {
+                "color": "#679ED2"
+            },
+            "name": "MIR126",
+            "symbolSize": 10.820947647094727
+        },
+        {
+            "id": 8,
+            "itemStyle": {
+                "color": "#679ED2"
+            },
+            "name": "MIR150",
+            "symbolSize": 9.197917938232422
+        },
+        {
+            "id": 9,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "MALAT1",
+            "symbolSize": 9.4275484085083
+        },
+        {
+            "id": 10,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "PVT1",
+            "symbolSize": 9.484243392944336
+        },
+        {
+            "id": 11,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "LINC00511",
+            "symbolSize": 11.511763572692871
+        },
+        {
+            "id": 12,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "MIAT",
+            "symbolSize": 9.197917938232422
+        }
+    ],
+    "title": "p(LINC00511 | CCND1, interact with mRNA (12)^(-1))\nranking = 7"
+}

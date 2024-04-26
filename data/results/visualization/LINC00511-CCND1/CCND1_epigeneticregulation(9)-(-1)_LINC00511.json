@@ -1,0 +1,217 @@
+{
+    "edges": [
+        {
+            "lineStyle": {
+                "width": 1.7291568517684937
+            },
+            "source": 7,
+            "target": 1,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.6770756244659424
+            },
+            "source": 7,
+            "target": 4,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.7355291843414307
+            },
+            "source": 7,
+            "target": 5,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.6463756561279297
+            },
+            "source": 7,
+            "target": 2,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.7970654964447021
+            },
+            "source": 7,
+            "target": 3,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.6520500183105469
+            },
+            "source": 7,
+            "target": 6,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 3.354112386703491
+            },
+            "source": 4,
+            "target": 0,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.6770367622375488
+            },
+            "source": 4,
+            "target": 7,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 3.4582395553588867
+            },
+            "source": 1,
+            "target": 0,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.7290828227996826
+            },
+            "source": 1,
+            "target": 7,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 4.300878524780273
+            },
+            "source": 0,
+            "target": 5,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 3.292771339416504
+            },
+            "source": 0,
+            "target": 2,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.7970654964447021
+            },
+            "source": 0,
+            "target": 3,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.6463956832885742
+            },
+            "source": 2,
+            "target": 7,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.6520500183105469
+            },
+            "source": 6,
+            "target": 0,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 2.5653493404388428
+            },
+            "source": 8,
+            "target": 5,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 15.289767265319824
+            },
+            "source": 8,
+            "target": 7,
+            "value": "interact with protein (10)"
+        }
+    ],
+    "nodes": [
+        {
+            "id": 0,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "CCND1",
+            "symbolSize": 10.842098236083984
+        },
+        {
+            "id": 1,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "POU2F1",
+            "symbolSize": 9.473027229309082
+        },
+        {
+            "id": 2,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "SP1",
+            "symbolSize": 9.4291353225708
+        },
+        {
+            "id": 3,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "RBL2",
+            "symbolSize": 9.025105476379395
+        },
+        {
+            "id": 4,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "FOXA1",
+            "symbolSize": 9.445425987243652
+        },
+        {
+            "id": 5,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "E2F1",
+            "symbolSize": 9.694148063659668
+        },
+        {
+            "id": 6,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "PTK6",
+            "symbolSize": 8.98521900177002
+        },
+        {
+            "id": 7,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "AR",
+            "symbolSize": 12.263740539550781
+        },
+        {
+            "id": 8,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "LINC00511",
+            "symbolSize": 10.842098236083984
+        }
+    ],
+    "title": "p(LINC00511 | CCND1, epigenetic regulation (9)^(-1))\nranking = 5"
+}

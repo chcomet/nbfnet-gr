@@ -1,0 +1,266 @@
+{
+    "edges": [
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 4.260659694671631
+            },
+            "source": 0,
+            "target": 8,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.92734956741333
+            },
+            "source": 0,
+            "target": 2,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 2.33331036567688
+            },
+            "source": 0,
+            "target": 7,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 3.8959832191467285
+            },
+            "source": 6,
+            "target": 8,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.964789628982544
+            },
+            "source": 6,
+            "target": 2,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9208160638809204
+            },
+            "source": 1,
+            "target": 8,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9208160638809204
+            },
+            "source": 1,
+            "target": 2,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.934350848197937
+            },
+            "source": 5,
+            "target": 8,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.934350848197937
+            },
+            "source": 5,
+            "target": 2,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.8687331676483154
+            },
+            "source": 4,
+            "target": 8,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.8687331676483154
+            },
+            "source": 4,
+            "target": 2,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.932373046875
+            },
+            "source": 2,
+            "target": 3,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9311937093734741
+            },
+            "source": 2,
+            "target": 6,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9410241842269897
+            },
+            "source": 2,
+            "target": 9,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.932373046875
+            },
+            "source": 8,
+            "target": 3,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9410241842269897
+            },
+            "source": 8,
+            "target": 9,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.2460579872131348
+            },
+            "source": 10,
+            "target": 8,
+            "value": "epigenetic regulation (9)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 2.33331036567688
+            },
+            "source": 11,
+            "target": 7,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 17.66668701171875
+            },
+            "source": 11,
+            "target": 2,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.2460579872131348
+            },
+            "source": 10,
+            "target": 2,
+            "value": "epigenetic regulation (9)"
+        }
+    ],
+    "nodes": [
+        {
+            "id": 0,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "ESR2",
+            "symbolSize": 9.896611213684082
+        },
+        {
+            "id": 1,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "NOG",
+            "symbolSize": 9.485146522521973
+        },
+        {
+            "id": 2,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "CDKN1A",
+            "symbolSize": 12.034543991088867
+        },
+        {
+            "id": 3,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "LRPPRC",
+            "symbolSize": 9.487211227416992
+        },
+        {
+            "id": 4,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "TGFB1",
+            "symbolSize": 9.47584056854248
+        },
+        {
+            "id": 5,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "STAT5A",
+            "symbolSize": 9.487565040588379
+        },
+        {
+            "id": 6,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "CREBBP",
+            "symbolSize": 9.833321571350098
+        },
+        {
+            "id": 7,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "KIF23",
+            "symbolSize": 9.558624267578125
+        },
+        {
+            "id": 8,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "ANKRD1",
+            "symbolSize": 10.854625701904297
+        },
+        {
+            "id": 9,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "PDE4DIP",
+            "symbolSize": 9.488757133483887
+        },
+        {
+            "id": 10,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "AGAP2-AS1",
+            "symbolSize": 9.543115615844727
+        },
+        {
+            "id": 11,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "PVT1",
+            "symbolSize": 10.854625701904297
+        }
+    ],
+    "title": "p(PVT1 | ANKRD1, transcriptional regulation (11)^(-1))\nranking = 7"
+}

@@ -1,0 +1,209 @@
+{
+    "edges": [
+        {
+            "lineStyle": {
+                "width": 2.0405423641204834
+            },
+            "source": 1,
+            "target": 3,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 8.022275924682617
+            },
+            "source": 1,
+            "target": 4,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.0205271244049072
+            },
+            "source": 0,
+            "target": 3,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.296243667602539
+            },
+            "source": 6,
+            "target": 4,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.0200152397155762
+            },
+            "source": 7,
+            "target": 3,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.2962684631347656
+            },
+            "source": 4,
+            "target": 2,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.147868037223816
+            },
+            "source": 5,
+            "target": 4,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.1230460405349731
+            },
+            "source": 8,
+            "target": 1,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.0205271244049072
+            },
+            "source": 0,
+            "target": 10,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.147868037223816
+            },
+            "source": 5,
+            "target": 10,
+            "value": "epigenetic regulation (9)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.0200152397155762
+            },
+            "source": 10,
+            "target": 7,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 10.303388595581055
+            },
+            "source": 10,
+            "target": 11,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.2962684631347656
+            },
+            "source": 10,
+            "target": 2,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.1230460405349731
+            },
+            "source": 9,
+            "target": 8,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 10.303388595581055
+            },
+            "source": 9,
+            "target": 11,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.5224661827087402
+            },
+            "source": 1,
+            "target": 10,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.296243667602539
+            },
+            "source": 10,
+            "target": 6,
+            "value": "expression association (8)"
+        }
+    ],
+    "nodes": [
+        {
+            "id": 0,
+            "name": "ESR1",
+            "symbolSize": 9.098244667053223
+        },
+        {
+            "id": 1,
+            "itemStyle": {
+                "color": "#ee6666"
+            },
+            "name": "MYC",
+            "symbolSize": 10.743752479553223
+        },
+        {
+            "id": 2,
+            "name": "YWHAZ",
+            "symbolSize": 9.476786613464355
+        },
+        {
+            "id": 3,
+            "name": "TP53",
+            "symbolSize": 9.401806831359863
+        },
+        {
+            "id": 4,
+            "name": "IPO7",
+            "symbolSize": 10.750936508178711
+        },
+        {
+            "id": 5,
+            "name": "G3BP1",
+            "symbolSize": 9.136541366577148
+        },
+        {
+            "id": 6,
+            "name": "EZH2",
+            "symbolSize": 9.476778984069824
+        },
+        {
+            "id": 7,
+            "name": "ACTA2",
+            "symbolSize": 9.098090171813965
+        },
+        {
+            "id": 8,
+            "name": "BRWD1",
+            "symbolSize": 9.129084587097168
+        },
+        {
+            "id": 9,
+            "itemStyle": {
+                "color": "#3ba272"
+            },
+            "name": "MALAT1",
+            "symbolSize": 10.438283920288086
+        },
+        {
+            "id": 10,
+            "name": "H19",
+            "symbolSize": 11.62484359741211
+        },
+        {
+            "id": 11,
+            "name": "MIR22",
+            "symbolSize": 11.62484359741211
+        }
+    ],
+    "title": "p(MALAT1 | MYC, interact with mRNA (12)^(-1))\nranking = 2"
+}

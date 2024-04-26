@@ -1,0 +1,314 @@
+{
+    "edges": [
+        {
+            "lineStyle": {
+                "width": 1.3650919198989868
+            },
+            "source": 3,
+            "target": 0,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.3650919198989868
+            },
+            "source": 3,
+            "target": 2,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.3663700819015503
+            },
+            "source": 0,
+            "target": 1,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.3690617084503174
+            },
+            "source": 0,
+            "target": 6,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.362442970275879
+            },
+            "source": 0,
+            "target": 5,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.3663700819015503
+            },
+            "source": 2,
+            "target": 1,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.3690617084503174
+            },
+            "source": 2,
+            "target": 6,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.362442970275879
+            },
+            "source": 2,
+            "target": 5,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.416635513305664
+            },
+            "source": 10,
+            "target": 11,
+            "value": "epigenetic regulation (9)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.416635513305664
+            },
+            "source": 10,
+            "target": 12,
+            "value": "epigenetic regulation (9)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.7524487972259521
+            },
+            "source": 13,
+            "target": 12,
+            "value": "epigenetic regulation (9)"
+        },
+        {
+            "lineStyle": {
+                "width": 3.4206557273864746
+            },
+            "source": 9,
+            "target": 8,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.3963379859924316
+            },
+            "source": 9,
+            "target": 0,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 3.669318199157715
+            },
+            "source": 9,
+            "target": 4,
+            "value": "interact with protein (10)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 2.197416067123413
+            },
+            "source": 9,
+            "target": 11,
+            "value": "epigenetic regulation (9)"
+        },
+        {
+            "lineStyle": {
+                "width": 3.4206557273864746
+            },
+            "source": 7,
+            "target": 8,
+            "value": "transcriptional regulation (11)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9168692827224731
+            },
+            "source": 14,
+            "target": 4,
+            "value": "interact with protein (10)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.7524487972259521
+            },
+            "source": 13,
+            "target": 4,
+            "value": "interact with protein (10)"
+        },
+        {
+            "lineStyle": {
+                "width": 5.4629669189453125
+            },
+            "source": 9,
+            "target": 2,
+            "value": "interact with protein (10)"
+        },
+        {
+            "lineStyle": {
+                "width": 6.859304428100586
+            },
+            "source": 14,
+            "target": 0,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 3.4206557273864746
+            },
+            "source": 7,
+            "target": 11,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 6.994112491607666
+            },
+            "source": 14,
+            "target": 11,
+            "value": "epigenetic regulation (9)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 12.977609634399414
+            },
+            "source": 14,
+            "target": 12,
+            "value": "epigenetic regulation (9)"
+        }
+    ],
+    "nodes": [
+        {
+            "id": 0,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "SMAD2",
+            "symbolSize": 10.241975784301758
+        },
+        {
+            "id": 1,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "TP53",
+            "symbolSize": 9.659008979797363
+        },
+        {
+            "id": 2,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "FOXO3",
+            "symbolSize": 10.096112251281738
+        },
+        {
+            "id": 3,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "CEBPB",
+            "symbolSize": 9.658869743347168
+        },
+        {
+            "id": 4,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "EZH2",
+            "symbolSize": 9.90644359588623
+        },
+        {
+            "id": 5,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "PCK1",
+            "symbolSize": 9.65858268737793
+        },
+        {
+            "id": 6,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "CRH",
+            "symbolSize": 9.659299850463867
+        },
+        {
+            "id": 7,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "HOTAIR",
+            "symbolSize": 9.879940032958984
+        },
+        {
+            "id": 8,
+            "itemStyle": {
+                "color": "#679ED2"
+            },
+            "name": "MIR199A1",
+            "symbolSize": 9.879940032958984
+        },
+        {
+            "id": 9,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "PVT1",
+            "symbolSize": 10.367547035217285
+        },
+        {
+            "id": 10,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "GIHCG",
+            "symbolSize": 9.664457321166992
+        },
+        {
+            "id": 11,
+            "itemStyle": {
+                "color": "#679ED2"
+            },
+            "name": "MIR200B",
+            "symbolSize": 10.258081436157227
+        },
+        {
+            "id": 12,
+            "itemStyle": {
+                "color": "#679ED2"
+            },
+            "name": "MIR429",
+            "symbolSize": 10.367547035217285
+        },
+        {
+            "id": 13,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "HEIH",
+            "symbolSize": 9.700801849365234
+        },
+        {
+            "id": 14,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "ILF3-DT",
+            "symbolSize": 11.001388549804688
+        }
+    ],
+    "title": "p(PVT1 | MIR429, interact with mRNA (12)^(-1))\nranking = 6"
+}

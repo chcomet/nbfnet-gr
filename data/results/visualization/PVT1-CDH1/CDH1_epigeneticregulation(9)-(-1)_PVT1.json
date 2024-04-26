@@ -1,0 +1,283 @@
+{
+    "edges": [
+        {
+            "lineStyle": {
+                "width": 1.573575496673584
+            },
+            "source": 6,
+            "target": 9,
+            "value": "controls-phosphorylation-of (6)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.5762745141983032
+            },
+            "source": 5,
+            "target": 9,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.573752522468567
+            },
+            "source": 3,
+            "target": 9,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.5716748237609863
+            },
+            "source": 9,
+            "target": 2,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.5767172574996948
+            },
+            "source": 9,
+            "target": 6,
+            "value": "controls-phosphorylation-of (6)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.5733642578125
+            },
+            "source": 9,
+            "target": 4,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.5730623006820679
+            },
+            "source": 9,
+            "target": 7,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 1.5816175937652588
+            },
+            "source": 9,
+            "target": 0,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.5750422477722168
+            },
+            "source": 1,
+            "target": 9,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.5749176740646362
+            },
+            "source": 8,
+            "target": 9,
+            "value": "controls-phosphorylation-of (6)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.5716748237609863
+            },
+            "source": 12,
+            "target": 2,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.573752522468567
+            },
+            "source": 3,
+            "target": 12,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 15.75
+            },
+            "source": 10,
+            "target": 11,
+            "value": "epigenetic regulation (9)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.5730623006820679
+            },
+            "source": 12,
+            "target": 7,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 15.75
+            },
+            "source": 12,
+            "target": 11,
+            "value": "epigenetic regulation (9)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.5762745141983032
+            },
+            "source": 12,
+            "target": 5,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 1.5816175937652588
+            },
+            "source": 12,
+            "target": 0,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.5733642578125
+            },
+            "source": 12,
+            "target": 4,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 3.1502928733825684
+            },
+            "source": 12,
+            "target": 6,
+            "value": "epigenetic regulation (9)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.5750422477722168
+            },
+            "source": 12,
+            "target": 1,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.5749176740646362
+            },
+            "source": 12,
+            "target": 8,
+            "value": "transcriptional regulation (11)"
+        }
+    ],
+    "nodes": [
+        {
+            "id": 0,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "SKP2",
+            "symbolSize": 8.757485389709473
+        },
+        {
+            "id": 1,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "SNAI1",
+            "symbolSize": 8.754467010498047
+        },
+        {
+            "id": 2,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "SMARCB1",
+            "symbolSize": 8.752920150756836
+        },
+        {
+            "id": 3,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "PKM",
+            "symbolSize": 8.753873825073242
+        },
+        {
+            "id": 4,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "SMAD7",
+            "symbolSize": 8.75369644165039
+        },
+        {
+            "id": 5,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "HIF1A",
+            "symbolSize": 8.755032539367676
+        },
+        {
+            "id": 6,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "EGFR",
+            "symbolSize": 9.456171035766602
+        },
+        {
+            "id": 7,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "TGFB1",
+            "symbolSize": 8.753557205200195
+        },
+        {
+            "id": 8,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "MET",
+            "symbolSize": 8.754409790039062
+        },
+        {
+            "id": 9,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "CDH1",
+            "symbolSize": 11.336494445800781
+        },
+        {
+            "id": 10,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "PVT1",
+            "symbolSize": 11.336494445800781
+        },
+        {
+            "id": 11,
+            "itemStyle": {
+                "color": "#679ED2"
+            },
+            "name": "MIR200B",
+            "symbolSize": 13.91769790649414
+        },
+        {
+            "id": 12,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "MEG3",
+            "symbolSize": 13.91769790649414
+        }
+    ],
+    "title": "p(PVT1 | CDH1, epigenetic regulation (9)^(-1))\nranking = 1"
+}

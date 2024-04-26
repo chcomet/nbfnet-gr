@@ -1,0 +1,282 @@
+{
+    "edges": [
+        {
+            "lineStyle": {
+                "width": 2.0975773334503174
+            },
+            "source": 6,
+            "target": 11,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.1001200675964355
+            },
+            "source": 10,
+            "target": 11,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 2.1085474491119385
+            },
+            "source": 9,
+            "target": 3,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 2.1085474491119385
+            },
+            "source": 9,
+            "target": 11,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.098085641860962
+            },
+            "source": 3,
+            "target": 4,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.0998945236206055
+            },
+            "source": 3,
+            "target": 0,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.0971994400024414
+            },
+            "source": 3,
+            "target": 1,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.104224920272827
+            },
+            "source": 3,
+            "target": 5,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.097935676574707
+            },
+            "source": 3,
+            "target": 2,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.1001200675964355
+            },
+            "source": 3,
+            "target": 10,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.0975773334503174
+            },
+            "source": 3,
+            "target": 6,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.097508668899536
+            },
+            "source": 3,
+            "target": 7,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.0989067554473877
+            },
+            "source": 3,
+            "target": 8,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.0998945236206055
+            },
+            "source": 0,
+            "target": 11,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.097935676574707
+            },
+            "source": 2,
+            "target": 11,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.0989067554473877
+            },
+            "source": 8,
+            "target": 11,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.097508668899536
+            },
+            "source": 7,
+            "target": 11,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.098085641860962
+            },
+            "source": 4,
+            "target": 11,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.104224920272827
+            },
+            "source": 5,
+            "target": 11,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.0971994400024414
+            },
+            "source": 1,
+            "target": 11,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 21.0
+            },
+            "source": 12,
+            "target": 3,
+            "value": "expression association (8)"
+        }
+    ],
+    "nodes": [
+        {
+            "id": 0,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "RUNX1",
+            "symbolSize": 9.15730094909668
+        },
+        {
+            "id": 1,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "NCOA6",
+            "symbolSize": 9.1563138961792
+        },
+        {
+            "id": 2,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "ETV4",
+            "symbolSize": 9.156582832336426
+        },
+        {
+            "id": 3,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "TGFB1",
+            "symbolSize": 14.629658699035645
+        },
+        {
+            "id": 4,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "NCOA2",
+            "symbolSize": 9.156638145446777
+        },
+        {
+            "id": 5,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "MED1",
+            "symbolSize": 9.158888816833496
+        },
+        {
+            "id": 6,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "CREBBP",
+            "symbolSize": 9.156452178955078
+        },
+        {
+            "id": 7,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "NCOA1",
+            "symbolSize": 9.156426429748535
+        },
+        {
+            "id": 8,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "ZEB1",
+            "symbolSize": 9.156938552856445
+        },
+        {
+            "id": 9,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "PPARA",
+            "symbolSize": 9.160470962524414
+        },
+        {
+            "id": 10,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "REPIN1",
+            "symbolSize": 9.157383918762207
+        },
+        {
+            "id": 11,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "ANKRD1",
+            "symbolSize": 11.898477554321289
+        },
+        {
+            "id": 12,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "PVT1",
+            "symbolSize": 11.898477554321289
+        }
+    ],
+    "title": "p(PVT1 | ANKRD1, interact with protein (10)^(-1))\nranking = 9"
+}

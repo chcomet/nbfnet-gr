@@ -1,0 +1,265 @@
+{
+    "edges": [
+        {
+            "lineStyle": {
+                "width": 3.6451499462127686
+            },
+            "source": 1,
+            "target": 3,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.8283116817474365
+            },
+            "source": 1,
+            "target": 4,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.8458337783813477
+            },
+            "source": 1,
+            "target": 5,
+            "value": "catalysis-precedes (4)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.8323123455047607
+            },
+            "source": 1,
+            "target": 6,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 5.26408576965332
+            },
+            "source": 7,
+            "target": 2,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.8251473903656006
+            },
+            "source": 10,
+            "target": 1,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.8251473903656006
+            },
+            "source": 10,
+            "target": 2,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.851828932762146
+            },
+            "source": 9,
+            "target": 1,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.851828932762146
+            },
+            "source": 9,
+            "target": 2,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.8202924728393555
+            },
+            "source": 0,
+            "target": 1,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.8202924728393555
+            },
+            "source": 0,
+            "target": 2,
+            "value": "controls-phosphorylation-of (6)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.8417330980300903
+            },
+            "source": 2,
+            "target": 8,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.8180477619171143
+            },
+            "source": 2,
+            "target": 3,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.8458337783813477
+            },
+            "source": 2,
+            "target": 5,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.8323123455047607
+            },
+            "source": 2,
+            "target": 6,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.8283116817474365
+            },
+            "source": 4,
+            "target": 2,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.8417330980300903
+            },
+            "source": 8,
+            "target": 1,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.8271021842956543
+            },
+            "source": 3,
+            "target": 2,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 5.26408576965332
+            },
+            "source": 7,
+            "target": 11,
+            "value": "transcriptional regulation (11)"
+        },
+        {
+            "lineStyle": {
+                "width": 16.490610122680664
+            },
+            "source": 1,
+            "target": 11,
+            "value": "transcriptional regulation (11)"
+        }
+    ],
+    "nodes": [
+        {
+            "id": 0,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "CDK2",
+            "symbolSize": 9.398477554321289
+        },
+        {
+            "id": 1,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "MYC",
+            "symbolSize": 12.091021537780762
+        },
+        {
+            "id": 2,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "RUNX1",
+            "symbolSize": 11.125410079956055
+        },
+        {
+            "id": 3,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "MYL9",
+            "symbolSize": 9.76534652709961
+        },
+        {
+            "id": 4,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "NDC80",
+            "symbolSize": 9.400113105773926
+        },
+        {
+            "id": 5,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "MPO",
+            "symbolSize": 9.403684616088867
+        },
+        {
+            "id": 6,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "SOX2",
+            "symbolSize": 9.400928497314453
+        },
+        {
+            "id": 7,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "FOS",
+            "symbolSize": 10.082382202148438
+        },
+        {
+            "id": 8,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "NKX2-1",
+            "symbolSize": 9.402848243713379
+        },
+        {
+            "id": 9,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "AGO1",
+            "symbolSize": 9.4049072265625
+        },
+        {
+            "id": 10,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "ACTL6A",
+            "symbolSize": 9.399467468261719
+        },
+        {
+            "id": 11,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "PVT1",
+            "symbolSize": 11.125410079956055
+        }
+    ],
+    "title": "p(PVT1 | RUNX1, interact with mRNA (12)^(-1))\nranking = 11"
+}

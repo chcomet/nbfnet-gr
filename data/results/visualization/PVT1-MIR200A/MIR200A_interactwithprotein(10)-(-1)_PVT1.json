@@ -1,0 +1,178 @@
+{
+    "edges": [
+        {
+            "lineStyle": {
+                "width": 1.4567601680755615
+            },
+            "source": 5,
+            "target": 7,
+            "value": "epigenetic regulation (9)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 6.833868980407715
+            },
+            "source": 6,
+            "target": 3,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 0.5750666856765747
+            },
+            "source": 8,
+            "target": 9,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.7255233526229858
+            },
+            "source": 3,
+            "target": 9,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 0.584671139717102
+            },
+            "source": 4,
+            "target": 0,
+            "value": "interact with protein (10)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 6.249196529388428
+            },
+            "source": 4,
+            "target": 7,
+            "value": "epigenetic regulation (9)"
+        },
+        {
+            "lineStyle": {
+                "width": 4.945441722869873
+            },
+            "source": 8,
+            "target": 7,
+            "value": "epigenetic regulation (9)"
+        },
+        {
+            "lineStyle": {
+                "width": 0.584671139717102
+            },
+            "source": 3,
+            "target": 0,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 7.131257057189941
+            },
+            "source": 3,
+            "target": 7,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.4567058086395264
+            },
+            "source": 1,
+            "target": 7,
+            "value": "transcriptional regulation (11)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.4568356275558472
+            },
+            "source": 2,
+            "target": 7,
+            "value": "ceRNA or sponge (7)"
+        }
+    ],
+    "nodes": [
+        {
+            "id": 0,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "EZH2",
+            "symbolSize": 8.00871467590332
+        },
+        {
+            "id": 1,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "P4HA2",
+            "symbolSize": 8.141143798828125
+        },
+        {
+            "id": 2,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "HOTAIR",
+            "symbolSize": 8.141203880310059
+        },
+        {
+            "id": 3,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "H19",
+            "symbolSize": 13.402514457702637
+        },
+        {
+            "id": 4,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "PVT1",
+            "symbolSize": 10.358704566955566
+        },
+        {
+            "id": 5,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "GIHCG",
+            "symbolSize": 8.141168594360352
+        },
+        {
+            "id": 6,
+            "itemStyle": {
+                "color": "#679ED2"
+            },
+            "name": "MIR200A",
+            "symbolSize": 10.358704566955566
+        },
+        {
+            "id": 7,
+            "itemStyle": {
+                "color": "#679ED2"
+            },
+            "name": "MIR200B",
+            "symbolSize": 15.06918716430664
+        },
+        {
+            "id": 8,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "MEG3",
+            "symbolSize": 9.857787132263184
+        },
+        {
+            "id": 9,
+            "itemStyle": {
+                "color": "#679ED2"
+            },
+            "name": "MIR181A1",
+            "symbolSize": 8.520869255065918
+        }
+    ],
+    "title": "p(PVT1 | MIR200A, interact with protein (10)^(-1))\nranking = 9"
+}

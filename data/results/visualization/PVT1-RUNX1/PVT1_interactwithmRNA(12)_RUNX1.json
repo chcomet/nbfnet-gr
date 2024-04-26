@@ -1,0 +1,266 @@
+{
+    "edges": [
+        {
+            "lineStyle": {
+                "width": 1.4472235441207886
+            },
+            "source": 7,
+            "target": 1,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.4472235441207886
+            },
+            "source": 7,
+            "target": 9,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.4456151723861694
+            },
+            "source": 1,
+            "target": 2,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.4392811059951782
+            },
+            "source": 1,
+            "target": 0,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.4387141466140747
+            },
+            "source": 1,
+            "target": 3,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.332425594329834
+            },
+            "source": 1,
+            "target": 4,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.438735842704773
+            },
+            "source": 1,
+            "target": 8,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.43913996219635
+            },
+            "source": 6,
+            "target": 1,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.43913996219635
+            },
+            "source": 6,
+            "target": 9,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.438735842704773
+            },
+            "source": 8,
+            "target": 9,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.4395229816436768
+            },
+            "source": 3,
+            "target": 1,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 3.263439655303955
+            },
+            "source": 9,
+            "target": 1,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 14.797287940979004
+            },
+            "source": 9,
+            "target": 2,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.4392811059951782
+            },
+            "source": 9,
+            "target": 0,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.878237009048462
+            },
+            "source": 9,
+            "target": 3,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 13.351673126220703
+            },
+            "source": 10,
+            "target": 2,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.3972995281219482
+            },
+            "source": 10,
+            "target": 5,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.3972995281219482
+            },
+            "source": 11,
+            "target": 1,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.332425594329834
+            },
+            "source": 10,
+            "target": 4,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.3972995281219482
+            },
+            "source": 11,
+            "target": 5,
+            "value": "expression association (8)"
+        }
+    ],
+    "nodes": [
+        {
+            "id": 0,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "TRAF6",
+            "symbolSize": 8.199773788452148
+        },
+        {
+            "id": 1,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "RUNX1",
+            "symbolSize": 11.986947059631348
+        },
+        {
+            "id": 2,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "SP1",
+            "symbolSize": 14.465718269348145
+        },
+        {
+            "id": 3,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "IFNG",
+            "symbolSize": 9.086217880249023
+        },
+        {
+            "id": 4,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "SOX2",
+            "symbolSize": 8.130842208862305
+        },
+        {
+            "id": 5,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "TGFB1",
+            "symbolSize": 8.798245429992676
+        },
+        {
+            "id": 6,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "AHR",
+            "symbolSize": 8.19968318939209
+        },
+        {
+            "id": 7,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "SLC28A1",
+            "symbolSize": 8.204878807067871
+        },
+        {
+            "id": 8,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "FCER1G",
+            "symbolSize": 8.199423789978027
+        },
+        {
+            "id": 9,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "KIR2DL4",
+            "symbolSize": 13.943071365356445
+        },
+        {
+            "id": 10,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "PVT1",
+            "symbolSize": 11.986947059631348
+        },
+        {
+            "id": 11,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "LNCNEF",
+            "symbolSize": 8.798245429992676
+        }
+    ],
+    "title": "p(RUNX1 | PVT1, interact with mRNA (12))\nranking = 11"
+}

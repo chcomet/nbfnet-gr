@@ -1,0 +1,243 @@
+{
+    "edges": [
+        {
+            "lineStyle": {
+                "width": 2.7680394649505615
+            },
+            "source": 0,
+            "target": 1,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.83588445186615
+            },
+            "source": 2,
+            "target": 9,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.054567575454712
+            },
+            "source": 2,
+            "target": 5,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.895443081855774
+            },
+            "source": 2,
+            "target": 6,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.8569245338439941
+            },
+            "source": 10,
+            "target": 2,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.377147674560547
+            },
+            "source": 8,
+            "target": 4,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.377147674560547
+            },
+            "source": 8,
+            "target": 0,
+            "value": "controls-phosphorylation-of (6)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.83744215965271
+            },
+            "source": 7,
+            "target": 2,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.8405296802520752
+            },
+            "source": 11,
+            "target": 3,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.8405296802520752
+            },
+            "source": 11,
+            "target": 2,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.83744215965271
+            },
+            "source": 3,
+            "target": 7,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.83588445186615
+            },
+            "source": 3,
+            "target": 9,
+            "value": "catalysis-precedes (4)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.8569245338439941
+            },
+            "source": 3,
+            "target": 10,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.054567575454712
+            },
+            "source": 3,
+            "target": 5,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.895443081855774
+            },
+            "source": 3,
+            "target": 6,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 6.814361572265625
+            },
+            "source": 4,
+            "target": 3,
+            "value": "catalysis-precedes (4)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.118525505065918
+            },
+            "source": 4,
+            "target": 2,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 5.1451873779296875
+            },
+            "source": 12,
+            "target": 13,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.3186888694763184
+            },
+            "source": 4,
+            "target": 12,
+            "value": "transcriptional regulation (11)"
+        },
+        {
+            "lineStyle": {
+                "width": 13.439315795898438
+            },
+            "source": 12,
+            "target": 2,
+            "value": "interact with protein (10)"
+        }
+    ],
+    "nodes": [
+        {
+            "id": 0,
+            "name": "BABAM1",
+            "symbolSize": 9.803570747375488
+        },
+        {
+            "id": 1,
+            "name": "PSMD14",
+            "symbolSize": 9.660496711730957
+        },
+        {
+            "id": 2,
+            "name": "NFKB1",
+            "symbolSize": 11.046669006347656
+        },
+        {
+            "id": 3,
+            "itemStyle": {
+                "color": "#ee6666"
+            },
+            "name": "PTEN",
+            "symbolSize": 10.560047149658203
+        },
+        {
+            "id": 4,
+            "name": "SYK",
+            "symbolSize": 10.30232048034668
+        },
+        {
+            "id": 5,
+            "name": "TP53",
+            "symbolSize": 9.741397857666016
+        },
+        {
+            "id": 6,
+            "name": "HIF1A",
+            "symbolSize": 9.722243309020996
+        },
+        {
+            "id": 7,
+            "name": "SRC",
+            "symbolSize": 9.715253829956055
+        },
+        {
+            "id": 8,
+            "name": "AKT1",
+            "symbolSize": 9.780146598815918
+        },
+        {
+            "id": 9,
+            "name": "PIK3R1",
+            "symbolSize": 9.715065956115723
+        },
+        {
+            "id": 10,
+            "name": "INS",
+            "symbolSize": 9.717601776123047
+        },
+        {
+            "id": 11,
+            "name": "LYN",
+            "symbolSize": 9.71562671661377
+        },
+        {
+            "id": 12,
+            "itemStyle": {
+                "color": "#3ba272"
+            },
+            "name": "MALAT1",
+            "symbolSize": 10.715981483459473
+        },
+        {
+            "id": 13,
+            "name": "MIR503",
+            "symbolSize": 9.803570747375488
+        }
+    ],
+    "title": "p(MALAT1 | PTEN, interact with mRNA (12)^(-1))\nranking = 1"
+}

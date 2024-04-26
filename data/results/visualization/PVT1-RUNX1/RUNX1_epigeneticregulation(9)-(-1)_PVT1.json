@@ -1,0 +1,282 @@
+{
+    "edges": [
+        {
+            "lineStyle": {
+                "width": 2.055194616317749
+            },
+            "source": 1,
+            "target": 3,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.0476043224334717
+            },
+            "source": 1,
+            "target": 4,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.1103897094726562
+            },
+            "source": 1,
+            "target": 5,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.0585570335388184
+            },
+            "source": 1,
+            "target": 6,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 4.141955375671387
+            },
+            "source": 10,
+            "target": 1,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.071082830429077
+            },
+            "source": 10,
+            "target": 2,
+            "value": "catalysis-precedes (4)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 2.4024887084960938
+            },
+            "source": 11,
+            "target": 1,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 2.4024887084960938
+            },
+            "source": 11,
+            "target": 2,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.0972795486450195
+            },
+            "source": 7,
+            "target": 8,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.0972795486450195
+            },
+            "source": 8,
+            "target": 2,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.055293560028076
+            },
+            "source": 9,
+            "target": 1,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.055194616317749
+            },
+            "source": 2,
+            "target": 3,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.0476043224334717
+            },
+            "source": 2,
+            "target": 4,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.1103897094726562
+            },
+            "source": 2,
+            "target": 5,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.0585570335388184
+            },
+            "source": 2,
+            "target": 6,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.0708723068237305
+            },
+            "source": 2,
+            "target": 10,
+            "value": "catalysis-precedes (4)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.055293560028076
+            },
+            "source": 2,
+            "target": 9,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.0312390327453613
+            },
+            "source": 0,
+            "target": 1,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.0312390327453613
+            },
+            "source": 0,
+            "target": 2,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.0972795486450195
+            },
+            "source": 12,
+            "target": 7,
+            "value": "epigenetic regulation (9)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 18.902721405029297
+            },
+            "source": 12,
+            "target": 1,
+            "value": "epigenetic regulation (9)"
+        }
+    ],
+    "nodes": [
+        {
+            "id": 0,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "ITCH",
+            "symbolSize": 9.288741111755371
+        },
+        {
+            "id": 1,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "MYC",
+            "symbolSize": 13.351554870605469
+        },
+        {
+            "id": 2,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "RUNX1",
+            "symbolSize": 11.491752624511719
+        },
+        {
+            "id": 3,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "POU2F1",
+            "symbolSize": 9.295551300048828
+        },
+        {
+            "id": 4,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "TCF7",
+            "symbolSize": 9.293394088745117
+        },
+        {
+            "id": 5,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "PCGF6",
+            "symbolSize": 9.31122875213623
+        },
+        {
+            "id": 6,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "RAB34",
+            "symbolSize": 9.296506881713867
+        },
+        {
+            "id": 7,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "FOXA1",
+            "symbolSize": 9.307507514953613
+        },
+        {
+            "id": 8,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "H2AB1",
+            "symbolSize": 9.307507514953613
+        },
+        {
+            "id": 9,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "ARNT",
+            "symbolSize": 9.295578956604004
+        },
+        {
+            "id": 10,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "ATP1A1",
+            "symbolSize": 9.875044822692871
+        },
+        {
+            "id": 11,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "ACTL6A",
+            "symbolSize": 9.393871307373047
+        },
+        {
+            "id": 12,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "PVT1",
+            "symbolSize": 11.491752624511719
+        }
+    ],
+    "title": "p(PVT1 | RUNX1, epigenetic regulation (9)^(-1))\nranking = 6"
+}

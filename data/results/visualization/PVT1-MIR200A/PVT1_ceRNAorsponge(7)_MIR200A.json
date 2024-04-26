@@ -1,0 +1,266 @@
+{
+    "edges": [
+        {
+            "lineStyle": {
+                "width": 1.9141411781311035
+            },
+            "source": 8,
+            "target": 7,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.0349605083465576
+            },
+            "source": 11,
+            "target": 9,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.914712905883789
+            },
+            "source": 9,
+            "target": 0,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.914712905883789
+            },
+            "source": 8,
+            "target": 0,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9148143529891968
+            },
+            "source": 9,
+            "target": 3,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9148143529891968
+            },
+            "source": 8,
+            "target": 3,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.079080581665039
+            },
+            "source": 9,
+            "target": 4,
+            "value": "interact with protein (10)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9137728214263916
+            },
+            "source": 8,
+            "target": 6,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.031144142150879
+            },
+            "source": 8,
+            "target": 1,
+            "value": "epigenetic regulation (9)"
+        },
+        {
+            "lineStyle": {
+                "width": 4.0120625495910645
+            },
+            "source": 9,
+            "target": 1,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.0349605083465576
+            },
+            "source": 8,
+            "target": 11,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9137728214263916
+            },
+            "source": 9,
+            "target": 6,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.079080581665039
+            },
+            "source": 4,
+            "target": 8,
+            "value": "interact with protein (10)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9177727699279785
+            },
+            "source": 8,
+            "target": 2,
+            "value": "interact with protein (10)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9177727699279785
+            },
+            "source": 9,
+            "target": 2,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9809181690216064
+            },
+            "source": 1,
+            "target": 8,
+            "value": "interact with protein (10)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9141411781311035
+            },
+            "source": 9,
+            "target": 7,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 2.2986836433410645
+            },
+            "source": 9,
+            "target": 5,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 20.0
+            },
+            "source": 8,
+            "target": 10,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 2.2986836433410645
+            },
+            "source": 5,
+            "target": 8,
+            "value": "expression association (8)"
+        }
+    ],
+    "nodes": [
+        {
+            "id": 0,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "SMAD3",
+            "symbolSize": 9.016263961791992
+        },
+        {
+            "id": 1,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "TP53",
+            "symbolSize": 9.779318809509277
+        },
+        {
+            "id": 2,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "SP1",
+            "symbolSize": 9.017411231994629
+        },
+        {
+            "id": 3,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "MMP2",
+            "symbolSize": 9.016300201416016
+        },
+        {
+            "id": 4,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "UPF1",
+            "symbolSize": 9.077856063842773
+        },
+        {
+            "id": 5,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "TGFB1",
+            "symbolSize": 9.15965461730957
+        },
+        {
+            "id": 6,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "ATG7",
+            "symbolSize": 9.015911102294922
+        },
+        {
+            "id": 7,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "FOXQ1",
+            "symbolSize": 9.016047477722168
+        },
+        {
+            "id": 8,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "MALAT1",
+            "symbolSize": 14.394745826721191
+        },
+        {
+            "id": 9,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "PVT1",
+            "symbolSize": 11.722563743591309
+        },
+        {
+            "id": 10,
+            "itemStyle": {
+                "color": "#679ED2"
+            },
+            "name": "MIR200A",
+            "symbolSize": 11.722563743591309
+        },
+        {
+            "id": 11,
+            "itemStyle": {
+                "color": "#679ED2"
+            },
+            "name": "MIR181A1",
+            "symbolSize": 9.061354637145996
+        }
+    ],
+    "title": "p(MIR200A | PVT1, ceRNA or sponge (7))\nranking = 11"
+}

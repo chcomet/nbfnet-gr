@@ -2,7 +2,7 @@ output_dir: /root/nbfnet-gr/experiments
 
 dataset:
   class: biomedical
-  path: /home/nbfnet-gr/data/gold/lnctardppi_test
+  path: /home/nbfnet-gr/data/gold/lnctardppi_pred
   include_factgraph: True
 
 task:

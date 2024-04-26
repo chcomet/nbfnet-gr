@@ -1,0 +1,212 @@
+{
+    "edges": [
+        {
+            "lineStyle": {
+                "width": 0.7908724546432495
+            },
+            "source": 0,
+            "target": 2,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 0.7908724546432495
+            },
+            "source": 0,
+            "target": 1,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 0.7908724546432495
+            },
+            "source": 2,
+            "target": 3,
+            "value": "transcriptional regulation (11)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 3.6229963302612305
+            },
+            "source": 4,
+            "target": 5,
+            "value": "epigenetic regulation (9)"
+        },
+        {
+            "lineStyle": {
+                "width": 6.269932746887207
+            },
+            "source": 4,
+            "target": 6,
+            "value": "epigenetic regulation (9)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 8.999998092651367
+            },
+            "source": 4,
+            "target": 7,
+            "value": "epigenetic regulation (9)"
+        },
+        {
+            "lineStyle": {
+                "width": 4.4079203605651855
+            },
+            "source": 4,
+            "target": 1,
+            "value": "interact with protein (10)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.6560423374176025
+            },
+            "source": 3,
+            "target": 1,
+            "value": "interact with protein (10)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 5.553083896636963
+            },
+            "source": 3,
+            "target": 6,
+            "value": "epigenetic regulation (9)"
+        },
+        {
+            "lineStyle": {
+                "width": 0.9669058322906494
+            },
+            "source": 9,
+            "target": 1,
+            "value": "interact with protein (10)"
+        },
+        {
+            "lineStyle": {
+                "width": 3.540726661682129
+            },
+            "source": 8,
+            "target": 1,
+            "value": "interact with protein (10)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 0.9683204889297485
+            },
+            "source": 9,
+            "target": 5,
+            "value": "epigenetic regulation (9)"
+        },
+        {
+            "lineStyle": {
+                "width": 0.886156439781189
+            },
+            "source": 8,
+            "target": 5,
+            "value": "epigenetic regulation (9)"
+        },
+        {
+            "lineStyle": {
+                "width": 0.8852013945579529
+            },
+            "source": 8,
+            "target": 6,
+            "value": "epigenetic regulation (9)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 3.870089530944824
+            },
+            "source": 9,
+            "target": 6,
+            "value": "epigenetic regulation (9)"
+        }
+    ],
+    "nodes": [
+        {
+            "id": 0,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "TNF",
+            "symbolSize": 8.16202163696289
+        },
+        {
+            "id": 1,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "EZH2",
+            "symbolSize": 10.881210327148438
+        },
+        {
+            "id": 2,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "FOS",
+            "symbolSize": 8.16202163696289
+        },
+        {
+            "id": 3,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "PVT1",
+            "symbolSize": 10.102241516113281
+        },
+        {
+            "id": 4,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "GIHCG",
+            "symbolSize": 13.092937469482422
+        },
+        {
+            "id": 5,
+            "itemStyle": {
+                "color": "#679ED2"
+            },
+            "name": "MIR200A",
+            "symbolSize": 9.22300910949707
+        },
+        {
+            "id": 6,
+            "itemStyle": {
+                "color": "#679ED2"
+            },
+            "name": "MIR200B",
+            "symbolSize": 11.786517143249512
+        },
+        {
+            "id": 7,
+            "itemStyle": {
+                "color": "#679ED2"
+            },
+            "name": "MIR429",
+            "symbolSize": 10.102241516113281
+        },
+        {
+            "id": 8,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "HEIH",
+            "symbolSize": 9.179966926574707
+        },
+        {
+            "id": 9,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "ILF3-DT",
+            "symbolSize": 9.307840347290039
+        }
+    ],
+    "title": "p(MIR429 | PVT1, transcriptional regulation (11))\nranking = 1"
+}

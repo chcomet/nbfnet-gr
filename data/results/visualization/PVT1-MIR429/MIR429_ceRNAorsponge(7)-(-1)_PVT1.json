@@ -1,0 +1,276 @@
+{
+    "edges": [
+        {
+            "lineStyle": {
+                "width": 1.3129786252975464
+            },
+            "source": 3,
+            "target": 1,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.3068242073059082
+            },
+            "source": 0,
+            "target": 4,
+            "value": "catalysis-precedes (4)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.3099268674850464
+            },
+            "source": 4,
+            "target": 2,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 1.3228040933609009
+            },
+            "source": 4,
+            "target": 3,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.3070423603057861
+            },
+            "source": 4,
+            "target": 5,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.3133074045181274
+            },
+            "source": 1,
+            "target": 7,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.3050874471664429
+            },
+            "source": 1,
+            "target": 2,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 6.548196792602539
+            },
+            "source": 1,
+            "target": 8,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.3131086826324463
+            },
+            "source": 7,
+            "target": 1,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 5.2465972900390625
+            },
+            "source": 8,
+            "target": 4,
+            "value": "catalysis-precedes (4)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.303714632987976
+            },
+            "source": 6,
+            "target": 1,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.0260330438613892
+            },
+            "source": 9,
+            "target": 12,
+            "value": "expression association (8)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.6150145530700684
+            },
+            "source": 11,
+            "target": 2,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.6264162063598633
+            },
+            "source": 11,
+            "target": 7,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.303714632987976
+            },
+            "source": 11,
+            "target": 6,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 2.6357827186584473
+            },
+            "source": 11,
+            "target": 3,
+            "value": "interact with protein (10)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.3070423603057861
+            },
+            "source": 11,
+            "target": 5,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 11.794794082641602
+            },
+            "source": 9,
+            "target": 8,
+            "value": "transcriptional regulation (11)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.3068242073059082
+            },
+            "source": 11,
+            "target": 0,
+            "value": "ceRNA or sponge (7)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 11.794794082641602
+            },
+            "source": 11,
+            "target": 10,
+            "value": "epigenetic regulation (9)"
+        }
+    ],
+    "nodes": [
+        {
+            "id": 0,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "TNF",
+            "symbolSize": 9.710938453674316
+        },
+        {
+            "id": 1,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "TP53",
+            "symbolSize": 10.17182731628418
+        },
+        {
+            "id": 2,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "MMP9",
+            "symbolSize": 9.82741641998291
+        },
+        {
+            "id": 3,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "EZH2",
+            "symbolSize": 9.82925796508789
+        },
+        {
+            "id": 4,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "CGA",
+            "symbolSize": 10.058797836303711
+        },
+        {
+            "id": 5,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "MMP3",
+            "symbolSize": 9.710958480834961
+        },
+        {
+            "id": 6,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "PTBP3",
+            "symbolSize": 9.710660934448242
+        },
+        {
+            "id": 7,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "SOX5",
+            "symbolSize": 9.828428268432617
+        },
+        {
+            "id": 8,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "TSHR",
+            "symbolSize": 10.61829948425293
+        },
+        {
+            "id": 9,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "PVT1",
+            "symbolSize": 10.159906387329102
+        },
+        {
+            "id": 10,
+            "itemStyle": {
+                "color": "#679ED2"
+            },
+            "name": "MIR429",
+            "symbolSize": 10.11542797088623
+        },
+        {
+            "id": 11,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "ILF3-DT",
+            "symbolSize": 10.61829948425293
+        },
+        {
+            "id": 12,
+            "itemStyle": {
+                "color": "#679ED2"
+            },
+            "name": "MIR486-1",
+            "symbolSize": 9.639779090881348
+        }
+    ],
+    "title": "p(PVT1 | MIR429, ceRNA or sponge (7)^(-1))\nranking = 8"
+}

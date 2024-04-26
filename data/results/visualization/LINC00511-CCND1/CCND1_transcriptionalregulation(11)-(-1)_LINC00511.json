@@ -1,0 +1,250 @@
+{
+    "edges": [
+        {
+            "lineStyle": {
+                "width": 1.757338523864746
+            },
+            "source": 0,
+            "target": 4,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.7669509649276733
+            },
+            "source": 6,
+            "target": 4,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.757338523864746
+            },
+            "source": 2,
+            "target": 0,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.8722245693206787
+            },
+            "source": 2,
+            "target": 1,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.7764896154403687
+            },
+            "source": 2,
+            "target": 3,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.7669509649276733
+            },
+            "source": 2,
+            "target": 6,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 4.5523762702941895
+            },
+            "source": 2,
+            "target": 5,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9263837337493896
+            },
+            "source": 2,
+            "target": 7,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.8722245693206787
+            },
+            "source": 1,
+            "target": 4,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.1975536346435547
+            },
+            "source": 5,
+            "target": 4,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 3.735217571258545
+            },
+            "source": 4,
+            "target": 7,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.7764896154403687
+            },
+            "source": 3,
+            "target": 4,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.8088338375091553
+            },
+            "source": 7,
+            "target": 2,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9654655456542969
+            },
+            "source": 8,
+            "target": 2,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.9654655456542969
+            },
+            "source": 8,
+            "target": 4,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 2.3588767051696777
+            },
+            "source": 9,
+            "target": 2,
+            "value": "interact with protein (10)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 17.430116653442383
+            },
+            "source": 10,
+            "target": 4,
+            "value": "interact with protein (10)"
+        },
+        {
+            "lineStyle": {
+                "width": 2.354823112487793
+            },
+            "source": 5,
+            "target": 10,
+            "value": "transcriptional regulation (11)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 2.3588767051696777
+            },
+            "source": 9,
+            "target": 4,
+            "value": "epigenetic regulation (9)"
+        }
+    ],
+    "nodes": [
+        {
+            "id": 0,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "ESR1",
+            "symbolSize": 9.28965950012207
+        },
+        {
+            "id": 1,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "YY1",
+            "symbolSize": 9.315523147583008
+        },
+        {
+            "id": 2,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "CCND1",
+            "symbolSize": 11.003177642822266
+        },
+        {
+            "id": 3,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "TP53",
+            "symbolSize": 9.293973922729492
+        },
+        {
+            "id": 4,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "CDKN1B",
+            "symbolSize": 12.40932559967041
+        },
+        {
+            "id": 5,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "SP1",
+            "symbolSize": 9.90455150604248
+        },
+        {
+            "id": 6,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "FOXA1",
+            "symbolSize": 9.291824340820312
+        },
+        {
+            "id": 7,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "PTK6",
+            "symbolSize": 9.727810859680176
+        },
+        {
+            "id": 8,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "CAMK1",
+            "symbolSize": 9.336475372314453
+        },
+        {
+            "id": 9,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "DANCR",
+            "symbolSize": 9.424507141113281
+        },
+        {
+            "id": 10,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "LINC00511",
+            "symbolSize": 11.003177642822266
+        }
+    ],
+    "title": "p(LINC00511 | CCND1, transcriptional regulation (11)^(-1))\nranking = 26"
+}

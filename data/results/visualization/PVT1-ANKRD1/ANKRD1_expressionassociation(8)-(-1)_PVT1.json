@@ -1,0 +1,268 @@
+{
+    "edges": [
+        {
+            "lineStyle": {
+                "width": 3.4034807682037354
+            },
+            "source": 2,
+            "target": 3,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 3.4034807682037354
+            },
+            "source": 2,
+            "target": 9,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.1336841583251953
+            },
+            "source": 6,
+            "target": 3,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.1336841583251953
+            },
+            "source": 6,
+            "target": 9,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.137974739074707
+            },
+            "source": 1,
+            "target": 3,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.137974739074707
+            },
+            "source": 1,
+            "target": 9,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.1345139741897583
+            },
+            "source": 7,
+            "target": 9,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.134873628616333
+            },
+            "source": 4,
+            "target": 3,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.134873628616333
+            },
+            "source": 4,
+            "target": 9,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.1500885486602783
+            },
+            "source": 5,
+            "target": 3,
+            "value": "controls-state-change-of (1)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.1345139741897583
+            },
+            "source": 3,
+            "target": 7,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 1.1711450815200806
+            },
+            "source": 3,
+            "target": 0,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.134238600730896
+            },
+            "source": 3,
+            "target": 8,
+            "value": "in-complex-with (2)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.134238600730896
+            },
+            "source": 8,
+            "target": 9,
+            "value": "controls-expression-of (5)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 1.1711450815200806
+            },
+            "source": 9,
+            "target": 0,
+            "value": "interacts-with (0)"
+        },
+        {
+            "lineStyle": {
+                "width": 1.1500885486602783
+            },
+            "source": 9,
+            "target": 5,
+            "value": "catalysis-precedes (4)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 11.399999618530273
+            },
+            "source": 11,
+            "target": 10,
+            "value": "epigenetic regulation (9)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 11.399999618530273
+            },
+            "source": 11,
+            "target": 3,
+            "value": "epigenetic regulation (9)"
+        },
+        {
+            "lineStyle": {
+                "color": "#797979",
+                "width": 11.399999618530273
+            },
+            "source": 12,
+            "target": 9,
+            "value": "transcriptional regulation (11)"
+        }
+    ],
+    "nodes": [
+        {
+            "id": 0,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "TUBA1A",
+            "symbolSize": 9.101511001586914
+        },
+        {
+            "id": 1,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "NOG",
+            "symbolSize": 9.091300010681152
+        },
+        {
+            "id": 2,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "CAMK2D",
+            "symbolSize": 9.770410537719727
+        },
+        {
+            "id": 3,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "CDKN1A",
+            "symbolSize": 11.911419868469238
+        },
+        {
+            "id": 4,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "MAZ",
+            "symbolSize": 9.090344429016113
+        },
+        {
+            "id": 5,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "LHB",
+            "symbolSize": 9.095029830932617
+        },
+        {
+            "id": 6,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "ACTB",
+            "symbolSize": 9.089977264404297
+        },
+        {
+            "id": 7,
+            "itemStyle": {
+                "color": "#797979"
+            },
+            "name": "GOLGA2",
+            "symbolSize": 9.09023380279541
+        },
+        {
+            "id": 8,
+            "itemStyle": {
+                "color": "#04396C"
+            },
+            "name": "FOXO4",
+            "symbolSize": 9.090147972106934
+        },
+        {
+            "id": 9,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "TSHR",
+            "symbolSize": 11.911419868469238
+        },
+        {
+            "id": 10,
+            "itemStyle": {
+                "color": "#26527C"
+            },
+            "name": "ANKRD1",
+            "symbolSize": 10.423389434814453
+        },
+        {
+            "id": 11,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "AGAP2-AS1",
+            "symbolSize": 11.911419868469238
+        },
+        {
+            "id": 12,
+            "itemStyle": {
+                "color": "#0C5AA6"
+            },
+            "name": "PVT1",
+            "symbolSize": 10.423389434814453
+        }
+    ],
+    "title": "p(PVT1 | ANKRD1, expression association (8)^(-1))\nranking = 12"
+}
