@@ -24,7 +24,7 @@ relations = [
 
 tails = ["MALAT1", "MIR21", "TUG1", "TP73-AS1", "SCARNA13", "SNORD50A", "RN7SK", "MYC"]
 
-heads = caner_related_lncrnas
+heads = set(caner_related_lncrnas + enhancer_lncrnas + crispr_lncrnas)
 
 with open('../gold/lnctardppi_pred/test.txt', 'w') as file:
     for h in heads:

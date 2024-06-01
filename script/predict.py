@@ -190,7 +190,7 @@ def get_tail_pred(pred, mask, dataset, relation_vocab):
     df = df[df["mask"]]
 
     # load dataframes
-    folder = "/home/nbfnet-gr/data/gold/lnctardppi/"
+    folder = "/lustre/groups/crna01/workspace/hui/nbfnet-gr/data/gold/lnctardppi"
     entity_types = pd.read_csv(f"{folder}/entity_types.txt", header=None, sep="\t", names=["prediction_node", "prediction_node_type"])
     train_df = pd.read_csv(f"{folder}/train2.txt", header=None, sep="\t", names=["query_node", "query_relation", "prediction_node"])
     train_df["source"] = "train"
@@ -272,5 +272,5 @@ if __name__ == "__main__":
     df = get_tail_pred(pred, mask, _dataset, relation_vocab)
     logger.warning("Link prediction done")
     logger.warning("Saving to file")
-    print("Save results to ", os.path.join(working_dir, "predictions.csv"))
-    df.to_csv(os.path.join(working_dir, "predictions.csv"), index=False, sep="\t")
+    print("Save results to ", os.path.join(working_dir, f"predictions_{args.seed}.csv"))
+    df.to_csv(os.path.join(working_dir, f"predictions_{args.seed}.csv"), index=False, sep="\t")

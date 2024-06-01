@@ -1,99 +1,3 @@
-NEAT1	interact with mRNA	MALAT1
-NEAT1	interact with mRNA	MIR21
-NEAT1	interact with mRNA	TUG1
-NEAT1	interact with mRNA	TP73-AS1
-NEAT1	interact with mRNA	SCARNA13
-NEAT1	interact with mRNA	SNORD50A
-NEAT1	interact with mRNA	RN7SK
-NEAT1	interact with mRNA	MYC
-NEAT1	transcriptional regulation	MALAT1
-NEAT1	transcriptional regulation	MIR21
-NEAT1	transcriptional regulation	TUG1
-NEAT1	transcriptional regulation	TP73-AS1
-NEAT1	transcriptional regulation	SCARNA13
-NEAT1	transcriptional regulation	SNORD50A
-NEAT1	transcriptional regulation	RN7SK
-NEAT1	transcriptional regulation	MYC
-NEAT1	interact with protein	MALAT1
-NEAT1	interact with protein	MIR21
-NEAT1	interact with protein	TUG1
-NEAT1	interact with protein	TP73-AS1
-NEAT1	interact with protein	SCARNA13
-NEAT1	interact with protein	SNORD50A
-NEAT1	interact with protein	RN7SK
-NEAT1	interact with protein	MYC
-NEAT1	ceRNA or sponge	MALAT1
-NEAT1	ceRNA or sponge	MIR21
-NEAT1	ceRNA or sponge	TUG1
-NEAT1	ceRNA or sponge	TP73-AS1
-NEAT1	ceRNA or sponge	SCARNA13
-NEAT1	ceRNA or sponge	SNORD50A
-NEAT1	ceRNA or sponge	RN7SK
-NEAT1	ceRNA or sponge	MYC
-NEAT1	expression association	MALAT1
-NEAT1	expression association	MIR21
-NEAT1	expression association	TUG1
-NEAT1	expression association	TP73-AS1
-NEAT1	expression association	SCARNA13
-NEAT1	expression association	SNORD50A
-NEAT1	expression association	RN7SK
-NEAT1	expression association	MYC
-NEAT1	epigenetic regulation	MALAT1
-NEAT1	epigenetic regulation	MIR21
-NEAT1	epigenetic regulation	TUG1
-NEAT1	epigenetic regulation	TP73-AS1
-NEAT1	epigenetic regulation	SCARNA13
-NEAT1	epigenetic regulation	SNORD50A
-NEAT1	epigenetic regulation	RN7SK
-NEAT1	epigenetic regulation	MYC
-MALAT1	interact with mRNA	MALAT1
-MALAT1	interact with mRNA	MIR21
-MALAT1	interact with mRNA	TUG1
-MALAT1	interact with mRNA	TP73-AS1
-MALAT1	interact with mRNA	SCARNA13
-MALAT1	interact with mRNA	SNORD50A
-MALAT1	interact with mRNA	RN7SK
-MALAT1	interact with mRNA	MYC
-MALAT1	transcriptional regulation	MALAT1
-MALAT1	transcriptional regulation	MIR21
-MALAT1	transcriptional regulation	TUG1
-MALAT1	transcriptional regulation	TP73-AS1
-MALAT1	transcriptional regulation	SCARNA13
-MALAT1	transcriptional regulation	SNORD50A
-MALAT1	transcriptional regulation	RN7SK
-MALAT1	transcriptional regulation	MYC
-MALAT1	interact with protein	MALAT1
-MALAT1	interact with protein	MIR21
-MALAT1	interact with protein	TUG1
-MALAT1	interact with protein	TP73-AS1
-MALAT1	interact with protein	SCARNA13
-MALAT1	interact with protein	SNORD50A
-MALAT1	interact with protein	RN7SK
-MALAT1	interact with protein	MYC
-MALAT1	ceRNA or sponge	MALAT1
-MALAT1	ceRNA or sponge	MIR21
-MALAT1	ceRNA or sponge	TUG1
-MALAT1	ceRNA or sponge	TP73-AS1
-MALAT1	ceRNA or sponge	SCARNA13
-MALAT1	ceRNA or sponge	SNORD50A
-MALAT1	ceRNA or sponge	RN7SK
-MALAT1	ceRNA or sponge	MYC
-MALAT1	expression association	MALAT1
-MALAT1	expression association	MIR21
-MALAT1	expression association	TUG1
-MALAT1	expression association	TP73-AS1
-MALAT1	expression association	SCARNA13
-MALAT1	expression association	SNORD50A
-MALAT1	expression association	RN7SK
-MALAT1	expression association	MYC
-MALAT1	epigenetic regulation	MALAT1
-MALAT1	epigenetic regulation	MIR21
-MALAT1	epigenetic regulation	TUG1
-MALAT1	epigenetic regulation	TP73-AS1
-MALAT1	epigenetic regulation	SCARNA13
-MALAT1	epigenetic regulation	SNORD50A
-MALAT1	epigenetic regulation	RN7SK
-MALAT1	epigenetic regulation	MYC
 SNHG16	interact with mRNA	MALAT1
 SNHG16	interact with mRNA	MIR21
 SNHG16	interact with mRNA	TUG1
@@ -142,54 +46,6 @@ SNHG16	epigenetic regulation	SCARNA13
 SNHG16	epigenetic regulation	SNORD50A
 SNHG16	epigenetic regulation	RN7SK
 SNHG16	epigenetic regulation	MYC
-ZFAS1	interact with mRNA	MALAT1
-ZFAS1	interact with mRNA	MIR21
-ZFAS1	interact with mRNA	TUG1
-ZFAS1	interact with mRNA	TP73-AS1
-ZFAS1	interact with mRNA	SCARNA13
-ZFAS1	interact with mRNA	SNORD50A
-ZFAS1	interact with mRNA	RN7SK
-ZFAS1	interact with mRNA	MYC
-ZFAS1	transcriptional regulation	MALAT1
-ZFAS1	transcriptional regulation	MIR21
-ZFAS1	transcriptional regulation	TUG1
-ZFAS1	transcriptional regulation	TP73-AS1
-ZFAS1	transcriptional regulation	SCARNA13
-ZFAS1	transcriptional regulation	SNORD50A
-ZFAS1	transcriptional regulation	RN7SK
-ZFAS1	transcriptional regulation	MYC
-ZFAS1	interact with protein	MALAT1
-ZFAS1	interact with protein	MIR21
-ZFAS1	interact with protein	TUG1
-ZFAS1	interact with protein	TP73-AS1
-ZFAS1	interact with protein	SCARNA13
-ZFAS1	interact with protein	SNORD50A
-ZFAS1	interact with protein	RN7SK
-ZFAS1	interact with protein	MYC
-ZFAS1	ceRNA or sponge	MALAT1
-ZFAS1	ceRNA or sponge	MIR21
-ZFAS1	ceRNA or sponge	TUG1
-ZFAS1	ceRNA or sponge	TP73-AS1
-ZFAS1	ceRNA or sponge	SCARNA13
-ZFAS1	ceRNA or sponge	SNORD50A
-ZFAS1	ceRNA or sponge	RN7SK
-ZFAS1	ceRNA or sponge	MYC
-ZFAS1	expression association	MALAT1
-ZFAS1	expression association	MIR21
-ZFAS1	expression association	TUG1
-ZFAS1	expression association	TP73-AS1
-ZFAS1	expression association	SCARNA13
-ZFAS1	expression association	SNORD50A
-ZFAS1	expression association	RN7SK
-ZFAS1	expression association	MYC
-ZFAS1	epigenetic regulation	MALAT1
-ZFAS1	epigenetic regulation	MIR21
-ZFAS1	epigenetic regulation	TUG1
-ZFAS1	epigenetic regulation	TP73-AS1
-ZFAS1	epigenetic regulation	SCARNA13
-ZFAS1	epigenetic regulation	SNORD50A
-ZFAS1	epigenetic regulation	RN7SK
-ZFAS1	epigenetic regulation	MYC
 MIR22HG	interact with mRNA	MALAT1
 MIR22HG	interact with mRNA	MIR21
 MIR22HG	interact with mRNA	TUG1
@@ -238,342 +94,102 @@ MIR22HG	epigenetic regulation	SCARNA13
 MIR22HG	epigenetic regulation	SNORD50A
 MIR22HG	epigenetic regulation	RN7SK
 MIR22HG	epigenetic regulation	MYC
-LINC-PINT	interact with mRNA	MALAT1
-LINC-PINT	interact with mRNA	MIR21
-LINC-PINT	interact with mRNA	TUG1
-LINC-PINT	interact with mRNA	TP73-AS1
-LINC-PINT	interact with mRNA	SCARNA13
-LINC-PINT	interact with mRNA	SNORD50A
-LINC-PINT	interact with mRNA	RN7SK
-LINC-PINT	interact with mRNA	MYC
-LINC-PINT	transcriptional regulation	MALAT1
-LINC-PINT	transcriptional regulation	MIR21
-LINC-PINT	transcriptional regulation	TUG1
-LINC-PINT	transcriptional regulation	TP73-AS1
-LINC-PINT	transcriptional regulation	SCARNA13
-LINC-PINT	transcriptional regulation	SNORD50A
-LINC-PINT	transcriptional regulation	RN7SK
-LINC-PINT	transcriptional regulation	MYC
-LINC-PINT	interact with protein	MALAT1
-LINC-PINT	interact with protein	MIR21
-LINC-PINT	interact with protein	TUG1
-LINC-PINT	interact with protein	TP73-AS1
-LINC-PINT	interact with protein	SCARNA13
-LINC-PINT	interact with protein	SNORD50A
-LINC-PINT	interact with protein	RN7SK
-LINC-PINT	interact with protein	MYC
-LINC-PINT	ceRNA or sponge	MALAT1
-LINC-PINT	ceRNA or sponge	MIR21
-LINC-PINT	ceRNA or sponge	TUG1
-LINC-PINT	ceRNA or sponge	TP73-AS1
-LINC-PINT	ceRNA or sponge	SCARNA13
-LINC-PINT	ceRNA or sponge	SNORD50A
-LINC-PINT	ceRNA or sponge	RN7SK
-LINC-PINT	ceRNA or sponge	MYC
-LINC-PINT	expression association	MALAT1
-LINC-PINT	expression association	MIR21
-LINC-PINT	expression association	TUG1
-LINC-PINT	expression association	TP73-AS1
-LINC-PINT	expression association	SCARNA13
-LINC-PINT	expression association	SNORD50A
-LINC-PINT	expression association	RN7SK
-LINC-PINT	expression association	MYC
-LINC-PINT	epigenetic regulation	MALAT1
-LINC-PINT	epigenetic regulation	MIR21
-LINC-PINT	epigenetic regulation	TUG1
-LINC-PINT	epigenetic regulation	TP73-AS1
-LINC-PINT	epigenetic regulation	SCARNA13
-LINC-PINT	epigenetic regulation	SNORD50A
-LINC-PINT	epigenetic regulation	RN7SK
-LINC-PINT	epigenetic regulation	MYC
-MIR4435-2HG	interact with mRNA	MALAT1
-MIR4435-2HG	interact with mRNA	MIR21
-MIR4435-2HG	interact with mRNA	TUG1
-MIR4435-2HG	interact with mRNA	TP73-AS1
-MIR4435-2HG	interact with mRNA	SCARNA13
-MIR4435-2HG	interact with mRNA	SNORD50A
-MIR4435-2HG	interact with mRNA	RN7SK
-MIR4435-2HG	interact with mRNA	MYC
-MIR4435-2HG	transcriptional regulation	MALAT1
-MIR4435-2HG	transcriptional regulation	MIR21
-MIR4435-2HG	transcriptional regulation	TUG1
-MIR4435-2HG	transcriptional regulation	TP73-AS1
-MIR4435-2HG	transcriptional regulation	SCARNA13
-MIR4435-2HG	transcriptional regulation	SNORD50A
-MIR4435-2HG	transcriptional regulation	RN7SK
-MIR4435-2HG	transcriptional regulation	MYC
-MIR4435-2HG	interact with protein	MALAT1
-MIR4435-2HG	interact with protein	MIR21
-MIR4435-2HG	interact with protein	TUG1
-MIR4435-2HG	interact with protein	TP73-AS1
-MIR4435-2HG	interact with protein	SCARNA13
-MIR4435-2HG	interact with protein	SNORD50A
-MIR4435-2HG	interact with protein	RN7SK
-MIR4435-2HG	interact with protein	MYC
-MIR4435-2HG	ceRNA or sponge	MALAT1
-MIR4435-2HG	ceRNA or sponge	MIR21
-MIR4435-2HG	ceRNA or sponge	TUG1
-MIR4435-2HG	ceRNA or sponge	TP73-AS1
-MIR4435-2HG	ceRNA or sponge	SCARNA13
-MIR4435-2HG	ceRNA or sponge	SNORD50A
-MIR4435-2HG	ceRNA or sponge	RN7SK
-MIR4435-2HG	ceRNA or sponge	MYC
-MIR4435-2HG	expression association	MALAT1
-MIR4435-2HG	expression association	MIR21
-MIR4435-2HG	expression association	TUG1
-MIR4435-2HG	expression association	TP73-AS1
-MIR4435-2HG	expression association	SCARNA13
-MIR4435-2HG	expression association	SNORD50A
-MIR4435-2HG	expression association	RN7SK
-MIR4435-2HG	expression association	MYC
-MIR4435-2HG	epigenetic regulation	MALAT1
-MIR4435-2HG	epigenetic regulation	MIR21
-MIR4435-2HG	epigenetic regulation	TUG1
-MIR4435-2HG	epigenetic regulation	TP73-AS1
-MIR4435-2HG	epigenetic regulation	SCARNA13
-MIR4435-2HG	epigenetic regulation	SNORD50A
-MIR4435-2HG	epigenetic regulation	RN7SK
-MIR4435-2HG	epigenetic regulation	MYC
-FGD5-AS1	interact with mRNA	MALAT1
-FGD5-AS1	interact with mRNA	MIR21
-FGD5-AS1	interact with mRNA	TUG1
-FGD5-AS1	interact with mRNA	TP73-AS1
-FGD5-AS1	interact with mRNA	SCARNA13
-FGD5-AS1	interact with mRNA	SNORD50A
-FGD5-AS1	interact with mRNA	RN7SK
-FGD5-AS1	interact with mRNA	MYC
-FGD5-AS1	transcriptional regulation	MALAT1
-FGD5-AS1	transcriptional regulation	MIR21
-FGD5-AS1	transcriptional regulation	TUG1
-FGD5-AS1	transcriptional regulation	TP73-AS1
-FGD5-AS1	transcriptional regulation	SCARNA13
-FGD5-AS1	transcriptional regulation	SNORD50A
-FGD5-AS1	transcriptional regulation	RN7SK
-FGD5-AS1	transcriptional regulation	MYC
-FGD5-AS1	interact with protein	MALAT1
-FGD5-AS1	interact with protein	MIR21
-FGD5-AS1	interact with protein	TUG1
-FGD5-AS1	interact with protein	TP73-AS1
-FGD5-AS1	interact with protein	SCARNA13
-FGD5-AS1	interact with protein	SNORD50A
-FGD5-AS1	interact with protein	RN7SK
-FGD5-AS1	interact with protein	MYC
-FGD5-AS1	ceRNA or sponge	MALAT1
-FGD5-AS1	ceRNA or sponge	MIR21
-FGD5-AS1	ceRNA or sponge	TUG1
-FGD5-AS1	ceRNA or sponge	TP73-AS1
-FGD5-AS1	ceRNA or sponge	SCARNA13
-FGD5-AS1	ceRNA or sponge	SNORD50A
-FGD5-AS1	ceRNA or sponge	RN7SK
-FGD5-AS1	ceRNA or sponge	MYC
-FGD5-AS1	expression association	MALAT1
-FGD5-AS1	expression association	MIR21
-FGD5-AS1	expression association	TUG1
-FGD5-AS1	expression association	TP73-AS1
-FGD5-AS1	expression association	SCARNA13
-FGD5-AS1	expression association	SNORD50A
-FGD5-AS1	expression association	RN7SK
-FGD5-AS1	expression association	MYC
-FGD5-AS1	epigenetic regulation	MALAT1
-FGD5-AS1	epigenetic regulation	MIR21
-FGD5-AS1	epigenetic regulation	TUG1
-FGD5-AS1	epigenetic regulation	TP73-AS1
-FGD5-AS1	epigenetic regulation	SCARNA13
-FGD5-AS1	epigenetic regulation	SNORD50A
-FGD5-AS1	epigenetic regulation	RN7SK
-FGD5-AS1	epigenetic regulation	MYC
-CYTOR	interact with mRNA	MALAT1
-CYTOR	interact with mRNA	MIR21
-CYTOR	interact with mRNA	TUG1
-CYTOR	interact with mRNA	TP73-AS1
-CYTOR	interact with mRNA	SCARNA13
-CYTOR	interact with mRNA	SNORD50A
-CYTOR	interact with mRNA	RN7SK
-CYTOR	interact with mRNA	MYC
-CYTOR	transcriptional regulation	MALAT1
-CYTOR	transcriptional regulation	MIR21
-CYTOR	transcriptional regulation	TUG1
-CYTOR	transcriptional regulation	TP73-AS1
-CYTOR	transcriptional regulation	SCARNA13
-CYTOR	transcriptional regulation	SNORD50A
-CYTOR	transcriptional regulation	RN7SK
-CYTOR	transcriptional regulation	MYC
-CYTOR	interact with protein	MALAT1
-CYTOR	interact with protein	MIR21
-CYTOR	interact with protein	TUG1
-CYTOR	interact with protein	TP73-AS1
-CYTOR	interact with protein	SCARNA13
-CYTOR	interact with protein	SNORD50A
-CYTOR	interact with protein	RN7SK
-CYTOR	interact with protein	MYC
-CYTOR	ceRNA or sponge	MALAT1
-CYTOR	ceRNA or sponge	MIR21
-CYTOR	ceRNA or sponge	TUG1
-CYTOR	ceRNA or sponge	TP73-AS1
-CYTOR	ceRNA or sponge	SCARNA13
-CYTOR	ceRNA or sponge	SNORD50A
-CYTOR	ceRNA or sponge	RN7SK
-CYTOR	ceRNA or sponge	MYC
-CYTOR	expression association	MALAT1
-CYTOR	expression association	MIR21
-CYTOR	expression association	TUG1
-CYTOR	expression association	TP73-AS1
-CYTOR	expression association	SCARNA13
-CYTOR	expression association	SNORD50A
-CYTOR	expression association	RN7SK
-CYTOR	expression association	MYC
-CYTOR	epigenetic regulation	MALAT1
-CYTOR	epigenetic regulation	MIR21
-CYTOR	epigenetic regulation	TUG1
-CYTOR	epigenetic regulation	TP73-AS1
-CYTOR	epigenetic regulation	SCARNA13
-CYTOR	epigenetic regulation	SNORD50A
-CYTOR	epigenetic regulation	RN7SK
-CYTOR	epigenetic regulation	MYC
-PVT1	interact with mRNA	MALAT1
-PVT1	interact with mRNA	MIR21
-PVT1	interact with mRNA	TUG1
-PVT1	interact with mRNA	TP73-AS1
-PVT1	interact with mRNA	SCARNA13
-PVT1	interact with mRNA	SNORD50A
-PVT1	interact with mRNA	RN7SK
-PVT1	interact with mRNA	MYC
-PVT1	transcriptional regulation	MALAT1
-PVT1	transcriptional regulation	MIR21
-PVT1	transcriptional regulation	TUG1
-PVT1	transcriptional regulation	TP73-AS1
-PVT1	transcriptional regulation	SCARNA13
-PVT1	transcriptional regulation	SNORD50A
-PVT1	transcriptional regulation	RN7SK
-PVT1	transcriptional regulation	MYC
-PVT1	interact with protein	MALAT1
-PVT1	interact with protein	MIR21
-PVT1	interact with protein	TUG1
-PVT1	interact with protein	TP73-AS1
-PVT1	interact with protein	SCARNA13
-PVT1	interact with protein	SNORD50A
-PVT1	interact with protein	RN7SK
-PVT1	interact with protein	MYC
-PVT1	ceRNA or sponge	MALAT1
-PVT1	ceRNA or sponge	MIR21
-PVT1	ceRNA or sponge	TUG1
-PVT1	ceRNA or sponge	TP73-AS1
-PVT1	ceRNA or sponge	SCARNA13
-PVT1	ceRNA or sponge	SNORD50A
-PVT1	ceRNA or sponge	RN7SK
-PVT1	ceRNA or sponge	MYC
-PVT1	expression association	MALAT1
-PVT1	expression association	MIR21
-PVT1	expression association	TUG1
-PVT1	expression association	TP73-AS1
-PVT1	expression association	SCARNA13
-PVT1	expression association	SNORD50A
-PVT1	expression association	RN7SK
-PVT1	expression association	MYC
-PVT1	epigenetic regulation	MALAT1
-PVT1	epigenetic regulation	MIR21
-PVT1	epigenetic regulation	TUG1
-PVT1	epigenetic regulation	TP73-AS1
-PVT1	epigenetic regulation	SCARNA13
-PVT1	epigenetic regulation	SNORD50A
-PVT1	epigenetic regulation	RN7SK
-PVT1	epigenetic regulation	MYC
-FTX	interact with mRNA	MALAT1
-FTX	interact with mRNA	MIR21
-FTX	interact with mRNA	TUG1
-FTX	interact with mRNA	TP73-AS1
-FTX	interact with mRNA	SCARNA13
-FTX	interact with mRNA	SNORD50A
-FTX	interact with mRNA	RN7SK
-FTX	interact with mRNA	MYC
-FTX	transcriptional regulation	MALAT1
-FTX	transcriptional regulation	MIR21
-FTX	transcriptional regulation	TUG1
-FTX	transcriptional regulation	TP73-AS1
-FTX	transcriptional regulation	SCARNA13
-FTX	transcriptional regulation	SNORD50A
-FTX	transcriptional regulation	RN7SK
-FTX	transcriptional regulation	MYC
-FTX	interact with protein	MALAT1
-FTX	interact with protein	MIR21
-FTX	interact with protein	TUG1
-FTX	interact with protein	TP73-AS1
-FTX	interact with protein	SCARNA13
-FTX	interact with protein	SNORD50A
-FTX	interact with protein	RN7SK
-FTX	interact with protein	MYC
-FTX	ceRNA or sponge	MALAT1
-FTX	ceRNA or sponge	MIR21
-FTX	ceRNA or sponge	TUG1
-FTX	ceRNA or sponge	TP73-AS1
-FTX	ceRNA or sponge	SCARNA13
-FTX	ceRNA or sponge	SNORD50A
-FTX	ceRNA or sponge	RN7SK
-FTX	ceRNA or sponge	MYC
-FTX	expression association	MALAT1
-FTX	expression association	MIR21
-FTX	expression association	TUG1
-FTX	expression association	TP73-AS1
-FTX	expression association	SCARNA13
-FTX	expression association	SNORD50A
-FTX	expression association	RN7SK
-FTX	expression association	MYC
-FTX	epigenetic regulation	MALAT1
-FTX	epigenetic regulation	MIR21
-FTX	epigenetic regulation	TUG1
-FTX	epigenetic regulation	TP73-AS1
-FTX	epigenetic regulation	SCARNA13
-FTX	epigenetic regulation	SNORD50A
-FTX	epigenetic regulation	RN7SK
-FTX	epigenetic regulation	MYC
-FOXCUT	interact with mRNA	MALAT1
-FOXCUT	interact with mRNA	MIR21
-FOXCUT	interact with mRNA	TUG1
-FOXCUT	interact with mRNA	TP73-AS1
-FOXCUT	interact with mRNA	SCARNA13
-FOXCUT	interact with mRNA	SNORD50A
-FOXCUT	interact with mRNA	RN7SK
-FOXCUT	interact with mRNA	MYC
-FOXCUT	transcriptional regulation	MALAT1
-FOXCUT	transcriptional regulation	MIR21
-FOXCUT	transcriptional regulation	TUG1
-FOXCUT	transcriptional regulation	TP73-AS1
-FOXCUT	transcriptional regulation	SCARNA13
-FOXCUT	transcriptional regulation	SNORD50A
-FOXCUT	transcriptional regulation	RN7SK
-FOXCUT	transcriptional regulation	MYC
-FOXCUT	interact with protein	MALAT1
-FOXCUT	interact with protein	MIR21
-FOXCUT	interact with protein	TUG1
-FOXCUT	interact with protein	TP73-AS1
-FOXCUT	interact with protein	SCARNA13
-FOXCUT	interact with protein	SNORD50A
-FOXCUT	interact with protein	RN7SK
-FOXCUT	interact with protein	MYC
-FOXCUT	ceRNA or sponge	MALAT1
-FOXCUT	ceRNA or sponge	MIR21
-FOXCUT	ceRNA or sponge	TUG1
-FOXCUT	ceRNA or sponge	TP73-AS1
-FOXCUT	ceRNA or sponge	SCARNA13
-FOXCUT	ceRNA or sponge	SNORD50A
-FOXCUT	ceRNA or sponge	RN7SK
-FOXCUT	ceRNA or sponge	MYC
-FOXCUT	expression association	MALAT1
-FOXCUT	expression association	MIR21
-FOXCUT	expression association	TUG1
-FOXCUT	expression association	TP73-AS1
-FOXCUT	expression association	SCARNA13
-FOXCUT	expression association	SNORD50A
-FOXCUT	expression association	RN7SK
-FOXCUT	expression association	MYC
-FOXCUT	epigenetic regulation	MALAT1
-FOXCUT	epigenetic regulation	MIR21
-FOXCUT	epigenetic regulation	TUG1
-FOXCUT	epigenetic regulation	TP73-AS1
-FOXCUT	epigenetic regulation	SCARNA13
-FOXCUT	epigenetic regulation	SNORD50A
-FOXCUT	epigenetic regulation	RN7SK
-FOXCUT	epigenetic regulation	MYC
+MALAT1	interact with mRNA	MALAT1
+MALAT1	interact with mRNA	MIR21
+MALAT1	interact with mRNA	TUG1
+MALAT1	interact with mRNA	TP73-AS1
+MALAT1	interact with mRNA	SCARNA13
+MALAT1	interact with mRNA	SNORD50A
+MALAT1	interact with mRNA	RN7SK
+MALAT1	interact with mRNA	MYC
+MALAT1	transcriptional regulation	MALAT1
+MALAT1	transcriptional regulation	MIR21
+MALAT1	transcriptional regulation	TUG1
+MALAT1	transcriptional regulation	TP73-AS1
+MALAT1	transcriptional regulation	SCARNA13
+MALAT1	transcriptional regulation	SNORD50A
+MALAT1	transcriptional regulation	RN7SK
+MALAT1	transcriptional regulation	MYC
+MALAT1	interact with protein	MALAT1
+MALAT1	interact with protein	MIR21
+MALAT1	interact with protein	TUG1
+MALAT1	interact with protein	TP73-AS1
+MALAT1	interact with protein	SCARNA13
+MALAT1	interact with protein	SNORD50A
+MALAT1	interact with protein	RN7SK
+MALAT1	interact with protein	MYC
+MALAT1	ceRNA or sponge	MALAT1
+MALAT1	ceRNA or sponge	MIR21
+MALAT1	ceRNA or sponge	TUG1
+MALAT1	ceRNA or sponge	TP73-AS1
+MALAT1	ceRNA or sponge	SCARNA13
+MALAT1	ceRNA or sponge	SNORD50A
+MALAT1	ceRNA or sponge	RN7SK
+MALAT1	ceRNA or sponge	MYC
+MALAT1	expression association	MALAT1
+MALAT1	expression association	MIR21
+MALAT1	expression association	TUG1
+MALAT1	expression association	TP73-AS1
+MALAT1	expression association	SCARNA13
+MALAT1	expression association	SNORD50A
+MALAT1	expression association	RN7SK
+MALAT1	expression association	MYC
+MALAT1	epigenetic regulation	MALAT1
+MALAT1	epigenetic regulation	MIR21
+MALAT1	epigenetic regulation	TUG1
+MALAT1	epigenetic regulation	TP73-AS1
+MALAT1	epigenetic regulation	SCARNA13
+MALAT1	epigenetic regulation	SNORD50A
+MALAT1	epigenetic regulation	RN7SK
+MALAT1	epigenetic regulation	MYC
+ABALON	interact with mRNA	MALAT1
+ABALON	interact with mRNA	MIR21
+ABALON	interact with mRNA	TUG1
+ABALON	interact with mRNA	TP73-AS1
+ABALON	interact with mRNA	SCARNA13
+ABALON	interact with mRNA	SNORD50A
+ABALON	interact with mRNA	RN7SK
+ABALON	interact with mRNA	MYC
+ABALON	transcriptional regulation	MALAT1
+ABALON	transcriptional regulation	MIR21
+ABALON	transcriptional regulation	TUG1
+ABALON	transcriptional regulation	TP73-AS1
+ABALON	transcriptional regulation	SCARNA13
+ABALON	transcriptional regulation	SNORD50A
+ABALON	transcriptional regulation	RN7SK
+ABALON	transcriptional regulation	MYC
+ABALON	interact with protein	MALAT1
+ABALON	interact with protein	MIR21
+ABALON	interact with protein	TUG1
+ABALON	interact with protein	TP73-AS1
+ABALON	interact with protein	SCARNA13
+ABALON	interact with protein	SNORD50A
+ABALON	interact with protein	RN7SK
+ABALON	interact with protein	MYC
+ABALON	ceRNA or sponge	MALAT1
+ABALON	ceRNA or sponge	MIR21
+ABALON	ceRNA or sponge	TUG1
+ABALON	ceRNA or sponge	TP73-AS1
+ABALON	ceRNA or sponge	SCARNA13
+ABALON	ceRNA or sponge	SNORD50A
+ABALON	ceRNA or sponge	RN7SK
+ABALON	ceRNA or sponge	MYC
+ABALON	expression association	MALAT1
+ABALON	expression association	MIR21
+ABALON	expression association	TUG1
+ABALON	expression association	TP73-AS1
+ABALON	expression association	SCARNA13
+ABALON	expression association	SNORD50A
+ABALON	expression association	RN7SK
+ABALON	expression association	MYC
+ABALON	epigenetic regulation	MALAT1
+ABALON	epigenetic regulation	MIR21
+ABALON	epigenetic regulation	TUG1
+ABALON	epigenetic regulation	TP73-AS1
+ABALON	epigenetic regulation	SCARNA13
+ABALON	epigenetic regulation	SNORD50A
+ABALON	epigenetic regulation	RN7SK
+ABALON	epigenetic regulation	MYC
 FENDRR	interact with mRNA	MALAT1
 FENDRR	interact with mRNA	MIR21
 FENDRR	interact with mRNA	TUG1
@@ -622,246 +238,294 @@ FENDRR	epigenetic regulation	SCARNA13
 FENDRR	epigenetic regulation	SNORD50A
 FENDRR	epigenetic regulation	RN7SK
 FENDRR	epigenetic regulation	MYC
-LINC00461	interact with mRNA	MALAT1
-LINC00461	interact with mRNA	MIR21
-LINC00461	interact with mRNA	TUG1
-LINC00461	interact with mRNA	TP73-AS1
-LINC00461	interact with mRNA	SCARNA13
-LINC00461	interact with mRNA	SNORD50A
-LINC00461	interact with mRNA	RN7SK
-LINC00461	interact with mRNA	MYC
-LINC00461	transcriptional regulation	MALAT1
-LINC00461	transcriptional regulation	MIR21
-LINC00461	transcriptional regulation	TUG1
-LINC00461	transcriptional regulation	TP73-AS1
-LINC00461	transcriptional regulation	SCARNA13
-LINC00461	transcriptional regulation	SNORD50A
-LINC00461	transcriptional regulation	RN7SK
-LINC00461	transcriptional regulation	MYC
-LINC00461	interact with protein	MALAT1
-LINC00461	interact with protein	MIR21
-LINC00461	interact with protein	TUG1
-LINC00461	interact with protein	TP73-AS1
-LINC00461	interact with protein	SCARNA13
-LINC00461	interact with protein	SNORD50A
-LINC00461	interact with protein	RN7SK
-LINC00461	interact with protein	MYC
-LINC00461	ceRNA or sponge	MALAT1
-LINC00461	ceRNA or sponge	MIR21
-LINC00461	ceRNA or sponge	TUG1
-LINC00461	ceRNA or sponge	TP73-AS1
-LINC00461	ceRNA or sponge	SCARNA13
-LINC00461	ceRNA or sponge	SNORD50A
-LINC00461	ceRNA or sponge	RN7SK
-LINC00461	ceRNA or sponge	MYC
-LINC00461	expression association	MALAT1
-LINC00461	expression association	MIR21
-LINC00461	expression association	TUG1
-LINC00461	expression association	TP73-AS1
-LINC00461	expression association	SCARNA13
-LINC00461	expression association	SNORD50A
-LINC00461	expression association	RN7SK
-LINC00461	expression association	MYC
-LINC00461	epigenetic regulation	MALAT1
-LINC00461	epigenetic regulation	MIR21
-LINC00461	epigenetic regulation	TUG1
-LINC00461	epigenetic regulation	TP73-AS1
-LINC00461	epigenetic regulation	SCARNA13
-LINC00461	epigenetic regulation	SNORD50A
-LINC00461	epigenetic regulation	RN7SK
-LINC00461	epigenetic regulation	MYC
-DLEU2	interact with mRNA	MALAT1
-DLEU2	interact with mRNA	MIR21
-DLEU2	interact with mRNA	TUG1
-DLEU2	interact with mRNA	TP73-AS1
-DLEU2	interact with mRNA	SCARNA13
-DLEU2	interact with mRNA	SNORD50A
-DLEU2	interact with mRNA	RN7SK
-DLEU2	interact with mRNA	MYC
-DLEU2	transcriptional regulation	MALAT1
-DLEU2	transcriptional regulation	MIR21
-DLEU2	transcriptional regulation	TUG1
-DLEU2	transcriptional regulation	TP73-AS1
-DLEU2	transcriptional regulation	SCARNA13
-DLEU2	transcriptional regulation	SNORD50A
-DLEU2	transcriptional regulation	RN7SK
-DLEU2	transcriptional regulation	MYC
-DLEU2	interact with protein	MALAT1
-DLEU2	interact with protein	MIR21
-DLEU2	interact with protein	TUG1
-DLEU2	interact with protein	TP73-AS1
-DLEU2	interact with protein	SCARNA13
-DLEU2	interact with protein	SNORD50A
-DLEU2	interact with protein	RN7SK
-DLEU2	interact with protein	MYC
-DLEU2	ceRNA or sponge	MALAT1
-DLEU2	ceRNA or sponge	MIR21
-DLEU2	ceRNA or sponge	TUG1
-DLEU2	ceRNA or sponge	TP73-AS1
-DLEU2	ceRNA or sponge	SCARNA13
-DLEU2	ceRNA or sponge	SNORD50A
-DLEU2	ceRNA or sponge	RN7SK
-DLEU2	ceRNA or sponge	MYC
-DLEU2	expression association	MALAT1
-DLEU2	expression association	MIR21
-DLEU2	expression association	TUG1
-DLEU2	expression association	TP73-AS1
-DLEU2	expression association	SCARNA13
-DLEU2	expression association	SNORD50A
-DLEU2	expression association	RN7SK
-DLEU2	expression association	MYC
-DLEU2	epigenetic regulation	MALAT1
-DLEU2	epigenetic regulation	MIR21
-DLEU2	epigenetic regulation	TUG1
-DLEU2	epigenetic regulation	TP73-AS1
-DLEU2	epigenetic regulation	SCARNA13
-DLEU2	epigenetic regulation	SNORD50A
-DLEU2	epigenetic regulation	RN7SK
-DLEU2	epigenetic regulation	MYC
-MIR34AHG	interact with mRNA	MALAT1
-MIR34AHG	interact with mRNA	MIR21
-MIR34AHG	interact with mRNA	TUG1
-MIR34AHG	interact with mRNA	TP73-AS1
-MIR34AHG	interact with mRNA	SCARNA13
-MIR34AHG	interact with mRNA	SNORD50A
-MIR34AHG	interact with mRNA	RN7SK
-MIR34AHG	interact with mRNA	MYC
-MIR34AHG	transcriptional regulation	MALAT1
-MIR34AHG	transcriptional regulation	MIR21
-MIR34AHG	transcriptional regulation	TUG1
-MIR34AHG	transcriptional regulation	TP73-AS1
-MIR34AHG	transcriptional regulation	SCARNA13
-MIR34AHG	transcriptional regulation	SNORD50A
-MIR34AHG	transcriptional regulation	RN7SK
-MIR34AHG	transcriptional regulation	MYC
-MIR34AHG	interact with protein	MALAT1
-MIR34AHG	interact with protein	MIR21
-MIR34AHG	interact with protein	TUG1
-MIR34AHG	interact with protein	TP73-AS1
-MIR34AHG	interact with protein	SCARNA13
-MIR34AHG	interact with protein	SNORD50A
-MIR34AHG	interact with protein	RN7SK
-MIR34AHG	interact with protein	MYC
-MIR34AHG	ceRNA or sponge	MALAT1
-MIR34AHG	ceRNA or sponge	MIR21
-MIR34AHG	ceRNA or sponge	TUG1
-MIR34AHG	ceRNA or sponge	TP73-AS1
-MIR34AHG	ceRNA or sponge	SCARNA13
-MIR34AHG	ceRNA or sponge	SNORD50A
-MIR34AHG	ceRNA or sponge	RN7SK
-MIR34AHG	ceRNA or sponge	MYC
-MIR34AHG	expression association	MALAT1
-MIR34AHG	expression association	MIR21
-MIR34AHG	expression association	TUG1
-MIR34AHG	expression association	TP73-AS1
-MIR34AHG	expression association	SCARNA13
-MIR34AHG	expression association	SNORD50A
-MIR34AHG	expression association	RN7SK
-MIR34AHG	expression association	MYC
-MIR34AHG	epigenetic regulation	MALAT1
-MIR34AHG	epigenetic regulation	MIR21
-MIR34AHG	epigenetic regulation	TUG1
-MIR34AHG	epigenetic regulation	TP73-AS1
-MIR34AHG	epigenetic regulation	SCARNA13
-MIR34AHG	epigenetic regulation	SNORD50A
-MIR34AHG	epigenetic regulation	RN7SK
-MIR34AHG	epigenetic regulation	MYC
-LINC00511	interact with mRNA	MALAT1
-LINC00511	interact with mRNA	MIR21
-LINC00511	interact with mRNA	TUG1
-LINC00511	interact with mRNA	TP73-AS1
-LINC00511	interact with mRNA	SCARNA13
-LINC00511	interact with mRNA	SNORD50A
-LINC00511	interact with mRNA	RN7SK
-LINC00511	interact with mRNA	MYC
-LINC00511	transcriptional regulation	MALAT1
-LINC00511	transcriptional regulation	MIR21
-LINC00511	transcriptional regulation	TUG1
-LINC00511	transcriptional regulation	TP73-AS1
-LINC00511	transcriptional regulation	SCARNA13
-LINC00511	transcriptional regulation	SNORD50A
-LINC00511	transcriptional regulation	RN7SK
-LINC00511	transcriptional regulation	MYC
-LINC00511	interact with protein	MALAT1
-LINC00511	interact with protein	MIR21
-LINC00511	interact with protein	TUG1
-LINC00511	interact with protein	TP73-AS1
-LINC00511	interact with protein	SCARNA13
-LINC00511	interact with protein	SNORD50A
-LINC00511	interact with protein	RN7SK
-LINC00511	interact with protein	MYC
-LINC00511	ceRNA or sponge	MALAT1
-LINC00511	ceRNA or sponge	MIR21
-LINC00511	ceRNA or sponge	TUG1
-LINC00511	ceRNA or sponge	TP73-AS1
-LINC00511	ceRNA or sponge	SCARNA13
-LINC00511	ceRNA or sponge	SNORD50A
-LINC00511	ceRNA or sponge	RN7SK
-LINC00511	ceRNA or sponge	MYC
-LINC00511	expression association	MALAT1
-LINC00511	expression association	MIR21
-LINC00511	expression association	TUG1
-LINC00511	expression association	TP73-AS1
-LINC00511	expression association	SCARNA13
-LINC00511	expression association	SNORD50A
-LINC00511	expression association	RN7SK
-LINC00511	expression association	MYC
-LINC00511	epigenetic regulation	MALAT1
-LINC00511	epigenetic regulation	MIR21
-LINC00511	epigenetic regulation	TUG1
-LINC00511	epigenetic regulation	TP73-AS1
-LINC00511	epigenetic regulation	SCARNA13
-LINC00511	epigenetic regulation	SNORD50A
-LINC00511	epigenetic regulation	RN7SK
-LINC00511	epigenetic regulation	MYC
-LINC02582	interact with mRNA	MALAT1
-LINC02582	interact with mRNA	MIR21
-LINC02582	interact with mRNA	TUG1
-LINC02582	interact with mRNA	TP73-AS1
-LINC02582	interact with mRNA	SCARNA13
-LINC02582	interact with mRNA	SNORD50A
-LINC02582	interact with mRNA	RN7SK
-LINC02582	interact with mRNA	MYC
-LINC02582	transcriptional regulation	MALAT1
-LINC02582	transcriptional regulation	MIR21
-LINC02582	transcriptional regulation	TUG1
-LINC02582	transcriptional regulation	TP73-AS1
-LINC02582	transcriptional regulation	SCARNA13
-LINC02582	transcriptional regulation	SNORD50A
-LINC02582	transcriptional regulation	RN7SK
-LINC02582	transcriptional regulation	MYC
-LINC02582	interact with protein	MALAT1
-LINC02582	interact with protein	MIR21
-LINC02582	interact with protein	TUG1
-LINC02582	interact with protein	TP73-AS1
-LINC02582	interact with protein	SCARNA13
-LINC02582	interact with protein	SNORD50A
-LINC02582	interact with protein	RN7SK
-LINC02582	interact with protein	MYC
-LINC02582	ceRNA or sponge	MALAT1
-LINC02582	ceRNA or sponge	MIR21
-LINC02582	ceRNA or sponge	TUG1
-LINC02582	ceRNA or sponge	TP73-AS1
-LINC02582	ceRNA or sponge	SCARNA13
-LINC02582	ceRNA or sponge	SNORD50A
-LINC02582	ceRNA or sponge	RN7SK
-LINC02582	ceRNA or sponge	MYC
-LINC02582	expression association	MALAT1
-LINC02582	expression association	MIR21
-LINC02582	expression association	TUG1
-LINC02582	expression association	TP73-AS1
-LINC02582	expression association	SCARNA13
-LINC02582	expression association	SNORD50A
-LINC02582	expression association	RN7SK
-LINC02582	expression association	MYC
-LINC02582	epigenetic regulation	MALAT1
-LINC02582	epigenetic regulation	MIR21
-LINC02582	epigenetic regulation	TUG1
-LINC02582	epigenetic regulation	TP73-AS1
-LINC02582	epigenetic regulation	SCARNA13
-LINC02582	epigenetic regulation	SNORD50A
-LINC02582	epigenetic regulation	RN7SK
-LINC02582	epigenetic regulation	MYC
+FTX	interact with mRNA	MALAT1
+FTX	interact with mRNA	MIR21
+FTX	interact with mRNA	TUG1
+FTX	interact with mRNA	TP73-AS1
+FTX	interact with mRNA	SCARNA13
+FTX	interact with mRNA	SNORD50A
+FTX	interact with mRNA	RN7SK
+FTX	interact with mRNA	MYC
+FTX	transcriptional regulation	MALAT1
+FTX	transcriptional regulation	MIR21
+FTX	transcriptional regulation	TUG1
+FTX	transcriptional regulation	TP73-AS1
+FTX	transcriptional regulation	SCARNA13
+FTX	transcriptional regulation	SNORD50A
+FTX	transcriptional regulation	RN7SK
+FTX	transcriptional regulation	MYC
+FTX	interact with protein	MALAT1
+FTX	interact with protein	MIR21
+FTX	interact with protein	TUG1
+FTX	interact with protein	TP73-AS1
+FTX	interact with protein	SCARNA13
+FTX	interact with protein	SNORD50A
+FTX	interact with protein	RN7SK
+FTX	interact with protein	MYC
+FTX	ceRNA or sponge	MALAT1
+FTX	ceRNA or sponge	MIR21
+FTX	ceRNA or sponge	TUG1
+FTX	ceRNA or sponge	TP73-AS1
+FTX	ceRNA or sponge	SCARNA13
+FTX	ceRNA or sponge	SNORD50A
+FTX	ceRNA or sponge	RN7SK
+FTX	ceRNA or sponge	MYC
+FTX	expression association	MALAT1
+FTX	expression association	MIR21
+FTX	expression association	TUG1
+FTX	expression association	TP73-AS1
+FTX	expression association	SCARNA13
+FTX	expression association	SNORD50A
+FTX	expression association	RN7SK
+FTX	expression association	MYC
+FTX	epigenetic regulation	MALAT1
+FTX	epigenetic regulation	MIR21
+FTX	epigenetic regulation	TUG1
+FTX	epigenetic regulation	TP73-AS1
+FTX	epigenetic regulation	SCARNA13
+FTX	epigenetic regulation	SNORD50A
+FTX	epigenetic regulation	RN7SK
+FTX	epigenetic regulation	MYC
+SNHG8	interact with mRNA	MALAT1
+SNHG8	interact with mRNA	MIR21
+SNHG8	interact with mRNA	TUG1
+SNHG8	interact with mRNA	TP73-AS1
+SNHG8	interact with mRNA	SCARNA13
+SNHG8	interact with mRNA	SNORD50A
+SNHG8	interact with mRNA	RN7SK
+SNHG8	interact with mRNA	MYC
+SNHG8	transcriptional regulation	MALAT1
+SNHG8	transcriptional regulation	MIR21
+SNHG8	transcriptional regulation	TUG1
+SNHG8	transcriptional regulation	TP73-AS1
+SNHG8	transcriptional regulation	SCARNA13
+SNHG8	transcriptional regulation	SNORD50A
+SNHG8	transcriptional regulation	RN7SK
+SNHG8	transcriptional regulation	MYC
+SNHG8	interact with protein	MALAT1
+SNHG8	interact with protein	MIR21
+SNHG8	interact with protein	TUG1
+SNHG8	interact with protein	TP73-AS1
+SNHG8	interact with protein	SCARNA13
+SNHG8	interact with protein	SNORD50A
+SNHG8	interact with protein	RN7SK
+SNHG8	interact with protein	MYC
+SNHG8	ceRNA or sponge	MALAT1
+SNHG8	ceRNA or sponge	MIR21
+SNHG8	ceRNA or sponge	TUG1
+SNHG8	ceRNA or sponge	TP73-AS1
+SNHG8	ceRNA or sponge	SCARNA13
+SNHG8	ceRNA or sponge	SNORD50A
+SNHG8	ceRNA or sponge	RN7SK
+SNHG8	ceRNA or sponge	MYC
+SNHG8	expression association	MALAT1
+SNHG8	expression association	MIR21
+SNHG8	expression association	TUG1
+SNHG8	expression association	TP73-AS1
+SNHG8	expression association	SCARNA13
+SNHG8	expression association	SNORD50A
+SNHG8	expression association	RN7SK
+SNHG8	expression association	MYC
+SNHG8	epigenetic regulation	MALAT1
+SNHG8	epigenetic regulation	MIR21
+SNHG8	epigenetic regulation	TUG1
+SNHG8	epigenetic regulation	TP73-AS1
+SNHG8	epigenetic regulation	SCARNA13
+SNHG8	epigenetic regulation	SNORD50A
+SNHG8	epigenetic regulation	RN7SK
+SNHG8	epigenetic regulation	MYC
+SNHG20	interact with mRNA	MALAT1
+SNHG20	interact with mRNA	MIR21
+SNHG20	interact with mRNA	TUG1
+SNHG20	interact with mRNA	TP73-AS1
+SNHG20	interact with mRNA	SCARNA13
+SNHG20	interact with mRNA	SNORD50A
+SNHG20	interact with mRNA	RN7SK
+SNHG20	interact with mRNA	MYC
+SNHG20	transcriptional regulation	MALAT1
+SNHG20	transcriptional regulation	MIR21
+SNHG20	transcriptional regulation	TUG1
+SNHG20	transcriptional regulation	TP73-AS1
+SNHG20	transcriptional regulation	SCARNA13
+SNHG20	transcriptional regulation	SNORD50A
+SNHG20	transcriptional regulation	RN7SK
+SNHG20	transcriptional regulation	MYC
+SNHG20	interact with protein	MALAT1
+SNHG20	interact with protein	MIR21
+SNHG20	interact with protein	TUG1
+SNHG20	interact with protein	TP73-AS1
+SNHG20	interact with protein	SCARNA13
+SNHG20	interact with protein	SNORD50A
+SNHG20	interact with protein	RN7SK
+SNHG20	interact with protein	MYC
+SNHG20	ceRNA or sponge	MALAT1
+SNHG20	ceRNA or sponge	MIR21
+SNHG20	ceRNA or sponge	TUG1
+SNHG20	ceRNA or sponge	TP73-AS1
+SNHG20	ceRNA or sponge	SCARNA13
+SNHG20	ceRNA or sponge	SNORD50A
+SNHG20	ceRNA or sponge	RN7SK
+SNHG20	ceRNA or sponge	MYC
+SNHG20	expression association	MALAT1
+SNHG20	expression association	MIR21
+SNHG20	expression association	TUG1
+SNHG20	expression association	TP73-AS1
+SNHG20	expression association	SCARNA13
+SNHG20	expression association	SNORD50A
+SNHG20	expression association	RN7SK
+SNHG20	expression association	MYC
+SNHG20	epigenetic regulation	MALAT1
+SNHG20	epigenetic regulation	MIR21
+SNHG20	epigenetic regulation	TUG1
+SNHG20	epigenetic regulation	TP73-AS1
+SNHG20	epigenetic regulation	SCARNA13
+SNHG20	epigenetic regulation	SNORD50A
+SNHG20	epigenetic regulation	RN7SK
+SNHG20	epigenetic regulation	MYC
+LAMTOR5-AS1	interact with mRNA	MALAT1
+LAMTOR5-AS1	interact with mRNA	MIR21
+LAMTOR5-AS1	interact with mRNA	TUG1
+LAMTOR5-AS1	interact with mRNA	TP73-AS1
+LAMTOR5-AS1	interact with mRNA	SCARNA13
+LAMTOR5-AS1	interact with mRNA	SNORD50A
+LAMTOR5-AS1	interact with mRNA	RN7SK
+LAMTOR5-AS1	interact with mRNA	MYC
+LAMTOR5-AS1	transcriptional regulation	MALAT1
+LAMTOR5-AS1	transcriptional regulation	MIR21
+LAMTOR5-AS1	transcriptional regulation	TUG1
+LAMTOR5-AS1	transcriptional regulation	TP73-AS1
+LAMTOR5-AS1	transcriptional regulation	SCARNA13
+LAMTOR5-AS1	transcriptional regulation	SNORD50A
+LAMTOR5-AS1	transcriptional regulation	RN7SK
+LAMTOR5-AS1	transcriptional regulation	MYC
+LAMTOR5-AS1	interact with protein	MALAT1
+LAMTOR5-AS1	interact with protein	MIR21
+LAMTOR5-AS1	interact with protein	TUG1
+LAMTOR5-AS1	interact with protein	TP73-AS1
+LAMTOR5-AS1	interact with protein	SCARNA13
+LAMTOR5-AS1	interact with protein	SNORD50A
+LAMTOR5-AS1	interact with protein	RN7SK
+LAMTOR5-AS1	interact with protein	MYC
+LAMTOR5-AS1	ceRNA or sponge	MALAT1
+LAMTOR5-AS1	ceRNA or sponge	MIR21
+LAMTOR5-AS1	ceRNA or sponge	TUG1
+LAMTOR5-AS1	ceRNA or sponge	TP73-AS1
+LAMTOR5-AS1	ceRNA or sponge	SCARNA13
+LAMTOR5-AS1	ceRNA or sponge	SNORD50A
+LAMTOR5-AS1	ceRNA or sponge	RN7SK
+LAMTOR5-AS1	ceRNA or sponge	MYC
+LAMTOR5-AS1	expression association	MALAT1
+LAMTOR5-AS1	expression association	MIR21
+LAMTOR5-AS1	expression association	TUG1
+LAMTOR5-AS1	expression association	TP73-AS1
+LAMTOR5-AS1	expression association	SCARNA13
+LAMTOR5-AS1	expression association	SNORD50A
+LAMTOR5-AS1	expression association	RN7SK
+LAMTOR5-AS1	expression association	MYC
+LAMTOR5-AS1	epigenetic regulation	MALAT1
+LAMTOR5-AS1	epigenetic regulation	MIR21
+LAMTOR5-AS1	epigenetic regulation	TUG1
+LAMTOR5-AS1	epigenetic regulation	TP73-AS1
+LAMTOR5-AS1	epigenetic regulation	SCARNA13
+LAMTOR5-AS1	epigenetic regulation	SNORD50A
+LAMTOR5-AS1	epigenetic regulation	RN7SK
+LAMTOR5-AS1	epigenetic regulation	MYC
+FBXL19-AS1	interact with mRNA	MALAT1
+FBXL19-AS1	interact with mRNA	MIR21
+FBXL19-AS1	interact with mRNA	TUG1
+FBXL19-AS1	interact with mRNA	TP73-AS1
+FBXL19-AS1	interact with mRNA	SCARNA13
+FBXL19-AS1	interact with mRNA	SNORD50A
+FBXL19-AS1	interact with mRNA	RN7SK
+FBXL19-AS1	interact with mRNA	MYC
+FBXL19-AS1	transcriptional regulation	MALAT1
+FBXL19-AS1	transcriptional regulation	MIR21
+FBXL19-AS1	transcriptional regulation	TUG1
+FBXL19-AS1	transcriptional regulation	TP73-AS1
+FBXL19-AS1	transcriptional regulation	SCARNA13
+FBXL19-AS1	transcriptional regulation	SNORD50A
+FBXL19-AS1	transcriptional regulation	RN7SK
+FBXL19-AS1	transcriptional regulation	MYC
+FBXL19-AS1	interact with protein	MALAT1
+FBXL19-AS1	interact with protein	MIR21
+FBXL19-AS1	interact with protein	TUG1
+FBXL19-AS1	interact with protein	TP73-AS1
+FBXL19-AS1	interact with protein	SCARNA13
+FBXL19-AS1	interact with protein	SNORD50A
+FBXL19-AS1	interact with protein	RN7SK
+FBXL19-AS1	interact with protein	MYC
+FBXL19-AS1	ceRNA or sponge	MALAT1
+FBXL19-AS1	ceRNA or sponge	MIR21
+FBXL19-AS1	ceRNA or sponge	TUG1
+FBXL19-AS1	ceRNA or sponge	TP73-AS1
+FBXL19-AS1	ceRNA or sponge	SCARNA13
+FBXL19-AS1	ceRNA or sponge	SNORD50A
+FBXL19-AS1	ceRNA or sponge	RN7SK
+FBXL19-AS1	ceRNA or sponge	MYC
+FBXL19-AS1	expression association	MALAT1
+FBXL19-AS1	expression association	MIR21
+FBXL19-AS1	expression association	TUG1
+FBXL19-AS1	expression association	TP73-AS1
+FBXL19-AS1	expression association	SCARNA13
+FBXL19-AS1	expression association	SNORD50A
+FBXL19-AS1	expression association	RN7SK
+FBXL19-AS1	expression association	MYC
+FBXL19-AS1	epigenetic regulation	MALAT1
+FBXL19-AS1	epigenetic regulation	MIR21
+FBXL19-AS1	epigenetic regulation	TUG1
+FBXL19-AS1	epigenetic regulation	TP73-AS1
+FBXL19-AS1	epigenetic regulation	SCARNA13
+FBXL19-AS1	epigenetic regulation	SNORD50A
+FBXL19-AS1	epigenetic regulation	RN7SK
+FBXL19-AS1	epigenetic regulation	MYC
+SNHG12	interact with mRNA	MALAT1
+SNHG12	interact with mRNA	MIR21
+SNHG12	interact with mRNA	TUG1
+SNHG12	interact with mRNA	TP73-AS1
+SNHG12	interact with mRNA	SCARNA13
+SNHG12	interact with mRNA	SNORD50A
+SNHG12	interact with mRNA	RN7SK
+SNHG12	interact with mRNA	MYC
+SNHG12	transcriptional regulation	MALAT1
+SNHG12	transcriptional regulation	MIR21
+SNHG12	transcriptional regulation	TUG1
+SNHG12	transcriptional regulation	TP73-AS1
+SNHG12	transcriptional regulation	SCARNA13
+SNHG12	transcriptional regulation	SNORD50A
+SNHG12	transcriptional regulation	RN7SK
+SNHG12	transcriptional regulation	MYC
+SNHG12	interact with protein	MALAT1
+SNHG12	interact with protein	MIR21
+SNHG12	interact with protein	TUG1
+SNHG12	interact with protein	TP73-AS1
+SNHG12	interact with protein	SCARNA13
+SNHG12	interact with protein	SNORD50A
+SNHG12	interact with protein	RN7SK
+SNHG12	interact with protein	MYC
+SNHG12	ceRNA or sponge	MALAT1
+SNHG12	ceRNA or sponge	MIR21
+SNHG12	ceRNA or sponge	TUG1
+SNHG12	ceRNA or sponge	TP73-AS1
+SNHG12	ceRNA or sponge	SCARNA13
+SNHG12	ceRNA or sponge	SNORD50A
+SNHG12	ceRNA or sponge	RN7SK
+SNHG12	ceRNA or sponge	MYC
+SNHG12	expression association	MALAT1
+SNHG12	expression association	MIR21
+SNHG12	expression association	TUG1
+SNHG12	expression association	TP73-AS1
+SNHG12	expression association	SCARNA13
+SNHG12	expression association	SNORD50A
+SNHG12	expression association	RN7SK
+SNHG12	expression association	MYC
+SNHG12	epigenetic regulation	MALAT1
+SNHG12	epigenetic regulation	MIR21
+SNHG12	epigenetic regulation	TUG1
+SNHG12	epigenetic regulation	TP73-AS1
+SNHG12	epigenetic regulation	SCARNA13
+SNHG12	epigenetic regulation	SNORD50A
+SNHG12	epigenetic regulation	RN7SK
+SNHG12	epigenetic regulation	MYC
 DLGAP1-AS1	interact with mRNA	MALAT1
 DLGAP1-AS1	interact with mRNA	MIR21
 DLGAP1-AS1	interact with mRNA	TUG1
@@ -910,6 +574,54 @@ DLGAP1-AS1	epigenetic regulation	SCARNA13
 DLGAP1-AS1	epigenetic regulation	SNORD50A
 DLGAP1-AS1	epigenetic regulation	RN7SK
 DLGAP1-AS1	epigenetic regulation	MYC
+RAD51-AS1	interact with mRNA	MALAT1
+RAD51-AS1	interact with mRNA	MIR21
+RAD51-AS1	interact with mRNA	TUG1
+RAD51-AS1	interact with mRNA	TP73-AS1
+RAD51-AS1	interact with mRNA	SCARNA13
+RAD51-AS1	interact with mRNA	SNORD50A
+RAD51-AS1	interact with mRNA	RN7SK
+RAD51-AS1	interact with mRNA	MYC
+RAD51-AS1	transcriptional regulation	MALAT1
+RAD51-AS1	transcriptional regulation	MIR21
+RAD51-AS1	transcriptional regulation	TUG1
+RAD51-AS1	transcriptional regulation	TP73-AS1
+RAD51-AS1	transcriptional regulation	SCARNA13
+RAD51-AS1	transcriptional regulation	SNORD50A
+RAD51-AS1	transcriptional regulation	RN7SK
+RAD51-AS1	transcriptional regulation	MYC
+RAD51-AS1	interact with protein	MALAT1
+RAD51-AS1	interact with protein	MIR21
+RAD51-AS1	interact with protein	TUG1
+RAD51-AS1	interact with protein	TP73-AS1
+RAD51-AS1	interact with protein	SCARNA13
+RAD51-AS1	interact with protein	SNORD50A
+RAD51-AS1	interact with protein	RN7SK
+RAD51-AS1	interact with protein	MYC
+RAD51-AS1	ceRNA or sponge	MALAT1
+RAD51-AS1	ceRNA or sponge	MIR21
+RAD51-AS1	ceRNA or sponge	TUG1
+RAD51-AS1	ceRNA or sponge	TP73-AS1
+RAD51-AS1	ceRNA or sponge	SCARNA13
+RAD51-AS1	ceRNA or sponge	SNORD50A
+RAD51-AS1	ceRNA or sponge	RN7SK
+RAD51-AS1	ceRNA or sponge	MYC
+RAD51-AS1	expression association	MALAT1
+RAD51-AS1	expression association	MIR21
+RAD51-AS1	expression association	TUG1
+RAD51-AS1	expression association	TP73-AS1
+RAD51-AS1	expression association	SCARNA13
+RAD51-AS1	expression association	SNORD50A
+RAD51-AS1	expression association	RN7SK
+RAD51-AS1	expression association	MYC
+RAD51-AS1	epigenetic regulation	MALAT1
+RAD51-AS1	epigenetic regulation	MIR21
+RAD51-AS1	epigenetic regulation	TUG1
+RAD51-AS1	epigenetic regulation	TP73-AS1
+RAD51-AS1	epigenetic regulation	SCARNA13
+RAD51-AS1	epigenetic regulation	SNORD50A
+RAD51-AS1	epigenetic regulation	RN7SK
+RAD51-AS1	epigenetic regulation	MYC
 THORLNC	interact with mRNA	MALAT1
 THORLNC	interact with mRNA	MIR21
 THORLNC	interact with mRNA	TUG1
@@ -958,3 +670,1347 @@ THORLNC	epigenetic regulation	SCARNA13
 THORLNC	epigenetic regulation	SNORD50A
 THORLNC	epigenetic regulation	RN7SK
 THORLNC	epigenetic regulation	MYC
+LINC02582	interact with mRNA	MALAT1
+LINC02582	interact with mRNA	MIR21
+LINC02582	interact with mRNA	TUG1
+LINC02582	interact with mRNA	TP73-AS1
+LINC02582	interact with mRNA	SCARNA13
+LINC02582	interact with mRNA	SNORD50A
+LINC02582	interact with mRNA	RN7SK
+LINC02582	interact with mRNA	MYC
+LINC02582	transcriptional regulation	MALAT1
+LINC02582	transcriptional regulation	MIR21
+LINC02582	transcriptional regulation	TUG1
+LINC02582	transcriptional regulation	TP73-AS1
+LINC02582	transcriptional regulation	SCARNA13
+LINC02582	transcriptional regulation	SNORD50A
+LINC02582	transcriptional regulation	RN7SK
+LINC02582	transcriptional regulation	MYC
+LINC02582	interact with protein	MALAT1
+LINC02582	interact with protein	MIR21
+LINC02582	interact with protein	TUG1
+LINC02582	interact with protein	TP73-AS1
+LINC02582	interact with protein	SCARNA13
+LINC02582	interact with protein	SNORD50A
+LINC02582	interact with protein	RN7SK
+LINC02582	interact with protein	MYC
+LINC02582	ceRNA or sponge	MALAT1
+LINC02582	ceRNA or sponge	MIR21
+LINC02582	ceRNA or sponge	TUG1
+LINC02582	ceRNA or sponge	TP73-AS1
+LINC02582	ceRNA or sponge	SCARNA13
+LINC02582	ceRNA or sponge	SNORD50A
+LINC02582	ceRNA or sponge	RN7SK
+LINC02582	ceRNA or sponge	MYC
+LINC02582	expression association	MALAT1
+LINC02582	expression association	MIR21
+LINC02582	expression association	TUG1
+LINC02582	expression association	TP73-AS1
+LINC02582	expression association	SCARNA13
+LINC02582	expression association	SNORD50A
+LINC02582	expression association	RN7SK
+LINC02582	expression association	MYC
+LINC02582	epigenetic regulation	MALAT1
+LINC02582	epigenetic regulation	MIR21
+LINC02582	epigenetic regulation	TUG1
+LINC02582	epigenetic regulation	TP73-AS1
+LINC02582	epigenetic regulation	SCARNA13
+LINC02582	epigenetic regulation	SNORD50A
+LINC02582	epigenetic regulation	RN7SK
+LINC02582	epigenetic regulation	MYC
+ERICD	interact with mRNA	MALAT1
+ERICD	interact with mRNA	MIR21
+ERICD	interact with mRNA	TUG1
+ERICD	interact with mRNA	TP73-AS1
+ERICD	interact with mRNA	SCARNA13
+ERICD	interact with mRNA	SNORD50A
+ERICD	interact with mRNA	RN7SK
+ERICD	interact with mRNA	MYC
+ERICD	transcriptional regulation	MALAT1
+ERICD	transcriptional regulation	MIR21
+ERICD	transcriptional regulation	TUG1
+ERICD	transcriptional regulation	TP73-AS1
+ERICD	transcriptional regulation	SCARNA13
+ERICD	transcriptional regulation	SNORD50A
+ERICD	transcriptional regulation	RN7SK
+ERICD	transcriptional regulation	MYC
+ERICD	interact with protein	MALAT1
+ERICD	interact with protein	MIR21
+ERICD	interact with protein	TUG1
+ERICD	interact with protein	TP73-AS1
+ERICD	interact with protein	SCARNA13
+ERICD	interact with protein	SNORD50A
+ERICD	interact with protein	RN7SK
+ERICD	interact with protein	MYC
+ERICD	ceRNA or sponge	MALAT1
+ERICD	ceRNA or sponge	MIR21
+ERICD	ceRNA or sponge	TUG1
+ERICD	ceRNA or sponge	TP73-AS1
+ERICD	ceRNA or sponge	SCARNA13
+ERICD	ceRNA or sponge	SNORD50A
+ERICD	ceRNA or sponge	RN7SK
+ERICD	ceRNA or sponge	MYC
+ERICD	expression association	MALAT1
+ERICD	expression association	MIR21
+ERICD	expression association	TUG1
+ERICD	expression association	TP73-AS1
+ERICD	expression association	SCARNA13
+ERICD	expression association	SNORD50A
+ERICD	expression association	RN7SK
+ERICD	expression association	MYC
+ERICD	epigenetic regulation	MALAT1
+ERICD	epigenetic regulation	MIR21
+ERICD	epigenetic regulation	TUG1
+ERICD	epigenetic regulation	TP73-AS1
+ERICD	epigenetic regulation	SCARNA13
+ERICD	epigenetic regulation	SNORD50A
+ERICD	epigenetic regulation	RN7SK
+ERICD	epigenetic regulation	MYC
+SNHG1	interact with mRNA	MALAT1
+SNHG1	interact with mRNA	MIR21
+SNHG1	interact with mRNA	TUG1
+SNHG1	interact with mRNA	TP73-AS1
+SNHG1	interact with mRNA	SCARNA13
+SNHG1	interact with mRNA	SNORD50A
+SNHG1	interact with mRNA	RN7SK
+SNHG1	interact with mRNA	MYC
+SNHG1	transcriptional regulation	MALAT1
+SNHG1	transcriptional regulation	MIR21
+SNHG1	transcriptional regulation	TUG1
+SNHG1	transcriptional regulation	TP73-AS1
+SNHG1	transcriptional regulation	SCARNA13
+SNHG1	transcriptional regulation	SNORD50A
+SNHG1	transcriptional regulation	RN7SK
+SNHG1	transcriptional regulation	MYC
+SNHG1	interact with protein	MALAT1
+SNHG1	interact with protein	MIR21
+SNHG1	interact with protein	TUG1
+SNHG1	interact with protein	TP73-AS1
+SNHG1	interact with protein	SCARNA13
+SNHG1	interact with protein	SNORD50A
+SNHG1	interact with protein	RN7SK
+SNHG1	interact with protein	MYC
+SNHG1	ceRNA or sponge	MALAT1
+SNHG1	ceRNA or sponge	MIR21
+SNHG1	ceRNA or sponge	TUG1
+SNHG1	ceRNA or sponge	TP73-AS1
+SNHG1	ceRNA or sponge	SCARNA13
+SNHG1	ceRNA or sponge	SNORD50A
+SNHG1	ceRNA or sponge	RN7SK
+SNHG1	ceRNA or sponge	MYC
+SNHG1	expression association	MALAT1
+SNHG1	expression association	MIR21
+SNHG1	expression association	TUG1
+SNHG1	expression association	TP73-AS1
+SNHG1	expression association	SCARNA13
+SNHG1	expression association	SNORD50A
+SNHG1	expression association	RN7SK
+SNHG1	expression association	MYC
+SNHG1	epigenetic regulation	MALAT1
+SNHG1	epigenetic regulation	MIR21
+SNHG1	epigenetic regulation	TUG1
+SNHG1	epigenetic regulation	TP73-AS1
+SNHG1	epigenetic regulation	SCARNA13
+SNHG1	epigenetic regulation	SNORD50A
+SNHG1	epigenetic regulation	RN7SK
+SNHG1	epigenetic regulation	MYC
+FGD5-AS1	interact with mRNA	MALAT1
+FGD5-AS1	interact with mRNA	MIR21
+FGD5-AS1	interact with mRNA	TUG1
+FGD5-AS1	interact with mRNA	TP73-AS1
+FGD5-AS1	interact with mRNA	SCARNA13
+FGD5-AS1	interact with mRNA	SNORD50A
+FGD5-AS1	interact with mRNA	RN7SK
+FGD5-AS1	interact with mRNA	MYC
+FGD5-AS1	transcriptional regulation	MALAT1
+FGD5-AS1	transcriptional regulation	MIR21
+FGD5-AS1	transcriptional regulation	TUG1
+FGD5-AS1	transcriptional regulation	TP73-AS1
+FGD5-AS1	transcriptional regulation	SCARNA13
+FGD5-AS1	transcriptional regulation	SNORD50A
+FGD5-AS1	transcriptional regulation	RN7SK
+FGD5-AS1	transcriptional regulation	MYC
+FGD5-AS1	interact with protein	MALAT1
+FGD5-AS1	interact with protein	MIR21
+FGD5-AS1	interact with protein	TUG1
+FGD5-AS1	interact with protein	TP73-AS1
+FGD5-AS1	interact with protein	SCARNA13
+FGD5-AS1	interact with protein	SNORD50A
+FGD5-AS1	interact with protein	RN7SK
+FGD5-AS1	interact with protein	MYC
+FGD5-AS1	ceRNA or sponge	MALAT1
+FGD5-AS1	ceRNA or sponge	MIR21
+FGD5-AS1	ceRNA or sponge	TUG1
+FGD5-AS1	ceRNA or sponge	TP73-AS1
+FGD5-AS1	ceRNA or sponge	SCARNA13
+FGD5-AS1	ceRNA or sponge	SNORD50A
+FGD5-AS1	ceRNA or sponge	RN7SK
+FGD5-AS1	ceRNA or sponge	MYC
+FGD5-AS1	expression association	MALAT1
+FGD5-AS1	expression association	MIR21
+FGD5-AS1	expression association	TUG1
+FGD5-AS1	expression association	TP73-AS1
+FGD5-AS1	expression association	SCARNA13
+FGD5-AS1	expression association	SNORD50A
+FGD5-AS1	expression association	RN7SK
+FGD5-AS1	expression association	MYC
+FGD5-AS1	epigenetic regulation	MALAT1
+FGD5-AS1	epigenetic regulation	MIR21
+FGD5-AS1	epigenetic regulation	TUG1
+FGD5-AS1	epigenetic regulation	TP73-AS1
+FGD5-AS1	epigenetic regulation	SCARNA13
+FGD5-AS1	epigenetic regulation	SNORD50A
+FGD5-AS1	epigenetic regulation	RN7SK
+FGD5-AS1	epigenetic regulation	MYC
+ZFAS1	interact with mRNA	MALAT1
+ZFAS1	interact with mRNA	MIR21
+ZFAS1	interact with mRNA	TUG1
+ZFAS1	interact with mRNA	TP73-AS1
+ZFAS1	interact with mRNA	SCARNA13
+ZFAS1	interact with mRNA	SNORD50A
+ZFAS1	interact with mRNA	RN7SK
+ZFAS1	interact with mRNA	MYC
+ZFAS1	transcriptional regulation	MALAT1
+ZFAS1	transcriptional regulation	MIR21
+ZFAS1	transcriptional regulation	TUG1
+ZFAS1	transcriptional regulation	TP73-AS1
+ZFAS1	transcriptional regulation	SCARNA13
+ZFAS1	transcriptional regulation	SNORD50A
+ZFAS1	transcriptional regulation	RN7SK
+ZFAS1	transcriptional regulation	MYC
+ZFAS1	interact with protein	MALAT1
+ZFAS1	interact with protein	MIR21
+ZFAS1	interact with protein	TUG1
+ZFAS1	interact with protein	TP73-AS1
+ZFAS1	interact with protein	SCARNA13
+ZFAS1	interact with protein	SNORD50A
+ZFAS1	interact with protein	RN7SK
+ZFAS1	interact with protein	MYC
+ZFAS1	ceRNA or sponge	MALAT1
+ZFAS1	ceRNA or sponge	MIR21
+ZFAS1	ceRNA or sponge	TUG1
+ZFAS1	ceRNA or sponge	TP73-AS1
+ZFAS1	ceRNA or sponge	SCARNA13
+ZFAS1	ceRNA or sponge	SNORD50A
+ZFAS1	ceRNA or sponge	RN7SK
+ZFAS1	ceRNA or sponge	MYC
+ZFAS1	expression association	MALAT1
+ZFAS1	expression association	MIR21
+ZFAS1	expression association	TUG1
+ZFAS1	expression association	TP73-AS1
+ZFAS1	expression association	SCARNA13
+ZFAS1	expression association	SNORD50A
+ZFAS1	expression association	RN7SK
+ZFAS1	expression association	MYC
+ZFAS1	epigenetic regulation	MALAT1
+ZFAS1	epigenetic regulation	MIR21
+ZFAS1	epigenetic regulation	TUG1
+ZFAS1	epigenetic regulation	TP73-AS1
+ZFAS1	epigenetic regulation	SCARNA13
+ZFAS1	epigenetic regulation	SNORD50A
+ZFAS1	epigenetic regulation	RN7SK
+ZFAS1	epigenetic regulation	MYC
+SNHG9	interact with mRNA	MALAT1
+SNHG9	interact with mRNA	MIR21
+SNHG9	interact with mRNA	TUG1
+SNHG9	interact with mRNA	TP73-AS1
+SNHG9	interact with mRNA	SCARNA13
+SNHG9	interact with mRNA	SNORD50A
+SNHG9	interact with mRNA	RN7SK
+SNHG9	interact with mRNA	MYC
+SNHG9	transcriptional regulation	MALAT1
+SNHG9	transcriptional regulation	MIR21
+SNHG9	transcriptional regulation	TUG1
+SNHG9	transcriptional regulation	TP73-AS1
+SNHG9	transcriptional regulation	SCARNA13
+SNHG9	transcriptional regulation	SNORD50A
+SNHG9	transcriptional regulation	RN7SK
+SNHG9	transcriptional regulation	MYC
+SNHG9	interact with protein	MALAT1
+SNHG9	interact with protein	MIR21
+SNHG9	interact with protein	TUG1
+SNHG9	interact with protein	TP73-AS1
+SNHG9	interact with protein	SCARNA13
+SNHG9	interact with protein	SNORD50A
+SNHG9	interact with protein	RN7SK
+SNHG9	interact with protein	MYC
+SNHG9	ceRNA or sponge	MALAT1
+SNHG9	ceRNA or sponge	MIR21
+SNHG9	ceRNA or sponge	TUG1
+SNHG9	ceRNA or sponge	TP73-AS1
+SNHG9	ceRNA or sponge	SCARNA13
+SNHG9	ceRNA or sponge	SNORD50A
+SNHG9	ceRNA or sponge	RN7SK
+SNHG9	ceRNA or sponge	MYC
+SNHG9	expression association	MALAT1
+SNHG9	expression association	MIR21
+SNHG9	expression association	TUG1
+SNHG9	expression association	TP73-AS1
+SNHG9	expression association	SCARNA13
+SNHG9	expression association	SNORD50A
+SNHG9	expression association	RN7SK
+SNHG9	expression association	MYC
+SNHG9	epigenetic regulation	MALAT1
+SNHG9	epigenetic regulation	MIR21
+SNHG9	epigenetic regulation	TUG1
+SNHG9	epigenetic regulation	TP73-AS1
+SNHG9	epigenetic regulation	SCARNA13
+SNHG9	epigenetic regulation	SNORD50A
+SNHG9	epigenetic regulation	RN7SK
+SNHG9	epigenetic regulation	MYC
+AGAP2-AS1	interact with mRNA	MALAT1
+AGAP2-AS1	interact with mRNA	MIR21
+AGAP2-AS1	interact with mRNA	TUG1
+AGAP2-AS1	interact with mRNA	TP73-AS1
+AGAP2-AS1	interact with mRNA	SCARNA13
+AGAP2-AS1	interact with mRNA	SNORD50A
+AGAP2-AS1	interact with mRNA	RN7SK
+AGAP2-AS1	interact with mRNA	MYC
+AGAP2-AS1	transcriptional regulation	MALAT1
+AGAP2-AS1	transcriptional regulation	MIR21
+AGAP2-AS1	transcriptional regulation	TUG1
+AGAP2-AS1	transcriptional regulation	TP73-AS1
+AGAP2-AS1	transcriptional regulation	SCARNA13
+AGAP2-AS1	transcriptional regulation	SNORD50A
+AGAP2-AS1	transcriptional regulation	RN7SK
+AGAP2-AS1	transcriptional regulation	MYC
+AGAP2-AS1	interact with protein	MALAT1
+AGAP2-AS1	interact with protein	MIR21
+AGAP2-AS1	interact with protein	TUG1
+AGAP2-AS1	interact with protein	TP73-AS1
+AGAP2-AS1	interact with protein	SCARNA13
+AGAP2-AS1	interact with protein	SNORD50A
+AGAP2-AS1	interact with protein	RN7SK
+AGAP2-AS1	interact with protein	MYC
+AGAP2-AS1	ceRNA or sponge	MALAT1
+AGAP2-AS1	ceRNA or sponge	MIR21
+AGAP2-AS1	ceRNA or sponge	TUG1
+AGAP2-AS1	ceRNA or sponge	TP73-AS1
+AGAP2-AS1	ceRNA or sponge	SCARNA13
+AGAP2-AS1	ceRNA or sponge	SNORD50A
+AGAP2-AS1	ceRNA or sponge	RN7SK
+AGAP2-AS1	ceRNA or sponge	MYC
+AGAP2-AS1	expression association	MALAT1
+AGAP2-AS1	expression association	MIR21
+AGAP2-AS1	expression association	TUG1
+AGAP2-AS1	expression association	TP73-AS1
+AGAP2-AS1	expression association	SCARNA13
+AGAP2-AS1	expression association	SNORD50A
+AGAP2-AS1	expression association	RN7SK
+AGAP2-AS1	expression association	MYC
+AGAP2-AS1	epigenetic regulation	MALAT1
+AGAP2-AS1	epigenetic regulation	MIR21
+AGAP2-AS1	epigenetic regulation	TUG1
+AGAP2-AS1	epigenetic regulation	TP73-AS1
+AGAP2-AS1	epigenetic regulation	SCARNA13
+AGAP2-AS1	epigenetic regulation	SNORD50A
+AGAP2-AS1	epigenetic regulation	RN7SK
+AGAP2-AS1	epigenetic regulation	MYC
+RAB11B-AS1	interact with mRNA	MALAT1
+RAB11B-AS1	interact with mRNA	MIR21
+RAB11B-AS1	interact with mRNA	TUG1
+RAB11B-AS1	interact with mRNA	TP73-AS1
+RAB11B-AS1	interact with mRNA	SCARNA13
+RAB11B-AS1	interact with mRNA	SNORD50A
+RAB11B-AS1	interact with mRNA	RN7SK
+RAB11B-AS1	interact with mRNA	MYC
+RAB11B-AS1	transcriptional regulation	MALAT1
+RAB11B-AS1	transcriptional regulation	MIR21
+RAB11B-AS1	transcriptional regulation	TUG1
+RAB11B-AS1	transcriptional regulation	TP73-AS1
+RAB11B-AS1	transcriptional regulation	SCARNA13
+RAB11B-AS1	transcriptional regulation	SNORD50A
+RAB11B-AS1	transcriptional regulation	RN7SK
+RAB11B-AS1	transcriptional regulation	MYC
+RAB11B-AS1	interact with protein	MALAT1
+RAB11B-AS1	interact with protein	MIR21
+RAB11B-AS1	interact with protein	TUG1
+RAB11B-AS1	interact with protein	TP73-AS1
+RAB11B-AS1	interact with protein	SCARNA13
+RAB11B-AS1	interact with protein	SNORD50A
+RAB11B-AS1	interact with protein	RN7SK
+RAB11B-AS1	interact with protein	MYC
+RAB11B-AS1	ceRNA or sponge	MALAT1
+RAB11B-AS1	ceRNA or sponge	MIR21
+RAB11B-AS1	ceRNA or sponge	TUG1
+RAB11B-AS1	ceRNA or sponge	TP73-AS1
+RAB11B-AS1	ceRNA or sponge	SCARNA13
+RAB11B-AS1	ceRNA or sponge	SNORD50A
+RAB11B-AS1	ceRNA or sponge	RN7SK
+RAB11B-AS1	ceRNA or sponge	MYC
+RAB11B-AS1	expression association	MALAT1
+RAB11B-AS1	expression association	MIR21
+RAB11B-AS1	expression association	TUG1
+RAB11B-AS1	expression association	TP73-AS1
+RAB11B-AS1	expression association	SCARNA13
+RAB11B-AS1	expression association	SNORD50A
+RAB11B-AS1	expression association	RN7SK
+RAB11B-AS1	expression association	MYC
+RAB11B-AS1	epigenetic regulation	MALAT1
+RAB11B-AS1	epigenetic regulation	MIR21
+RAB11B-AS1	epigenetic regulation	TUG1
+RAB11B-AS1	epigenetic regulation	TP73-AS1
+RAB11B-AS1	epigenetic regulation	SCARNA13
+RAB11B-AS1	epigenetic regulation	SNORD50A
+RAB11B-AS1	epigenetic regulation	RN7SK
+RAB11B-AS1	epigenetic regulation	MYC
+MELTF-AS1	interact with mRNA	MALAT1
+MELTF-AS1	interact with mRNA	MIR21
+MELTF-AS1	interact with mRNA	TUG1
+MELTF-AS1	interact with mRNA	TP73-AS1
+MELTF-AS1	interact with mRNA	SCARNA13
+MELTF-AS1	interact with mRNA	SNORD50A
+MELTF-AS1	interact with mRNA	RN7SK
+MELTF-AS1	interact with mRNA	MYC
+MELTF-AS1	transcriptional regulation	MALAT1
+MELTF-AS1	transcriptional regulation	MIR21
+MELTF-AS1	transcriptional regulation	TUG1
+MELTF-AS1	transcriptional regulation	TP73-AS1
+MELTF-AS1	transcriptional regulation	SCARNA13
+MELTF-AS1	transcriptional regulation	SNORD50A
+MELTF-AS1	transcriptional regulation	RN7SK
+MELTF-AS1	transcriptional regulation	MYC
+MELTF-AS1	interact with protein	MALAT1
+MELTF-AS1	interact with protein	MIR21
+MELTF-AS1	interact with protein	TUG1
+MELTF-AS1	interact with protein	TP73-AS1
+MELTF-AS1	interact with protein	SCARNA13
+MELTF-AS1	interact with protein	SNORD50A
+MELTF-AS1	interact with protein	RN7SK
+MELTF-AS1	interact with protein	MYC
+MELTF-AS1	ceRNA or sponge	MALAT1
+MELTF-AS1	ceRNA or sponge	MIR21
+MELTF-AS1	ceRNA or sponge	TUG1
+MELTF-AS1	ceRNA or sponge	TP73-AS1
+MELTF-AS1	ceRNA or sponge	SCARNA13
+MELTF-AS1	ceRNA or sponge	SNORD50A
+MELTF-AS1	ceRNA or sponge	RN7SK
+MELTF-AS1	ceRNA or sponge	MYC
+MELTF-AS1	expression association	MALAT1
+MELTF-AS1	expression association	MIR21
+MELTF-AS1	expression association	TUG1
+MELTF-AS1	expression association	TP73-AS1
+MELTF-AS1	expression association	SCARNA13
+MELTF-AS1	expression association	SNORD50A
+MELTF-AS1	expression association	RN7SK
+MELTF-AS1	expression association	MYC
+MELTF-AS1	epigenetic regulation	MALAT1
+MELTF-AS1	epigenetic regulation	MIR21
+MELTF-AS1	epigenetic regulation	TUG1
+MELTF-AS1	epigenetic regulation	TP73-AS1
+MELTF-AS1	epigenetic regulation	SCARNA13
+MELTF-AS1	epigenetic regulation	SNORD50A
+MELTF-AS1	epigenetic regulation	RN7SK
+MELTF-AS1	epigenetic regulation	MYC
+PVT1	interact with mRNA	MALAT1
+PVT1	interact with mRNA	MIR21
+PVT1	interact with mRNA	TUG1
+PVT1	interact with mRNA	TP73-AS1
+PVT1	interact with mRNA	SCARNA13
+PVT1	interact with mRNA	SNORD50A
+PVT1	interact with mRNA	RN7SK
+PVT1	interact with mRNA	MYC
+PVT1	transcriptional regulation	MALAT1
+PVT1	transcriptional regulation	MIR21
+PVT1	transcriptional regulation	TUG1
+PVT1	transcriptional regulation	TP73-AS1
+PVT1	transcriptional regulation	SCARNA13
+PVT1	transcriptional regulation	SNORD50A
+PVT1	transcriptional regulation	RN7SK
+PVT1	transcriptional regulation	MYC
+PVT1	interact with protein	MALAT1
+PVT1	interact with protein	MIR21
+PVT1	interact with protein	TUG1
+PVT1	interact with protein	TP73-AS1
+PVT1	interact with protein	SCARNA13
+PVT1	interact with protein	SNORD50A
+PVT1	interact with protein	RN7SK
+PVT1	interact with protein	MYC
+PVT1	ceRNA or sponge	MALAT1
+PVT1	ceRNA or sponge	MIR21
+PVT1	ceRNA or sponge	TUG1
+PVT1	ceRNA or sponge	TP73-AS1
+PVT1	ceRNA or sponge	SCARNA13
+PVT1	ceRNA or sponge	SNORD50A
+PVT1	ceRNA or sponge	RN7SK
+PVT1	ceRNA or sponge	MYC
+PVT1	expression association	MALAT1
+PVT1	expression association	MIR21
+PVT1	expression association	TUG1
+PVT1	expression association	TP73-AS1
+PVT1	expression association	SCARNA13
+PVT1	expression association	SNORD50A
+PVT1	expression association	RN7SK
+PVT1	expression association	MYC
+PVT1	epigenetic regulation	MALAT1
+PVT1	epigenetic regulation	MIR21
+PVT1	epigenetic regulation	TUG1
+PVT1	epigenetic regulation	TP73-AS1
+PVT1	epigenetic regulation	SCARNA13
+PVT1	epigenetic regulation	SNORD50A
+PVT1	epigenetic regulation	RN7SK
+PVT1	epigenetic regulation	MYC
+MIR4435-2HG	interact with mRNA	MALAT1
+MIR4435-2HG	interact with mRNA	MIR21
+MIR4435-2HG	interact with mRNA	TUG1
+MIR4435-2HG	interact with mRNA	TP73-AS1
+MIR4435-2HG	interact with mRNA	SCARNA13
+MIR4435-2HG	interact with mRNA	SNORD50A
+MIR4435-2HG	interact with mRNA	RN7SK
+MIR4435-2HG	interact with mRNA	MYC
+MIR4435-2HG	transcriptional regulation	MALAT1
+MIR4435-2HG	transcriptional regulation	MIR21
+MIR4435-2HG	transcriptional regulation	TUG1
+MIR4435-2HG	transcriptional regulation	TP73-AS1
+MIR4435-2HG	transcriptional regulation	SCARNA13
+MIR4435-2HG	transcriptional regulation	SNORD50A
+MIR4435-2HG	transcriptional regulation	RN7SK
+MIR4435-2HG	transcriptional regulation	MYC
+MIR4435-2HG	interact with protein	MALAT1
+MIR4435-2HG	interact with protein	MIR21
+MIR4435-2HG	interact with protein	TUG1
+MIR4435-2HG	interact with protein	TP73-AS1
+MIR4435-2HG	interact with protein	SCARNA13
+MIR4435-2HG	interact with protein	SNORD50A
+MIR4435-2HG	interact with protein	RN7SK
+MIR4435-2HG	interact with protein	MYC
+MIR4435-2HG	ceRNA or sponge	MALAT1
+MIR4435-2HG	ceRNA or sponge	MIR21
+MIR4435-2HG	ceRNA or sponge	TUG1
+MIR4435-2HG	ceRNA or sponge	TP73-AS1
+MIR4435-2HG	ceRNA or sponge	SCARNA13
+MIR4435-2HG	ceRNA or sponge	SNORD50A
+MIR4435-2HG	ceRNA or sponge	RN7SK
+MIR4435-2HG	ceRNA or sponge	MYC
+MIR4435-2HG	expression association	MALAT1
+MIR4435-2HG	expression association	MIR21
+MIR4435-2HG	expression association	TUG1
+MIR4435-2HG	expression association	TP73-AS1
+MIR4435-2HG	expression association	SCARNA13
+MIR4435-2HG	expression association	SNORD50A
+MIR4435-2HG	expression association	RN7SK
+MIR4435-2HG	expression association	MYC
+MIR4435-2HG	epigenetic regulation	MALAT1
+MIR4435-2HG	epigenetic regulation	MIR21
+MIR4435-2HG	epigenetic regulation	TUG1
+MIR4435-2HG	epigenetic regulation	TP73-AS1
+MIR4435-2HG	epigenetic regulation	SCARNA13
+MIR4435-2HG	epigenetic regulation	SNORD50A
+MIR4435-2HG	epigenetic regulation	RN7SK
+MIR4435-2HG	epigenetic regulation	MYC
+CYTOR	interact with mRNA	MALAT1
+CYTOR	interact with mRNA	MIR21
+CYTOR	interact with mRNA	TUG1
+CYTOR	interact with mRNA	TP73-AS1
+CYTOR	interact with mRNA	SCARNA13
+CYTOR	interact with mRNA	SNORD50A
+CYTOR	interact with mRNA	RN7SK
+CYTOR	interact with mRNA	MYC
+CYTOR	transcriptional regulation	MALAT1
+CYTOR	transcriptional regulation	MIR21
+CYTOR	transcriptional regulation	TUG1
+CYTOR	transcriptional regulation	TP73-AS1
+CYTOR	transcriptional regulation	SCARNA13
+CYTOR	transcriptional regulation	SNORD50A
+CYTOR	transcriptional regulation	RN7SK
+CYTOR	transcriptional regulation	MYC
+CYTOR	interact with protein	MALAT1
+CYTOR	interact with protein	MIR21
+CYTOR	interact with protein	TUG1
+CYTOR	interact with protein	TP73-AS1
+CYTOR	interact with protein	SCARNA13
+CYTOR	interact with protein	SNORD50A
+CYTOR	interact with protein	RN7SK
+CYTOR	interact with protein	MYC
+CYTOR	ceRNA or sponge	MALAT1
+CYTOR	ceRNA or sponge	MIR21
+CYTOR	ceRNA or sponge	TUG1
+CYTOR	ceRNA or sponge	TP73-AS1
+CYTOR	ceRNA or sponge	SCARNA13
+CYTOR	ceRNA or sponge	SNORD50A
+CYTOR	ceRNA or sponge	RN7SK
+CYTOR	ceRNA or sponge	MYC
+CYTOR	expression association	MALAT1
+CYTOR	expression association	MIR21
+CYTOR	expression association	TUG1
+CYTOR	expression association	TP73-AS1
+CYTOR	expression association	SCARNA13
+CYTOR	expression association	SNORD50A
+CYTOR	expression association	RN7SK
+CYTOR	expression association	MYC
+CYTOR	epigenetic regulation	MALAT1
+CYTOR	epigenetic regulation	MIR21
+CYTOR	epigenetic regulation	TUG1
+CYTOR	epigenetic regulation	TP73-AS1
+CYTOR	epigenetic regulation	SCARNA13
+CYTOR	epigenetic regulation	SNORD50A
+CYTOR	epigenetic regulation	RN7SK
+CYTOR	epigenetic regulation	MYC
+ASB16-AS1	interact with mRNA	MALAT1
+ASB16-AS1	interact with mRNA	MIR21
+ASB16-AS1	interact with mRNA	TUG1
+ASB16-AS1	interact with mRNA	TP73-AS1
+ASB16-AS1	interact with mRNA	SCARNA13
+ASB16-AS1	interact with mRNA	SNORD50A
+ASB16-AS1	interact with mRNA	RN7SK
+ASB16-AS1	interact with mRNA	MYC
+ASB16-AS1	transcriptional regulation	MALAT1
+ASB16-AS1	transcriptional regulation	MIR21
+ASB16-AS1	transcriptional regulation	TUG1
+ASB16-AS1	transcriptional regulation	TP73-AS1
+ASB16-AS1	transcriptional regulation	SCARNA13
+ASB16-AS1	transcriptional regulation	SNORD50A
+ASB16-AS1	transcriptional regulation	RN7SK
+ASB16-AS1	transcriptional regulation	MYC
+ASB16-AS1	interact with protein	MALAT1
+ASB16-AS1	interact with protein	MIR21
+ASB16-AS1	interact with protein	TUG1
+ASB16-AS1	interact with protein	TP73-AS1
+ASB16-AS1	interact with protein	SCARNA13
+ASB16-AS1	interact with protein	SNORD50A
+ASB16-AS1	interact with protein	RN7SK
+ASB16-AS1	interact with protein	MYC
+ASB16-AS1	ceRNA or sponge	MALAT1
+ASB16-AS1	ceRNA or sponge	MIR21
+ASB16-AS1	ceRNA or sponge	TUG1
+ASB16-AS1	ceRNA or sponge	TP73-AS1
+ASB16-AS1	ceRNA or sponge	SCARNA13
+ASB16-AS1	ceRNA or sponge	SNORD50A
+ASB16-AS1	ceRNA or sponge	RN7SK
+ASB16-AS1	ceRNA or sponge	MYC
+ASB16-AS1	expression association	MALAT1
+ASB16-AS1	expression association	MIR21
+ASB16-AS1	expression association	TUG1
+ASB16-AS1	expression association	TP73-AS1
+ASB16-AS1	expression association	SCARNA13
+ASB16-AS1	expression association	SNORD50A
+ASB16-AS1	expression association	RN7SK
+ASB16-AS1	expression association	MYC
+ASB16-AS1	epigenetic regulation	MALAT1
+ASB16-AS1	epigenetic regulation	MIR21
+ASB16-AS1	epigenetic regulation	TUG1
+ASB16-AS1	epigenetic regulation	TP73-AS1
+ASB16-AS1	epigenetic regulation	SCARNA13
+ASB16-AS1	epigenetic regulation	SNORD50A
+ASB16-AS1	epigenetic regulation	RN7SK
+ASB16-AS1	epigenetic regulation	MYC
+FOXCUT	interact with mRNA	MALAT1
+FOXCUT	interact with mRNA	MIR21
+FOXCUT	interact with mRNA	TUG1
+FOXCUT	interact with mRNA	TP73-AS1
+FOXCUT	interact with mRNA	SCARNA13
+FOXCUT	interact with mRNA	SNORD50A
+FOXCUT	interact with mRNA	RN7SK
+FOXCUT	interact with mRNA	MYC
+FOXCUT	transcriptional regulation	MALAT1
+FOXCUT	transcriptional regulation	MIR21
+FOXCUT	transcriptional regulation	TUG1
+FOXCUT	transcriptional regulation	TP73-AS1
+FOXCUT	transcriptional regulation	SCARNA13
+FOXCUT	transcriptional regulation	SNORD50A
+FOXCUT	transcriptional regulation	RN7SK
+FOXCUT	transcriptional regulation	MYC
+FOXCUT	interact with protein	MALAT1
+FOXCUT	interact with protein	MIR21
+FOXCUT	interact with protein	TUG1
+FOXCUT	interact with protein	TP73-AS1
+FOXCUT	interact with protein	SCARNA13
+FOXCUT	interact with protein	SNORD50A
+FOXCUT	interact with protein	RN7SK
+FOXCUT	interact with protein	MYC
+FOXCUT	ceRNA or sponge	MALAT1
+FOXCUT	ceRNA or sponge	MIR21
+FOXCUT	ceRNA or sponge	TUG1
+FOXCUT	ceRNA or sponge	TP73-AS1
+FOXCUT	ceRNA or sponge	SCARNA13
+FOXCUT	ceRNA or sponge	SNORD50A
+FOXCUT	ceRNA or sponge	RN7SK
+FOXCUT	ceRNA or sponge	MYC
+FOXCUT	expression association	MALAT1
+FOXCUT	expression association	MIR21
+FOXCUT	expression association	TUG1
+FOXCUT	expression association	TP73-AS1
+FOXCUT	expression association	SCARNA13
+FOXCUT	expression association	SNORD50A
+FOXCUT	expression association	RN7SK
+FOXCUT	expression association	MYC
+FOXCUT	epigenetic regulation	MALAT1
+FOXCUT	epigenetic regulation	MIR21
+FOXCUT	epigenetic regulation	TUG1
+FOXCUT	epigenetic regulation	TP73-AS1
+FOXCUT	epigenetic regulation	SCARNA13
+FOXCUT	epigenetic regulation	SNORD50A
+FOXCUT	epigenetic regulation	RN7SK
+FOXCUT	epigenetic regulation	MYC
+DLEU2	interact with mRNA	MALAT1
+DLEU2	interact with mRNA	MIR21
+DLEU2	interact with mRNA	TUG1
+DLEU2	interact with mRNA	TP73-AS1
+DLEU2	interact with mRNA	SCARNA13
+DLEU2	interact with mRNA	SNORD50A
+DLEU2	interact with mRNA	RN7SK
+DLEU2	interact with mRNA	MYC
+DLEU2	transcriptional regulation	MALAT1
+DLEU2	transcriptional regulation	MIR21
+DLEU2	transcriptional regulation	TUG1
+DLEU2	transcriptional regulation	TP73-AS1
+DLEU2	transcriptional regulation	SCARNA13
+DLEU2	transcriptional regulation	SNORD50A
+DLEU2	transcriptional regulation	RN7SK
+DLEU2	transcriptional regulation	MYC
+DLEU2	interact with protein	MALAT1
+DLEU2	interact with protein	MIR21
+DLEU2	interact with protein	TUG1
+DLEU2	interact with protein	TP73-AS1
+DLEU2	interact with protein	SCARNA13
+DLEU2	interact with protein	SNORD50A
+DLEU2	interact with protein	RN7SK
+DLEU2	interact with protein	MYC
+DLEU2	ceRNA or sponge	MALAT1
+DLEU2	ceRNA or sponge	MIR21
+DLEU2	ceRNA or sponge	TUG1
+DLEU2	ceRNA or sponge	TP73-AS1
+DLEU2	ceRNA or sponge	SCARNA13
+DLEU2	ceRNA or sponge	SNORD50A
+DLEU2	ceRNA or sponge	RN7SK
+DLEU2	ceRNA or sponge	MYC
+DLEU2	expression association	MALAT1
+DLEU2	expression association	MIR21
+DLEU2	expression association	TUG1
+DLEU2	expression association	TP73-AS1
+DLEU2	expression association	SCARNA13
+DLEU2	expression association	SNORD50A
+DLEU2	expression association	RN7SK
+DLEU2	expression association	MYC
+DLEU2	epigenetic regulation	MALAT1
+DLEU2	epigenetic regulation	MIR21
+DLEU2	epigenetic regulation	TUG1
+DLEU2	epigenetic regulation	TP73-AS1
+DLEU2	epigenetic regulation	SCARNA13
+DLEU2	epigenetic regulation	SNORD50A
+DLEU2	epigenetic regulation	RN7SK
+DLEU2	epigenetic regulation	MYC
+LINC00511	interact with mRNA	MALAT1
+LINC00511	interact with mRNA	MIR21
+LINC00511	interact with mRNA	TUG1
+LINC00511	interact with mRNA	TP73-AS1
+LINC00511	interact with mRNA	SCARNA13
+LINC00511	interact with mRNA	SNORD50A
+LINC00511	interact with mRNA	RN7SK
+LINC00511	interact with mRNA	MYC
+LINC00511	transcriptional regulation	MALAT1
+LINC00511	transcriptional regulation	MIR21
+LINC00511	transcriptional regulation	TUG1
+LINC00511	transcriptional regulation	TP73-AS1
+LINC00511	transcriptional regulation	SCARNA13
+LINC00511	transcriptional regulation	SNORD50A
+LINC00511	transcriptional regulation	RN7SK
+LINC00511	transcriptional regulation	MYC
+LINC00511	interact with protein	MALAT1
+LINC00511	interact with protein	MIR21
+LINC00511	interact with protein	TUG1
+LINC00511	interact with protein	TP73-AS1
+LINC00511	interact with protein	SCARNA13
+LINC00511	interact with protein	SNORD50A
+LINC00511	interact with protein	RN7SK
+LINC00511	interact with protein	MYC
+LINC00511	ceRNA or sponge	MALAT1
+LINC00511	ceRNA or sponge	MIR21
+LINC00511	ceRNA or sponge	TUG1
+LINC00511	ceRNA or sponge	TP73-AS1
+LINC00511	ceRNA or sponge	SCARNA13
+LINC00511	ceRNA or sponge	SNORD50A
+LINC00511	ceRNA or sponge	RN7SK
+LINC00511	ceRNA or sponge	MYC
+LINC00511	expression association	MALAT1
+LINC00511	expression association	MIR21
+LINC00511	expression association	TUG1
+LINC00511	expression association	TP73-AS1
+LINC00511	expression association	SCARNA13
+LINC00511	expression association	SNORD50A
+LINC00511	expression association	RN7SK
+LINC00511	expression association	MYC
+LINC00511	epigenetic regulation	MALAT1
+LINC00511	epigenetic regulation	MIR21
+LINC00511	epigenetic regulation	TUG1
+LINC00511	epigenetic regulation	TP73-AS1
+LINC00511	epigenetic regulation	SCARNA13
+LINC00511	epigenetic regulation	SNORD50A
+LINC00511	epigenetic regulation	RN7SK
+LINC00511	epigenetic regulation	MYC
+LINC00461	interact with mRNA	MALAT1
+LINC00461	interact with mRNA	MIR21
+LINC00461	interact with mRNA	TUG1
+LINC00461	interact with mRNA	TP73-AS1
+LINC00461	interact with mRNA	SCARNA13
+LINC00461	interact with mRNA	SNORD50A
+LINC00461	interact with mRNA	RN7SK
+LINC00461	interact with mRNA	MYC
+LINC00461	transcriptional regulation	MALAT1
+LINC00461	transcriptional regulation	MIR21
+LINC00461	transcriptional regulation	TUG1
+LINC00461	transcriptional regulation	TP73-AS1
+LINC00461	transcriptional regulation	SCARNA13
+LINC00461	transcriptional regulation	SNORD50A
+LINC00461	transcriptional regulation	RN7SK
+LINC00461	transcriptional regulation	MYC
+LINC00461	interact with protein	MALAT1
+LINC00461	interact with protein	MIR21
+LINC00461	interact with protein	TUG1
+LINC00461	interact with protein	TP73-AS1
+LINC00461	interact with protein	SCARNA13
+LINC00461	interact with protein	SNORD50A
+LINC00461	interact with protein	RN7SK
+LINC00461	interact with protein	MYC
+LINC00461	ceRNA or sponge	MALAT1
+LINC00461	ceRNA or sponge	MIR21
+LINC00461	ceRNA or sponge	TUG1
+LINC00461	ceRNA or sponge	TP73-AS1
+LINC00461	ceRNA or sponge	SCARNA13
+LINC00461	ceRNA or sponge	SNORD50A
+LINC00461	ceRNA or sponge	RN7SK
+LINC00461	ceRNA or sponge	MYC
+LINC00461	expression association	MALAT1
+LINC00461	expression association	MIR21
+LINC00461	expression association	TUG1
+LINC00461	expression association	TP73-AS1
+LINC00461	expression association	SCARNA13
+LINC00461	expression association	SNORD50A
+LINC00461	expression association	RN7SK
+LINC00461	expression association	MYC
+LINC00461	epigenetic regulation	MALAT1
+LINC00461	epigenetic regulation	MIR21
+LINC00461	epigenetic regulation	TUG1
+LINC00461	epigenetic regulation	TP73-AS1
+LINC00461	epigenetic regulation	SCARNA13
+LINC00461	epigenetic regulation	SNORD50A
+LINC00461	epigenetic regulation	RN7SK
+LINC00461	epigenetic regulation	MYC
+EPB41L4A-AS1	interact with mRNA	MALAT1
+EPB41L4A-AS1	interact with mRNA	MIR21
+EPB41L4A-AS1	interact with mRNA	TUG1
+EPB41L4A-AS1	interact with mRNA	TP73-AS1
+EPB41L4A-AS1	interact with mRNA	SCARNA13
+EPB41L4A-AS1	interact with mRNA	SNORD50A
+EPB41L4A-AS1	interact with mRNA	RN7SK
+EPB41L4A-AS1	interact with mRNA	MYC
+EPB41L4A-AS1	transcriptional regulation	MALAT1
+EPB41L4A-AS1	transcriptional regulation	MIR21
+EPB41L4A-AS1	transcriptional regulation	TUG1
+EPB41L4A-AS1	transcriptional regulation	TP73-AS1
+EPB41L4A-AS1	transcriptional regulation	SCARNA13
+EPB41L4A-AS1	transcriptional regulation	SNORD50A
+EPB41L4A-AS1	transcriptional regulation	RN7SK
+EPB41L4A-AS1	transcriptional regulation	MYC
+EPB41L4A-AS1	interact with protein	MALAT1
+EPB41L4A-AS1	interact with protein	MIR21
+EPB41L4A-AS1	interact with protein	TUG1
+EPB41L4A-AS1	interact with protein	TP73-AS1
+EPB41L4A-AS1	interact with protein	SCARNA13
+EPB41L4A-AS1	interact with protein	SNORD50A
+EPB41L4A-AS1	interact with protein	RN7SK
+EPB41L4A-AS1	interact with protein	MYC
+EPB41L4A-AS1	ceRNA or sponge	MALAT1
+EPB41L4A-AS1	ceRNA or sponge	MIR21
+EPB41L4A-AS1	ceRNA or sponge	TUG1
+EPB41L4A-AS1	ceRNA or sponge	TP73-AS1
+EPB41L4A-AS1	ceRNA or sponge	SCARNA13
+EPB41L4A-AS1	ceRNA or sponge	SNORD50A
+EPB41L4A-AS1	ceRNA or sponge	RN7SK
+EPB41L4A-AS1	ceRNA or sponge	MYC
+EPB41L4A-AS1	expression association	MALAT1
+EPB41L4A-AS1	expression association	MIR21
+EPB41L4A-AS1	expression association	TUG1
+EPB41L4A-AS1	expression association	TP73-AS1
+EPB41L4A-AS1	expression association	SCARNA13
+EPB41L4A-AS1	expression association	SNORD50A
+EPB41L4A-AS1	expression association	RN7SK
+EPB41L4A-AS1	expression association	MYC
+EPB41L4A-AS1	epigenetic regulation	MALAT1
+EPB41L4A-AS1	epigenetic regulation	MIR21
+EPB41L4A-AS1	epigenetic regulation	TUG1
+EPB41L4A-AS1	epigenetic regulation	TP73-AS1
+EPB41L4A-AS1	epigenetic regulation	SCARNA13
+EPB41L4A-AS1	epigenetic regulation	SNORD50A
+EPB41L4A-AS1	epigenetic regulation	RN7SK
+EPB41L4A-AS1	epigenetic regulation	MYC
+LINC-PINT	interact with mRNA	MALAT1
+LINC-PINT	interact with mRNA	MIR21
+LINC-PINT	interact with mRNA	TUG1
+LINC-PINT	interact with mRNA	TP73-AS1
+LINC-PINT	interact with mRNA	SCARNA13
+LINC-PINT	interact with mRNA	SNORD50A
+LINC-PINT	interact with mRNA	RN7SK
+LINC-PINT	interact with mRNA	MYC
+LINC-PINT	transcriptional regulation	MALAT1
+LINC-PINT	transcriptional regulation	MIR21
+LINC-PINT	transcriptional regulation	TUG1
+LINC-PINT	transcriptional regulation	TP73-AS1
+LINC-PINT	transcriptional regulation	SCARNA13
+LINC-PINT	transcriptional regulation	SNORD50A
+LINC-PINT	transcriptional regulation	RN7SK
+LINC-PINT	transcriptional regulation	MYC
+LINC-PINT	interact with protein	MALAT1
+LINC-PINT	interact with protein	MIR21
+LINC-PINT	interact with protein	TUG1
+LINC-PINT	interact with protein	TP73-AS1
+LINC-PINT	interact with protein	SCARNA13
+LINC-PINT	interact with protein	SNORD50A
+LINC-PINT	interact with protein	RN7SK
+LINC-PINT	interact with protein	MYC
+LINC-PINT	ceRNA or sponge	MALAT1
+LINC-PINT	ceRNA or sponge	MIR21
+LINC-PINT	ceRNA or sponge	TUG1
+LINC-PINT	ceRNA or sponge	TP73-AS1
+LINC-PINT	ceRNA or sponge	SCARNA13
+LINC-PINT	ceRNA or sponge	SNORD50A
+LINC-PINT	ceRNA or sponge	RN7SK
+LINC-PINT	ceRNA or sponge	MYC
+LINC-PINT	expression association	MALAT1
+LINC-PINT	expression association	MIR21
+LINC-PINT	expression association	TUG1
+LINC-PINT	expression association	TP73-AS1
+LINC-PINT	expression association	SCARNA13
+LINC-PINT	expression association	SNORD50A
+LINC-PINT	expression association	RN7SK
+LINC-PINT	expression association	MYC
+LINC-PINT	epigenetic regulation	MALAT1
+LINC-PINT	epigenetic regulation	MIR21
+LINC-PINT	epigenetic regulation	TUG1
+LINC-PINT	epigenetic regulation	TP73-AS1
+LINC-PINT	epigenetic regulation	SCARNA13
+LINC-PINT	epigenetic regulation	SNORD50A
+LINC-PINT	epigenetic regulation	RN7SK
+LINC-PINT	epigenetic regulation	MYC
+MIR17HG	interact with mRNA	MALAT1
+MIR17HG	interact with mRNA	MIR21
+MIR17HG	interact with mRNA	TUG1
+MIR17HG	interact with mRNA	TP73-AS1
+MIR17HG	interact with mRNA	SCARNA13
+MIR17HG	interact with mRNA	SNORD50A
+MIR17HG	interact with mRNA	RN7SK
+MIR17HG	interact with mRNA	MYC
+MIR17HG	transcriptional regulation	MALAT1
+MIR17HG	transcriptional regulation	MIR21
+MIR17HG	transcriptional regulation	TUG1
+MIR17HG	transcriptional regulation	TP73-AS1
+MIR17HG	transcriptional regulation	SCARNA13
+MIR17HG	transcriptional regulation	SNORD50A
+MIR17HG	transcriptional regulation	RN7SK
+MIR17HG	transcriptional regulation	MYC
+MIR17HG	interact with protein	MALAT1
+MIR17HG	interact with protein	MIR21
+MIR17HG	interact with protein	TUG1
+MIR17HG	interact with protein	TP73-AS1
+MIR17HG	interact with protein	SCARNA13
+MIR17HG	interact with protein	SNORD50A
+MIR17HG	interact with protein	RN7SK
+MIR17HG	interact with protein	MYC
+MIR17HG	ceRNA or sponge	MALAT1
+MIR17HG	ceRNA or sponge	MIR21
+MIR17HG	ceRNA or sponge	TUG1
+MIR17HG	ceRNA or sponge	TP73-AS1
+MIR17HG	ceRNA or sponge	SCARNA13
+MIR17HG	ceRNA or sponge	SNORD50A
+MIR17HG	ceRNA or sponge	RN7SK
+MIR17HG	ceRNA or sponge	MYC
+MIR17HG	expression association	MALAT1
+MIR17HG	expression association	MIR21
+MIR17HG	expression association	TUG1
+MIR17HG	expression association	TP73-AS1
+MIR17HG	expression association	SCARNA13
+MIR17HG	expression association	SNORD50A
+MIR17HG	expression association	RN7SK
+MIR17HG	expression association	MYC
+MIR17HG	epigenetic regulation	MALAT1
+MIR17HG	epigenetic regulation	MIR21
+MIR17HG	epigenetic regulation	TUG1
+MIR17HG	epigenetic regulation	TP73-AS1
+MIR17HG	epigenetic regulation	SCARNA13
+MIR17HG	epigenetic regulation	SNORD50A
+MIR17HG	epigenetic regulation	RN7SK
+MIR17HG	epigenetic regulation	MYC
+MIR210HG	interact with mRNA	MALAT1
+MIR210HG	interact with mRNA	MIR21
+MIR210HG	interact with mRNA	TUG1
+MIR210HG	interact with mRNA	TP73-AS1
+MIR210HG	interact with mRNA	SCARNA13
+MIR210HG	interact with mRNA	SNORD50A
+MIR210HG	interact with mRNA	RN7SK
+MIR210HG	interact with mRNA	MYC
+MIR210HG	transcriptional regulation	MALAT1
+MIR210HG	transcriptional regulation	MIR21
+MIR210HG	transcriptional regulation	TUG1
+MIR210HG	transcriptional regulation	TP73-AS1
+MIR210HG	transcriptional regulation	SCARNA13
+MIR210HG	transcriptional regulation	SNORD50A
+MIR210HG	transcriptional regulation	RN7SK
+MIR210HG	transcriptional regulation	MYC
+MIR210HG	interact with protein	MALAT1
+MIR210HG	interact with protein	MIR21
+MIR210HG	interact with protein	TUG1
+MIR210HG	interact with protein	TP73-AS1
+MIR210HG	interact with protein	SCARNA13
+MIR210HG	interact with protein	SNORD50A
+MIR210HG	interact with protein	RN7SK
+MIR210HG	interact with protein	MYC
+MIR210HG	ceRNA or sponge	MALAT1
+MIR210HG	ceRNA or sponge	MIR21
+MIR210HG	ceRNA or sponge	TUG1
+MIR210HG	ceRNA or sponge	TP73-AS1
+MIR210HG	ceRNA or sponge	SCARNA13
+MIR210HG	ceRNA or sponge	SNORD50A
+MIR210HG	ceRNA or sponge	RN7SK
+MIR210HG	ceRNA or sponge	MYC
+MIR210HG	expression association	MALAT1
+MIR210HG	expression association	MIR21
+MIR210HG	expression association	TUG1
+MIR210HG	expression association	TP73-AS1
+MIR210HG	expression association	SCARNA13
+MIR210HG	expression association	SNORD50A
+MIR210HG	expression association	RN7SK
+MIR210HG	expression association	MYC
+MIR210HG	epigenetic regulation	MALAT1
+MIR210HG	epigenetic regulation	MIR21
+MIR210HG	epigenetic regulation	TUG1
+MIR210HG	epigenetic regulation	TP73-AS1
+MIR210HG	epigenetic regulation	SCARNA13
+MIR210HG	epigenetic regulation	SNORD50A
+MIR210HG	epigenetic regulation	RN7SK
+MIR210HG	epigenetic regulation	MYC
+ZNF407-AS1	interact with mRNA	MALAT1
+ZNF407-AS1	interact with mRNA	MIR21
+ZNF407-AS1	interact with mRNA	TUG1
+ZNF407-AS1	interact with mRNA	TP73-AS1
+ZNF407-AS1	interact with mRNA	SCARNA13
+ZNF407-AS1	interact with mRNA	SNORD50A
+ZNF407-AS1	interact with mRNA	RN7SK
+ZNF407-AS1	interact with mRNA	MYC
+ZNF407-AS1	transcriptional regulation	MALAT1
+ZNF407-AS1	transcriptional regulation	MIR21
+ZNF407-AS1	transcriptional regulation	TUG1
+ZNF407-AS1	transcriptional regulation	TP73-AS1
+ZNF407-AS1	transcriptional regulation	SCARNA13
+ZNF407-AS1	transcriptional regulation	SNORD50A
+ZNF407-AS1	transcriptional regulation	RN7SK
+ZNF407-AS1	transcriptional regulation	MYC
+ZNF407-AS1	interact with protein	MALAT1
+ZNF407-AS1	interact with protein	MIR21
+ZNF407-AS1	interact with protein	TUG1
+ZNF407-AS1	interact with protein	TP73-AS1
+ZNF407-AS1	interact with protein	SCARNA13
+ZNF407-AS1	interact with protein	SNORD50A
+ZNF407-AS1	interact with protein	RN7SK
+ZNF407-AS1	interact with protein	MYC
+ZNF407-AS1	ceRNA or sponge	MALAT1
+ZNF407-AS1	ceRNA or sponge	MIR21
+ZNF407-AS1	ceRNA or sponge	TUG1
+ZNF407-AS1	ceRNA or sponge	TP73-AS1
+ZNF407-AS1	ceRNA or sponge	SCARNA13
+ZNF407-AS1	ceRNA or sponge	SNORD50A
+ZNF407-AS1	ceRNA or sponge	RN7SK
+ZNF407-AS1	ceRNA or sponge	MYC
+ZNF407-AS1	expression association	MALAT1
+ZNF407-AS1	expression association	MIR21
+ZNF407-AS1	expression association	TUG1
+ZNF407-AS1	expression association	TP73-AS1
+ZNF407-AS1	expression association	SCARNA13
+ZNF407-AS1	expression association	SNORD50A
+ZNF407-AS1	expression association	RN7SK
+ZNF407-AS1	expression association	MYC
+ZNF407-AS1	epigenetic regulation	MALAT1
+ZNF407-AS1	epigenetic regulation	MIR21
+ZNF407-AS1	epigenetic regulation	TUG1
+ZNF407-AS1	epigenetic regulation	TP73-AS1
+ZNF407-AS1	epigenetic regulation	SCARNA13
+ZNF407-AS1	epigenetic regulation	SNORD50A
+ZNF407-AS1	epigenetic regulation	RN7SK
+ZNF407-AS1	epigenetic regulation	MYC
+SOD2-OT1	interact with mRNA	MALAT1
+SOD2-OT1	interact with mRNA	MIR21
+SOD2-OT1	interact with mRNA	TUG1
+SOD2-OT1	interact with mRNA	TP73-AS1
+SOD2-OT1	interact with mRNA	SCARNA13
+SOD2-OT1	interact with mRNA	SNORD50A
+SOD2-OT1	interact with mRNA	RN7SK
+SOD2-OT1	interact with mRNA	MYC
+SOD2-OT1	transcriptional regulation	MALAT1
+SOD2-OT1	transcriptional regulation	MIR21
+SOD2-OT1	transcriptional regulation	TUG1
+SOD2-OT1	transcriptional regulation	TP73-AS1
+SOD2-OT1	transcriptional regulation	SCARNA13
+SOD2-OT1	transcriptional regulation	SNORD50A
+SOD2-OT1	transcriptional regulation	RN7SK
+SOD2-OT1	transcriptional regulation	MYC
+SOD2-OT1	interact with protein	MALAT1
+SOD2-OT1	interact with protein	MIR21
+SOD2-OT1	interact with protein	TUG1
+SOD2-OT1	interact with protein	TP73-AS1
+SOD2-OT1	interact with protein	SCARNA13
+SOD2-OT1	interact with protein	SNORD50A
+SOD2-OT1	interact with protein	RN7SK
+SOD2-OT1	interact with protein	MYC
+SOD2-OT1	ceRNA or sponge	MALAT1
+SOD2-OT1	ceRNA or sponge	MIR21
+SOD2-OT1	ceRNA or sponge	TUG1
+SOD2-OT1	ceRNA or sponge	TP73-AS1
+SOD2-OT1	ceRNA or sponge	SCARNA13
+SOD2-OT1	ceRNA or sponge	SNORD50A
+SOD2-OT1	ceRNA or sponge	RN7SK
+SOD2-OT1	ceRNA or sponge	MYC
+SOD2-OT1	expression association	MALAT1
+SOD2-OT1	expression association	MIR21
+SOD2-OT1	expression association	TUG1
+SOD2-OT1	expression association	TP73-AS1
+SOD2-OT1	expression association	SCARNA13
+SOD2-OT1	expression association	SNORD50A
+SOD2-OT1	expression association	RN7SK
+SOD2-OT1	expression association	MYC
+SOD2-OT1	epigenetic regulation	MALAT1
+SOD2-OT1	epigenetic regulation	MIR21
+SOD2-OT1	epigenetic regulation	TUG1
+SOD2-OT1	epigenetic regulation	TP73-AS1
+SOD2-OT1	epigenetic regulation	SCARNA13
+SOD2-OT1	epigenetic regulation	SNORD50A
+SOD2-OT1	epigenetic regulation	RN7SK
+SOD2-OT1	epigenetic regulation	MYC
+ILF3-DT	interact with mRNA	MALAT1
+ILF3-DT	interact with mRNA	MIR21
+ILF3-DT	interact with mRNA	TUG1
+ILF3-DT	interact with mRNA	TP73-AS1
+ILF3-DT	interact with mRNA	SCARNA13
+ILF3-DT	interact with mRNA	SNORD50A
+ILF3-DT	interact with mRNA	RN7SK
+ILF3-DT	interact with mRNA	MYC
+ILF3-DT	transcriptional regulation	MALAT1
+ILF3-DT	transcriptional regulation	MIR21
+ILF3-DT	transcriptional regulation	TUG1
+ILF3-DT	transcriptional regulation	TP73-AS1
+ILF3-DT	transcriptional regulation	SCARNA13
+ILF3-DT	transcriptional regulation	SNORD50A
+ILF3-DT	transcriptional regulation	RN7SK
+ILF3-DT	transcriptional regulation	MYC
+ILF3-DT	interact with protein	MALAT1
+ILF3-DT	interact with protein	MIR21
+ILF3-DT	interact with protein	TUG1
+ILF3-DT	interact with protein	TP73-AS1
+ILF3-DT	interact with protein	SCARNA13
+ILF3-DT	interact with protein	SNORD50A
+ILF3-DT	interact with protein	RN7SK
+ILF3-DT	interact with protein	MYC
+ILF3-DT	ceRNA or sponge	MALAT1
+ILF3-DT	ceRNA or sponge	MIR21
+ILF3-DT	ceRNA or sponge	TUG1
+ILF3-DT	ceRNA or sponge	TP73-AS1
+ILF3-DT	ceRNA or sponge	SCARNA13
+ILF3-DT	ceRNA or sponge	SNORD50A
+ILF3-DT	ceRNA or sponge	RN7SK
+ILF3-DT	ceRNA or sponge	MYC
+ILF3-DT	expression association	MALAT1
+ILF3-DT	expression association	MIR21
+ILF3-DT	expression association	TUG1
+ILF3-DT	expression association	TP73-AS1
+ILF3-DT	expression association	SCARNA13
+ILF3-DT	expression association	SNORD50A
+ILF3-DT	expression association	RN7SK
+ILF3-DT	expression association	MYC
+ILF3-DT	epigenetic regulation	MALAT1
+ILF3-DT	epigenetic regulation	MIR21
+ILF3-DT	epigenetic regulation	TUG1
+ILF3-DT	epigenetic regulation	TP73-AS1
+ILF3-DT	epigenetic regulation	SCARNA13
+ILF3-DT	epigenetic regulation	SNORD50A
+ILF3-DT	epigenetic regulation	RN7SK
+ILF3-DT	epigenetic regulation	MYC
+MIR34AHG	interact with mRNA	MALAT1
+MIR34AHG	interact with mRNA	MIR21
+MIR34AHG	interact with mRNA	TUG1
+MIR34AHG	interact with mRNA	TP73-AS1
+MIR34AHG	interact with mRNA	SCARNA13
+MIR34AHG	interact with mRNA	SNORD50A
+MIR34AHG	interact with mRNA	RN7SK
+MIR34AHG	interact with mRNA	MYC
+MIR34AHG	transcriptional regulation	MALAT1
+MIR34AHG	transcriptional regulation	MIR21
+MIR34AHG	transcriptional regulation	TUG1
+MIR34AHG	transcriptional regulation	TP73-AS1
+MIR34AHG	transcriptional regulation	SCARNA13
+MIR34AHG	transcriptional regulation	SNORD50A
+MIR34AHG	transcriptional regulation	RN7SK
+MIR34AHG	transcriptional regulation	MYC
+MIR34AHG	interact with protein	MALAT1
+MIR34AHG	interact with protein	MIR21
+MIR34AHG	interact with protein	TUG1
+MIR34AHG	interact with protein	TP73-AS1
+MIR34AHG	interact with protein	SCARNA13
+MIR34AHG	interact with protein	SNORD50A
+MIR34AHG	interact with protein	RN7SK
+MIR34AHG	interact with protein	MYC
+MIR34AHG	ceRNA or sponge	MALAT1
+MIR34AHG	ceRNA or sponge	MIR21
+MIR34AHG	ceRNA or sponge	TUG1
+MIR34AHG	ceRNA or sponge	TP73-AS1
+MIR34AHG	ceRNA or sponge	SCARNA13
+MIR34AHG	ceRNA or sponge	SNORD50A
+MIR34AHG	ceRNA or sponge	RN7SK
+MIR34AHG	ceRNA or sponge	MYC
+MIR34AHG	expression association	MALAT1
+MIR34AHG	expression association	MIR21
+MIR34AHG	expression association	TUG1
+MIR34AHG	expression association	TP73-AS1
+MIR34AHG	expression association	SCARNA13
+MIR34AHG	expression association	SNORD50A
+MIR34AHG	expression association	RN7SK
+MIR34AHG	expression association	MYC
+MIR34AHG	epigenetic regulation	MALAT1
+MIR34AHG	epigenetic regulation	MIR21
+MIR34AHG	epigenetic regulation	TUG1
+MIR34AHG	epigenetic regulation	TP73-AS1
+MIR34AHG	epigenetic regulation	SCARNA13
+MIR34AHG	epigenetic regulation	SNORD50A
+MIR34AHG	epigenetic regulation	RN7SK
+MIR34AHG	epigenetic regulation	MYC
+CCAT1	interact with mRNA	MALAT1
+CCAT1	interact with mRNA	MIR21
+CCAT1	interact with mRNA	TUG1
+CCAT1	interact with mRNA	TP73-AS1
+CCAT1	interact with mRNA	SCARNA13
+CCAT1	interact with mRNA	SNORD50A
+CCAT1	interact with mRNA	RN7SK
+CCAT1	interact with mRNA	MYC
+CCAT1	transcriptional regulation	MALAT1
+CCAT1	transcriptional regulation	MIR21
+CCAT1	transcriptional regulation	TUG1
+CCAT1	transcriptional regulation	TP73-AS1
+CCAT1	transcriptional regulation	SCARNA13
+CCAT1	transcriptional regulation	SNORD50A
+CCAT1	transcriptional regulation	RN7SK
+CCAT1	transcriptional regulation	MYC
+CCAT1	interact with protein	MALAT1
+CCAT1	interact with protein	MIR21
+CCAT1	interact with protein	TUG1
+CCAT1	interact with protein	TP73-AS1
+CCAT1	interact with protein	SCARNA13
+CCAT1	interact with protein	SNORD50A
+CCAT1	interact with protein	RN7SK
+CCAT1	interact with protein	MYC
+CCAT1	ceRNA or sponge	MALAT1
+CCAT1	ceRNA or sponge	MIR21
+CCAT1	ceRNA or sponge	TUG1
+CCAT1	ceRNA or sponge	TP73-AS1
+CCAT1	ceRNA or sponge	SCARNA13
+CCAT1	ceRNA or sponge	SNORD50A
+CCAT1	ceRNA or sponge	RN7SK
+CCAT1	ceRNA or sponge	MYC
+CCAT1	expression association	MALAT1
+CCAT1	expression association	MIR21
+CCAT1	expression association	TUG1
+CCAT1	expression association	TP73-AS1
+CCAT1	expression association	SCARNA13
+CCAT1	expression association	SNORD50A
+CCAT1	expression association	RN7SK
+CCAT1	expression association	MYC
+CCAT1	epigenetic regulation	MALAT1
+CCAT1	epigenetic regulation	MIR21
+CCAT1	epigenetic regulation	TUG1
+CCAT1	epigenetic regulation	TP73-AS1
+CCAT1	epigenetic regulation	SCARNA13
+CCAT1	epigenetic regulation	SNORD50A
+CCAT1	epigenetic regulation	RN7SK
+CCAT1	epigenetic regulation	MYC
+NEAT1	interact with mRNA	MALAT1
+NEAT1	interact with mRNA	MIR21
+NEAT1	interact with mRNA	TUG1
+NEAT1	interact with mRNA	TP73-AS1
+NEAT1	interact with mRNA	SCARNA13
+NEAT1	interact with mRNA	SNORD50A
+NEAT1	interact with mRNA	RN7SK
+NEAT1	interact with mRNA	MYC
+NEAT1	transcriptional regulation	MALAT1
+NEAT1	transcriptional regulation	MIR21
+NEAT1	transcriptional regulation	TUG1
+NEAT1	transcriptional regulation	TP73-AS1
+NEAT1	transcriptional regulation	SCARNA13
+NEAT1	transcriptional regulation	SNORD50A
+NEAT1	transcriptional regulation	RN7SK
+NEAT1	transcriptional regulation	MYC
+NEAT1	interact with protein	MALAT1
+NEAT1	interact with protein	MIR21
+NEAT1	interact with protein	TUG1
+NEAT1	interact with protein	TP73-AS1
+NEAT1	interact with protein	SCARNA13
+NEAT1	interact with protein	SNORD50A
+NEAT1	interact with protein	RN7SK
+NEAT1	interact with protein	MYC
+NEAT1	ceRNA or sponge	MALAT1
+NEAT1	ceRNA or sponge	MIR21
+NEAT1	ceRNA or sponge	TUG1
+NEAT1	ceRNA or sponge	TP73-AS1
+NEAT1	ceRNA or sponge	SCARNA13
+NEAT1	ceRNA or sponge	SNORD50A
+NEAT1	ceRNA or sponge	RN7SK
+NEAT1	ceRNA or sponge	MYC
+NEAT1	expression association	MALAT1
+NEAT1	expression association	MIR21
+NEAT1	expression association	TUG1
+NEAT1	expression association	TP73-AS1
+NEAT1	expression association	SCARNA13
+NEAT1	expression association	SNORD50A
+NEAT1	expression association	RN7SK
+NEAT1	expression association	MYC
+NEAT1	epigenetic regulation	MALAT1
+NEAT1	epigenetic regulation	MIR21
+NEAT1	epigenetic regulation	TUG1
+NEAT1	epigenetic regulation	TP73-AS1
+NEAT1	epigenetic regulation	SCARNA13
+NEAT1	epigenetic regulation	SNORD50A
+NEAT1	epigenetic regulation	RN7SK
+NEAT1	epigenetic regulation	MYC
+TNK2-AS1	interact with mRNA	MALAT1
+TNK2-AS1	interact with mRNA	MIR21
+TNK2-AS1	interact with mRNA	TUG1
+TNK2-AS1	interact with mRNA	TP73-AS1
+TNK2-AS1	interact with mRNA	SCARNA13
+TNK2-AS1	interact with mRNA	SNORD50A
+TNK2-AS1	interact with mRNA	RN7SK
+TNK2-AS1	interact with mRNA	MYC
+TNK2-AS1	transcriptional regulation	MALAT1
+TNK2-AS1	transcriptional regulation	MIR21
+TNK2-AS1	transcriptional regulation	TUG1
+TNK2-AS1	transcriptional regulation	TP73-AS1
+TNK2-AS1	transcriptional regulation	SCARNA13
+TNK2-AS1	transcriptional regulation	SNORD50A
+TNK2-AS1	transcriptional regulation	RN7SK
+TNK2-AS1	transcriptional regulation	MYC
+TNK2-AS1	interact with protein	MALAT1
+TNK2-AS1	interact with protein	MIR21
+TNK2-AS1	interact with protein	TUG1
+TNK2-AS1	interact with protein	TP73-AS1
+TNK2-AS1	interact with protein	SCARNA13
+TNK2-AS1	interact with protein	SNORD50A
+TNK2-AS1	interact with protein	RN7SK
+TNK2-AS1	interact with protein	MYC
+TNK2-AS1	ceRNA or sponge	MALAT1
+TNK2-AS1	ceRNA or sponge	MIR21
+TNK2-AS1	ceRNA or sponge	TUG1
+TNK2-AS1	ceRNA or sponge	TP73-AS1
+TNK2-AS1	ceRNA or sponge	SCARNA13
+TNK2-AS1	ceRNA or sponge	SNORD50A
+TNK2-AS1	ceRNA or sponge	RN7SK
+TNK2-AS1	ceRNA or sponge	MYC
+TNK2-AS1	expression association	MALAT1
+TNK2-AS1	expression association	MIR21
+TNK2-AS1	expression association	TUG1
+TNK2-AS1	expression association	TP73-AS1
+TNK2-AS1	expression association	SCARNA13
+TNK2-AS1	expression association	SNORD50A
+TNK2-AS1	expression association	RN7SK
+TNK2-AS1	expression association	MYC
+TNK2-AS1	epigenetic regulation	MALAT1
+TNK2-AS1	epigenetic regulation	MIR21
+TNK2-AS1	epigenetic regulation	TUG1
+TNK2-AS1	epigenetic regulation	TP73-AS1
+TNK2-AS1	epigenetic regulation	SCARNA13
+TNK2-AS1	epigenetic regulation	SNORD50A
+TNK2-AS1	epigenetic regulation	RN7SK
+TNK2-AS1	epigenetic regulation	MYC

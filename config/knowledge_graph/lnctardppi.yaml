@@ -1,8 +1,8 @@
-output_dir: /root/nbfnet-gr/experiments
+output_dir: /lustre/groups/crna01/workspace/hui/nbfnet-gr/experiments
 
 dataset:
   class: biomedical
-  path: /home/nbfnet-gr/data/gold/lnctardppi
+  path: /lustre/groups/crna01/workspace/hui/nbfnet-gr/data/gold/lnctardppi
   include_factgraph: True
   
 task:
