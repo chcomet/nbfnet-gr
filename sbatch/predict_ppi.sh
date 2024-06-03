@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=nbfnet-lnctardppi
+#SBATCH --job-name=nbfnet-lnctardppi-prediction
 #SBATCH --output=slurm_out/job_out_%j.txt
 #SBATCH --error=slurm_out/job_err_%j.txt
 #SBATCH --time=60:00:00
@@ -7,7 +7,7 @@
 #SBATCH -c 4
 #SBATCH --qos=gpu_normal
 #SBATCH --gres=gpu:1
-#SBATCH --partition=main
+#SBATCH -p gpu_p
 
 # Load Conda environment
 CONDA_DIR=/home/icb/hui.cheng/miniconda3

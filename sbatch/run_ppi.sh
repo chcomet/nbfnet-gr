@@ -7,7 +7,7 @@
 #SBATCH -c 4
 #SBATCH --qos=gpu_normal
 #SBATCH --gres=gpu:1
-#SBATCH --partition=main
+#SBATCH -p gpu_p
 
 # Load Conda environment
 CONDA_DIR=/home/icb/hui.cheng/miniconda3
