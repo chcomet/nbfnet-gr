@@ -2,7 +2,7 @@ output_dir: /lustre/groups/crna01/workspace/hui/nbfnet-gr/experiments
 
 dataset:
   class: biomedical
-  path: /lustre/groups/crna01/workspace/hui/nbfnet-gr/data/gold/lnctardppi
+  path: /lustre/groups/crna01/workspace/hui/nbfnet-gr/data/gold/lnctardppi_pred
   include_factgraph: True
 
 task:
@@ -35,7 +35,7 @@ optimizer:
 
 engine:
   gpus: {{ gpus }}
-  batch_size: 4
+  batch_size: 32
 
 checkpoint: {{ checkpoint }}
 
